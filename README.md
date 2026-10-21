@@ -11,6 +11,7 @@ A list of iPhone apps and settings that hide **Instagram Reels, YouTube Shorts a
 - [Whole-app blockers (block DMs too)](#whole-app-blockers-block-dms-too)
 - [How to choose](#how-to-choose)
 - [Guides](#guides)
+- [Data (CSV)](#data)
 
 ## Built-in settings (no app needed)
 - **YouTube Shorts feed limit** — YouTube lets you set a daily limit for the Shorts feed (including 0). For adults the reminder can be dismissed, and it only applies inside the YouTube app.
@@ -65,6 +66,9 @@ Step-by-step write-ups (by the minulo developer; each covers the built-in option
 - [How to turn off YouTube Shorts on iPhone in 2026 (and why no app can fully remove them)](https://minulo.hashnode.dev/how-to-turn-off-youtube-shorts-on-iphone-in-2026-and-why-no-app-can-fully-remove-them)
 - [Keep Instagram DMs, lose Reels: 5 ways to do it on iPhone (2026, compared)](https://dev.to/ayumu_kitabayashi_8e0de96/keep-instagram-dms-lose-reels-5-ways-to-do-it-on-iphone-2026-compared-17dh)
 - [Using TikTok just for messages on iPhone: 5 options and their catches](https://minulo.substack.com/p/using-tiktok-just-for-messages-on)
+
+## Data
+The comparison above as a CSV (one row per app; approach, networks, price, whether DMs keep working, US ratings count and the date checked): [data/ios-reels-shorts-blockers.csv](data/ios-reels-shorts-blockers.csv). Ratings are a snapshot and change daily; corrections welcome.
 
 ## License
 [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) — use freely.
