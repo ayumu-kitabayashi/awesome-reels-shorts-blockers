@@ -66,6 +66,7 @@ Step-by-step write-ups (by the minulo developer; each covers the built-in option
 - [Instagram Screen Time limit not working on iPhone? The 5 settings behind it](https://dev.to/ayumu_kitabayashi_8e0de96/instagram-screen-time-limit-not-working-on-iphone-the-5-settings-behind-it-2026-1bf7)
 - [How to turn off YouTube Shorts on iPhone in 2026 (and why no app can fully remove them)](https://minulo.hashnode.dev/how-to-turn-off-youtube-shorts-on-iphone-in-2026-and-why-no-app-can-fully-remove-them)
 - [Keep Instagram DMs, lose Reels: 5 ways to do it on iPhone (2026, compared)](https://dev.to/ayumu_kitabayashi_8e0de96/keep-instagram-dms-lose-reels-5-ways-to-do-it-on-iphone-2026-compared-17dh)
+- [5 timing bugs I hit building timed blocks with Screen Time's DeviceActivity (iOS)](https://dev.to/ayumu_kitabayashi_8e0de96/5-timing-bugs-i-hit-building-timed-blocks-with-screen-times-deviceactivity-ios-5dnc) (for developers)
 - [Using TikTok just for messages on iPhone: 5 options and their catches](https://minulo.substack.com/p/using-tiktok-just-for-messages-on)
 
 ## Guides in other languages
