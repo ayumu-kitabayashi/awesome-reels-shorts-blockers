@@ -11,6 +11,7 @@ A list of iPhone apps and settings that hide **Instagram Reels, YouTube Shorts a
 - [Whole-app blockers (block DMs too)](#whole-app-blockers-block-dms-too)
 - [How to choose](#how-to-choose)
 - [Guides](#guides)
+- [Guides in other languages](#guides-in-other-languages)
 - [Data (CSV)](#data)
 
 ## Built-in settings (no app needed)
@@ -66,6 +67,26 @@ Step-by-step write-ups (by the minulo developer; each covers the built-in option
 - [How to turn off YouTube Shorts on iPhone in 2026 (and why no app can fully remove them)](https://minulo.hashnode.dev/how-to-turn-off-youtube-shorts-on-iphone-in-2026-and-why-no-app-can-fully-remove-them)
 - [Keep Instagram DMs, lose Reels: 5 ways to do it on iPhone (2026, compared)](https://dev.to/ayumu_kitabayashi_8e0de96/keep-instagram-dms-lose-reels-5-ways-to-do-it-on-iphone-2026-compared-17dh)
 - [Using TikTok just for messages on iPhone: 5 options and their catches](https://minulo.substack.com/p/using-tiktok-just-for-messages-on)
+
+## Guides in other languages
+Written by the minulo developer; each covers the built-in options first.
+
+**日本語**
+- [インスタの DM は残してリールだけ消す：iPhone でできる5つの方法を比べた（2026）](https://zenn.dev/minulo/articles/a66d0db9b53459)
+- [YouTube のショートだけ止めて、ふつうの動画は見たい：iPhone でできる方法を全部並べた（2026）](https://zenn.dev/minulo/articles/f9990e19d36744)
+- [スクリーンタイムでインスタを制限したのに開けてしまう5つの原因（iOS 26／27）](https://minulo.hatenablog.com/entry/2026/10/21/123232)
+- [テスト2週間前から、インスタのリールだけを断つ（クラスの連絡は残す）](https://note.com/minulo/n/n9204c425bb03)
+- [WKWebView の SNS からリールだけ消す ― CSS が黙って効かなくなるのを数えて気づく話](https://zenn.dev/minulo/articles/cb2aee59efbf0a)
+- [Screen Time API（DeviceActivity）で決めた時刻に外れるブロックを作ったら時刻で5回つまずいた話](https://qiita.com/feedminus47/items/7f206f820b4163b6356c)
+
+**한국어**
+- [인스타 DM은 남기고 릴스만 없애는 법: 아이폰에서 쓸 수 있는 5가지 방법 비교 (2026)](https://velog.io/@barcaak1011/인스타-DM은-남기고-릴스만-없애는-법-아이폰에서-쓸-수-있는-5가지-방법-비교-2026)
+- [공부할 때 유튜브 강의는 보고 쇼츠만 끄는 법 (아이폰, 2026)](https://velog.io/@barcaak1011/공부할-때-유튜브-강의는-보고-쇼츠만-끄는-법-아이폰-2026)
+
+**Français / Español / Português**
+- [Garder Instagram pour les messages, sans les Reels : les options sur iPhone (2026)](https://medium.com/@feedminus47/garder-instagram-pour-les-messages-sans-les-reels-les-options-sur-iphone-2026-e93d51214f90)
+- [Instagram solo para mensajes en el iPhone: el grupo de la clase sin los Reels (2026)](https://medium.com/@feedminus47/instagram-solo-para-mensajes-en-el-iphone-el-grupo-de-la-clase-sin-los-reels-2026-27b47d3ea5e2)
+- [Como estudar sem cair nos Reels e Shorts, sem sair do grupo da turma (iPhone, 2026)](https://medium.com/@feedminus47/como-estudar-sem-cair-nos-reels-e-shorts-sem-sair-do-grupo-da-turma-iphone-2026-926073dca5a8)
 
 ## Data
 The comparison above as a CSV (one row per app; approach, networks, price, whether DMs keep working, US ratings count and the date checked): [data/ios-reels-shorts-blockers.csv](data/ios-reels-shorts-blockers.csv). Ratings are a snapshot and change daily; corrections welcome.
