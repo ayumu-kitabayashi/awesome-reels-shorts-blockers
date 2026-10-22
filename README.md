@@ -93,6 +93,10 @@ Written by the minulo developer; each covers the built-in options first.
 - [iOS에서 '릴스만' 숨기는 앱을 만들 때 고를 수 있는 3가지 방법](https://velog.io/@barcaak1011/iOS에서-릴스만-숨기는-앱을-만들-때-고를-수-있는-3가지-방법-콘텐츠-차단기Safari-확장WKWebView) (개발자용)
 - [틱톡을 DM(메시지)용으로만 쓰는 법 (아이폰, 2026)](https://velog.io/@barcaak1011/틱톡을-DM메시지용으로만-쓰는-법-아이폰-2026)
 
+**Tiếng Việt**
+- [Mở app của mình từ màn hình chặn Screen Time trên iOS: ShieldAction không mở được URL, nên đi qua thông báo](https://viblo.asia/p/mo-app-cua-minh-tu-man-hinh-chan-screen-time-tren-ios-shieldaction-khong-mo-duoc-url-nen-di-qua-thong-bao-ZjJYWRrpVOE) (cho lập trình viên)
+- [Ba cách làm app chặn Reels trên iOS: content blocker, tiện ích Safari hay WKWebView](https://viblo.asia/p/ba-cach-lam-app-chan-reels-tren-ios-content-blocker-tien-ich-safari-hay-wkwebview-kNLr3ezoVgA) (cho lập trình viên)
+
 **Français / Español / Português / Deutsch**
 - [Garder Instagram pour les messages, sans les Reels : les options sur iPhone (2026)](https://medium.com/@feedminus47/garder-instagram-pour-les-messages-sans-les-reels-les-options-sur-iphone-2026-e93d51214f90)
 - [Instagram solo para mensajes en el iPhone: el grupo de la clase sin los Reels (2026)](https://medium.com/@feedminus47/instagram-solo-para-mensajes-en-el-iphone-el-grupo-de-la-clase-sin-los-reels-2026-27b47d3ea5e2)
