@@ -90,6 +90,7 @@ Written by the minulo developer; each covers the built-in options first.
 **한국어**
 - [인스타 DM은 남기고 릴스만 없애는 법: 아이폰에서 쓸 수 있는 5가지 방법 비교 (2026)](https://velog.io/@barcaak1011/인스타-DM은-남기고-릴스만-없애는-법-아이폰에서-쓸-수-있는-5가지-방법-비교-2026)
 - [공부할 때 유튜브 강의는 보고 쇼츠만 끄는 법 (아이폰, 2026)](https://velog.io/@barcaak1011/공부할-때-유튜브-강의는-보고-쇼츠만-끄는-법-아이폰-2026)
+- [iOS에서 '릴스만' 숨기는 앱을 만들 때 고를 수 있는 3가지 방법](https://velog.io/@barcaak1011/iOS에서-릴스만-숨기는-앱을-만들-때-고를-수-있는-3가지-방법-콘텐츠-차단기Safari-확장WKWebView) (개발자용)
 - [틱톡을 DM(메시지)용으로만 쓰는 법 (아이폰, 2026)](https://velog.io/@barcaak1011/틱톡을-DM메시지용으로만-쓰는-법-아이폰-2026)
 
 **Français / Español / Português / Deutsch**
