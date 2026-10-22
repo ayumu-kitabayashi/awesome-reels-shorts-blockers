@@ -68,6 +68,8 @@ Step-by-step write-ups (by the minulo developer; each covers the built-in option
 - [Keep Instagram DMs, lose Reels: 5 ways to do it on iPhone (2026, compared)](https://dev.to/ayumu_kitabayashi_8e0de96/keep-instagram-dms-lose-reels-5-ways-to-do-it-on-iphone-2026-compared-17dh)
 - [5 timing bugs I hit building timed blocks with Screen Time's DeviceActivity (iOS)](https://dev.to/ayumu_kitabayashi_8e0de96/5-timing-bugs-i-hit-building-timed-blocks-with-screen-times-deviceactivity-ios-5dnc) (for developers)
 - [Using TikTok just for messages on iPhone: 5 options and their catches](https://minulo.substack.com/p/using-tiktok-just-for-messages-on)
+- [Three ways to build a Reels blocker on iOS: content blocker, Safari extension, or WKWebView](https://minulo.hashnode.dev/three-ways-to-build-a-reels-blocker-on-ios-content-blocker-safari-extension-or-wkwebview) (for developers)
+- [How I ship an iPhone app and its website in 13 languages as a solo developer](https://dev.to/ayumu_kitabayashi_8e0de96/how-i-ship-an-iphone-app-and-its-website-in-13-languages-as-a-solo-developer-10gk) (for developers)
 
 ## Guides in other languages
 Written by the minulo developer; each covers the built-in options first.
@@ -79,15 +81,18 @@ Written by the minulo developer; each covers the built-in options first.
 - [テスト2週間前から、インスタのリールだけを断つ（クラスの連絡は残す）](https://note.com/minulo/n/n9204c425bb03)
 - [WKWebView の SNS からリールだけ消す ― CSS が黙って効かなくなるのを数えて気づく話](https://zenn.dev/minulo/articles/cb2aee59efbf0a)
 - [Screen Time API（DeviceActivity）で決めた時刻に外れるブロックを作ったら時刻で5回つまずいた話](https://qiita.com/feedminus47/items/7f206f820b4163b6356c)
+- [日本語で先に書くと「1 days」が出る：1人で13言語に対応したアプリの穴と検査](https://qiita.com/feedminus47/items/b50d7ef8b71366c93dec)
 
 **한국어**
 - [인스타 DM은 남기고 릴스만 없애는 법: 아이폰에서 쓸 수 있는 5가지 방법 비교 (2026)](https://velog.io/@barcaak1011/인스타-DM은-남기고-릴스만-없애는-법-아이폰에서-쓸-수-있는-5가지-방법-비교-2026)
 - [공부할 때 유튜브 강의는 보고 쇼츠만 끄는 법 (아이폰, 2026)](https://velog.io/@barcaak1011/공부할-때-유튜브-강의는-보고-쇼츠만-끄는-법-아이폰-2026)
+- [틱톡을 DM(메시지)용으로만 쓰는 법 (아이폰, 2026)](https://velog.io/@barcaak1011/틱톡을-DM메시지용으로만-쓰는-법-아이폰-2026)
 
-**Français / Español / Português**
+**Français / Español / Português / Deutsch**
 - [Garder Instagram pour les messages, sans les Reels : les options sur iPhone (2026)](https://medium.com/@feedminus47/garder-instagram-pour-les-messages-sans-les-reels-les-options-sur-iphone-2026-e93d51214f90)
 - [Instagram solo para mensajes en el iPhone: el grupo de la clase sin los Reels (2026)](https://medium.com/@feedminus47/instagram-solo-para-mensajes-en-el-iphone-el-grupo-de-la-clase-sin-los-reels-2026-27b47d3ea5e2)
 - [Como estudar sem cair nos Reels e Shorts, sem sair do grupo da turma (iPhone, 2026)](https://medium.com/@feedminus47/como-estudar-sem-cair-nos-reels-e-shorts-sem-sair-do-grupo-da-turma-iphone-2026-926073dca5a8)
+- [Instagram nur für Nachrichten: Bevor du die App löschst, probier das (iPhone, 2026)](https://medium.com/@feedminus47/instagram-nur-f%C3%BCr-nachrichten-bevor-du-die-app-l%C3%B6schst-probier-das-iphone-2026-322f89d370d5)
 
 ## Data
 The comparison above as a CSV (one row per app; approach, networks, price, whether DMs keep working, US ratings count and the date checked): [data/ios-reels-shorts-blockers.csv](data/ios-reels-shorts-blockers.csv). Ratings are a snapshot and change daily; corrections welcome.
