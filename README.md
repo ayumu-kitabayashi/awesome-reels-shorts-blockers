@@ -100,6 +100,8 @@ Written by the minulo developer; each covers the built-in options first.
 - [Esconder os Reels no iPhone com Expo: três caminhos (content blocker, extensão do Safari ou WebView)](https://dev.to/ayumu_kitabayashi_8e0de96/esconder-os-reels-no-iphone-com-expo-tres-caminhos-content-blocker-extensao-do-safari-ou-h07) (para devs)
 - [Lo que la API de Tiempo en pantalla de iOS puede y no puede hacer, y las tres formas que quedan para esconder los Reels](https://dev.to/ayumu_kitabayashi_8e0de96/lo-que-la-api-de-tiempo-en-pantalla-de-ios-puede-y-no-puede-hacer-y-las-tres-formas-que-quedan-33h2) (para devs)
 - [Instagram nur für Nachrichten: Bevor du die App löschst, probier das (iPhone, 2026)](https://medium.com/@feedminus47/instagram-nur-f%C3%BCr-nachrichten-bevor-du-die-app-l%C3%B6schst-probier-das-iphone-2026-322f89d370d5)
+- [Aus dem Screen-Time-Sperrbildschirm die eigene App öffnen: ShieldAction kann es nicht, eine Mitteilung schon](https://dev.to/ayumu_kitabayashi_8e0de96/aus-dem-screen-time-sperrbildschirm-die-eigene-app-offnen-shieldaction-kann-es-nicht-eine-3o82) (für Entwickler)
+- [DeviceActivity sur iOS : un blocage qui se lève à l'heure prévue, et les cinq pièges d'horaire que j'ai rencontrés](https://dev.to/ayumu_kitabayashi_8e0de96/deviceactivity-sur-ios-un-blocage-qui-se-leve-a-lheure-prevue-et-les-cinq-pieges-dhoraire-que-5hb9) (pour les devs)
 
 ## Data
 The comparison above as a CSV (one row per app; approach, networks, price, whether DMs keep working, US ratings count and the date checked): [data/ios-reels-shorts-blockers.csv](data/ios-reels-shorts-blockers.csv). Ratings are a snapshot and change daily; corrections welcome.
