@@ -80,6 +80,7 @@ Written by the minulo developer; each covers the built-in options first.
 - [YouTube のショートだけ止めて、ふつうの動画は見たい：iPhone でできる方法を全部並べた（2026）](https://zenn.dev/minulo/articles/f9990e19d36744)
 - [スクリーンタイムでインスタを制限したのに開けてしまう5つの原因（iOS 26／27）](https://minulo.hatenablog.com/entry/2026/10/21/123232)
 - [テスト2週間前から、インスタのリールだけを断つ（クラスの連絡は残す）](https://note.com/minulo/n/n9204c425bb03)
+- [iOS で「リールだけ消す」はなぜ難しいか：3つの作り方を比べる](https://zenn.dev/minulo/articles/61f2fade3b78c5)
 - [WKWebView の SNS からリールだけ消す ― CSS が黙って効かなくなるのを数えて気づく話](https://zenn.dev/minulo/articles/cb2aee59efbf0a)
 - [Screen Time API（DeviceActivity）で決めた時刻に外れるブロックを作ったら時刻で5回つまずいた話](https://qiita.com/feedminus47/items/7f206f820b4163b6356c)
 - [リールを見てしまうのは夜20時から深夜1時：利用データから分かった一番危ない時間と対策](https://note.com/minulo/n/nd473fdf6bd09)
