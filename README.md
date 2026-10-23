@@ -4,6 +4,7 @@ A list of iPhone apps and settings that hide **Instagram Reels, YouTube Shorts a
 
 > **Disclosure:** this list is maintained by the developer of [minulo](https://minulo.app/en/), one of the apps below. Facts come only from each app's US App Store page or official website (checked October 2026). Ratings counts change daily. Corrections and additions are welcome via issues or pull requests.
 
+
 ## Contents
 - [Built-in settings (no app needed)](#built-in-settings-no-app-needed)
 - [Apps that open social networks with the feeds removed](#apps-that-open-social-networks-with-the-feeds-removed)
@@ -14,10 +15,12 @@ A list of iPhone apps and settings that hide **Instagram Reels, YouTube Shorts a
 - [Guides in other languages](#guides-in-other-languages)
 - [Data (CSV)](#data)
 
+
 ## Built-in settings (no app needed)
 - **YouTube Shorts feed limit** — YouTube lets you set a daily limit for the Shorts feed (including 0). For adults the reminder can be dismissed, and it only applies inside the YouTube app.
 - **Instagram "Following" feed** — switch the home feed to accounts you follow. The Reels tab and Explore stay.
 - **iPhone Screen Time** — limits or blocks a whole app. Your DMs and group chats are blocked along with the feed.
+
 
 ## Apps that open social networks with the feeds removed
 These open each network's website inside their own app and hide Reels, Shorts or For You. Some can also lock the official app with Screen Time so you don't fall back into it.
@@ -38,6 +41,11 @@ These open each network's website inside their own app and hide Reels, Shorts or
 - **[Konvo](https://apps.apple.com/us/app/id6794756261)** — Opens Instagram straight to the inbox; the feed, Reels and Explore never load. Networks: Instagram (messages only). Price: A paid subscription is required to use Instagram DMs in the app. Keeps DMs: Yes. US App Store ratings: 0. Other: Can shield the Instagram app; two short passes a day.
 - **[Scrollout](https://apps.apple.com/us/app/id6802054477)** — Hides Reels, Shorts, suggested content and ads on supported platforms. Networks: YouTube and others (full list not given). Price: Free to download. Keeps DMs: Yes. US App Store ratings: 0.
 - **[Reelmute](https://apps.apple.com/us/app/id6808963180)** — Opens networks inside the app and hides Reels, Shorts and For You before the page draws; Premium can lock the original apps. Networks: Instagram, YouTube, TikTok, Facebook, Reddit, X. Price: Hiding is free; Premium adds DMs-only, hiding suggested posts and app locking (3-day trial or lifetime). Keeps DMs: Yes. US App Store ratings: 0. Other: Widget, sleep mode, grayscale.
+- **[Noreel](https://apps.apple.com/us/app/id6760568462)** — Removes Reels while you browse your feed, check Stories, send DMs and search. Networks: Not listed ("social media"). Price: Free to use, no subscriptions. Keeps DMs: Yes. US App Store ratings: 8.
+- **[LockedIn](https://apps.apple.com/us/app/id6767055765)** — Permanently blocks Instagram Reels and YouTube Shorts, with optional switches for the Instagram home feed, Stories, Search and Explore, DM video playback, and YouTube home recommendations and subscriptions (the description does not say how it works). Networks: Instagram, YouTube. Price: Free to download. Keeps DMs: Yes. US App Store ratings: 1. Other: No accounts, analytics or tracking.
+- **[Dome](https://apps.apple.com/us/app/id6756055866)** — Removes Reels, Shorts and Explore pages while keeping the rest. Networks: Not listed. Price: Free, no paywalls or ads. Keeps DMs: Not stated. US App Store ratings: 1.
+- **[SocialRouter](https://apps.apple.com/us/app/id6758858307)** — Separate browser spaces for several social accounts; can hide Reels, the feed and Explore on Instagram and Shorts on YouTube. Networks: Instagram, YouTube and others. Price: Free to download. Keeps DMs: Not stated. US App Store ratings: 13. Other: Multiple accounts per network, per-account proxy.
+
 ## Safari extensions
 These hide feeds on instagram.com / youtube.com while you browse in Safari. The official apps are unchanged.
 
@@ -45,21 +53,29 @@ These hide feeds on instagram.com / youtube.com while you browse in Safari. The 
 - **[ScrollGuard](https://apps.apple.com/us/app/id6754183872)** — A Safari extension that hides feeds, Reels, Stories and Explore on social media websites. Networks: Social media websites in Safari. Price: Free with Premium features. Keeps DMs: Yes, per its website (scrollguard.app, checked 2026-10-17). US App Store ratings: 110. Other: Requires iOS 18.
 - **[Slowth](https://apps.apple.com/us/app/id6764140763)** — A Safari extension that hides Shorts, Reels and X’s Explore; in the YouTube and Instagram apps it can detect Shorts or Reels through screen recording and block the app. Networks: YouTube, Instagram, Facebook, X, TikTok websites in Safari. Price: Free to download. Keeps DMs: Not listed. US App Store ratings: 3. Other: Restrictions lock for 24 hours.
 - **[Nope](https://apps.apple.com/us/app/id6768192042)** — A Safari Web Extension for instagram.com and youtube.com. Networks: Instagram, YouTube. Price: Fully free: no subscriptions or in-app purchases. Keeps DMs: Yes. US App Store ratings: 2. Other: Chrome extension.
+- **[#blockit](https://apps.apple.com/us/app/id1492879257)** — A Safari extension that removes Shorts, Reels and endless feeds from popular websites and can block whole sites by URL. Networks: Popular websites in Safari. Price: Free to download with a 7-day free trial. Keeps DMs: Yes ("leaves everything else"). US App Store ratings: 168. Other: Maintained since 2020, no account.
+- **[No Reel For Instagram](https://apps.apple.com/us/app/id6752605548)** — A Safari extension for instagram.com that hides Reels navigation, Reels in Search and Explore, Stories, the For You tab and suggested accounts. Networks: Instagram. Price: $3.39. Keeps DMs: Yes. US App Store ratings: 0. Other: iPhone, iPad and Mac.
+- **[No Shorts: Blocker for YouTube](https://apps.apple.com/us/app/id6502996298)** — A Safari extension that hides the Shorts feed, previews and suggestions on youtube.com. Networks: YouTube. Price: $2.99 once. Keeps DMs: Not applicable. US App Store ratings: 15.
+- **[ShortformBlock](https://apps.apple.com/us/app/id6761337873)** — A free Safari extension that hides YouTube Shorts in the feed, search results and navigation. Networks: YouTube. Price: Free. Keeps DMs: Not applicable. US App Store ratings: 13.
+
 ## Whole-app blockers (block DMs too)
 Useful if you want to stop using an app entirely; they don't remove Reels while keeping messages.
 - **[Opal](https://apps.apple.com/us/app/id1497465230)** — blocks chosen apps on a schedule with Screen Time.
 - **[one sec](https://apps.apple.com/us/app/id1532875441)** — adds a breathing pause before an app opens.
 - **[ScreenZen](https://apps.apple.com/us/app/id1541027222)** — adds a wait before opening apps; supported by tips.
+- **[No Scroll](https://apps.apple.com/us/app/id6474079216)** — you choose a time limit before opening an app; when it runs out, the app is locked for 5 minutes.
+- **[DMOnly](https://apps.apple.com/us/app/id6773196876)** — keeps chosen social apps locked and lets you open them in 15-minute windows.
 
 ## How to choose
 - **Need Instagram only for DMs and group chats?** Look for a DMs-only / Messages Only mode (UNDOOMED, LoomWeb, Konvo, minulo, Reelmute, Stillfeed).
 - **Need TikTok or Snapchat too?** Check the networks column — not every app supports them.
 - **Keep opening the official app out of habit?** Pick an app that locks the official app with Screen Time (SocialLite, minulo, snowscroll, Reelmute, Konvo).
-- **Want everything free?** Nope is fully free (Safari only); several in-app browsers make basic hiding free.
+- **Want everything free?** Nope and ShortformBlock are free Safari extensions; Dome and Noreel say they are free; several in-app browsers make basic hiding free.
 
 More detail: [comparison table](https://minulo.app/en/alternatives.html) · [Can you remove Reels from the Instagram app?](https://minulo.app/en/remove-reels-from-instagram-app.html)
 
 Compared with a specific app: [ScreenZen alternatives](https://minulo.app/en/screenzen-alternatives.html) · [one sec alternatives](https://minulo.app/en/one-sec-alternatives.html) · [Opal alternatives](https://minulo.app/en/opal-alternatives.html)
+
 
 ## Guides
 Step-by-step write-ups (by the minulo developer; each covers the built-in options first):
@@ -71,6 +87,7 @@ Step-by-step write-ups (by the minulo developer; each covers the built-in option
 - [When people reach for Reels: what an app's first month of usage data shows (and what it can't)](https://minulo.substack.com/p/when-people-reach-for-reels-what)
 - [Three ways to build a Reels blocker on iOS: content blocker, Safari extension, or WKWebView](https://minulo.hashnode.dev/three-ways-to-build-a-reels-blocker-on-ios-content-blocker-safari-extension-or-wkwebview) (for developers)
 - [How I ship an iPhone app and its website in 13 languages as a solo developer](https://dev.to/ayumu_kitabayashi_8e0de96/how-i-ship-an-iphone-app-and-its-website-in-13-languages-as-a-solo-developer-10gk) (for developers)
+
 
 ## Guides in other languages
 Written by the minulo developer; each covers the built-in options first.
@@ -107,8 +124,10 @@ Written by the minulo developer; each covers the built-in options first.
 - [Aus dem Screen-Time-Sperrbildschirm die eigene App öffnen: ShieldAction kann es nicht, eine Mitteilung schon](https://dev.to/ayumu_kitabayashi_8e0de96/aus-dem-screen-time-sperrbildschirm-die-eigene-app-offnen-shieldaction-kann-es-nicht-eine-3o82) (für Entwickler)
 - [DeviceActivity sur iOS : un blocage qui se lève à l'heure prévue, et les cinq pièges d'horaire que j'ai rencontrés](https://dev.to/ayumu_kitabayashi_8e0de96/deviceactivity-sur-ios-un-blocage-qui-se-leve-a-lheure-prevue-et-les-cinq-pieges-dhoraire-que-5hb9) (pour les devs)
 
+
 ## Data
 The comparison above as a CSV (one row per app; approach, networks, price, whether DMs keep working, US ratings count and the date checked): [data/ios-reels-shorts-blockers.csv](data/ios-reels-shorts-blockers.csv). Ratings are a snapshot and change daily; corrections welcome.
+
 
 ## License
 [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) — use freely.
