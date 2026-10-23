@@ -17,8 +17,11 @@ A list of iPhone apps and settings that hide **Instagram Reels, YouTube Shorts a
 
 
 ## Built-in settings (no app needed)
-- **YouTube Shorts feed limit** — YouTube lets you set a daily limit for the Shorts feed (including 0). For adults the reminder can be dismissed, and it only applies inside the YouTube app.
+- **YouTube Shorts feed limit** — YouTube lets you set a daily limit for the Shorts feed (including 0). For adults the reminder can be dismissed, and it only applies inside the YouTube app. ([how-to](https://minulo.app/en/youtube-shorts-feed-limit.html))
 - **Instagram "Following" feed** — switch the home feed to accounts you follow. The Reels tab and Explore stay.
+- **Instagram "Snooze suggested posts"** — on a suggested post, tap ⋯ → Not interested → Snooze all suggested posts in feed for 30 days. It ends after 30 days and doesn't touch the Reels tab. ([how-to](https://minulo.app/en/hide-suggested-posts-instagram.html))
+- **Instagram "Reset suggested content"** — Settings → Content preferences → Reset suggested content clears what Instagram recommends in Explore, Reels and Feed. It can't be undone and the suggestions start learning again as you watch. ([how-to](https://minulo.app/en/reset-instagram-reels-recommendations.html))
+- **YouTube autoplay off** — turns off the next video playing by itself. Recommendations stay unless watch history is off and empty. ([how-to](https://minulo.app/en/turn-off-youtube-autoplay-recommendations.html))
 - **iPhone Screen Time** — limits or blocks a whole app. Your DMs and group chats are blocked along with the feed.
 
 
@@ -86,6 +89,9 @@ Step-by-step write-ups (by the minulo developer; each covers the built-in option
 - [Using TikTok just for messages on iPhone: 5 options and their catches](https://minulo.substack.com/p/using-tiktok-just-for-messages-on)
 - [When people reach for Reels: what an app's first month of usage data shows (and what it can't)](https://minulo.substack.com/p/when-people-reach-for-reels-what)
 - [Three ways to build a Reels blocker on iOS: content blocker, Safari extension, or WKWebView](https://minulo.hashnode.dev/three-ways-to-build-a-reels-blocker-on-ios-content-blocker-safari-extension-or-wkwebview) (for developers)
+- [What's actually free when you block Reels and Shorts on iPhone (2026)](https://minulo.substack.com/p/whats-actually-free-when-you-block)
+- [How to stop doomscrolling at night on iPhone: Downtime, Sleep Focus and keeping DMs](https://minulo.app/en/stop-doomscrolling-at-night.html)
+- [Is minulo safe? What it can and can't see](https://minulo.app/en/is-minulo-safe.html) (privacy labels of minulo, SocialLite and UNDOOMED side by side)
 - [Why you can't set a time limit on just Instagram Reels on iPhone (and what Screen Time's API can do)](https://dev.to/ayumu_kitabayashi_8e0de96/why-you-cant-set-a-time-limit-on-just-instagram-reels-on-iphone-and-what-screen-times-api-can-522)
 - [How I ship an iPhone app and its website in 13 languages as a solo developer](https://dev.to/ayumu_kitabayashi_8e0de96/how-i-ship-an-iphone-app-and-its-website-in-13-languages-as-a-solo-developer-10gk) (for developers)
 
