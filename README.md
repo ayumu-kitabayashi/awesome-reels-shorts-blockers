@@ -70,7 +70,7 @@ Useful if you want to stop using an app entirely; they don't remove Reels while 
 - **Need Instagram only for DMs and group chats?** Look for a DMs-only / Messages Only mode (UNDOOMED, LoomWeb, Konvo, minulo, Reelmute, Stillfeed).
 - **Need TikTok or Snapchat too?** Check the networks column — not every app supports them.
 - **Keep opening the official app out of habit?** Pick an app that locks the official app with Screen Time (SocialLite, minulo, snowscroll, Reelmute, Konvo).
-- **Want everything free?** Nope and ShortformBlock are free Safari extensions; Dome and Noreel say they are free; several in-app browsers make basic hiding free.
+- **Want everything free?** Nope and ShortformBlock are free Safari extensions; Dome and Noreel say they are free; several in-app browsers make basic hiding free. What is free in each one: [Free apps to block Reels and Shorts on iPhone](https://minulo.app/en/free-reels-blocker.html).
 
 More detail: [comparison table](https://minulo.app/en/alternatives.html) · [Can you remove Reels from the Instagram app?](https://minulo.app/en/remove-reels-from-instagram-app.html)
 
@@ -86,6 +86,7 @@ Step-by-step write-ups (by the minulo developer; each covers the built-in option
 - [Using TikTok just for messages on iPhone: 5 options and their catches](https://minulo.substack.com/p/using-tiktok-just-for-messages-on)
 - [When people reach for Reels: what an app's first month of usage data shows (and what it can't)](https://minulo.substack.com/p/when-people-reach-for-reels-what)
 - [Three ways to build a Reels blocker on iOS: content blocker, Safari extension, or WKWebView](https://minulo.hashnode.dev/three-ways-to-build-a-reels-blocker-on-ios-content-blocker-safari-extension-or-wkwebview) (for developers)
+- [Why you can't set a time limit on just Instagram Reels on iPhone (and what Screen Time's API can do)](https://dev.to/ayumu_kitabayashi_8e0de96/why-you-cant-set-a-time-limit-on-just-instagram-reels-on-iphone-and-what-screen-times-api-can-522)
 - [How I ship an iPhone app and its website in 13 languages as a solo developer](https://dev.to/ayumu_kitabayashi_8e0de96/how-i-ship-an-iphone-app-and-its-website-in-13-languages-as-a-solo-developer-10gk) (for developers)
 
 
