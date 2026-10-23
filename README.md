@@ -92,6 +92,11 @@ Step-by-step write-ups (by the minulo developer; each covers the built-in option
 - [What's actually free when you block Reels and Shorts on iPhone (2026)](https://minulo.substack.com/p/whats-actually-free-when-you-block)
 - [How to stop doomscrolling at night on iPhone: Downtime, Sleep Focus and keeping DMs](https://minulo.app/en/stop-doomscrolling-at-night.html)
 - [Is minulo safe? What it can and can't see](https://minulo.app/en/is-minulo-safe.html) (privacy labels of minulo, SocialLite and UNDOOMED side by side)
+- [How to block Instagram on iPhone (app and Safari), and what each method blocks](https://minulo.app/en/block-instagram-on-iphone.html)
+- [How to block TikTok on iPhone (app and website)](https://minulo.app/en/block-tiktok-on-iphone.html)
+- [How to hide the Explore page on Instagram](https://minulo.app/en/hide-instagram-explore.html) and [see only people you follow](https://minulo.app/en/instagram-following-feed-only.html)
+- [How to turn off Snapchat Spotlight and its notifications](https://minulo.app/en/turn-off-snapchat-spotlight.html)
+- [Brick alternatives for iPhone without the hardware](https://minulo.app/en/brick-alternative-iphone.html)
 - [Why you can't set a time limit on just Instagram Reels on iPhone (and what Screen Time's API can do)](https://dev.to/ayumu_kitabayashi_8e0de96/why-you-cant-set-a-time-limit-on-just-instagram-reels-on-iphone-and-what-screen-times-api-can-522)
 - [How I ship an iPhone app and its website in 13 languages as a solo developer](https://dev.to/ayumu_kitabayashi_8e0de96/how-i-ship-an-iphone-app-and-its-website-in-13-languages-as-a-solo-developer-10gk) (for developers)
 
