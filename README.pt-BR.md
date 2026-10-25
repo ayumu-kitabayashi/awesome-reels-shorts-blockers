@@ -155,6 +155,25 @@ Escritos pelo desenvolvedor do minulo; cada um começa pelas opções que já v�
 
 
 <a id="data"></a>
+### Uma pergunta, uma página (outubro de 2026)
+Páginas curtas do minulo.app que respondem a uma pergunta usando a ajuda oficial de cada plataforma como fonte.
+- [Como desativar a reprodução automática no Instagram e no Facebook](https://minulo.app/pt/instagram-autoplay-off.html)
+- [Reels continuam aparecendo depois de “Não tenho interesse”?](https://minulo.app/pt/not-interested-reels-still-showing.html)
+- [Reels do Instagram no iPad: o que dá para desativar](https://minulo.app/pt/instagram-reels-ipad.html)
+- [YouTube sem Shorts no iPad e no Mac](https://minulo.app/pt/youtube-shorts-ipad-mac.html)
+- [Como parar de ver Shorts do YouTube na cama (iPhone)](https://minulo.app/pt/stop-youtube-shorts-at-night.html)
+- [Histórico do YouTube desativado: o que acontece com o Início](https://minulo.app/pt/youtube-history-off-home-feed.html)
+- [Como redefinir as recomendações do YouTube (iPhone)](https://minulo.app/pt/youtube-reset-recommendations.html)
+- [Como usar o YouTube só com as inscrições (iPhone)](https://minulo.app/pt/youtube-subscriptions-only.html)
+- [Como usar o Snapchat só para chat e Histórias](https://minulo.app/pt/snapchat-stories-only.html)
+- [Dá para desativar os Reels no Facebook? (iPhone)](https://minulo.app/pt/facebook-reels-off.html)
+- [Dá para desativar o feed de vídeos do LinkedIn no iPhone?](https://minulo.app/pt/linkedin-video-feed-off.html)
+- [Como ocultar atualizações de status no WhatsApp (iPhone)](https://minulo.app/pt/whatsapp-status-updates-hide.html)
+- [Repouso não bloqueia o Instagram no iPhone? Soluções](https://minulo.app/pt/downtime-not-working-instagram.html)
+- [Esqueceu o código do Tempo de Uso? A solução da Apple](https://minulo.app/pt/screen-time-passcode-forgot.html)
+- [Como ler o relatório semanal do Tempo de Uso no iPhone](https://minulo.app/pt/screen-time-weekly-report.html)
+- [Foco do iPhone só para mensagens: DMs do Instagram](https://minulo.app/pt/focus-mode-messages-only.html)
+
 ## Dados
 A comparação acima em CSV (uma linha por app; como funciona, redes, preço, se as DMs continuam funcionando, número de avaliações nos EUA e a data da conferência): [data/ios-reels-shorts-blockers.csv](data/ios-reels-shorts-blockers.csv). O CSV está em inglês. As avaliações são um retrato do dia e mudam todo dia; correções são bem-vindas.
 

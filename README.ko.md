@@ -156,6 +156,35 @@ minulo 개발자가 썼고, 모두 기본 설정부터 다룹니다.
 
 
 <a id="data"></a>
+### 질문 하나에 페이지 하나 (2026년 10월)
+minulo.app의 짧은 페이지입니다. 각 플랫폼의 공식 도움말을 출처로, 질문 하나에 답합니다.
+- [인스타·페이스북 동영상 자동 재생 끄는 방법](https://minulo.app/ko/instagram-autoplay-off.html)
+- [인스타 관심 없음 눌러도 릴스가 계속 나오는 이유](https://minulo.app/ko/not-interested-reels-still-showing.html)
+- [인스타 하단 릴스 탭 없앨 수 있을까? (2026)](https://minulo.app/ko/instagram-reels-tab-remove.html)
+- [아이패드 인스타 릴스, 어디서 나오고 뭘 끌 수 있나](https://minulo.app/ko/instagram-reels-ipad.html)
+- [인스타 친한 친구·즐겨찾기 게시물만 보는 방법](https://minulo.app/ko/instagram-close-friends-feed.html)
+- [인스타 좋아요 수 숨기기 방법과 효과](https://minulo.app/ko/hide-instagram-likes-counts.html)
+- [아이패드·맥에서 유튜브 쇼츠 안 보는 법](https://minulo.app/ko/youtube-shorts-ipad-mac.html)
+- [침대에서 유튜브 쇼츠 그만 보는 법: 밤에만 켜지는 설정](https://minulo.app/ko/stop-youtube-shorts-at-night.html)
+- [유튜브 시청 기록을 끄면 홈은 어떻게 될까](https://minulo.app/ko/youtube-history-off-home-feed.html)
+- [유튜브 추천 초기화하는 방법 (아이폰)](https://minulo.app/ko/youtube-reset-recommendations.html)
+- [유튜브를 구독 채널만 보는 방법 (아이폰)](https://minulo.app/ko/youtube-subscriptions-only.html)
+- [유튜브 알림 구독 채널만 받는 방법 (아이폰)](https://minulo.app/ko/youtube-notifications-subscriptions-only.html)
+- [유튜브 웹에서 쇼츠 섹션 없애는 법](https://minulo.app/ko/youtube-shorts-remove-from-home-web.html)
+- [유튜브 쇼츠 제한, 어린이·청소년·성인 계정 차이](https://minulo.app/ko/youtube-kids-vs-shorts.html)
+- [틱톡 제한 모드로 되는 것과 안 되는 것](https://minulo.app/ko/tiktok-restricted-mode.html)
+- [스냅챗을 채팅과 친구 스토리만 쓰는 방법](https://minulo.app/ko/snapchat-stories-only.html)
+- [스냅챗 스포트라이트 시간 제한 걸 수 있나요?](https://minulo.app/ko/snapchat-spotlight-time-limit.html)
+- [페이스북 릴스 끌 수 있나요? (아이폰)](https://minulo.app/ko/facebook-reels-off.html)
+- [링크드인 동영상 피드와 자동 재생 끄기 (아이폰)](https://minulo.app/ko/linkedin-video-feed-off.html)
+- [왓츠앱 상태 업데이트 숨기는 법 (아이폰)](https://minulo.app/ko/whatsapp-status-updates-hide.html)
+- [스크린 타임 다운타임으로 인스타가 안 막힐 때](https://minulo.app/ko/downtime-not-working-instagram.html)
+- [스크린 타임 제한 무시 버튼 없애는 방법](https://minulo.app/ko/app-limit-ignore-button.html)
+- [스크린 타임 암호를 잊어버렸을 때 (Apple 공식 방법)](https://minulo.app/ko/screen-time-passcode-forgot.html)
+- [아이폰 스크린 타임 주간 리포트 보는 법](https://minulo.app/ko/screen-time-weekly-report.html)
+- [아이폰 집중 모드를 메시지 앱만 허용하기 (인스타 DM)](https://minulo.app/ko/focus-mode-messages-only.html)
+- [아이폰 흑백(그레이스케일)으로 폰 시간이 줄까?](https://minulo.app/ko/grayscale-to-stop-scrolling.html)
+
 ## 데이터
 위 비교 내용을 CSV로 내려받을 수 있습니다 (앱마다 한 줄, 방식, 지원 SNS, 가격, DM이 계속 되는지, 미국 평가 수, 확인한 날짜, 영어): [data/ios-reels-shorts-blockers.csv](data/ios-reels-shorts-blockers.csv). 평가 수는 특정 시점의 값이라 매일 바뀝니다. 고칠 곳이 있으면 알려 주세요.
 

@@ -112,6 +112,35 @@ Step-by-step write-ups (by the minulo developer; each covers the built-in option
 - [How I ship an iPhone app and its website in 13 languages as a solo developer](https://dev.to/ayumu_kitabayashi_8e0de96/how-i-ship-an-iphone-app-and-its-website-in-13-languages-as-a-solo-developer-10gk) (for developers)
 
 
+### One question, one page (October 2026)
+Short pages on minulo.app that each answer one question with the platform's own help pages as sources.
+- [Turn Off Video Autoplay on Instagram and Facebook](https://minulo.app/en/instagram-autoplay-off.html)
+- [Reels Still Showing After Not Interested? Why](https://minulo.app/en/not-interested-reels-still-showing.html)
+- [Can You Remove the Reels Tab on Instagram? (2026)](https://minulo.app/en/instagram-reels-tab-remove.html)
+- [Instagram Reels on iPad: What You Can Turn Off](https://minulo.app/en/instagram-reels-ipad.html)
+- [Can You See Only Close Friends Posts on Instagram?](https://minulo.app/en/instagram-close-friends-feed.html)
+- [Hide Like Counts on Instagram: Does It Help?](https://minulo.app/en/hide-instagram-likes-counts.html)
+- [YouTube Without Shorts on iPad and Mac](https://minulo.app/en/youtube-shorts-ipad-mac.html)
+- [How to Stop Watching YouTube Shorts in Bed (iPhone)](https://minulo.app/en/stop-youtube-shorts-at-night.html)
+- [YouTube Watch History Off: What Happens to Home](https://minulo.app/en/youtube-history-off-home-feed.html)
+- [How to Reset YouTube Recommendations (iPhone)](https://minulo.app/en/youtube-reset-recommendations.html)
+- [How to Use YouTube With Only Subscriptions (iPhone)](https://minulo.app/en/youtube-subscriptions-only.html)
+- [YouTube Notifications From Subscriptions Only](https://minulo.app/en/youtube-notifications-subscriptions-only.html)
+- [How to Remove the Shorts Shelf on YouTube (Website)](https://minulo.app/en/youtube-shorts-remove-from-home-web.html)
+- [YouTube Shorts Limit for Teens, Kids and Adults](https://minulo.app/en/youtube-kids-vs-shorts.html)
+- [What TikTok Restricted Mode Does and Doesn't Do](https://minulo.app/en/tiktok-restricted-mode.html)
+- [How to Use Snapchat Only for Chats and Stories](https://minulo.app/en/snapchat-stories-only.html)
+- [Can You Set a Time Limit on Snapchat Spotlight?](https://minulo.app/en/snapchat-spotlight-time-limit.html)
+- [Can You Turn Off Reels on Facebook? (iPhone)](https://minulo.app/en/facebook-reels-off.html)
+- [Can You Turn Off the LinkedIn Video Feed on iPhone?](https://minulo.app/en/linkedin-video-feed-off.html)
+- [How to Hide Status Updates on WhatsApp (iPhone)](https://minulo.app/en/whatsapp-status-updates-hide.html)
+- [Downtime Not Blocking Instagram on iPhone? Fixes](https://minulo.app/en/downtime-not-working-instagram.html)
+- [Ignore Limit on iPhone: How to Turn It Off](https://minulo.app/en/app-limit-ignore-button.html)
+- [Forgot Your Screen Time Passcode? Apple&#x27;s Fix](https://minulo.app/en/screen-time-passcode-forgot.html)
+- [How to Read the iPhone Screen Time Weekly Report](https://minulo.app/en/screen-time-weekly-report.html)
+- [iPhone Focus for Messages Only: Instagram DMs](https://minulo.app/en/focus-mode-messages-only.html)
+- [Does Grayscale on iPhone Stop Scrolling?](https://minulo.app/en/grayscale-to-stop-scrolling.html)
+
 ## Guides in other languages
 Written by the minulo developer; each covers the built-in options first.
 

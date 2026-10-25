@@ -155,6 +155,25 @@ Escritas por el desarrollador de minulo; cada una empieza por las opciones que y
 
 
 <a id="data"></a>
+### Una pregunta, una página (octubre de 2026)
+Páginas breves de minulo.app que responden a una sola pregunta con la ayuda oficial de cada plataforma como fuente.
+- [Desactivar la reproducción automática en Instagram y Facebook](https://minulo.app/es/instagram-autoplay-off.html)
+- [¿Siguen saliendo Reels tras «No me interesa»? Por qué](https://minulo.app/es/not-interested-reels-still-showing.html)
+- [Reels de Instagram en el iPad: qué puedes desactivar](https://minulo.app/es/instagram-reels-ipad.html)
+- [YouTube sin Shorts en el iPad y el Mac](https://minulo.app/es/youtube-shorts-ipad-mac.html)
+- [Cómo dejar de ver Shorts de YouTube en la cama (iPhone)](https://minulo.app/es/stop-youtube-shorts-at-night.html)
+- [Historial de YouTube desactivado: qué pasa con Inicio](https://minulo.app/es/youtube-history-off-home-feed.html)
+- [Cómo restablecer las recomendaciones de YouTube (iPhone)](https://minulo.app/es/youtube-reset-recommendations.html)
+- [Cómo usar YouTube solo con tus suscripciones (iPhone)](https://minulo.app/es/youtube-subscriptions-only.html)
+- [Cómo usar Snapchat solo para chats e Historias](https://minulo.app/es/snapchat-stories-only.html)
+- [¿Se pueden desactivar los Reels en Facebook? (iPhone)](https://minulo.app/es/facebook-reels-off.html)
+- [¿Se puede quitar el feed de videos de LinkedIn en el iPhone?](https://minulo.app/es/linkedin-video-feed-off.html)
+- [Cómo ocultar los estados de WhatsApp (iPhone)](https://minulo.app/es/whatsapp-status-updates-hide.html)
+- [¿El tiempo de inactividad no bloquea Instagram? Soluciones](https://minulo.app/es/downtime-not-working-instagram.html)
+- [¿Has olvidado el código de Tiempo de uso? La solución de Apple](https://minulo.app/es/screen-time-passcode-forgot.html)
+- [Cómo leer el informe semanal de Tiempo de uso del iPhone](https://minulo.app/es/screen-time-weekly-report.html)
+- [Modo de concentración solo para mensajes: DM de Instagram](https://minulo.app/es/focus-mode-messages-only.html)
+
 ## Datos
 La comparación de arriba en CSV (una fila por app, con el método, las redes, el precio, si los DMs siguen funcionando, el número de valoraciones en EE. UU. y la fecha de revisión): [data/ios-reels-shorts-blockers.csv](data/ios-reels-shorts-blockers.csv). Las valoraciones son una foto del momento y cambian cada día; se agradecen las correcciones.
 

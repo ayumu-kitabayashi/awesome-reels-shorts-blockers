@@ -155,6 +155,25 @@ Tutoriels pas à pas, en anglais (écrits par le développeur de minulo ; chacun
 
 
 <a id="data"></a>
+### Une question, une page (octobre 2026)
+Pages courtes de minulo.app qui répondent chacune à une question, avec l'aide officielle de chaque plateforme comme source.
+- [Désactiver la lecture automatique sur Instagram et Facebook](https://minulo.app/fr/instagram-autoplay-off.html)
+- [Toujours des Reels après « Ça ne m’intéresse pas » ?](https://minulo.app/fr/not-interested-reels-still-showing.html)
+- [Reels Instagram sur iPad : ce qu’on peut désactiver](https://minulo.app/fr/instagram-reels-ipad.html)
+- [YouTube sans Shorts sur iPad et Mac](https://minulo.app/fr/youtube-shorts-ipad-mac.html)
+- [Arrêter les Shorts YouTube au lit (iPhone)](https://minulo.app/fr/stop-youtube-shorts-at-night.html)
+- [Historique YouTube désactivé : ce qui arrive à l’accueil](https://minulo.app/fr/youtube-history-off-home-feed.html)
+- [Réinitialiser les recommandations YouTube (iPhone)](https://minulo.app/fr/youtube-reset-recommendations.html)
+- [Utiliser YouTube avec seulement vos abonnements (iPhone)](https://minulo.app/fr/youtube-subscriptions-only.html)
+- [Utiliser Snapchat seulement pour le Chat et les Stories](https://minulo.app/fr/snapchat-stories-only.html)
+- [Peut-on désactiver les Reels sur Facebook ? (iPhone)](https://minulo.app/fr/facebook-reels-off.html)
+- [Désactiver le flux vidéo de LinkedIn sur iPhone ?](https://minulo.app/fr/linkedin-video-feed-off.html)
+- [Masquer les statuts sur WhatsApp (iPhone)](https://minulo.app/fr/whatsapp-status-updates-hide.html)
+- [Temps d’arrêt ne bloque pas Instagram ? Solutions (iPhone)](https://minulo.app/fr/downtime-not-working-instagram.html)
+- [Code Temps d’écran oublié ? La solution d’Apple](https://minulo.app/fr/screen-time-passcode-forgot.html)
+- [Lire le rapport hebdomadaire Temps d’écran sur iPhone](https://minulo.app/fr/screen-time-weekly-report.html)
+- [Concentration iPhone pour les messages : DM Instagram](https://minulo.app/fr/focus-mode-messages-only.html)
+
 ## Données
 Le comparatif ci-dessus au format CSV (une ligne par appli : méthode, réseaux, prix, maintien des DM, nombre d'avis aux États-Unis et date de vérification) : [data/ios-reels-shorts-blockers.csv](data/ios-reels-shorts-blockers.csv). Les nombres d'avis sont un instantané et changent tous les jours ; corrections bienvenues.
 

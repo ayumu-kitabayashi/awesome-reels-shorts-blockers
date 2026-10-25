@@ -118,6 +118,35 @@ Safari で instagram.com や youtube.com を見ているときにフィードを
 
 
 <a id="guides-other-languages"></a>
+### 1ページ1問のまとめ（2026年10月）
+minulo.app の短いページです。各社の公式ヘルプを出典に、1つの問いに答えています。
+- [インスタとFacebookの動画の自動再生をオフにする方法](https://minulo.app/instagram-autoplay-off.html)
+- [インスタの［興味なし］でもリールが出る理由と減らし方](https://minulo.app/not-interested-reels-still-showing.html)
+- [インスタの下のリールタブは消せる？（2026年）](https://minulo.app/instagram-reels-tab-remove.html)
+- [iPad のインスタでリールが出る場所と消せるもの](https://minulo.app/instagram-reels-ipad.html)
+- [インスタで親しい友達・お気に入りの投稿だけ見る方法](https://minulo.app/instagram-close-friends-feed.html)
+- [インスタの「いいね！」数を非表示にする方法と効果](https://minulo.app/hide-instagram-likes-counts.html)
+- [iPad・Mac で YouTube ショートを出さない方法](https://minulo.app/youtube-shorts-ipad-mac.html)
+- [布団でYouTubeショートを見てしまうときの夜の設定](https://minulo.app/stop-youtube-shorts-at-night.html)
+- [YouTubeの再生履歴をオフにするとホームはどうなる？](https://minulo.app/youtube-history-off-home-feed.html)
+- [YouTubeのおすすめをリセットする方法（iPhone）](https://minulo.app/youtube-reset-recommendations.html)
+- [YouTubeを登録チャンネルだけで見る方法（iPhone）](https://minulo.app/youtube-subscriptions-only.html)
+- [YouTube の通知を登録チャンネルだけにする方法](https://minulo.app/youtube-notifications-subscriptions-only.html)
+- [YouTube のウェブ版でショートの棚を消す方法](https://minulo.app/youtube-shorts-remove-from-home-web.html)
+- [YouTubeショートの上限は子ども・10代・大人で違う？](https://minulo.app/youtube-kids-vs-shorts.html)
+- [TikTok の制限モードでできること・できないこと](https://minulo.app/tiktok-restricted-mode.html)
+- [Snapchatをチャットと友だちのストーリーだけで使う方法](https://minulo.app/snapchat-stories-only.html)
+- [Snapchat のスポットライトに時間制限はかけられる？](https://minulo.app/snapchat-spotlight-time-limit.html)
+- [Facebook のリールはオフにできる？（iPhone）](https://minulo.app/facebook-reels-off.html)
+- [LinkedInの動画フィードと自動再生はオフにできる？（iPhone）](https://minulo.app/linkedin-video-feed-off.html)
+- [WhatsApp のステータスを非表示にする方法（iPhone）](https://minulo.app/whatsapp-status-updates-hide.html)
+- [スクリーンタイムの休止時間でインスタが止まらない原因](https://minulo.app/downtime-not-working-instagram.html)
+- [スクリーンタイムの「制限を無視」を消す方法](https://minulo.app/app-limit-ignore-button.html)
+- [スクリーンタイムのパスコードを忘れたとき（Apple公式の手順）](https://minulo.app/screen-time-passcode-forgot.html)
+- [iPhone スクリーンタイムの週間レポートの見方](https://minulo.app/screen-time-weekly-report.html)
+- [iPhoneの集中モードをメッセージだけにする方法とインスタDM](https://minulo.app/focus-mode-messages-only.html)
+- [iPhoneを白黒（グレイスケール）にするとスマホ時間は減る？](https://minulo.app/grayscale-to-stop-scrolling.html)
+
 ## 英語以外の解説記事
 minulo の開発者が書いたもので、どれも最初にアプリなしでできる設定を扱っています。
 

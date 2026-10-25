@@ -157,6 +157,25 @@ Vom Entwickler von minulo; jede beginnt mit den eingebauten Möglichkeiten.
 
 
 <a id="data"></a>
+### Eine Frage, eine Seite (Oktober 2026)
+Kurze Seiten auf minulo.app, die jeweils eine Frage beantworten, mit der offiziellen Hilfe der Plattform als Quelle.
+- [Autoplay bei Instagram und Facebook ausschalten (iPhone)](https://minulo.app/de/instagram-autoplay-off.html)
+- [Trotz „Interessiert mich nicht“ weiter Reels? Darum](https://minulo.app/de/not-interested-reels-still-showing.html)
+- [Instagram Reels auf dem iPad: Was sich abschalten lässt](https://minulo.app/de/instagram-reels-ipad.html)
+- [YouTube ohne Shorts auf iPad und Mac](https://minulo.app/de/youtube-shorts-ipad-mac.html)
+- [Abends im Bett keine YouTube Shorts mehr (iPhone)](https://minulo.app/de/stop-youtube-shorts-at-night.html)
+- [YouTube-Wiedergabeverlauf aus: Was mit der Startseite passiert](https://minulo.app/de/youtube-history-off-home-feed.html)
+- [YouTube-Empfehlungen zurücksetzen (iPhone)](https://minulo.app/de/youtube-reset-recommendations.html)
+- [YouTube nur mit Abos nutzen (iPhone)](https://minulo.app/de/youtube-subscriptions-only.html)
+- [Snapchat nur für Chats und Storys nutzen](https://minulo.app/de/snapchat-stories-only.html)
+- [Kann man Reels bei Facebook ausschalten? (iPhone)](https://minulo.app/de/facebook-reels-off.html)
+- [Video-Feed bei LinkedIn auf dem iPhone ausschalten?](https://minulo.app/de/linkedin-video-feed-off.html)
+- [WhatsApp-Status ausblenden (iPhone)](https://minulo.app/de/whatsapp-status-updates-hide.html)
+- [Auszeit blockiert Instagram nicht? Lösungen (iPhone)](https://minulo.app/de/downtime-not-working-instagram.html)
+- [Bildschirmzeit-Code vergessen? So setzt du ihn laut Apple zurück](https://minulo.app/de/screen-time-passcode-forgot.html)
+- [Den Bildschirmzeit-Wochenbericht auf dem iPhone lesen](https://minulo.app/de/screen-time-weekly-report.html)
+- [iPhone-Fokus nur für Nachrichten: Instagram-DMs](https://minulo.app/de/focus-mode-messages-only.html)
+
 ## Daten
 Der Vergleich oben als CSV (eine Zeile pro App: Ansatz, Netzwerke, Preis, ob DMs weiter funktionieren, Anzahl der US-Bewertungen und Prüfdatum): [data/ios-reels-shorts-blockers.csv](data/ios-reels-shorts-blockers.csv). Die Bewertungen sind eine Momentaufnahme und ändern sich täglich; Korrekturen sind willkommen.
 
