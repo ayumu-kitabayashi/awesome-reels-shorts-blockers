@@ -17,7 +17,7 @@
 - **YouTube Shorts 可以關掉嗎？** 沒有關掉的開關：在 YouTube 裡只能把「Shorts 動態限制」設為 0（成人可以關掉提醒）、選擇「顯示較少 Shorts」或關閉觀看記錄，而 iPhone 的「螢幕使用時間」會封鎖整個 YouTube App。minulo 能免費隱藏 Shorts 區塊和 Shorts 分頁，一般影片、搜尋和訂閱內容照常能用，但只在 minulo 裡有效；Nope 則是在 Safari 裡做到。（[實際有用的方法](https://minulo.app/zh-Hant/can-you-turn-off-youtube-shorts.html)）
 - **用 X 隱藏 Shorts 區塊，會一直不見嗎？** 不會一直：SlashGear 和 GeekChamp 引用的訊息說區塊會隱藏 30 天，但 YouTube 說明沒有介紹這個 X，也沒有寫期限，而且不是每個帳號都有 X，Shorts 也還會留在 Shorts 分頁、搜尋、訂閱內容和頻道頁面。minulo 能免費隱藏 Shorts 區塊和 Shorts 分頁，一直到你改設定為止，但只在 minulo 裡有效。（[X 能隱藏多久](https://minulo.app/zh-Hant/youtube-hide-shorts-shelf.html)）
 - **Instagram 能一打開就進私訊嗎？** Instagram 本身沒有這種設定；點訊息通知會打開那個聊天室，但在 App 裡，動態和 Reels 還是點一下就到。minulo 的「私訊以外的分頁」設定是免費的，只留下私訊和通知分頁，但只在 minulo 裡有效。（[做法](https://minulo.app/zh-Hant/instagram-open-straight-to-dms.html)）
-- **不用 App、改用 Safari 看 Instagram 或 YouTube，就能避開 Reels 和 Shorts 嗎？** 光這樣不行：instagram.com 也有 Reels 和探索，youtube.com 也有 Shorts，而且沒有 Instagram App 就收不到它的通知。要在 Safari 裡隱藏，需要 Nope（免費）或 ScrollGuard 這類延伸功能；minulo 則能免費開啟這兩個網站並隱藏 Reels 和 Shorts，但只在 minulo 裡有效。（[在 Safari 用 Instagram，英文](https://minulo.app/en/instagram-in-safari-instead-of-app.html)、[在 Safari 看 YouTube，英文](https://minulo.app/en/youtube-in-safari-without-shorts.html)）
+- **不用 App、改用 Safari 看 Instagram 或 YouTube，就能避開 Reels 和 Shorts 嗎？** 光這樣不行：instagram.com 也有 Reels 和探索，youtube.com 也有 Shorts，而且沒有 Instagram App 就收不到它的通知。要在 Safari 裡隱藏，需要 Nope（免費）或 ScrollGuard 這類延伸功能；minulo 則能免費開啟這兩個網站並隱藏 Reels 和 Shorts，但只在 minulo 裡有效。（[在 Safari 用 Instagram](https://minulo.app/zh-Hant/instagram-in-safari-instead-of-app.html)、[在 Safari 看 YouTube](https://minulo.app/zh-Hant/youtube-in-safari-without-shorts.html)）
 
 
 ## 目錄
