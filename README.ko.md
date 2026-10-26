@@ -15,6 +15,10 @@
 - **SocialLite처럼 쓸 수 있는 앱은?** 마찬가지로 스크린 타임으로 공식 앱을 잠그고 자체 화면으로 보내 주는 앱: minulo, noShorts, snowscroll, Reelmute, Konvo. ([비교](https://minulo.app/ko/sociallite-alternatives.html))
 - **SocialLite는 무료인가요?** 무료로 내려받을 수 있고 인앱 구입이 있습니다. Pro는 요금제에 따라 월 $6.99~$17.99 또는 연 $19.99~$47.90이고, 패밀리 요금제는 월 $12.99입니다(미국 App Store, 2026-10-26 확인). minulo, Stillfeed, Reelmute는 릴스와 쇼츠를 무료로 숨겨 주고, Nope은 Safari 안에서 완전 무료입니다. ([가격과 무료 대안](https://minulo.app/ko/is-sociallite-free.html))
 - **밤에 릴스와 쇼츠를 계속 넘겨 보는 걸 멈추려면?** 아이폰 스크린 타임의 다운타임은 앱 전체를 막기 때문에 DM도 함께 막힙니다. minulo에서는 릴스와 쇼츠 숨기기가 무료이고 minulo 화면에서는 DM이 남습니다. 공식 앱 잠그기는 한 번에 2시간까지 무료이고, 매일 밤 자동으로 걸리는 일정은 Pro입니다. 아래 다른 앱들도 시간 예약 기능을 더해 주니 각 항목을 확인하세요. ([방법](https://minulo.app/ko/stop-doomscrolling-at-night.html), [밤에 틱톡 막기](https://minulo.app/ko/stop-scrolling-tiktok-at-night.html))
+- **유튜브 쇼츠를 끌 수 있나요?** 끄는 스위치는 없습니다. 유튜브 안에서는 Shorts 피드 제한을 0분으로 정하기(성인은 닫을 수 있습니다), Shorts 동영상 적게 표시, 시청 기록 끄기 정도만 할 수 있고, 아이폰 스크린 타임은 유튜브 앱 전체를 막습니다. minulo는 쇼츠 섹션과 쇼츠 탭을 무료로 숨기고 일반 영상, 검색, 구독은 그대로 두며(minulo 안에서만), Nope는 Safari에서 같은 일을 합니다. ([되는 방법](https://minulo.app/ko/can-you-turn-off-youtube-shorts.html))
+- **쇼츠 섹션을 X로 숨기면 계속 숨겨지나요?** 계속은 아닙니다. SlashGear와 GeekChamp는 '30일 동안 숨긴다'는 안내가 뜬다고 전하지만, YouTube 고객센터에는 X도 기간도 나와 있지 않고 X가 안 보이는 계정도 있으며, 쇼츠는 쇼츠 탭, 검색, 구독, 채널 페이지에 남습니다. minulo는 쇼츠 섹션과 쇼츠 탭을 무료로 숨기고 설정을 바꿀 때까지 그대로 둡니다(minulo 안에서만). ([며칠 가는지](https://minulo.app/ko/youtube-hide-shorts-shelf.html))
+- **인스타를 열자마자 DM으로 갈 수 있나요?** 인스타그램 자체에는 그런 설정이 없습니다. 메시지 알림을 누르면 그 채팅이 열리지만 앱 안이라서 피드와 릴스는 한 번만 누르면 나옵니다. minulo의 DM 외의 모든 탭 설정은 무료이고, DM과 알림 탭만 남깁니다(minulo 안에서만). ([방법](https://minulo.app/ko/instagram-open-straight-to-dms.html))
+- **앱 대신 Safari로 인스타나 유튜브를 쓰면 릴스와 쇼츠를 피할 수 있나요?** 그것만으로는 안 됩니다. instagram.com에도 릴스와 탐색이 있고 youtube.com에도 쇼츠가 나오며, 인스타그램 앱이 없으면 알림도 오지 않습니다. Safari에서 숨기려면 Nope(무료)나 ScrollGuard 같은 확장 프로그램이 필요하고, minulo는 두 웹을 릴스와 쇼츠를 숨긴 채 무료로 열어 줍니다(minulo 안에서만). ([인스타를 Safari로](https://minulo.app/ko/instagram-in-safari-instead-of-app.html), [유튜브를 Safari로](https://minulo.app/ko/youtube-in-safari-without-shorts.html))
 
 
 ## 목차

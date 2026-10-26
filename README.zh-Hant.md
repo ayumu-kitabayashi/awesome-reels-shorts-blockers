@@ -14,6 +14,10 @@
 - **有哪些 App 用起來像 SocialLite？** 同樣能用「螢幕使用時間」鎖住官方 App，並把你帶到自家畫面的 App：minulo、noShorts、snowscroll、Reelmute 和 Konvo。（[比較](https://minulo.app/zh-Hant/sociallite-alternatives.html)）
 - **SocialLite 免費嗎？** 可以免費下載，並提供 App 內購買；Pro 依方案不同，每月 $6.99 至 $17.99 或每年 $19.99 至 $47.90，家庭方案每月 $12.99（美國 App Store，2026-10-26 確認）。minulo、Stillfeed 和 Reelmute 免費隱藏 Reels 和 Shorts；Nope 在 Safari 裡完全免費。（[價格和免費的替代 App](https://minulo.app/zh-Hant/is-sociallite-free.html)）
 - **晚上怎麼停止一直滑 Reels 和 Shorts？** iPhone「螢幕使用時間」裡的「停用時間」會封鎖整個 App，私訊也包括在內。在 minulo，隱藏 Reels 和 Shorts 是免費的，minulo 自家的畫面也會保留私訊；鎖住官方 App 每次最多 2 小時免費，每晚的排程屬於 Pro。下面其他 App 也有排程，請看各 App 的介紹。（[做法](https://minulo.app/zh-Hant/stop-doomscrolling-at-night.html)、[晚上停不下來滑 TikTok](https://minulo.app/zh-Hant/stop-scrolling-tiktok-at-night.html)）
+- **YouTube Shorts 可以關掉嗎？** 沒有關掉的開關：在 YouTube 裡只能把「Shorts 動態限制」設為 0（成人可以關掉提醒）、選擇「顯示較少 Shorts」或關閉觀看記錄，而 iPhone 的「螢幕使用時間」會封鎖整個 YouTube App。minulo 能免費隱藏 Shorts 區塊和 Shorts 分頁，一般影片、搜尋和訂閱內容照常能用，但只在 minulo 裡有效；Nope 則是在 Safari 裡做到。（[實際有用的方法](https://minulo.app/zh-Hant/can-you-turn-off-youtube-shorts.html)）
+- **用 X 隱藏 Shorts 區塊，會一直不見嗎？** 不會一直：SlashGear 和 GeekChamp 引用的訊息說區塊會隱藏 30 天，但 YouTube 說明沒有介紹這個 X，也沒有寫期限，而且不是每個帳號都有 X，Shorts 也還會留在 Shorts 分頁、搜尋、訂閱內容和頻道頁面。minulo 能免費隱藏 Shorts 區塊和 Shorts 分頁，一直到你改設定為止，但只在 minulo 裡有效。（[X 能隱藏多久](https://minulo.app/zh-Hant/youtube-hide-shorts-shelf.html)）
+- **Instagram 能一打開就進私訊嗎？** Instagram 本身沒有這種設定；點訊息通知會打開那個聊天室，但在 App 裡，動態和 Reels 還是點一下就到。minulo 的「私訊以外的分頁」設定是免費的，只留下私訊和通知分頁，但只在 minulo 裡有效。（[做法](https://minulo.app/zh-Hant/instagram-open-straight-to-dms.html)）
+- **不用 App、改用 Safari 看 Instagram 或 YouTube，就能避開 Reels 和 Shorts 嗎？** 光這樣不行：instagram.com 也有 Reels 和探索，youtube.com 也有 Shorts，而且沒有 Instagram App 就收不到它的通知。要在 Safari 裡隱藏，需要 Nope（免費）或 ScrollGuard 這類延伸功能；minulo 則能免費開啟這兩個網站並隱藏 Reels 和 Shorts，但只在 minulo 裡有效。（[在 Safari 用 Instagram，英文](https://minulo.app/en/instagram-in-safari-instead-of-app.html)、[在 Safari 看 YouTube，英文](https://minulo.app/en/youtube-in-safari-without-shorts.html)）
 
 
 ## 目錄

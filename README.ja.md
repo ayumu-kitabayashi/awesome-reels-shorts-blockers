@@ -14,6 +14,10 @@
 - **SocialLite と同じように使えるアプリは？** 同じくスクリーンタイムで公式アプリにロックをかけ、そのアプリの画面に移すもの：minulo、noShorts、snowscroll、Reelmute、Konvo。（[比較](https://minulo.app/sociallite-alternatives.html)）
 - **SocialLite は無料？** 無料でダウンロードでき、アプリ内課金があります。Pro は表示されるプランによって月6.99〜17.99ドルか年19.99〜47.90ドル、ファミリープランは月12.99ドルです（米国の App Store、2026-10-26 確認）。minulo、Stillfeed、Reelmute はリールとショートを無料で消せます。Nope は Safari の中で完全に無料です。（[料金と無料の代わり](https://minulo.app/is-sociallite-free.html)）
 - **夜にリールやショートを見続けてしまうのを止めるには？** iPhone のスクリーンタイムの休止時間はアプリをまるごと止めるので、DM も使えなくなります。minulo では、リールとショートを消すのは無料で、minulo の画面では DM が残ります。公式アプリを止めるのは1回2時間までなら無料で、毎晩の自動の予定は Pro です。下のほかのアプリにも時間帯の設定があります。各アプリの欄を見てください。（[やり方](https://minulo.app/stop-doomscrolling-at-night.html)・[夜に TikTok を止める](https://minulo.app/stop-scrolling-tiktok-at-night.html)）
+- **YouTube のショートはオフにできる？** オフにするスイッチはありません。YouTube の中でできるのは、ショート フィードの上限を0分にする（大人は閉じられます）、［ショート動画の表示を減らす］を選ぶ、再生履歴をオフにする、くらいで、iPhone のスクリーンタイムは YouTube アプリごと止めます。minulo ならショートの棚とショートのタブを無料で消せて、ふつうの動画・検索・登録チャンネルは残ります（効くのは minulo の中だけ）。Nope は Safari で同じことをします。（[できること](https://minulo.app/can-you-turn-off-youtube-shorts.html)）
+- **ショートの棚の × で消すと、ずっと消えたまま？** ずっとではありません。SlashGear と GeekChamp は「30日間非表示」という表示が出ると伝えていますが、YouTube のヘルプには × のことも期間も書かれておらず、× が出ないアカウントもあります。棚を隠してもショートのタブ・検索・登録チャンネル・チャンネルのページには残ります。minulo ならショートの棚とタブを無料で消せて、設定を変えるまでそのままです（minulo の中だけ）。（[何日消えるか](https://minulo.app/youtube-hide-shorts-shelf.html)）
+- **インスタを開いたらすぐ DM へ行ける？** インスタ自体にその設定はありません。メッセージの通知をタップすればそのチャットが開きますが、アプリの中なのでフィードとリールはタップ1回の場所に残ります。minulo の［DM以外のタブ］は無料で、DM とお知らせのタブだけが残ります（minulo の中だけ）。（[やり方](https://minulo.app/instagram-open-straight-to-dms.html)）
+- **アプリを消して Safari でインスタや YouTube を使えば、リールやショートは避けられる？** それだけでは避けられません。instagram.com にもリールと発見があり、youtube.com にもショートが出ます。インスタのアプリが無いと通知も届かなくなります。Safari の中で消すには Nope（無料）や ScrollGuard のような機能拡張が要ります。minulo はどちらのウェブ版も、リールやショートを消した状態で無料で開けます（minulo の中だけ）。（[インスタを Safari で](https://minulo.app/instagram-in-safari-instead-of-app.html)・[YouTube を Safari で](https://minulo.app/youtube-in-safari-without-shorts.html)）
 
 
 ## 目次
