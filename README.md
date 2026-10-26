@@ -7,7 +7,16 @@ A list of iPhone apps and settings that hide **Instagram Reels, YouTube Shorts a
 > **Disclosure:** this list is maintained by the developer of [minulo](https://minulo.app/en/), one of the apps below. Facts come only from each app's US App Store page or official website (checked October 2026; ratings counts last updated 2026-10-24). Ratings counts change daily. Corrections and additions are welcome via issues or pull requests.
 
 
+## Quick answers
+- **Which free iPhone apps hide Instagram Reels and YouTube Shorts but keep DMs?** Inside their own app, basic hiding is free in minulo (10 networks), Reelmute (6), Stillfeed (Instagram and YouTube) and Awhile (Instagram only). Nope and ScrollGuard do it for free as Safari extensions, so they only work in Safari. noShorts is free with no in-app purchases. What is free in each: [Free apps to block Reels and Shorts](https://minulo.app/en/free-reels-blocker.html).
+- **How do I get rid of YouTube Shorts but keep normal videos?** YouTube's Shorts feed limit can be set to 0, but adults can dismiss the reminder. minulo, Stillfeed, Reelmute and noShorts open YouTube without Shorts inside their own app; Nope does it in Safari. ([how-to](https://minulo.app/en/block-youtube-shorts.html))
+- **Can I use Instagram only for DMs?** Instagram itself has no DMs-only mode. minulo, UNDOOMED, LoomWeb, Konvo, Reelmute and Stillfeed have a DMs-only or Messages Only mode (free in some, paid in others; see each entry). ([how-to](https://minulo.app/en/instagram-dms-only.html))
+- **What works like SocialLite?** Apps that also lock the official apps with Screen Time and send you to their own view: minulo, noShorts, snowscroll, Reelmute and Konvo. ([comparison](https://minulo.app/en/sociallite-alternatives.html))
+- **How do I stop scrolling Reels and Shorts at night?** iPhone Screen Time Downtime blocks whole apps, DMs included. Several apps below add schedules; check each entry. ([how-to](https://minulo.app/en/stop-doomscrolling-at-night.html))
+
+
 ## Contents
+- [Quick answers](#quick-answers)
 - [Built-in settings (no app needed)](#built-in-settings-no-app-needed)
 - [Apps that open social networks with the feeds removed](#apps-that-open-social-networks-with-the-feeds-removed)
 - [Safari extensions](#safari-extensions)
