@@ -10,10 +10,11 @@
 <a id="quick-answers"></a>
 ## 자주 묻는 질문
 - **인스타 릴스와 유튜브 쇼츠는 숨기고 DM은 남기는 무료 아이폰 앱은?** 자체 앱 안에서 기본 숨기기가 무료인 앱은 minulo(SNS 10개), Reelmute(6개), Stillfeed(인스타그램과 유튜브), Awhile(인스타그램만)입니다. Nope와 ScrollGuard는 Safari 확장 프로그램으로 무료로 숨겨 주기 때문에 Safari에서만 작동합니다. noShorts는 무료이고 앱 내 구입도 없습니다. 앱마다 무엇이 무료인지: [릴스·쇼츠를 무료로 막는 앱](https://minulo.app/ko/free-reels-blocker.html)
-- **유튜브 쇼츠는 없애고 일반 영상은 보려면?** 유튜브의 쇼츠 피드 시간 제한은 0으로 정할 수 있지만, 성인 계정은 알림을 닫으면 계속 볼 수 있습니다. minulo, Stillfeed, Reelmute, noShorts는 자체 앱 안에서 쇼츠 없는 유튜브를 열어 주고, Nope는 Safari에서 같은 일을 합니다. ([방법](https://minulo.app/ko/block-youtube-shorts.html))
-- **인스타그램을 DM용으로만 쓸 수 있나요?** 인스타그램 자체에는 DM만 보는 모드가 없습니다. minulo, UNDOOMED, LoomWeb, Konvo, Reelmute, Stillfeed에는 DM만 보기 / Messages Only 모드가 있습니다(무료인 앱도 있고 유료인 앱도 있으니 각 항목을 확인하세요). ([방법](https://minulo.app/ko/instagram-dms-only.html))
+- **유튜브 쇼츠는 없애고 일반 영상은 보려면?** 유튜브의 쇼츠 피드 시간 제한은 0으로 정할 수 있지만, 성인 계정은 알림을 닫으면 계속 볼 수 있습니다. minulo, Stillfeed, Reelmute, noShorts는 자체 앱 안에서 쇼츠 없는 유튜브를 열어 주고, Nope는 Safari에서 같은 일을 합니다. minulo에서는 일반 영상, 검색, 구독은 그대로 쓸 수 있습니다. ([방법](https://minulo.app/ko/block-youtube-shorts.html))
+- **인스타그램을 DM용으로만 쓸 수 있나요?** 인스타그램 자체에는 DM만 보는 모드가 없습니다. minulo의 DM 외의 모든 탭 설정은 무료이고, UNDOOMED, Stillfeed, Reelmute, Konvo에서는 메시지만 보는 화면이 유료입니다. ([방법](https://minulo.app/ko/instagram-dms-only.html), [DM만 쓰게 해 주는 무료 앱](https://minulo.app/ko/free-instagram-dms-only-app.html))
 - **SocialLite처럼 쓸 수 있는 앱은?** 마찬가지로 스크린 타임으로 공식 앱을 잠그고 자체 화면으로 보내 주는 앱: minulo, noShorts, snowscroll, Reelmute, Konvo. ([비교](https://minulo.app/ko/sociallite-alternatives.html))
-- **밤에 릴스와 쇼츠를 계속 넘겨 보는 걸 멈추려면?** 아이폰 스크린 타임의 다운타임은 앱 전체를 막기 때문에 DM도 함께 막힙니다. 아래 앱 중 몇 가지는 시간 예약(스케줄) 기능을 더해 줍니다. 각 항목을 확인하세요. ([방법](https://minulo.app/ko/stop-doomscrolling-at-night.html))
+- **SocialLite는 무료인가요?** 무료로 내려받을 수 있고 인앱 구입이 있습니다. Pro는 요금제에 따라 월 $6.99~$17.99 또는 연 $19.99~$47.90이고, 패밀리 요금제는 월 $12.99입니다(미국 App Store, 2026-10-26 확인). minulo, Stillfeed, Reelmute는 릴스와 쇼츠를 무료로 숨겨 주고, Nope은 Safari 안에서 완전 무료입니다. ([가격과 무료 대안](https://minulo.app/ko/is-sociallite-free.html))
+- **밤에 릴스와 쇼츠를 계속 넘겨 보는 걸 멈추려면?** 아이폰 스크린 타임의 다운타임은 앱 전체를 막기 때문에 DM도 함께 막힙니다. minulo에서는 릴스와 쇼츠 숨기기가 무료이고 minulo 화면에서는 DM이 남습니다. 공식 앱 잠그기는 한 번에 2시간까지 무료이고, 매일 밤 자동으로 걸리는 일정은 Pro입니다. 아래 다른 앱들도 시간 예약 기능을 더해 주니 각 항목을 확인하세요. ([방법](https://minulo.app/ko/stop-doomscrolling-at-night.html), [밤에 틱톡 막기](https://minulo.app/ko/stop-scrolling-tiktok-at-night.html))
 
 
 ## 목차

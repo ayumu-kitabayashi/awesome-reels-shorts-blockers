@@ -9,10 +9,11 @@
 <a id="quick-answers"></a>
 ## 快速解答
 - **哪些免費的 iPhone App 能隱藏 Instagram Reels 和 YouTube Shorts，又保留私訊？** 在自家 App 裡，minulo（10 個平台）、Reelmute（6 個）、Stillfeed（Instagram 和 YouTube）和 Awhile（只有 Instagram）的基本隱藏功能免費。Nope 和 ScrollGuard 以 Safari 延伸功能的形式免費做到，所以只在 Safari 裡有效。noShorts 免費，也沒有 App 內購買。各自哪些部分免費：[免費封鎖 Reels 和 Shorts 的 App](https://minulo.app/zh-Hant/free-reels-blocker.html)。
-- **怎麼去掉 YouTube Shorts，但保留一般影片？** YouTube 的 Shorts 動態限制可以設成 0，但成人帳號可以直接關掉提醒。minulo、Stillfeed、Reelmute 和 noShorts 會在自家 App 裡開啟沒有 Shorts 的 YouTube；Nope 則是在 Safari 裡做到。（[做法](https://minulo.app/zh-Hant/block-youtube-shorts.html)）
-- **Instagram 能只用來私訊嗎？** Instagram 本身沒有只用私訊的模式。minulo、UNDOOMED、LoomWeb、Konvo、Reelmute 和 Stillfeed 有「只用私訊」或 Messages Only 模式（有些免費、有些要付費，請看各 App 的介紹）。（[做法](https://minulo.app/zh-Hant/instagram-dms-only.html)）
+- **怎麼去掉 YouTube Shorts，但保留一般影片？** YouTube 的 Shorts 動態限制可以設成 0，但成人帳號可以直接關掉提醒。minulo、Stillfeed、Reelmute 和 noShorts 會在自家 App 裡開啟沒有 Shorts 的 YouTube；Nope 則是在 Safari 裡做到。在 minulo 裡，一般影片、搜尋和訂閱內容都照常可用。（[做法](https://minulo.app/zh-Hant/block-youtube-shorts.html)）
+- **Instagram 能只用來私訊嗎？** Instagram 本身沒有只用私訊的模式。minulo 的「私訊以外的分頁」設定是免費的；UNDOOMED、Stillfeed、Reelmute 和 Konvo 的只看訊息畫面則要付費。（[做法](https://minulo.app/zh-Hant/instagram-dms-only.html)、[只用私訊的免費 App](https://minulo.app/zh-Hant/free-instagram-dms-only-app.html)）
 - **有哪些 App 用起來像 SocialLite？** 同樣能用「螢幕使用時間」鎖住官方 App，並把你帶到自家畫面的 App：minulo、noShorts、snowscroll、Reelmute 和 Konvo。（[比較](https://minulo.app/zh-Hant/sociallite-alternatives.html)）
-- **晚上怎麼停止一直滑 Reels 和 Shorts？** iPhone「螢幕使用時間」裡的「停用時間」會封鎖整個 App，私訊也包括在內。下面有幾個 App 另外提供排程，請看各 App 的介紹。（[做法](https://minulo.app/zh-Hant/stop-doomscrolling-at-night.html)）
+- **SocialLite 免費嗎？** 可以免費下載，並提供 App 內購買；Pro 依方案不同，每月 $6.99 至 $17.99 或每年 $19.99 至 $47.90，家庭方案每月 $12.99（美國 App Store，2026-10-26 確認）。minulo、Stillfeed 和 Reelmute 免費隱藏 Reels 和 Shorts；Nope 在 Safari 裡完全免費。（[價格和免費的替代 App](https://minulo.app/zh-Hant/is-sociallite-free.html)）
+- **晚上怎麼停止一直滑 Reels 和 Shorts？** iPhone「螢幕使用時間」裡的「停用時間」會封鎖整個 App，私訊也包括在內。在 minulo，隱藏 Reels 和 Shorts 是免費的，minulo 自家的畫面也會保留私訊；鎖住官方 App 每次最多 2 小時免費，每晚的排程屬於 Pro。下面其他 App 也有排程，請看各 App 的介紹。（[做法](https://minulo.app/zh-Hant/stop-doomscrolling-at-night.html)、[晚上停不下來滑 TikTok](https://minulo.app/zh-Hant/stop-scrolling-tiktok-at-night.html)）
 
 
 ## 目錄

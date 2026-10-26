@@ -9,10 +9,11 @@
 <a id="quick-answers"></a>
 ## よくある質問
 - **インスタのリールと YouTube ショートを消して、DM は残せる無料の iPhone アプリは？** アプリの中で SNS を開くタイプでは、minulo（10 の SNS）、Reelmute（6）、Stillfeed（インスタと YouTube）、Awhile（インスタのみ）の基本の非表示が無料です。Nope と ScrollGuard は Safari 機能拡張として無料で消せますが、効くのは Safari の中だけです。noShorts は無料で、アプリ内課金もありません。それぞれ何が無料か：[リールとショートを無料で消せるアプリ](https://minulo.app/free-reels-blocker.html)。
-- **YouTube ショートだけなくして、ふつうの動画は見るには？** YouTube のショートフィードの上限は 0 にできますが、大人のアカウントでは通知を閉じれば見続けられます。minulo、Stillfeed、Reelmute、noShorts は、アプリの中でショートのない YouTube を開けます。Nope は同じことを Safari でします。（[やり方](https://minulo.app/block-youtube-shorts.html)）
-- **インスタを DM だけに使える？** インスタ自体には DM だけにするモードはありません。minulo、UNDOOMED、LoomWeb、Konvo、Reelmute、Stillfeed には DM だけにするモード（Messages Only など）があります（無料のものも有料のものもあるので、各アプリの欄を見てください）。（[やり方](https://minulo.app/instagram-dms-only.html)）
+- **YouTube ショートだけなくして、ふつうの動画は見るには？** YouTube のショートフィードの上限は 0 にできますが、大人のアカウントでは通知を閉じれば見続けられます。minulo、Stillfeed、Reelmute、noShorts は、アプリの中でショートのない YouTube を開けます。Nope は同じことを Safari でします。minulo では、ふつうの動画・検索・登録チャンネルはそのまま使えます。（[やり方](https://minulo.app/block-youtube-shorts.html)）
+- **インスタを DM だけに使える？** インスタ自体には DM だけにするモードはありません。minulo の［DM以外のタブ］は無料です。UNDOOMED、Stillfeed、Reelmute、Konvo では、メッセージだけの表示は有料です。（[やり方](https://minulo.app/instagram-dms-only.html)・[DM だけにできる無料アプリ](https://minulo.app/free-instagram-dms-only-app.html)）
 - **SocialLite と同じように使えるアプリは？** 同じくスクリーンタイムで公式アプリにロックをかけ、そのアプリの画面に移すもの：minulo、noShorts、snowscroll、Reelmute、Konvo。（[比較](https://minulo.app/sociallite-alternatives.html)）
-- **夜にリールやショートを見続けてしまうのを止めるには？** iPhone のスクリーンタイムの休止時間はアプリをまるごと止めるので、DM も使えなくなります。下のアプリのいくつかは時間帯の設定（スケジュール）を足せます。各アプリの欄を見てください。（[やり方](https://minulo.app/stop-doomscrolling-at-night.html)）
+- **SocialLite は無料？** 無料でダウンロードでき、アプリ内課金があります。Pro は表示されるプランによって月6.99〜17.99ドルか年19.99〜47.90ドル、ファミリープランは月12.99ドルです（米国の App Store、2026-10-26 確認）。minulo、Stillfeed、Reelmute はリールとショートを無料で消せます。Nope は Safari の中で完全に無料です。（[料金と無料の代わり](https://minulo.app/is-sociallite-free.html)）
+- **夜にリールやショートを見続けてしまうのを止めるには？** iPhone のスクリーンタイムの休止時間はアプリをまるごと止めるので、DM も使えなくなります。minulo では、リールとショートを消すのは無料で、minulo の画面では DM が残ります。公式アプリを止めるのは1回2時間までなら無料で、毎晩の自動の予定は Pro です。下のほかのアプリにも時間帯の設定があります。各アプリの欄を見てください。（[やり方](https://minulo.app/stop-doomscrolling-at-night.html)・[夜に TikTok を止める](https://minulo.app/stop-scrolling-tiktok-at-night.html)）
 
 
 ## 目次
