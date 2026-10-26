@@ -89,7 +89,7 @@ Safari에서 instagram.com이나 youtube.com을 볼 때 피드를 숨겨 줍니�
 - **인스타그램은 DM과 단톡방 때문에만 쓰나요?** DM만 보기 / Messages Only 모드가 있는 앱을 고르세요 (UNDOOMED, LoomWeb, Konvo, minulo, Reelmute, Stillfeed).
 - **틱톡이나 스냅챗도 필요한가요?** 지원 SNS를 확인하세요. 모든 앱이 지원하지는 않습니다.
 - **습관처럼 공식 앱을 다시 열게 되나요?** 스크린 타임으로 공식 앱을 잠그는 앱을 고르세요 (SocialLite, minulo, noShorts, snowscroll, Reelmute, Konvo).
-- **전부 무료였으면 하나요?** Nope, ShortformBlock, Still은 무료 Safari 확장 프로그램이고, noShorts, Dome, Noreel, Close는 무료라고 밝히고 있습니다. 여러 앱 안 브라우저도 기본 숨기기는 무료입니다. 앱마다 무엇이 무료인지: [Free apps to block Reels and Shorts on iPhone](https://minulo.app/en/free-reels-blocker.html) (영어).
+- **전부 무료였으면 하나요?** Nope, ShortformBlock, Still은 무료 Safari 확장 프로그램이고, noShorts, Dome, Noreel, Close는 무료라고 밝히고 있습니다. minulo, Stillfeed, Reelmute, Awhile 같은 앱 안 브라우저도 기본 숨기기는 무료입니다. 앱마다 무엇이 무료인지: [Free apps to block Reels and Shorts on iPhone](https://minulo.app/en/free-reels-blocker.html) (영어).
 
 더 자세히: [비교표](https://minulo.app/en/alternatives.html) (영어) · [Can you remove Reels from the Instagram app?](https://minulo.app/en/remove-reels-from-instagram-app.html) (영어)
 

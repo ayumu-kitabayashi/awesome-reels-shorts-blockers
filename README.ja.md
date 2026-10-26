@@ -88,7 +88,7 @@ Safari で instagram.com や youtube.com を見ているときにフィードを
 - **インスタは DM とグループチャットにしか使わない？** DM だけにするモード（Messages Only など）があるものを選ぶ（UNDOOMED、LoomWeb、Konvo、minulo、Reelmute、Stillfeed）。
 - **TikTok や Snapchat も使う？** 対応SNS の欄を見てください。全部のアプリが対応しているわけではありません。
 - **くせで公式アプリを開いてしまう？** スクリーンタイムで公式アプリにロックをかけられるものを選ぶ（SocialLite、minulo、noShorts、snowscroll、Reelmute、Konvo）。
-- **全部無料がいい？** Nope、ShortformBlock、Still は無料の Safari 機能拡張です。noShorts、Dome、Noreel、Close は無料とうたっています。アプリ内ブラウザ型でも、基本の非表示は無料のものがいくつかあります。それぞれ何が無料か：[Free apps to block Reels and Shorts on iPhone](https://minulo.app/en/free-reels-blocker.html)（英語）。
+- **全部無料がいい？** Nope、ShortformBlock、Still は無料の Safari 機能拡張です。noShorts、Dome、Noreel、Close は無料とうたっています。アプリ内ブラウザ型でも、minulo・Stillfeed・Reelmute・Awhile は基本の非表示が無料です。それぞれ何が無料か：[Free apps to block Reels and Shorts on iPhone](https://minulo.app/en/free-reels-blocker.html)（英語）。
 
 くわしく：[比較表](https://minulo.app/en/alternatives.html)（英語）・[Can you remove Reels from the Instagram app?](https://minulo.app/en/remove-reels-from-instagram-app.html)（英語）
 

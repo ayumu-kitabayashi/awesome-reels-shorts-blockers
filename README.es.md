@@ -88,7 +88,7 @@ Sirven si quieres dejar de usar una app del todo; no quitan los Reels dejando lo
 - **¿Usas Instagram solo para los DMs y los chats de grupo?** Busca un modo de solo DMs / Messages Only (UNDOOMED, LoomWeb, Konvo, minulo, Reelmute, Stillfeed).
 - **¿También necesitas TikTok o Snapchat?** Mira las redes de cada app, porque no todas las incluyen.
 - **¿Acabas abriendo la app oficial por costumbre?** Elige una app que bloquee la app oficial con Tiempo de uso (SocialLite, minulo, noShorts, snowscroll, Reelmute, Konvo).
-- **¿Lo quieres todo gratis?** Nope, ShortformBlock y Still son extensiones de Safari gratis; noShorts, Dome, Noreel y Close dicen ser gratis; y varios navegadores dentro de la app dejan esconder lo básico sin pagar. Qué es gratis en cada una: [Free apps to block Reels and Shorts on iPhone](https://minulo.app/en/free-reels-blocker.html) (en inglés).
+- **¿Lo quieres todo gratis?** Nope, ShortformBlock y Still son extensiones de Safari gratis; noShorts, Dome, Noreel y Close dicen ser gratis; y navegadores dentro de la app como minulo, Stillfeed, Reelmute y Awhile dejan esconder lo básico sin pagar. Qué es gratis en cada una: [Free apps to block Reels and Shorts on iPhone](https://minulo.app/en/free-reels-blocker.html) (en inglés).
 
 Más detalle (en inglés): [tabla comparativa](https://minulo.app/en/alternatives.html) · [Can you remove Reels from the Instagram app?](https://minulo.app/en/remove-reels-from-instagram-app.html)
 
