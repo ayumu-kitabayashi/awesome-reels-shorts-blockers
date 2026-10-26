@@ -6,7 +6,17 @@ Daftar aplikasi dan pengaturan iPhone yang menyembunyikan **Reels Instagram, Sho
 > **Pengungkapan:** daftar ini dikelola oleh developer [minulo](https://minulo.app/id/), salah satu aplikasi di bawah. Semua informasi hanya diambil dari halaman App Store AS atau situs resmi tiap aplikasi (dicek Oktober 2026; jumlah rating terakhir diperbarui 2026-10-24). Jumlah rating berubah setiap hari. Koreksi dan tambahan dipersilakan lewat issue atau pull request.
 
 
+<a id="quick-answers"></a>
+## Jawaban singkat
+- **Aplikasi iPhone gratis apa yang menyembunyikan Reels Instagram dan Shorts YouTube tapi DM tetap bisa dipakai?** Di dalam aplikasinya sendiri, fitur sembunyikan dasarnya gratis di minulo (10 platform), Reelmute (6), Stillfeed (Instagram dan YouTube), dan Awhile (hanya Instagram). Nope dan ScrollGuard melakukannya gratis sebagai ekstensi Safari, jadi hanya berfungsi di Safari. noShorts gratis tanpa pembelian dalam aplikasi. Apa saja yang gratis di tiap aplikasi: [Aplikasi gratis untuk memblokir Reels dan Shorts](https://minulo.app/id/free-reels-blocker.html).
+- **Bagaimana cara menghilangkan Shorts YouTube tapi tetap bisa menonton video biasa?** Batas feed Shorts YouTube bisa diatur ke 0, tetapi untuk akun dewasa pengingatnya bisa ditutup. minulo, Stillfeed, Reelmute, dan noShorts membuka YouTube tanpa Shorts di dalam aplikasinya sendiri; Nope melakukannya di Safari. ([caranya](https://minulo.app/id/block-youtube-shorts.html))
+- **Bisakah Instagram dipakai hanya untuk DM?** Instagram sendiri tidak punya mode khusus DM. minulo, UNDOOMED, LoomWeb, Konvo, Reelmute, dan Stillfeed punya mode khusus DM atau Messages Only (ada yang gratis, ada yang berbayar; lihat tiap entri). ([caranya](https://minulo.app/id/instagram-dms-only.html))
+- **Aplikasi apa yang mirip SocialLite?** Aplikasi yang juga mengunci aplikasi resmi dengan Durasi Layar dan mengarahkanmu ke tampilannya sendiri: minulo, noShorts, snowscroll, Reelmute, dan Konvo. ([perbandingan](https://minulo.app/id/sociallite-alternatives.html))
+- **Bagaimana cara berhenti scroll Reels dan Shorts di malam hari?** Waktu Henti di Durasi Layar iPhone memblokir seluruh aplikasi, termasuk DM. Beberapa aplikasi di bawah menambahkan jadwal; lihat tiap entri. ([caranya](https://minulo.app/id/stop-doomscrolling-at-night.html))
+
+
 ## Daftar isi
+- [Jawaban singkat](#quick-answers)
 - [Pengaturan bawaan (tanpa aplikasi)](#built-in-settings)
 - [Aplikasi yang membuka media sosial tanpa feed](#in-app-browsers)
 - [Ekstensi Safari](#safari-extensions)

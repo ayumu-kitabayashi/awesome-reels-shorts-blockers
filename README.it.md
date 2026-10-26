@@ -6,7 +6,17 @@ Un elenco di app e impostazioni per iPhone che nascondono **i Reels di Instagram
 > **Trasparenza:** questa lista è curata dallo sviluppatore di [minulo](https://minulo.app/it/), una delle app elencate qui sotto. Le informazioni vengono solo dalla pagina dell'App Store USA o dal sito ufficiale di ciascuna app (verificate a ottobre 2026; numero di valutazioni aggiornato l'ultima volta il 2026-10-24). Il numero di valutazioni cambia ogni giorno. Correzioni e aggiunte sono benvenute tramite issue o pull request.
 
 
+<a id="quick-answers"></a>
+## Risposte rapide
+- **Quali app gratuite per iPhone nascondono i Reels di Instagram e gli Shorts di YouTube lasciando i DM?** Dentro la loro app, le funzioni di base per nascondere sono gratis in minulo (10 social), Reelmute (6), Stillfeed (Instagram e YouTube) e Awhile (solo Instagram). Nope e ScrollGuard lo fanno gratis come estensioni di Safari, quindi funzionano solo in Safari. noShorts è gratis e senza acquisti in-app. Cosa è gratis in ognuna: [App gratuite per bloccare Reels e Shorts](https://minulo.app/it/free-reels-blocker.html).
+- **Come tolgo gli Shorts di YouTube tenendo i video normali?** Il limite per il feed di Shorts su YouTube si può impostare a 0, ma gli adulti possono chiudere il promemoria. minulo, Stillfeed, Reelmute e noShorts aprono YouTube senza Shorts dentro la loro app; Nope lo fa in Safari. ([come fare](https://minulo.app/it/block-youtube-shorts.html))
+- **Posso usare Instagram solo per i DM?** Instagram non ha una modalità solo DM. minulo, UNDOOMED, LoomWeb, Konvo, Reelmute e Stillfeed hanno una modalità solo DM o Messages Only (gratis in alcune, a pagamento in altre; vedi le singole voci). ([come fare](https://minulo.app/it/instagram-dms-only.html))
+- **Cosa funziona come SocialLite?** Le app che bloccano anche loro le app ufficiali con Tempo di utilizzo e ti portano alla loro vista: minulo, noShorts, snowscroll, Reelmute e Konvo. ([confronto](https://minulo.app/it/sociallite-alternatives.html))
+- **Come smetto di scorrere Reels e Shorts di notte?** La pausa di utilizzo di Tempo di utilizzo dell'iPhone blocca app intere, DM compresi. Diverse app qui sotto aggiungono delle fasce orarie; vedi le singole voci. ([come fare](https://minulo.app/it/stop-doomscrolling-at-night.html))
+
+
 ## Indice
+- [Risposte rapide](#quick-answers)
 - [Impostazioni già presenti (senza app)](#built-in-settings)
 - [App che aprono i social senza i feed](#in-app-browsers)
 - [Estensioni di Safari](#safari-extensions)

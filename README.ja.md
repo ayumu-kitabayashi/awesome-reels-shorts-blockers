@@ -6,7 +6,17 @@
 > **開示：** この一覧は、下に載っているアプリのひとつ [minulo](https://minulo.app/en/) の開発者が管理しています。内容は各アプリの米国 App Store のページか公式サイトに書かれていることだけを使っています（2026年10月に確認、評価数の最終更新は 2026-10-24）。評価数は毎日変わります。誤りの指摘や追加は issue か pull request でお願いします。
 
 
+<a id="quick-answers"></a>
+## よくある質問
+- **インスタのリールと YouTube ショートを消して、DM は残せる無料の iPhone アプリは？** アプリの中で SNS を開くタイプでは、minulo（10 の SNS）、Reelmute（6）、Stillfeed（インスタと YouTube）、Awhile（インスタのみ）の基本の非表示が無料です。Nope と ScrollGuard は Safari 機能拡張として無料で消せますが、効くのは Safari の中だけです。noShorts は無料で、アプリ内課金もありません。それぞれ何が無料か：[リールとショートを無料で消せるアプリ](https://minulo.app/free-reels-blocker.html)。
+- **YouTube ショートだけなくして、ふつうの動画は見るには？** YouTube のショートフィードの上限は 0 にできますが、大人のアカウントでは通知を閉じれば見続けられます。minulo、Stillfeed、Reelmute、noShorts は、アプリの中でショートのない YouTube を開けます。Nope は同じことを Safari でします。（[やり方](https://minulo.app/block-youtube-shorts.html)）
+- **インスタを DM だけに使える？** インスタ自体には DM だけにするモードはありません。minulo、UNDOOMED、LoomWeb、Konvo、Reelmute、Stillfeed には DM だけにするモード（Messages Only など）があります（無料のものも有料のものもあるので、各アプリの欄を見てください）。（[やり方](https://minulo.app/instagram-dms-only.html)）
+- **SocialLite と同じように使えるアプリは？** 同じくスクリーンタイムで公式アプリにロックをかけ、そのアプリの画面に移すもの：minulo、noShorts、snowscroll、Reelmute、Konvo。（[比較](https://minulo.app/sociallite-alternatives.html)）
+- **夜にリールやショートを見続けてしまうのを止めるには？** iPhone のスクリーンタイムの休止時間はアプリをまるごと止めるので、DM も使えなくなります。下のアプリのいくつかは時間帯の設定（スケジュール）を足せます。各アプリの欄を見てください。（[やり方](https://minulo.app/stop-doomscrolling-at-night.html)）
+
+
 ## 目次
+- [よくある質問](#quick-answers)
 - [アプリなしでできる設定](#built-in-settings)
 - [リール・ショートを消した状態で SNS を開くアプリ（DMはそのまま）](#in-app-browsers)
 - [Safari 機能拡張](#safari-extensions)

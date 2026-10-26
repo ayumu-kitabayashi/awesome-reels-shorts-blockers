@@ -6,7 +6,17 @@
 > **揭露：** 這份清單由 [minulo](https://minulo.app/zh-Hant/) 的開發者維護，minulo 也是下面列出的 App 之一。所有資訊只取自各 App 的美國 App Store 頁面或官方網站（2026 年 10 月確認；評分數最後更新於 2026-10-24）。評分數每天都會變動。歡迎透過 issue 或 pull request 指正或補充。
 
 
+<a id="quick-answers"></a>
+## 快速解答
+- **哪些免費的 iPhone App 能隱藏 Instagram Reels 和 YouTube Shorts，又保留私訊？** 在自家 App 裡，minulo（10 個平台）、Reelmute（6 個）、Stillfeed（Instagram 和 YouTube）和 Awhile（只有 Instagram）的基本隱藏功能免費。Nope 和 ScrollGuard 以 Safari 延伸功能的形式免費做到，所以只在 Safari 裡有效。noShorts 免費，也沒有 App 內購買。各自哪些部分免費：[免費封鎖 Reels 和 Shorts 的 App](https://minulo.app/zh-Hant/free-reels-blocker.html)。
+- **怎麼去掉 YouTube Shorts，但保留一般影片？** YouTube 的 Shorts 動態限制可以設成 0，但成人帳號可以直接關掉提醒。minulo、Stillfeed、Reelmute 和 noShorts 會在自家 App 裡開啟沒有 Shorts 的 YouTube；Nope 則是在 Safari 裡做到。（[做法](https://minulo.app/zh-Hant/block-youtube-shorts.html)）
+- **Instagram 能只用來私訊嗎？** Instagram 本身沒有只用私訊的模式。minulo、UNDOOMED、LoomWeb、Konvo、Reelmute 和 Stillfeed 有「只用私訊」或 Messages Only 模式（有些免費、有些要付費，請看各 App 的介紹）。（[做法](https://minulo.app/zh-Hant/instagram-dms-only.html)）
+- **有哪些 App 用起來像 SocialLite？** 同樣能用「螢幕使用時間」鎖住官方 App，並把你帶到自家畫面的 App：minulo、noShorts、snowscroll、Reelmute 和 Konvo。（[比較](https://minulo.app/zh-Hant/sociallite-alternatives.html)）
+- **晚上怎麼停止一直滑 Reels 和 Shorts？** iPhone「螢幕使用時間」裡的「停用時間」會封鎖整個 App，私訊也包括在內。下面有幾個 App 另外提供排程，請看各 App 的介紹。（[做法](https://minulo.app/zh-Hant/stop-doomscrolling-at-night.html)）
+
+
 ## 目錄
+- [快速解答](#quick-answers)
 - [內建設定（不用裝 App）](#built-in-settings)
 - [把動態拿掉後再開社群的 App](#in-app-browsers)
 - [Safari 延伸功能](#safari-extensions)

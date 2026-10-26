@@ -6,7 +6,17 @@
 > **การเปิดเผยข้อมูล:** รายการนี้ดูแลโดยผู้พัฒนา [minulo](https://minulo.app/th/) ซึ่งเป็นหนึ่งในแอปด้านล่าง ข้อมูลทั้งหมดมาจากหน้า App Store สหรัฐฯ หรือเว็บไซต์ทางการของแต่ละแอปเท่านั้น (ตรวจสอบเมื่อตุลาคม 2026 อัปเดตจำนวนเรตติ้งล่าสุดเมื่อ 2026-10-24) จำนวนเรตติ้งเปลี่ยนทุกวัน ยินดีรับการแก้ไขและข้อมูลเพิ่มเติมผ่าน issue หรือ pull request
 
 
+<a id="quick-answers"></a>
+## คำตอบสั้น ๆ
+- **แอป iPhone ฟรีตัวไหนซ่อน Reels ของ Instagram และ YouTube Shorts ได้ โดยที่ DM ยังใช้ได้?** แอปที่ซ่อนพื้นฐานได้ฟรีภายในแอปของตัวเอง ได้แก่ minulo (10 แพลตฟอร์ม), Reelmute (6), Stillfeed (Instagram และ YouTube) และ Awhile (Instagram อย่างเดียว) ส่วน Nope และ ScrollGuard ทำได้ฟรีในรูปแบบส่วนขยาย Safari จึงใช้ได้แค่ใน Safari และ noShorts ใช้ฟรีโดยไม่มีการซื้อภายในแอป แต่ละแอปฟรีแค่ไหน: [แอปฟรีบล็อก Reels และ Shorts](https://minulo.app/th/free-reels-blocker.html)
+- **จะเอา YouTube Shorts ออกแต่ยังดูวิดีโอปกติได้อย่างไร?** ขีดจำกัดฟีด Shorts ของ YouTube ตั้งเป็น 0 ได้ แต่บัญชีผู้ใหญ่กดปิดการแจ้งเตือนได้ minulo, Stillfeed, Reelmute และ noShorts เปิด YouTube แบบไม่มี Shorts ภายในแอปของตัวเอง ส่วน Nope ทำแบบนี้ใน Safari ([วิธีทำ](https://minulo.app/th/block-youtube-shorts.html))
+- **ใช้ Instagram แค่ DM ได้ไหม?** ตัว Instagram เองไม่มีโหมดแค่ DM แต่ minulo, UNDOOMED, LoomWeb, Konvo, Reelmute และ Stillfeed มีโหมดแค่ DM หรือ Messages Only (บางแอปฟรี บางแอปต้องจ่ายเงิน ดูรายละเอียดของแต่ละแอป) ([วิธีทำ](https://minulo.app/th/instagram-dms-only.html))
+- **แอปไหนใช้งานคล้าย SocialLite?** แอปที่ล็อกแอปทางการด้วยเวลาหน้าจอแล้วพาไปหน้าของแอปตัวเองเหมือนกัน ได้แก่ minulo, noShorts, snowscroll, Reelmute และ Konvo ([เปรียบเทียบ](https://minulo.app/th/sociallite-alternatives.html))
+- **จะหยุดไถ Reels และ Shorts ตอนกลางคืนได้อย่างไร?** เวลาไม่ใช้งานในเวลาหน้าจอของ iPhone บล็อกทั้งแอป รวมถึง DM ด้วย แอปหลายตัวด้านล่างเพิ่มการตั้งเวลาได้ ดูรายละเอียดของแต่ละแอป ([วิธีทำ](https://minulo.app/th/stop-doomscrolling-at-night.html))
+
+
 ## สารบัญ
+- [คำตอบสั้น ๆ](#quick-answers)
 - [การตั้งค่าในตัว (ไม่ต้องใช้แอป)](#built-in-settings)
 - [แอปที่เปิดโซเชียลแบบไม่มีฟีด](#in-app-browsers)
 - [ส่วนขยาย Safari](#safari-extensions)

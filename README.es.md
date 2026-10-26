@@ -6,7 +6,17 @@ Lista de apps y ajustes de iPhone para bloquear **los Reels de Instagram, los Sh
 > **Aviso:** esta lista la mantiene el desarrollador de [minulo](https://minulo.app/en/), una de las apps que aparecen abajo. Los datos salen solo de la página de cada app en el App Store de EE. UU. o de su web oficial (revisado en octubre de 2026; número de valoraciones actualizado el 2026-10-24). El número de valoraciones cambia cada día. Si ves un error o falta alguna app, abre un issue o un pull request.
 
 
+<a id="quick-answers"></a>
+## Respuestas rápidas
+- **¿Qué apps gratis para iPhone esconden los Reels de Instagram y los Shorts de YouTube sin quitar los DMs?** Dentro de su propia app, esconder lo básico es gratis en minulo (10 redes), Reelmute (6), Stillfeed (Instagram y YouTube) y Awhile (solo Instagram). Nope y ScrollGuard lo hacen gratis como extensiones de Safari, así que solo funcionan en Safari. noShorts es gratis y no tiene compras dentro de la app. Qué es gratis en cada una: [Apps gratis para bloquear Reels y Shorts](https://minulo.app/es/free-reels-blocker.html).
+- **¿Cómo quito los Shorts de YouTube sin dejar de ver los videos normales?** El límite del feed de Shorts de YouTube se puede poner en 0, pero para adultos el aviso se puede cerrar. minulo, Stillfeed, Reelmute y noShorts abren YouTube sin Shorts dentro de su propia app; Nope lo hace en Safari. ([cómo hacerlo](https://minulo.app/es/block-youtube-shorts.html))
+- **¿Puedo usar Instagram solo para los DMs?** Instagram no tiene un modo de solo DMs. minulo, UNDOOMED, LoomWeb, Konvo, Reelmute y Stillfeed tienen un modo de solo DMs o Messages Only (gratis en unas, de pago en otras; mira cada entrada). ([cómo hacerlo](https://minulo.app/es/instagram-dms-only.html))
+- **¿Qué funciona como SocialLite?** Apps que también bloquean las apps oficiales con Tiempo de uso y te llevan a su propia vista: minulo, noShorts, snowscroll, Reelmute y Konvo. ([comparativa](https://minulo.app/es/sociallite-alternatives.html))
+- **¿Cómo dejo de pasar Reels y Shorts por la noche?** El tiempo de inactividad de Tiempo de uso del iPhone bloquea apps enteras, DMs incluidos. Varias de las apps de abajo añaden horarios; mira cada entrada. ([cómo hacerlo](https://minulo.app/es/stop-doomscrolling-at-night.html))
+
+
 ## Contenido
+- [Respuestas rápidas](#quick-answers)
 - [Ajustes que ya trae el teléfono (sin instalar nada)](#built-in-settings)
 - [Apps que abren las redes sociales sin los feeds](#in-app-browsers)
 - [Extensiones de Safari](#safari-extensions)

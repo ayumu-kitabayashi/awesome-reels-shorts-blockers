@@ -6,7 +6,17 @@ Danh sách ứng dụng và cài đặt trên iPhone giúp ẩn **Reels Instagra
 > **Công khai:** danh sách này do nhà phát triển [minulo](https://minulo.app/vi/), một trong các ứng dụng bên dưới, duy trì. Thông tin chỉ lấy từ trang App Store Mỹ hoặc trang web chính thức của từng ứng dụng (kiểm tra vào tháng 10/2026; số lượt đánh giá cập nhật lần cuối ngày 2026-10-24). Số lượt đánh giá thay đổi hằng ngày. Mọi chỉnh sửa và bổ sung đều được hoan nghênh qua issue hoặc pull request.
 
 
+<a id="quick-answers"></a>
+## Trả lời nhanh
+- **Ứng dụng iPhone miễn phí nào ẩn được Reels Instagram và Shorts YouTube mà vẫn giữ tin nhắn?** Ngay trong ứng dụng của mình, minulo (10 mạng xã hội), Reelmute (6), Stillfeed (Instagram và YouTube) và Awhile (chỉ Instagram) cho ẩn cơ bản miễn phí. Nope và ScrollGuard làm việc này miễn phí dưới dạng tiện ích Safari, nên chỉ dùng được trong Safari. noShorts miễn phí và không có mua hàng trong ứng dụng. Mỗi ứng dụng miễn phí những gì: [Ứng dụng miễn phí chặn Reels và Shorts](https://minulo.app/vi/free-reels-blocker.html).
+- **Làm sao bỏ Shorts YouTube mà vẫn xem video thường?** Giới hạn bảng tin Shorts của YouTube có thể đặt về 0, nhưng với tài khoản người lớn, lời nhắc có thể tắt đi. minulo, Stillfeed, Reelmute và noShorts mở YouTube không có Shorts ngay trong ứng dụng của mình; Nope làm việc này trong Safari. ([cách làm](https://minulo.app/vi/block-youtube-shorts.html))
+- **Có thể dùng Instagram chỉ để nhắn tin không?** Bản thân Instagram không có chế độ chỉ tin nhắn. minulo, UNDOOMED, LoomWeb, Konvo, Reelmute và Stillfeed có chế độ chỉ tin nhắn hoặc Messages Only (có ứng dụng miễn phí, có ứng dụng trả phí; xem từng mục). ([cách làm](https://minulo.app/vi/instagram-dms-only.html))
+- **Ứng dụng nào dùng giống SocialLite?** Các ứng dụng cũng khóa ứng dụng chính thức bằng Thời gian sử dụng và đưa bạn sang giao diện riêng của chúng: minulo, noShorts, snowscroll, Reelmute và Konvo. ([so sánh](https://minulo.app/vi/sociallite-alternatives.html))
+- **Làm sao ngừng lướt Reels và Shorts vào ban đêm?** Giờ nghỉ trong Thời gian sử dụng của iPhone chặn cả ứng dụng, kể cả tin nhắn. Một số ứng dụng bên dưới có thêm lịch hẹn giờ; xem từng mục. ([cách làm](https://minulo.app/vi/stop-doomscrolling-at-night.html))
+
+
 ## Mục lục
+- [Trả lời nhanh](#quick-answers)
 - [Cài đặt có sẵn (không cần ứng dụng)](#built-in-settings)
 - [Ứng dụng mở mạng xã hội mà không có bảng tin](#in-app-browsers)
 - [Tiện ích mở rộng Safari](#safari-extensions)

@@ -6,7 +6,17 @@ Uma lista de apps e ajustes para iPhone que escondem os **Reels do Instagram, os
 > **Aviso:** esta lista é mantida pelo desenvolvedor do [minulo](https://minulo.app/en/), um dos apps abaixo. As informações vêm só da página de cada app na App Store dos EUA ou do site oficial (conferidas em outubro de 2026; número de avaliações atualizado em 2026-10-24). O número de avaliações muda todo dia. Correções e sugestões são bem-vindas por issue ou pull request.
 
 
+<a id="quick-answers"></a>
+## Respostas rápidas
+- **Quais apps grátis para iPhone escondem os Reels do Instagram e os Shorts do YouTube sem perder as DMs?** Dentro do próprio app, esconder o básico é grátis no minulo (10 redes), no Reelmute (6), no Stillfeed (Instagram e YouTube) e no Awhile (só Instagram). Nope e ScrollGuard fazem isso de graça como extensões do Safari, então só funcionam no Safari. O noShorts é grátis e não tem compras dentro do app. O que é grátis em cada um: [Apps grátis para bloquear Reels e Shorts](https://minulo.app/pt/free-reels-blocker.html).
+- **Como tirar os Shorts do YouTube e continuar vendo os vídeos normais?** O limite do feed do Shorts no YouTube pode ficar em 0, mas adultos podem dispensar o aviso. minulo, Stillfeed, Reelmute e noShorts abrem o YouTube sem Shorts dentro do próprio app; o Nope faz isso no Safari. ([passo a passo](https://minulo.app/pt/block-youtube-shorts.html))
+- **Dá para usar o Instagram só para DMs?** O próprio Instagram não tem um modo só DMs. minulo, UNDOOMED, LoomWeb, Konvo, Reelmute e Stillfeed têm um modo só DMs ou Messages Only (grátis em alguns, pago em outros; veja cada item). ([passo a passo](https://minulo.app/pt/instagram-dms-only.html))
+- **O que funciona como o SocialLite?** Apps que também travam os apps oficiais com o Tempo de Uso e mandam você para a tela deles: minulo, noShorts, snowscroll, Reelmute e Konvo. ([comparação](https://minulo.app/pt/sociallite-alternatives.html))
+- **Como parar de rolar Reels e Shorts à noite?** O Repouso do Tempo de Uso do iPhone bloqueia apps inteiros, DMs incluídas. Vários apps abaixo adicionam horários; veja cada item. ([passo a passo](https://minulo.app/pt/stop-doomscrolling-at-night.html))
+
+
 ## Conteúdo
+- [Respostas rápidas](#quick-answers)
 - [Ajustes do próprio app (sem instalar nada)](#built-in-settings)
 - [Apps que abrem as redes sociais sem os feeds](#in-app-browsers)
 - [Extensões do Safari](#safari-extensions)

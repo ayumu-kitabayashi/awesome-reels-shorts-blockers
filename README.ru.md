@@ -6,7 +6,17 @@
 > **Раскрытие информации:** этот список ведёт разработчик [minulo](https://minulo.app/ru/), одного из приложений ниже. Все сведения взяты только со страницы приложения в App Store США или с его официального сайта (проверено в октябре 2026 года; число оценок последний раз обновлено 2026-10-24). Число оценок меняется каждый день. Исправления и дополнения можно присылать через issue или pull request.
 
 
+<a id="quick-answers"></a>
+## Быстрые ответы
+- **Какие бесплатные приложения для iPhone скрывают Reels в Instagram и Shorts в YouTube, но оставляют Директ?** Внутри собственного приложения базовое скрытие бесплатно в minulo (10 соцсетей), Reelmute (6), Stillfeed (Instagram и YouTube) и Awhile (только Instagram). Nope и ScrollGuard делают это бесплатно как расширения для Safari, поэтому работают только в Safari. noShorts бесплатен, встроенных покупок в нём нет. Что именно бесплатно в каждом: [Бесплатные приложения для блокировки Reels и Shorts](https://minulo.app/ru/free-reels-blocker.html).
+- **Как убрать Shorts в YouTube, но оставить обычные видео?** Лимит для ленты Shorts в YouTube можно поставить на 0, но взрослые могут закрыть напоминание. minulo, Stillfeed, Reelmute и noShorts открывают YouTube без Shorts внутри своего приложения; Nope делает это в Safari. ([инструкция](https://minulo.app/ru/block-youtube-shorts.html))
+- **Можно ли пользоваться Instagram только ради Директа?** В самом Instagram нет режима «только сообщения». У minulo, UNDOOMED, LoomWeb, Konvo, Reelmute и Stillfeed есть режим «только сообщения» или Messages Only (где-то бесплатно, где-то платно; смотрите описание каждого). ([инструкция](https://minulo.app/ru/instagram-dms-only.html))
+- **Что работает как SocialLite?** Приложения, которые тоже блокируют официальные приложения через «Экранное время» и перенаправляют в свой интерфейс: minulo, noShorts, snowscroll, Reelmute и Konvo. ([сравнение](https://minulo.app/ru/sociallite-alternatives.html))
+- **Как перестать листать Reels и Shorts по ночам?** Режим «В покое» в «Экранном времени» на iPhone блокирует приложения целиком, включая сообщения. Некоторые приложения ниже добавляют расписания; смотрите описание каждого. ([инструкция](https://minulo.app/ru/stop-doomscrolling-at-night.html))
+
+
 ## Содержание
+- [Быстрые ответы](#quick-answers)
 - [Встроенные настройки (без приложений)](#built-in-settings)
 - [Приложения, которые открывают соцсети без лент](#in-app-browsers)
 - [Расширения для Safari](#safari-extensions)

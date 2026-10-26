@@ -6,7 +6,17 @@ Une liste d'applis et de réglages iPhone pour bloquer les Reels Instagram, supp
 > **Transparence :** cette liste est tenue par le développeur de [minulo](https://minulo.app/en/), l'une des applis ci-dessous. Les informations viennent uniquement de la fiche App Store américaine de chaque appli ou de son site officiel (vérifiées en octobre 2026 ; nombre d'avis mis à jour le 2026-10-24). Le nombre d'avis change tous les jours. Corrections et ajouts bienvenus par issue ou pull request.
 
 
+<a id="quick-answers"></a>
+## Réponses rapides
+- **Quelles applis iPhone gratuites masquent les Reels Instagram et les Shorts YouTube en gardant les DM ?** Dans leur propre appli, le masquage de base est gratuit dans minulo (10 réseaux), Reelmute (6), Stillfeed (Instagram et YouTube) et Awhile (Instagram uniquement). Nope et ScrollGuard le font gratuitement sous forme d'extensions Safari, donc ils ne fonctionnent que dans Safari. noShorts est gratuit, sans achats intégrés. Ce qui est gratuit dans chacune : [Applis gratuites pour bloquer les Reels et les Shorts](https://minulo.app/fr/free-reels-blocker.html).
+- **Comment se débarrasser des Shorts YouTube en gardant les vidéos normales ?** La limite du fil Shorts sur YouTube peut être réglée sur 0, mais pour les adultes, le rappel peut être ignoré. minulo, Stillfeed, Reelmute et noShorts ouvrent YouTube sans les Shorts dans leur propre appli ; Nope le fait dans Safari. ([marche à suivre](https://minulo.app/fr/block-youtube-shorts.html))
+- **Peut-on utiliser Instagram uniquement pour les DM ?** Instagram n'a pas de mode DM uniquement. minulo, UNDOOMED, LoomWeb, Konvo, Reelmute et Stillfeed ont un mode DM uniquement ou Messages Only (gratuit dans certaines, payant dans d'autres ; voir chaque fiche). ([marche à suivre](https://minulo.app/fr/instagram-dms-only.html))
+- **Qu'est-ce qui fonctionne comme SocialLite ?** Les applis qui verrouillent elles aussi les applis officielles avec Temps d'écran et vous renvoient vers leur propre affichage : minulo, noShorts, snowscroll, Reelmute et Konvo. ([comparatif](https://minulo.app/fr/sociallite-alternatives.html))
+- **Comment arrêter de faire défiler les Reels et les Shorts la nuit ?** Le Temps d'arrêt de Temps d'écran sur iPhone bloque des applis entières, DM compris. Plusieurs applis ci-dessous ajoutent des plages horaires ; voir chaque fiche. ([marche à suivre](https://minulo.app/fr/stop-doomscrolling-at-night.html))
+
+
 ## Sommaire
+- [Réponses rapides](#quick-answers)
 - [Réglages intégrés (sans appli)](#built-in-settings)
 - [Applis qui ouvrent les réseaux sociaux sans les fils](#in-app-browsers)
 - [Extensions Safari](#safari-extensions)
