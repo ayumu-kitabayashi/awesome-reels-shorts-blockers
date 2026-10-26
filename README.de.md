@@ -1,5 +1,5 @@
 # Apps, die auf dem iPhone Instagram Reels und YouTube Shorts blockieren (Nachrichten bleiben)
-[English](README.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Español](README.es.md) | [Português](README.pt-BR.md) | **Deutsch** | [Français](README.fr.md)
+[English](README.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Español](README.es.md) | [Português](README.pt-BR.md) | **Deutsch** | [Français](README.fr.md) | [Italiano](README.it.md) | [Bahasa Indonesia](README.id.md) | [ไทย](README.th.md) | [Tiếng Việt](README.vi.md) | [Русский](README.ru.md) | [繁體中文](README.zh-Hant.md)
 
 Du willst auf dem iPhone Instagram Reels blockieren, YouTube Shorts ausblenden oder die TikTok-Seite „Für dich“ loswerden, aber deine DMs behalten? Diese Liste sammelt Apps und Einstellungen, die genau das tun. Der Rest der App bleibt nutzbar: Nachrichten, Gruppenchats, Suche und die Accounts, denen du folgst.
 

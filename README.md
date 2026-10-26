@@ -1,6 +1,6 @@
 # Awesome Reels & Shorts blockers (iPhone)
 
-**English** | [日本語](README.ja.md) | [한국어](README.ko.md) | [Español](README.es.md) | [Português](README.pt-BR.md) | [Deutsch](README.de.md) | [Français](README.fr.md)
+**English** | [日本語](README.ja.md) | [한국어](README.ko.md) | [Español](README.es.md) | [Português](README.pt-BR.md) | [Deutsch](README.de.md) | [Français](README.fr.md) | [Italiano](README.it.md) | [Bahasa Indonesia](README.id.md) | [ไทย](README.th.md) | [Tiếng Việt](README.vi.md) | [Русский](README.ru.md) | [繁體中文](README.zh-Hant.md)
 
 A list of iPhone apps and settings that hide **Instagram Reels, YouTube Shorts and TikTok's For You feed** while letting you keep using the rest of each app — DMs, group chats, search and the accounts you follow.
 

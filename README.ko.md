@@ -1,6 +1,6 @@
 # 아이폰 인스타 릴스·유튜브 쇼츠 차단 앱과 설정 모음 (DM은 그대로)
 
-[English](README.md) | [日本語](README.ja.md) | **한국어** | [Español](README.es.md) | [Português](README.pt-BR.md) | [Deutsch](README.de.md) | [Français](README.fr.md)
+[English](README.md) | [日本語](README.ja.md) | **한국어** | [Español](README.es.md) | [Português](README.pt-BR.md) | [Deutsch](README.de.md) | [Français](README.fr.md) | [Italiano](README.it.md) | [Bahasa Indonesia](README.id.md) | [ไทย](README.th.md) | [Tiếng Việt](README.vi.md) | [Русский](README.ru.md) | [繁體中文](README.zh-Hant.md)
 
 아이폰에서 **인스타그램 릴스, 유튜브 쇼츠, 틱톡 추천(For You) 피드**만 숨기고, DM과 단톡방, 검색, 팔로우한 계정은 그대로 쓸 수 있는 앱과 설정을 모았습니다.
 

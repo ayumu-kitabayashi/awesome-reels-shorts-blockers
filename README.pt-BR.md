@@ -1,5 +1,5 @@
 # Apps para bloquear Reels do Instagram e Shorts do YouTube no iPhone (sem perder as DMs)
-[English](README.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Español](README.es.md) | **Português** | [Deutsch](README.de.md) | [Français](README.fr.md)
+[English](README.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Español](README.es.md) | **Português** | [Deutsch](README.de.md) | [Français](README.fr.md) | [Italiano](README.it.md) | [Bahasa Indonesia](README.id.md) | [ไทย](README.th.md) | [Tiếng Việt](README.vi.md) | [Русский](README.ru.md) | [繁體中文](README.zh-Hant.md)
 
 Uma lista de apps e ajustes para iPhone que escondem os **Reels do Instagram, os Shorts do YouTube e o feed Para Você do TikTok**, mas deixam você continuar usando o resto de cada app: DMs, grupos, busca e as contas que você segue. Serve para quem quer tirar os Shorts do YouTube ou bloquear os Reels do Instagram sem perder as mensagens.
 

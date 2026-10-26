@@ -1,5 +1,5 @@
 # iPhoneでインスタのリール・YouTubeショートだけ消すアプリと設定の一覧
-[English](README.md) | **日本語** | [한국어](README.ko.md) | [Español](README.es.md) | [Português](README.pt-BR.md) | [Deutsch](README.de.md) | [Français](README.fr.md)
+[English](README.md) | **日本語** | [한국어](README.ko.md) | [Español](README.es.md) | [Português](README.pt-BR.md) | [Deutsch](README.de.md) | [Français](README.fr.md) | [Italiano](README.it.md) | [Bahasa Indonesia](README.id.md) | [ไทย](README.th.md) | [Tiếng Việt](README.vi.md) | [Русский](README.ru.md) | [繁體中文](README.zh-Hant.md)
 
 **インスタのリール、YouTubeショート、TikTok のおすすめ**だけを消して、DM・グループチャット・検索・フォロー中のアカウントはそのまま使える iPhone のアプリと設定をまとめた一覧です。
 
