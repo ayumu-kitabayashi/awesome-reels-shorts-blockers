@@ -3,7 +3,7 @@
 
 **インスタのリール、YouTubeショート、TikTok のおすすめ**だけを消して、DM・グループチャット・検索・フォロー中のアカウントはそのまま使える iPhone のアプリと設定をまとめた一覧です。
 
-> **開示：** この一覧は、下に載っているアプリのひとつ [minulo](https://minulo.app/en/) の開発者が管理しています。内容は各アプリの米国 App Store のページか公式サイトに書かれていることだけを使っています（2026年10月に確認、評価数の最終更新は 2026-10-24）。評価数は毎日変わります。誤りの指摘や追加は issue か pull request でお願いします。
+> **開示：** この一覧は、下に載っているアプリのひとつ [minulo](https://minulo.app/en/) の開発者が管理しています。内容は各アプリの米国 App Store のページか公式サイトに書かれていることだけを使っています（2026年10月に確認、評価数の最終更新は 2026-10-27）。評価数は毎日変わります。誤りの指摘や追加は issue か pull request でお願いします。
 
 
 <a id="quick-answers"></a>
@@ -50,12 +50,12 @@
 - **[UNDOOMED](https://apps.apple.com/us/app/id6751837079)**：各 SNS のモバイルサイトを専用のプライベートブラウザで開き、ページをふるいにかける。対応SNS：Instagram、Threads、Reddit、Facebook、X、YouTube、LinkedIn（TikTok と Snapchat はなし）。料金：多くの機能は無料。Plus は月 $1.99 か年 $11.99、Pro は月 $2.99、年 $17.99、買い切り $29.99（米国）。DM：使える（Messages Only モード）。米国 App Store の評価数：108。
 - **[Dull](https://apps.apple.com/us/app/id6759723829)**：各 SNS を専用ブラウザで開き、リール・ショート・おすすめ・発見タブを取り除く。対応SNS：Instagram、YouTube、Facebook、X、Reddit。料金：使うにはサブスク（Dull Pro）が必要。7日間無料のあと月 $3.99 か年 $29.99。買い切り $59.99 もある。DM：使える。米国 App Store の評価数：55。その他：1日の上限、使わない時間帯、フィルタをゆるめるときは24時間待つ。
 - **[WallHabit](https://apps.apple.com/us/app/id6751423279)**：リールとショート、またはアプリごとブロックし、解除の前にボタンを長押しさせる（リールをどう止めるかは説明文に書かれていない）。対応SNS：記載なし。料金：無料（アプリ内課金あり）。DM：記載なし。米国 App Store の評価数：35。その他：iOS 18 以降。
-- **[LoomWeb](https://apps.apple.com/us/app/id6754727620)**：SNS 用のブラウザで、サイトごとに設定できる。対応SNS：Instagram、YouTube、X、Facebook。料金：無料（Pro あり）。DM：使える（DM だけにする設定あり）。米国 App Store の評価数：34。その他：iOS 18 以降。
+- **[LoomWeb](https://apps.apple.com/us/app/id6754727620)**：SNS 用のブラウザで、サイトごとに設定できる。対応SNS：Instagram、YouTube、X、Facebook。料金：無料（Pro あり）。DM：使える（DM だけにする設定あり）。米国 App Store の評価数：35。その他：iOS 18 以降。
 - **[Scroll Less](https://apps.apple.com/us/app/id6741134096)**：YouTube や Instagram などを最小限の専用ブラウザ（WebView）で開き、アルゴリズムのおすすめフィードを消す。対応SNS：YouTube、Instagram ほか（全一覧の記載なし）。料金：ダウンロード無料。DM：記載なし。米国 App Store の評価数：23。
 - **[Sociano](https://apps.apple.com/us/app/id6760568406)**：対応する SNS を専用ブラウザで開き、リール・ショート・フィードを止める。スクリーンタイムで選んだ iPhone のアプリも止められる。対応SNS：Instagram、YouTube、X、Facebook、LinkedIn ほか。料金：ダウンロード無料。DM：使える。米国 App Store の評価数：10。その他：アプリのブロック、スケジュール、1日の上限。
 - **[snowscroll](https://apps.apple.com/us/app/id6778488660)**：各 SNS のモバイルサイトを集中用のアプリ内ブラウザで開き、フィードを隠す。スクリーンタイムを使うと、本物の Instagram アプリを開こうとしたとき snowscroll が開く。対応SNS：Instagram、YouTube、Facebook、X、TikTok、LinkedIn。料金：無料版はなく、使うにはサブスク（Pro・月ごとか年ごと）が必要。DM：使える。米国 App Store の評価数：10。その他：公式アプリにロックをかけられる。
 - **[Awhile](https://apps.apple.com/us/app/id6763551826)**：instagram.com を専用のアプリ内ブラウザで開き、選んだ部分を隠す。対応SNS：Instagram のみ。料金：フィルタは無料。Premium はアプリ内課金で $2.99 と $14.99（期間の記載なし）。DM：使える。米国 App Store の評価数：4。
-- **[Fluid Friction](https://apps.apple.com/us/app/id6782510849)**：SNS をアプリの中で開き、フィードのスクロールを重くする。リール・ショート・ストーリーズ・発見タブを隠すこともできる。対応SNS：Instagram、TikTok、YouTube、Reddit、X、Snapchat、Facebook、LinkedIn。料金：ダウンロード無料。DM：使える（メッセージはそのまま動く）。米国 App Store の評価数：6。その他：ほかのアプリにもスクリーンタイムでロックをかけられる。
+- **[Fluid Friction](https://apps.apple.com/us/app/id6782510849)**：SNS をアプリの中で開き、フィードのスクロールを重くする。リール・ショート・ストーリーズ・発見タブを隠すこともできる。対応SNS：Instagram、TikTok、YouTube、Reddit、X、Snapchat、Facebook、LinkedIn。料金：ダウンロード無料。DM：使える（メッセージはそのまま動く）。米国 App Store の評価数：9。その他：ほかのアプリにもスクリーンタイムでロックをかけられる。
 - **[minulo](https://apps.apple.com/us/app/id6809352229)**：各 SNS の公式サイトをアプリの中で開き、選んだ部分を隠す。スクリーンタイムで公式アプリにロックをかけ、minulo のほうへ案内することもできる。対応SNS：Instagram、YouTube、TikTok、X、Threads、Facebook、Pinterest、Reddit、LinkedIn、Snapchat（10）。料金：隠すのは無料。公式アプリのロックも1回2時間までなら無料。Pro（米国で月 $9.99 か年 $39.99）でスケジュール、Hard Mode、長いブロック、複数のブロックリストが使える。DM：使える。米国 App Store の評価数：0。その他：iPhone と Mac。Android 版はなし。この一覧の作者が作っているアプリ。
 - **[Stillfeed](https://apps.apple.com/us/app/id6792934511)**：7つの SNS を内蔵ブラウザで開き、リール・発見タブ・ショートを取り除く。Instagram はフォロー中のフィードで開く。対応SNS：Instagram、YouTube、X、Reddit、Snapchat、LinkedIn、TikTok。料金：ブロックとフォロー中のフィードは無料。Pro（週 $2.99・月 $5.99・年 $44.99）でストーリーズやフィードのブロック、DM だけの表示などが使える。DM：使える。米国 App Store の評価数：0。その他：ブロックした数の週ごとの記録。
 - **[Unfeed](https://apps.apple.com/us/app/id6814847686)**：SNS をアプリの中で開き、フィードが読み込まれないようにする。対応SNS：Instagram、TikTok、YouTube、X。料金：ダウンロード無料。Pro で広告・おすすめ投稿・ストーリーズの非表示と複数アカウント。DM：使える。米国 App Store の評価数：0。その他：セッションタイマー、1日の使える量、おやすみモード。
@@ -68,7 +68,7 @@
 - **[SocialRouter](https://apps.apple.com/us/app/id6758858307)**：複数の SNS アカウントをそれぞれ別のブラウザ空間で使える。Instagram のリール・フィード・発見タブと YouTube のショートを隠せる。対応SNS：Instagram、YouTube ほか。料金：ダウンロード無料。DM：記載なし。米国 App Store の評価数：13。その他：1つの SNS で複数アカウント、アカウントごとのプロキシ。
 - **[noShorts](https://apps.apple.com/us/app/id6821704649)**：SNS をアプリの中で開き、リール・ショート・おすすめ・Spotlight を取り除く。案内に沿って設定すると、スクリーンタイムで各 SNS のアプリを止めて noShorts に飛ばせる。対応SNS：Instagram、YouTube、TikTok、Snapchat、Facebook、X（Reddit、Bluesky、Tumblr も追加できる）。料金：無料。サブスクリプションもアプリ内課金もなし。DM：記載なし（「いつもどおり使える」とある）。米国 App Store の評価数：0。その他：1日の上限、使わない時間帯、ウィジェット、アカウント・分析なし。
 - **[TheSNSisMine](https://apps.apple.com/us/app/id6765809922)**：Instagram、YouTube、Facebook、X のウェブ版を見るブラウザアプリで、おすすめ投稿・リール・ショートを隠し、フィードをフォローしている人だけにする。対応SNS：Instagram、YouTube、Facebook、X。料金：サブスクリプションが必要（説明文では月 ¥200、7日間の無料体験）。DM：記載なし。米国 App Store の評価数：0。
-- **[Feather](https://apps.apple.com/us/app/id6787193472)**：SNS をアプリ経由で開き、リール・ショート・おすすめ・発見タブを取り除く。対応SNS：Instagram、YouTube、Snapchat、TikTok、Facebook、LinkedIn、X、Threads、Reddit。料金：すべて使うにはサブスクリプションが必要（月・6か月・年）。DM：使える（メッセージ・プロフィール・検索は残る）。米国 App Store の評価数：7。その他：子ども5人までの保護者向け設定。
+- **[Feather](https://apps.apple.com/us/app/id6787193472)**：SNS をアプリ経由で開き、リール・ショート・おすすめ・発見タブを取り除く。対応SNS：Instagram、YouTube、Snapchat、TikTok、Facebook、LinkedIn、X、Threads、Reddit。料金：すべて使うにはサブスクリプションが必要（月・6か月・年）。DM：使える（メッセージ・プロフィール・検索は残る）。米国 App Store の評価数：8。その他：子ども5人までの保護者向け設定。
 - **[Yava](https://apps.apple.com/us/app/id6800918860)**：リール、ショート、Facebook のリールと Watch、発見のページ、自動再生を止め、友だちとのメッセージは使える（止め方は説明文に書かれていない）。対応SNS：Instagram、YouTube、Facebook ほか。料金：機能を使うにはサブスクリプションが必要。DM：使える。米国 App Store の評価数：8。
 - **[Close](https://apps.apple.com/kr/app/id6817441004)**（韓国）：リールと発見タブのない Instagram。DM、ストーリーズ、友だちの投稿に絞ったフィードは残り、スクリーンタイムで本物の Instagram アプリにロックをかけられる。対応SNS：Instagram。料金：すべての機能が無料。任意のチップあり。DM：使える。App Store の評価数：米国のストアにはなし。韓国で3。
 
@@ -77,9 +77,9 @@
 Safari で instagram.com や youtube.com を見ているときにフィードを隠します。公式アプリには何も変わりません。
 
 - **[SocialFocus](https://apps.apple.com/us/app/id1661093205)**：サイトの中のフィード・リール・ショート・コメントなど、選んだ部分を隠す Safari 機能拡張。対応SNS：Safari で開く YouTube、Facebook、X、Instagram、Reddit、LinkedIn、Gmail のサイト。料金：有料アプリ（米国で $4.99）。任意の PRO サブスクリプションあり。DM：記載なし。米国 App Store の評価数：326。その他：設定の書き出しと読み込み。
-- **[ScrollGuard](https://apps.apple.com/us/app/id6754183872)**：SNS のサイトでフィード・リール・ストーリーズ・発見タブを隠す Safari 機能拡張。対応SNS：Safari で開く SNS のサイト。料金：無料（Premium 機能あり）。DM：使える（公式サイト scrollguard.app より、2026-10-17 確認）。米国 App Store の評価数：117。その他：iOS 18 以降。
+- **[ScrollGuard](https://apps.apple.com/us/app/id6754183872)**：SNS のサイトでフィード・リール・ストーリーズ・発見タブを隠す Safari 機能拡張。対応SNS：Safari で開く SNS のサイト。料金：無料（Premium 機能あり）。DM：使える（公式サイト scrollguard.app より、2026-10-17 確認）。米国 App Store の評価数：119。その他：iOS 18 以降。
 - **[Slowth](https://apps.apple.com/us/app/id6764140763)**：ショート・リール・X の話題を検索（Explore）を隠す Safari 機能拡張。YouTube と Instagram のアプリでは、画面収録でショートやリールを見つけてアプリを止めることもできる。対応SNS：Safari で開く YouTube、Instagram、Facebook、X、TikTok のサイト。料金：ダウンロード無料。DM：記載なし。米国 App Store の評価数：3。その他：制限は24時間ロックされる。
-- **[Nope](https://apps.apple.com/us/app/id6768192042)**：instagram.com と youtube.com 用の Safari 機能拡張。対応SNS：Instagram、YouTube。料金：完全無料。サブスクリプションもアプリ内課金もなし。DM：使える。米国 App Store の評価数：2。その他：Chrome 拡張あり。
+- **[Nope](https://apps.apple.com/us/app/id6768192042)**：instagram.com と youtube.com 用の Safari 機能拡張。対応SNS：Instagram、YouTube。料金：完全無料。サブスクリプションもアプリ内課金もなし。DM：使える。米国 App Store の評価数：3。その他：Chrome 拡張あり。
 - **[#blockit](https://apps.apple.com/us/app/id1492879257)**：よく使われるサイトからショート・リール・終わりのないフィードを取り除き、URL でサイトごとブロックもできる Safari 機能拡張。対応SNS：Safari で開く主なサイト。料金：ダウンロード無料、7日間の無料体験。DM：使える（「ほかはそのまま残す」とある）。米国 App Store の評価数：168。その他：2020年から更新が続いている、アカウント不要。
 - **[No Reel For Instagram](https://apps.apple.com/us/app/id6752605548)**：instagram.com のリールへの導線、検索と発見の中のリール、ストーリーズ、おすすめのタブ、おすすめアカウントを隠す Safari 機能拡張。対応SNS：Instagram。料金：$3.39。DM：使える。米国 App Store の評価数：0。その他：iPhone、iPad、Mac。
 - **[No Shorts: Blocker for YouTube](https://apps.apple.com/us/app/id6502996298)**：youtube.com のショートフィード・プレビュー・おすすめを隠す Safari 機能拡張。対応SNS：YouTube。料金：買い切り $2.99。DM：対象外。米国 App Store の評価数：15。

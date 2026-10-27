@@ -4,7 +4,7 @@
 
 아이폰에서 **인스타그램 릴스, 유튜브 쇼츠, 틱톡 추천(For You) 피드**만 숨기고, DM과 단톡방, 검색, 팔로우한 계정은 그대로 쓸 수 있는 앱과 설정을 모았습니다.
 
-> **밝혀 둘 점:** 이 목록은 아래 앱 중 하나인 [minulo](https://minulo.app/en/)의 개발자가 관리합니다. 내용은 각 앱의 미국 App Store 페이지나 공식 웹사이트에 적힌 것만 옮겼습니다(2026년 10월 확인, 평가 수는 2026-10-24 기준). 평가 수는 매일 바뀝니다. 틀린 곳이나 빠진 앱은 이슈나 풀 리퀘스트로 알려 주세요.
+> **밝혀 둘 점:** 이 목록은 아래 앱 중 하나인 [minulo](https://minulo.app/en/)의 개발자가 관리합니다. 내용은 각 앱의 미국 App Store 페이지나 공식 웹사이트에 적힌 것만 옮겼습니다(2026년 10월 확인, 평가 수는 2026-10-27 기준). 평가 수는 매일 바뀝니다. 틀린 곳이나 빠진 앱은 이슈나 풀 리퀘스트로 알려 주세요.
 
 
 <a id="quick-answers"></a>
@@ -51,12 +51,12 @@
 - **[UNDOOMED](https://apps.apple.com/us/app/id6751837079)**: 각 SNS의 모바일 웹사이트를 자체 비공개 브라우저로 열고 페이지를 걸러 냅니다. 지원 SNS: Instagram, Threads, Reddit, Facebook, X, YouTube, LinkedIn (TikTok, Snapchat 없음). 가격: 많은 기능이 무료, Plus 월 $1.99 또는 연 $11.99, Pro 월 $2.99, 연 $17.99 또는 평생 $29.99 (미국 기준). DM: 그대로 사용 (Messages Only 모드). 미국 App Store 평가 수: 108개.
 - **[Dull](https://apps.apple.com/us/app/id6759723829)**: 각 플랫폼을 자체 브라우저로 열고 릴스, 쇼츠, 추천(For You), 탐색을 뺍니다. 지원 SNS: Instagram, YouTube, Facebook, X, Reddit. 가격: 구독(Dull Pro)이 있어야 사용 가능. 7일 무료 체험 후 월 $3.99 또는 연 $29.99, 평생 이용 $59.99도 있음. DM: 그대로 사용. 미국 App Store 평가 수: 55개. 기타: 하루 사용 제한, 방해 금지 시간, 필터를 풀 때 24시간 대기.
 - **[WallHabit](https://apps.apple.com/us/app/id6751423279)**: 릴스와 쇼츠, 또는 앱 전체를 막고, 풀기 전에 버튼을 길게 누르게 합니다 (릴스를 어떻게 막는지는 설명에 자세히 없음). 지원 SNS: 표기 없음. 가격: 무료, 앱 내 구입 있음. DM: 언급 없음. 미국 App Store 평가 수: 35개. 기타: iOS 18 이상 필요.
-- **[LoomWeb](https://apps.apple.com/us/app/id6754727620)**: 사이트별로 설정할 수 있는 SNS용 브라우저입니다. 지원 SNS: Instagram, YouTube, X, Facebook. 가격: 무료, Pro 요금제 있음. DM: 그대로 사용 (DM만 보기 옵션). 미국 App Store 평가 수: 34개. 기타: iOS 18 이상 필요.
+- **[LoomWeb](https://apps.apple.com/us/app/id6754727620)**: 사이트별로 설정할 수 있는 SNS용 브라우저입니다. 지원 SNS: Instagram, YouTube, X, Facebook. 가격: 무료, Pro 요금제 있음. DM: 그대로 사용 (DM만 보기 옵션). 미국 App Store 평가 수: 35개. 기타: iOS 18 이상 필요.
 - **[Scroll Less](https://apps.apple.com/us/app/id6741134096)**: YouTube, Instagram 등을 자체 미니멀 브라우저(WebView)로 열고 알고리즘 추천 피드를 없앱니다. 지원 SNS: YouTube, Instagram 등 (전체 목록은 없음). 가격: 무료 다운로드. DM: 언급 없음. 미국 App Store 평가 수: 23개.
 - **[Sociano](https://apps.apple.com/us/app/id6760568406)**: 지원하는 SNS를 자체 브라우저로 열고 릴스, 쇼츠, 피드를 막습니다. 스크린 타임으로 고른 아이폰 앱도 막을 수 있습니다. 지원 SNS: Instagram, YouTube, X, Facebook, LinkedIn 등. 가격: 무료 다운로드. DM: 그대로 사용. 미국 App Store 평가 수: 10개. 기타: 앱 차단, 일정, 하루 사용 제한.
 - **[snowscroll](https://apps.apple.com/us/app/id6778488660)**: 각 SNS의 모바일 사이트를 앱 안 브라우저로 열고 피드를 숨깁니다. 스크린 타임을 켜 두면 인스타그램 공식 앱을 열 때 snowscroll이 대신 열립니다. 지원 SNS: Instagram, YouTube, Facebook, X, TikTok, LinkedIn. 가격: 무료 버전 없음. Pro 구독(월간 또는 연간)이 필요. DM: 그대로 사용. 미국 App Store 평가 수: 10개. 기타: 공식 앱 잠금(Shield).
 - **[Awhile](https://apps.apple.com/us/app/id6763551826)**: instagram.com을 앱 안 브라우저로 열고 고른 부분을 숨깁니다. 지원 SNS: Instagram만. 가격: 필터 기능은 무료, Premium은 $2.99 또는 $14.99 인앱 구매(기간은 적혀 있지 않음). DM: 그대로 사용. 미국 App Store 평가 수: 4개.
-- **[Fluid Friction](https://apps.apple.com/us/app/id6782510849)**: SNS를 앱 안에서 열고 피드를 스크롤할 때 저항을 줍니다. 릴스, 쇼츠, 스토리, 탐색을 숨길 수도 있습니다. 지원 SNS: Instagram, TikTok, YouTube, Reddit, X, Snapchat, Facebook, LinkedIn. 가격: 무료 다운로드. DM: 그대로 사용 (메시지는 계속 됨). 미국 App Store 평가 수: 6개. 기타: 다른 앱에 스크린 타임 잠금.
+- **[Fluid Friction](https://apps.apple.com/us/app/id6782510849)**: SNS를 앱 안에서 열고 피드를 스크롤할 때 저항을 줍니다. 릴스, 쇼츠, 스토리, 탐색을 숨길 수도 있습니다. 지원 SNS: Instagram, TikTok, YouTube, Reddit, X, Snapchat, Facebook, LinkedIn. 가격: 무료 다운로드. DM: 그대로 사용 (메시지는 계속 됨). 미국 App Store 평가 수: 9개. 기타: 다른 앱에 스크린 타임 잠금.
 - **[minulo](https://apps.apple.com/us/app/id6809352229)**: 각 SNS의 공식 웹사이트를 앱 안에서 열고 고른 부분을 숨깁니다. 스크린 타임으로 공식 앱을 잠그고 minulo로 넘겨 줄 수도 있습니다. 지원 SNS: Instagram, YouTube, TikTok, X, Threads, Facebook, Pinterest, Reddit, LinkedIn, Snapchat (10개). 가격: 숨기기는 무료, 공식 앱 잠금은 한 번에 2시간까지 무료. Pro(미국 기준 월 $9.99 또는 연 $39.99)는 일정, 하드 모드, 더 긴 잠금, 여러 개의 차단 목록을 더합니다. DM: 그대로 사용. 미국 App Store 평가 수: 0개. 기타: 아이폰과 Mac, 안드로이드 버전 없음. 이 목록을 만든 사람이 관리하는 앱입니다.
 - **[Stillfeed](https://apps.apple.com/us/app/id6792934511)**: 7개 SNS를 내장 브라우저로 열고 릴스, 탐색, 쇼츠를 뺍니다. Instagram은 팔로잉 피드로 열립니다. 지원 SNS: Instagram, YouTube, X, Reddit, Snapchat, LinkedIn, TikTok. 가격: 차단과 팔로잉 피드는 무료, Pro(주 $2.99, 월 $5.99, 연 $44.99)는 스토리·피드 차단, DM만 보기 등을 더합니다. DM: 그대로 사용. 미국 App Store 평가 수: 0개. 기타: 주간 차단 통계.
 - **[Unfeed](https://apps.apple.com/us/app/id6814847686)**: SNS를 자체 앱에서 열고, 피드가 아예 불러와지지 않게 거릅니다. 지원 SNS: Instagram, TikTok, YouTube, X. 가격: 무료 다운로드, Pro는 광고·추천 게시물·스토리 숨기기와 여러 계정을 더합니다. DM: 그대로 사용. 미국 App Store 평가 수: 0개. 기타: 세션 타이머, 하루 허용 시간, 수면 모드.
@@ -69,7 +69,7 @@
 - **[SocialRouter](https://apps.apple.com/us/app/id6758858307)**: 여러 SNS 계정을 각각 따로 된 브라우저 공간에서 씁니다. 인스타그램의 릴스, 피드, 탐색과 유튜브의 쇼츠를 숨길 수 있습니다. 지원 SNS: Instagram, YouTube 등. 가격: 무료 다운로드. DM: 언급 없음. 미국 App Store 평가 수: 13개. 기타: SNS마다 여러 계정, 계정별 프록시.
 - **[noShorts](https://apps.apple.com/us/app/id6821704649)**: SNS를 앱 안에서 열고 릴스, 쇼츠, 추천(For You), Spotlight를 뺍니다. 안내에 따라 설정하면 스크린 타임으로 각 SNS의 공식 앱을 막고 noShorts로 넘겨 줍니다. 지원 SNS: Instagram, YouTube, TikTok, Snapchat, Facebook, X (Reddit, Bluesky, Tumblr 추가 가능). 가격: 무료, 구독이나 앱 내 구입 없음. DM: 언급 없음 ("평소처럼 쓰세요"라고만 적혀 있음). 미국 App Store 평가 수: 0개. 기타: 하루 사용 제한, 방해 금지 시간, 위젯, 계정·분석 없음.
 - **[TheSNSisMine](https://apps.apple.com/us/app/id6765809922)**: Instagram, YouTube, Facebook, X 웹 버전용 브라우저 앱으로, 추천 게시물, 릴스, 쇼츠를 숨기고 피드를 팔로우한 사람만으로 채웁니다. 지원 SNS: Instagram, YouTube, Facebook, X. 가격: 구독 필요 (설명에 따르면 월 ¥200, 7일 무료 체험). DM: 언급 없음. 미국 App Store 평가 수: 0개.
-- **[Feather](https://apps.apple.com/us/app/id6787193472)**: SNS를 앱을 통해 열고 릴스, 쇼츠, 추천(For You), 탐색을 뺍니다. 지원 SNS: Instagram, YouTube, Snapchat, TikTok, Facebook, LinkedIn, X, Threads, Reddit. 가격: 모든 기능을 쓰려면 구독 필요 (월, 6개월, 연). DM: 그대로 사용 (메시지, 프로필, 검색은 남음). 미국 App Store 평가 수: 7개. 기타: 자녀 최대 5명까지 보호자 관리.
+- **[Feather](https://apps.apple.com/us/app/id6787193472)**: SNS를 앱을 통해 열고 릴스, 쇼츠, 추천(For You), 탐색을 뺍니다. 지원 SNS: Instagram, YouTube, Snapchat, TikTok, Facebook, LinkedIn, X, Threads, Reddit. 가격: 모든 기능을 쓰려면 구독 필요 (월, 6개월, 연). DM: 그대로 사용 (메시지, 프로필, 검색은 남음). 미국 App Store 평가 수: 8개. 기타: 자녀 최대 5명까지 보호자 관리.
 - **[Yava](https://apps.apple.com/us/app/id6800918860)**: 친구와 메시지는 주고받으면서 릴스, 쇼츠, 페이스북 릴스와 Watch, 탐색 페이지, 자동재생을 막습니다 (어떻게 막는지는 설명에 자세히 없음). 지원 SNS: Instagram, YouTube, Facebook 등. 가격: 기능을 쓰려면 구독 필요. DM: 그대로 사용. 미국 App Store 평가 수: 8개.
 - **[Close](https://apps.apple.com/kr/app/id6817441004)** (한국): 릴스 탭과 탐색 탭이 없는 인스타그램입니다. DM, 스토리, 제한된 친구 피드는 남고, 스크린 타임으로 진짜 인스타그램 앱을 잠글 수 있습니다. 지원 SNS: Instagram. 가격: 모든 기능 무료, 원하면 후원 가능. DM: 그대로 사용. App Store 평가 수: 미국 스토어에는 없음, 한국 3개.
 
@@ -78,9 +78,9 @@
 Safari에서 instagram.com이나 youtube.com을 볼 때 피드를 숨겨 줍니다. 공식 앱은 그대로입니다.
 
 - **[SocialFocus](https://apps.apple.com/us/app/id1661093205)**: 웹사이트에서 피드, 릴스, 쇼츠, 댓글 같은 고른 부분을 숨기는 Safari 확장 프로그램입니다. 지원 SNS: Safari에서 여는 YouTube, Facebook, X, Instagram, Reddit, LinkedIn, Gmail 웹사이트. 가격: 유료 앱 (미국 $4.99), PRO 구독은 선택. DM: 표기 없음. 미국 App Store 평가 수: 326개. 기타: 설정 가져오기·내보내기.
-- **[ScrollGuard](https://apps.apple.com/us/app/id6754183872)**: SNS 웹사이트에서 피드, 릴스, 스토리, 탐색을 숨기는 Safari 확장 프로그램입니다. 지원 SNS: Safari에서 여는 SNS 웹사이트. 가격: 무료, Premium 기능 있음. DM: 그대로 사용 (웹사이트 scrollguard.app 기준, 2026-10-17 확인). 미국 App Store 평가 수: 117개. 기타: iOS 18 이상 필요.
+- **[ScrollGuard](https://apps.apple.com/us/app/id6754183872)**: SNS 웹사이트에서 피드, 릴스, 스토리, 탐색을 숨기는 Safari 확장 프로그램입니다. 지원 SNS: Safari에서 여는 SNS 웹사이트. 가격: 무료, Premium 기능 있음. DM: 그대로 사용 (웹사이트 scrollguard.app 기준, 2026-10-17 확인). 미국 App Store 평가 수: 119개. 기타: iOS 18 이상 필요.
 - **[Slowth](https://apps.apple.com/us/app/id6764140763)**: 쇼츠, 릴스, X의 탐색을 숨기는 Safari 확장 프로그램입니다. 유튜브와 인스타그램 앱에서는 화면 녹화로 쇼츠나 릴스를 알아채고 앱을 막을 수 있습니다. 지원 SNS: Safari에서 여는 YouTube, Instagram, Facebook, X, TikTok 웹사이트. 가격: 무료 다운로드. DM: 표기 없음. 미국 App Store 평가 수: 3개. 기타: 제한을 24시간 동안 잠금.
-- **[Nope](https://apps.apple.com/us/app/id6768192042)**: instagram.com과 youtube.com용 Safari 웹 확장 프로그램입니다. 지원 SNS: Instagram, YouTube. 가격: 완전 무료, 구독이나 앱 내 구입 없음. DM: 그대로 사용. 미국 App Store 평가 수: 2개. 기타: Chrome 확장 프로그램도 있음.
+- **[Nope](https://apps.apple.com/us/app/id6768192042)**: instagram.com과 youtube.com용 Safari 웹 확장 프로그램입니다. 지원 SNS: Instagram, YouTube. 가격: 완전 무료, 구독이나 앱 내 구입 없음. DM: 그대로 사용. 미국 App Store 평가 수: 3개. 기타: Chrome 확장 프로그램도 있음.
 - **[#blockit](https://apps.apple.com/us/app/id1492879257)**: 인기 웹사이트에서 쇼츠, 릴스, 끝없는 피드를 없애고, URL로 사이트 전체를 막을 수도 있는 Safari 확장 프로그램입니다. 지원 SNS: Safari에서 여는 인기 웹사이트. 가격: 무료 다운로드, 7일 무료 체험. DM: 그대로 사용 ("나머지는 모두 남겨 둔다"). 미국 App Store 평가 수: 168개. 기타: 2020년부터 관리, 계정 없음.
 - **[No Reel For Instagram](https://apps.apple.com/us/app/id6752605548)**: instagram.com에서 릴스 메뉴, 검색·탐색 속 릴스, 스토리, For You 탭, 추천 계정을 숨기는 Safari 확장 프로그램입니다. 지원 SNS: Instagram. 가격: $3.39. DM: 그대로 사용. 미국 App Store 평가 수: 0개. 기타: 아이폰, 아이패드, Mac.
 - **[No Shorts: Blocker for YouTube](https://apps.apple.com/us/app/id6502996298)**: youtube.com에서 쇼츠 피드, 미리보기, 추천을 숨기는 Safari 확장 프로그램입니다. 지원 SNS: YouTube. 가격: 한 번 $2.99. DM: 해당 없음. 미국 App Store 평가 수: 15개.

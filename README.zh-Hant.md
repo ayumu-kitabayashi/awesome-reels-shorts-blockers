@@ -3,7 +3,7 @@
 
 這份清單整理了 iPhone 上能隱藏 **Instagram Reels、YouTube Shorts 和 TikTok「為你推薦」** 的 App 與設定，同時每個 App 的其他功能都照常能用：私訊、群組聊天、搜尋，以及你追蹤的帳號。
 
-> **揭露：** 這份清單由 [minulo](https://minulo.app/zh-Hant/) 的開發者維護，minulo 也是下面列出的 App 之一。所有資訊只取自各 App 的美國 App Store 頁面或官方網站（2026 年 10 月確認；評分數最後更新於 2026-10-24）。評分數每天都會變動。歡迎透過 issue 或 pull request 指正或補充。
+> **揭露：** 這份清單由 [minulo](https://minulo.app/zh-Hant/) 的開發者維護，minulo 也是下面列出的 App 之一。所有資訊只取自各 App 的美國 App Store 頁面或官方網站（2026 年 10 月確認；評分數最後更新於 2026-10-27）。評分數每天都會變動。歡迎透過 issue 或 pull request 指正或補充。
 
 
 <a id="quick-answers"></a>
@@ -50,12 +50,12 @@
 - **[UNDOOMED](https://apps.apple.com/us/app/id6751837079)**：在自己的私密瀏覽器中開啟各社群的行動版網站，並過濾頁面內容。支援平台：Instagram、Threads、Reddit、Facebook、X、YouTube、LinkedIn（不支援 TikTok 和 Snapchat）。價格：許多功能免費；Plus 每月 $1.99 或每年 $11.99，Pro 每月 $2.99、每年 $17.99 或終身 $29.99（美國）。保留私訊：是（Messages Only 模式）。美國 App Store 評分數：108。
 - **[Dull](https://apps.apple.com/us/app/id6759723829)**：在自己的瀏覽器中開啟各平台，拿掉 Reels、Shorts、「為你推薦」和「探索」。支援平台：Instagram、YouTube、Facebook、X、Reddit。價格：要訂閱（Dull Pro）才能使用，免費試用 7 天，之後每月 $3.99 或每年 $29.99，另有一次買斷 $59.99。保留私訊：是。美國 App Store 評分數：55。其他：每日上限、安靜時段，放寬過濾前需等待 24 小時。
 - **[WallHabit](https://apps.apple.com/us/app/id6751423279)**：封鎖 Reels 和 Shorts 或整個 App，解鎖前要先長按按鈕（說明中沒有寫 Reels 是怎麼被擋的）。支援平台：未列出。價格：免費，含 App 內購買。保留私訊：未說明。美國 App Store 評分數：35。其他：需要 iOS 18。
-- **[LoomWeb](https://apps.apple.com/us/app/id6754727620)**：專為社群設計的瀏覽器，每個網站可以分開設定。支援平台：Instagram、YouTube、X、Facebook。價格：免費，另有 Pro 方案。保留私訊：是（有「只用私訊」選項）。美國 App Store 評分數：34。其他：需要 iOS 18。
+- **[LoomWeb](https://apps.apple.com/us/app/id6754727620)**：專為社群設計的瀏覽器，每個網站可以分開設定。支援平台：Instagram、YouTube、X、Facebook。價格：免費，另有 Pro 方案。保留私訊：是（有「只用私訊」選項）。美國 App Store 評分數：35。其他：需要 iOS 18。
 - **[Scroll Less](https://apps.apple.com/us/app/id6741134096)**：在自己的極簡瀏覽器（WebView）中開啟 YouTube、Instagram 等平台，拿掉演算法推薦動態。支援平台：YouTube、Instagram 等（沒有完整清單）。價格：免費下載。保留私訊：未說明。美國 App Store 評分數：23。
 - **[Sociano](https://apps.apple.com/us/app/id6760568406)**：在自己可控管的瀏覽器中開啟支援的社群，封鎖 Reels、Shorts 和動態；也能用「螢幕使用時間」封鎖你選的 iPhone App。支援平台：Instagram、YouTube、X、Facebook、LinkedIn 等。價格：免費下載。保留私訊：是。美國 App Store 評分數：10。其他：App 封鎖、排程和每日上限。
 - **[snowscroll](https://apps.apple.com/us/app/id6778488660)**：在專注的 App 內瀏覽器中開啟各社群的行動版網站並隱藏動態；搭配「螢幕使用時間」，點真正的 Instagram App 時會改開 snowscroll。支援平台：Instagram、YouTube、Facebook、X、TikTok、LinkedIn。價格：沒有免費版，必須訂閱 Pro（月繳或年繳）。保留私訊：是。美國 App Store 評分數：10。其他：官方 App 的封鎖畫面。
 - **[Awhile](https://apps.apple.com/us/app/id6763551826)**：在自己的 App 內瀏覽器載入 instagram.com，並隱藏你選的部分。支援平台：只有 Instagram。價格：過濾功能免費；Premium 為 App 內購買，$2.99 或 $14.99（未寫明期間）。保留私訊：是。美國 App Store 評分數：4。
-- **[Fluid Friction](https://apps.apple.com/us/app/id6782510849)**：在 App 裡開啟社群，讓滑動態變得比較費力；也能隱藏 Reels、Shorts、限時動態和「探索」。支援平台：Instagram、TikTok、YouTube、Reddit、X、Snapchat、Facebook、LinkedIn。價格：免費下載。保留私訊：是（訊息照常可用）。美國 App Store 評分數：6。其他：可用「螢幕使用時間」封鎖其他 App。
+- **[Fluid Friction](https://apps.apple.com/us/app/id6782510849)**：在 App 裡開啟社群，讓滑動態變得比較費力；也能隱藏 Reels、Shorts、限時動態和「探索」。支援平台：Instagram、TikTok、YouTube、Reddit、X、Snapchat、Facebook、LinkedIn。價格：免費下載。保留私訊：是（訊息照常可用）。美國 App Store 評分數：9。其他：可用「螢幕使用時間」封鎖其他 App。
 - **[minulo](https://apps.apple.com/us/app/id6809352229)**：在 App 裡開啟各社群的官方網站，並隱藏你選的部分。也能用「螢幕使用時間」鎖住官方 App，改帶你到 minulo。支援平台：Instagram、YouTube、TikTok、X、Threads、Facebook、Pinterest、Reddit、LinkedIn、Snapchat（10 個）。價格：隱藏功能免費，鎖住官方 App 每次最多 2 小時也免費；Pro（美國每月 $9.99 或每年 $39.99）加上排程、Hard Mode、更長的封鎖時間和多組封鎖清單。保留私訊：是。美國 App Store 評分數：0。其他：支援 iPhone 和 Mac；沒有 Android 版。由這份清單的作者維護。
 - **[Stillfeed](https://apps.apple.com/us/app/id6792934511)**：在內建瀏覽器中開啟 7 個社群，拿掉 Reels、「探索」和 Shorts，Instagram 會直接開在「追蹤中」動態。支援平台：Instagram、YouTube、X、Reddit、Snapchat、LinkedIn、TikTok。價格：封鎖和「追蹤中」動態免費；Pro（每週 $2.99、每月 $5.99 或每年 $44.99）加上封鎖限時動態和動態、只用私訊模式等。保留私訊：是。美國 App Store 評分數：0。其他：每週封鎖統計。
 - **[Unfeed](https://apps.apple.com/us/app/id6814847686)**：在自己的 App 裡開啟社群，用過濾器讓動態載入不出來。支援平台：Instagram、TikTok、YouTube、X。價格：免費下載；Pro 加上隱藏廣告、建議貼文和限時動態，以及多帳號。保留私訊：是。美國 App Store 評分數：0。其他：單次使用計時、每日額度、睡眠模式。
@@ -68,7 +68,7 @@
 - **[SocialRouter](https://apps.apple.com/us/app/id6758858307)**：替多個社群帳號分開的瀏覽空間；可以隱藏 Instagram 的 Reels、動態和「探索」，以及 YouTube 的 Shorts。支援平台：Instagram、YouTube 等。價格：免費下載。保留私訊：未說明。美國 App Store 評分數：13。其他：每個平台可用多個帳號，每個帳號可設定不同的 proxy。
 - **[noShorts](https://apps.apple.com/us/app/id6821704649)**：在 App 裡開啟社群，拿掉 Reels、Shorts、「為你推薦」和 Spotlight；跟著引導設定，就能用「螢幕使用時間」封鎖各社群自己的 App，並轉到 noShorts。支援平台：Instagram、YouTube、TikTok、Snapchat、Facebook、X（可加入 Reddit、Bluesky 和 Tumblr）。價格：免費，沒有訂閱和 App 內購買。保留私訊：未說明（「use it as usual」）。美國 App Store 評分數：0。其他：每日上限、安靜時段、小工具，不需帳號也沒有分析。
 - **[TheSNSisMine](https://apps.apple.com/us/app/id6765809922)**：用來看 Instagram、YouTube、Facebook 和 X 網頁版的瀏覽器 App，會隱藏推薦貼文、Reels 和 Shorts，動態只留下你追蹤的人。支援平台：Instagram、YouTube、Facebook、X。價格：需要訂閱（說明中寫每月 ¥200，可免費試用 7 天）。保留私訊：未說明。美國 App Store 評分數：0。
-- **[Feather](https://apps.apple.com/us/app/id6787193472)**：透過 App 開啟社群，拿掉 Reels、Shorts、「為你推薦」和「探索」。支援平台：Instagram、YouTube、Snapchat、TikTok、Facebook、LinkedIn、X、Threads、Reddit。價格：要使用完整功能需訂閱（月繳、6 個月或年繳）。保留私訊：是（訊息、個人檔案和搜尋都保留）。美國 App Store 評分數：7。其他：家長控制，最多 5 個小孩。
+- **[Feather](https://apps.apple.com/us/app/id6787193472)**：透過 App 開啟社群，拿掉 Reels、Shorts、「為你推薦」和「探索」。支援平台：Instagram、YouTube、Snapchat、TikTok、Facebook、LinkedIn、X、Threads、Reddit。價格：要使用完整功能需訂閱（月繳、6 個月或年繳）。保留私訊：是（訊息、個人檔案和搜尋都保留）。美國 App Store 評分數：8。其他：家長控制，最多 5 個小孩。
 - **[Yava](https://apps.apple.com/us/app/id6800918860)**：封鎖 Reels、Shorts、Facebook 的 Reels 和 Watch、「探索」頁面以及自動播放，同時還能傳訊息給朋友（說明中沒有寫封鎖的方式）。支援平台：Instagram、YouTube、Facebook 等。價格：功能需要訂閱。保留私訊：是。美國 App Store 評分數：8。
 - **[Close](https://apps.apple.com/kr/app/id6817441004)**（韓國）：沒有 Reels 和「探索」分頁的 Instagram；私訊、限時動態和有限的朋友動態都保留，還能用「螢幕使用時間」鎖住真正的 Instagram App。支援平台：Instagram。價格：所有功能免費；可自由贊助。保留私訊：是。App Store 評分數：美國 App Store 未上架；韓國 3 則。
 
@@ -77,9 +77,9 @@
 用 Safari 瀏覽時，隱藏 instagram.com / youtube.com 上的動態。官方 App 不受影響。
 
 - **[SocialFocus](https://apps.apple.com/us/app/id1661093205)**：隱藏網站上你選的部分，例如動態、Reels、Shorts 和留言的 Safari 延伸功能。支援平台：Safari 中的 YouTube、Facebook、X、Instagram、Reddit、LinkedIn 和 Gmail 網站。價格：付費 App（美國 $4.99）；可選 PRO 訂閱。保留私訊：未列出。美國 App Store 評分數：326。其他：設定可匯入／匯出。
-- **[ScrollGuard](https://apps.apple.com/us/app/id6754183872)**：在社群網站上隱藏動態、Reels、限時動態和「探索」的 Safari 延伸功能。支援平台：Safari 中的社群網站。價格：免費，另有 Premium 功能。保留私訊：是，依其官網（scrollguard.app，2026-10-17 確認）。美國 App Store 評分數：117。其他：需要 iOS 18。
+- **[ScrollGuard](https://apps.apple.com/us/app/id6754183872)**：在社群網站上隱藏動態、Reels、限時動態和「探索」的 Safari 延伸功能。支援平台：Safari 中的社群網站。價格：免費，另有 Premium 功能。保留私訊：是，依其官網（scrollguard.app，2026-10-17 確認）。美國 App Store 評分數：119。其他：需要 iOS 18。
 - **[Slowth](https://apps.apple.com/us/app/id6764140763)**：隱藏 Shorts、Reels 和 X 的「探索」的 Safari 延伸功能；在 YouTube 和 Instagram App 裡，能透過螢幕錄影偵測 Shorts 或 Reels 並封鎖 App。支援平台：Safari 中的 YouTube、Instagram、Facebook、X、TikTok 網站。價格：免費下載。保留私訊：未列出。美國 App Store 評分數：3。其他：限制會鎖定 24 小時。
-- **[Nope](https://apps.apple.com/us/app/id6768192042)**：適用 instagram.com 和 youtube.com 的 Safari 網頁延伸功能。支援平台：Instagram、YouTube。價格：完全免費，沒有訂閱和 App 內購買。保留私訊：是。美國 App Store 評分數：2。其他：有 Chrome 擴充功能。
+- **[Nope](https://apps.apple.com/us/app/id6768192042)**：適用 instagram.com 和 youtube.com 的 Safari 網頁延伸功能。支援平台：Instagram、YouTube。價格：完全免費，沒有訂閱和 App 內購買。保留私訊：是。美國 App Store 評分數：3。其他：有 Chrome 擴充功能。
 - **[#blockit](https://apps.apple.com/us/app/id1492879257)**：從熱門網站拿掉 Shorts、Reels 和無限滑動的動態，也能依網址封鎖整個網站的 Safari 延伸功能。支援平台：Safari 中的熱門網站。價格：免費下載，可免費試用 7 天。保留私訊：是（「leaves everything else」）。美國 App Store 評分數：168。其他：從 2020 年持續維護，不需帳號。
 - **[No Reel For Instagram](https://apps.apple.com/us/app/id6752605548)**：適用 instagram.com 的 Safari 延伸功能，隱藏 Reels 導覽、搜尋和「探索」裡的 Reels、限時動態、「為你推薦」分頁和推薦帳號。支援平台：Instagram。價格：$3.39。保留私訊：是。美國 App Store 評分數：0。其他：iPhone、iPad 和 Mac。
 - **[No Shorts: Blocker for YouTube](https://apps.apple.com/us/app/id6502996298)**：隱藏 youtube.com 上 Shorts 動態、預覽和推薦的 Safari 延伸功能。支援平台：YouTube。價格：一次買斷 $2.99。保留私訊：不適用。美國 App Store 評分數：15。
