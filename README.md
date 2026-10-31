@@ -93,6 +93,7 @@ Useful if you want to stop using an app entirely; they don't remove Reels while 
 - **[DMOnly](https://apps.apple.com/us/app/id6773196876)** — keeps chosen social apps locked and lets you open them in 15-minute windows.
 - **[Curfew](https://apps.apple.com/us/app/id6755434607)** — locks chosen apps (such as Instagram or YouTube) on a schedule with Screen Time; unlocking starts a 5-minute wait. One schedule is free; Pro is a one-time purchase.
 - **[숏패스 (ShortPass)](https://apps.apple.com/kr/app/id6803353215)** (Korea) — locks chosen apps during study hours or after a daily limit, with an exam D-day; locking is in Pro (non-renewing passes).
+- **[Ripple](https://ripplefocus.github.io/en/ios/)** (IPA on GitHub Releases, not on the App Store; iOS 16.0+): locks chosen apps after a daily limit or during a bedtime schedule with Screen Time, and blocks deleting the app while protection is on. Loosening a rule needs a 15-minute to 2-hour wait based on uptime, so changing the clock does not skip it, or an 8-character unlock code held by a friend or parent. Free, no ads, no account. Also on Android, where it can block only Shorts, Reels and WeChat Channels.
 
 ## How to choose
 - **Need Instagram only for DMs and group chats?** Look for a DMs-only / Messages Only mode (UNDOOMED, LoomWeb, Konvo, minulo, Reelmute, Stillfeed).
