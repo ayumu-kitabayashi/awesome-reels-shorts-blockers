@@ -189,6 +189,18 @@ Páginas breves de minulo.app que responden a una sola pregunta con la ayuda ofi
 - [Cómo leer el informe semanal de Tiempo de uso del iPhone](https://minulo.app/es/screen-time-weekly-report.html)
 - [Modo de concentración solo para mensajes: DM de Instagram](https://minulo.app/es/focus-mode-messages-only.html)
 
+### Una pregunta, una página (noviembre de 2026)
+- [¿Existe Unhook para iPhone? Cómo ocultar las recomendaciones, los Shorts y los comentarios de YouTube](https://minulo.app/es/unhook-for-iphone.html)
+- [Cómo ocultar los comentarios de YouTube en el iPhone](https://minulo.app/es/hide-youtube-comments.html)
+- [¿Hay Instagram Lite para iPhone? Qué usar en su lugar](https://minulo.app/es/instagram-lite-iphone.html)
+- [¿Existe News Feed Eradicator para iPhone? Cómo ocultar los feeds de las redes sociales y mantener los mensajes](https://minulo.app/es/news-feed-eradicator-iphone.html)
+- [SocialLite o ScrollGuard: en qué se diferencian estos dos bloqueadores de Reels en el iPhone](https://minulo.app/es/sociallite-vs-scrollguard.html)
+- [Alternativa a Freedom para iPhone que oculta los Reels y conserva tus DMs](https://minulo.app/es/freedom-app-alternative-iphone.html)
+- [Alternativas a Jomo que ocultan los Reels y los Shorts pero conservan tus DMs](https://minulo.app/es/jomo-alternatives.html)
+- [Alternativa a Forest: que los Reels y los Shorts no vuelvan cuando acaba el temporizador](https://minulo.app/es/forest-app-alternative.html)
+- [Cómo frenar el brain rot de los Reels, los Shorts y TikTok en el iPhone](https://minulo.app/es/how-to-stop-brain-rot.html)
+- [Cómo dejar de mirar Instagram y TikTok nada más despertarte](https://minulo.app/es/stop-checking-phone-in-the-morning.html)
+
 ## Datos
 La comparación de arriba en CSV (una fila por app, con el método, las redes, el precio, si los DMs siguen funcionando, el número de valoraciones en EE. UU. y la fecha de revisión): [data/ios-reels-shorts-blockers.csv](data/ios-reels-shorts-blockers.csv). Las valoraciones son una foto del momento y cambian cada día; se agradecen las correcciones.
 

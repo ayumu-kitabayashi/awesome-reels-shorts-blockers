@@ -161,6 +161,13 @@ Các trang ngắn trên minulo.app, mỗi trang trả lời một câu hỏi, l�
 - [Chế độ tập trung trên iPhone chỉ cho ứng dụng nhắn tin](https://minulo.app/vi/focus-mode-messages-only.html)
 - [Chế độ thang độ xám trên iPhone có giúp bớt lướt không?](https://minulo.app/vi/grayscale-to-stop-scrolling.html)
 
+### Mỗi câu hỏi một trang (tháng 11/2026)
+- [Có Unhook cho iPhone không? Cách ẩn đề xuất, Shorts và bình luận YouTube](https://minulo.app/vi/unhook-for-iphone.html)
+- [Cách ẩn bình luận YouTube trên iPhone](https://minulo.app/vi/hide-youtube-comments.html)
+- [Có Instagram Lite cho iPhone không? Nên dùng gì thay thế](https://minulo.app/vi/instagram-lite-iphone.html)
+- [Có News Feed Eradicator cho iPhone không? Ẩn bảng tin mạng xã hội mà vẫn giữ tin nhắn](https://minulo.app/vi/news-feed-eradicator-iphone.html)
+- [SocialLite và ScrollGuard: hai ứng dụng chặn Reels khác nhau thế nào trên iPhone](https://minulo.app/vi/sociallite-vs-scrollguard.html)
+
 <a id="guides-other-languages"></a>
 ## Hướng dẫn bằng ngôn ngữ khác
 Do nhà phát triển minulo viết; bài nào cũng nói về các tùy chọn có sẵn trước.

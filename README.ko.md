@@ -19,6 +19,8 @@
 - **쇼츠 섹션을 X로 숨기면 계속 숨겨지나요?** 계속은 아닙니다. SlashGear와 GeekChamp는 '30일 동안 숨긴다'는 안내가 뜬다고 전하지만, YouTube 고객센터에는 X도 기간도 나와 있지 않고 X가 안 보이는 계정도 있으며, 쇼츠는 쇼츠 탭, 검색, 구독, 채널 페이지에 남습니다. minulo는 쇼츠 섹션과 쇼츠 탭을 무료로 숨기고 설정을 바꿀 때까지 그대로 둡니다(minulo 안에서만). ([며칠 가는지](https://minulo.app/ko/youtube-hide-shorts-shelf.html))
 - **인스타를 열자마자 DM으로 갈 수 있나요?** 인스타그램 자체에는 그런 설정이 없습니다. 메시지 알림을 누르면 그 채팅이 열리지만 앱 안이라서 피드와 릴스는 한 번만 누르면 나옵니다. minulo의 DM 외의 모든 탭 설정은 무료이고, DM과 알림 탭만 남깁니다(minulo 안에서만). ([방법](https://minulo.app/ko/instagram-open-straight-to-dms.html))
 - **앱 대신 Safari로 인스타나 유튜브를 쓰면 릴스와 쇼츠를 피할 수 있나요?** 그것만으로는 안 됩니다. instagram.com에도 릴스와 탐색이 있고 youtube.com에도 쇼츠가 나오며, 인스타그램 앱이 없으면 알림도 오지 않습니다. Safari에서 숨기려면 Nope(무료)나 ScrollGuard 같은 확장 프로그램이 필요하고, minulo는 두 웹을 릴스와 쇼츠를 숨긴 채 무료로 열어 줍니다(minulo 안에서만). ([인스타를 Safari로](https://minulo.app/ko/instagram-in-safari-instead-of-app.html), [유튜브를 Safari로](https://minulo.app/ko/youtube-in-safari-without-shorts.html))
+- **Unhook이나 News Feed Eradicator의 아이폰 버전이 있나요?** 찾지 못했습니다. Unhook(Chrome, Firefox, Edge)과 News Feed Eradicator(Chrome)는 브라우저 확장 프로그램이고, 스토어 설명에 아이폰이나 Safari 이야기는 없습니다. 아이폰에서는 tubetidy나 SocialFocus 같은 Safari 확장 프로그램이 Safari에서 유튜브 추천, 쇼츠, 댓글을 숨기고, minulo 같은 앱 내 브라우저는 자체 화면 안에서 피드를 숨깁니다. ([Unhook](https://minulo.app/ko/unhook-for-iphone.html), [News Feed Eradicator](https://minulo.app/ko/news-feed-eradicator-iphone.html))
+- **SocialLite와 ScrollGuard는 뭐가 다른가요?** SocialLite는 SNS를 자체 화면으로 여는 독립 앱이고, 스크린 타임으로 공식 앱을 막을 수 있습니다. ScrollGuard는 Safari에서 볼 때 작동하는 Safari 확장 프로그램이고, 안드로이드 버전도 있습니다. ([비교](https://minulo.app/ko/sociallite-vs-scrollguard.html))
 
 
 ## 목차
@@ -199,6 +201,18 @@ minulo.app의 짧은 페이지입니다. 각 플랫폼의 공식 도움말을 �
 - [아이폰 스크린 타임 주간 리포트 보는 법](https://minulo.app/ko/screen-time-weekly-report.html)
 - [아이폰 집중 모드를 메시지 앱만 허용하기 (인스타 DM)](https://minulo.app/ko/focus-mode-messages-only.html)
 - [아이폰 흑백(그레이스케일)으로 폰 시간이 줄까?](https://minulo.app/ko/grayscale-to-stop-scrolling.html)
+
+### 질문 하나에 페이지 하나 (2026년 11월)
+- [Unhook 아이폰 버전 있나요? 유튜브 추천, 쇼츠, 댓글 숨기는 법](https://minulo.app/ko/unhook-for-iphone.html)
+- [아이폰에서 유튜브 댓글 숨기는 법](https://minulo.app/ko/hide-youtube-comments.html)
+- [인스타그램 라이트(Instagram Lite) 아이폰에 있나요? 대신 쓸 수 있는 것](https://minulo.app/ko/instagram-lite-iphone.html)
+- [News Feed Eradicator 아이폰 버전 있나요? SNS 피드만 숨기고 메시지는 남기는 법](https://minulo.app/ko/news-feed-eradicator-iphone.html)
+- [SocialLite vs ScrollGuard: 아이폰에서 릴스 숨기는 두 앱 비교](https://minulo.app/ko/sociallite-vs-scrollguard.html)
+- [포레스트(Forest) 앱 대안: 나무 대신 릴스·쇼츠만 없애고 카톡·DM은 쓰기](https://minulo.app/ko/forest-app-alternative.html)
+- [열품타 켜고 공부해도 쉬는 시간에 릴스를 보게 될 때: 릴스만 없애는 방법](https://minulo.app/ko/yeolpumta-reels.html)
+- [공부할 때 폰 잠그는 앱 비교: 열품타, 포레스트, 스크린 타임, minulo](https://minulo.app/ko/study-lock-apps-compared.html)
+- [수능 끝나고 인스타 다시 깔 때: 릴스에 다시 빠지지 않고 돌아오는 방법](https://minulo.app/ko/after-suneung-instagram.html)
+- [카카오톡 숏폼 안 보는 방법: 자동 재생 끄기와 인스타 릴스·유튜브 쇼츠까지 줄이기](https://minulo.app/ko/kakaotalk-shortform.html)
 
 ## 데이터
 위 비교 내용을 CSV로 내려받을 수 있습니다 (앱마다 한 줄, 방식, 지원 SNS, 가격, DM이 계속 되는지, 미국 평가 수, 확인한 날짜, 영어): [data/ios-reels-shorts-blockers.csv](data/ios-reels-shorts-blockers.csv). 평가 수는 특정 시점의 값이라 매일 바뀝니다. 고칠 곳이 있으면 알려 주세요.

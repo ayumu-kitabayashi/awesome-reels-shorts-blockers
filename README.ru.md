@@ -161,6 +161,13 @@
 - [Фокусирование на iPhone только для мессенджеров](https://minulo.app/ru/focus-mode-messages-only.html)
 - [Помогают ли оттенки серого на iPhone меньше листать?](https://minulo.app/ru/grayscale-to-stop-scrolling.html)
 
+### Один вопрос — одна страница (ноябрь 2026)
+- [Есть ли Unhook для iPhone? Как скрыть рекомендации, Shorts и комментарии в YouTube](https://minulo.app/ru/unhook-for-iphone.html)
+- [Как скрыть комментарии YouTube на iPhone](https://minulo.app/ru/hide-youtube-comments.html)
+- [Есть ли Instagram Lite для iPhone? Чем его заменить](https://minulo.app/ru/instagram-lite-iphone.html)
+- [Есть ли News Feed Eradicator для iPhone? Как скрыть ленты соцсетей и оставить сообщения](https://minulo.app/ru/news-feed-eradicator-iphone.html)
+- [SocialLite или ScrollGuard: чем отличаются два блокировщика Reels на iPhone](https://minulo.app/ru/sociallite-vs-scrollguard.html)
+
 <a id="guides-other-languages"></a>
 ## Инструкции на других языках
 Написаны разработчиком minulo; в каждой сначала разобраны встроенные способы.

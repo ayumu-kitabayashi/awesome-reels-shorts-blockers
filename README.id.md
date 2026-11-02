@@ -161,6 +161,13 @@ Halaman singkat di minulo.app yang masing-masing menjawab satu pertanyaan, denga
 - [Fokus iPhone Hanya untuk Pesan: Bagaimana dengan DM Instagram](https://minulo.app/id/focus-mode-messages-only.html)
 - [Apakah Skala Abu-Abu di iPhone Mengurangi Scroll?](https://minulo.app/id/grayscale-to-stop-scrolling.html)
 
+### Satu pertanyaan, satu halaman (November 2026)
+- [Adakah Unhook untuk iPhone? Menyembunyikan rekomendasi, Shorts, dan komentar YouTube](https://minulo.app/id/unhook-for-iphone.html)
+- [Cara menyembunyikan komentar YouTube di iPhone](https://minulo.app/id/hide-youtube-comments.html)
+- [Adakah Instagram Lite untuk iPhone? Pilihan penggantinya](https://minulo.app/id/instagram-lite-iphone.html)
+- [Adakah News Feed Eradicator untuk iPhone? Menyembunyikan feed media sosial dan tetap memakai pesan](https://minulo.app/id/news-feed-eradicator-iphone.html)
+- [SocialLite vs ScrollGuard: beda dua pemblokir Reels ini di iPhone](https://minulo.app/id/sociallite-vs-scrollguard.html)
+
 <a id="guides-other-languages"></a>
 ## Panduan dalam bahasa lain
 Ditulis oleh developer minulo; semuanya membahas opsi bawaan lebih dulu.

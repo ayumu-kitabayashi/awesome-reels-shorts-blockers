@@ -191,6 +191,18 @@ Kurze Seiten auf minulo.app, die jeweils eine Frage beantworten, mit der offizie
 - [Den Bildschirmzeit-Wochenbericht auf dem iPhone lesen](https://minulo.app/de/screen-time-weekly-report.html)
 - [iPhone-Fokus nur für Nachrichten: Instagram-DMs](https://minulo.app/de/focus-mode-messages-only.html)
 
+### Eine Frage, eine Seite (November 2026)
+- [Gibt es Unhook fürs iPhone? YouTube-Empfehlungen, Shorts und Kommentare ausblenden](https://minulo.app/de/unhook-for-iphone.html)
+- [YouTube-Kommentare auf dem iPhone ausblenden](https://minulo.app/de/hide-youtube-comments.html)
+- [Gibt es Instagram Lite fürs iPhone? Was du stattdessen nutzen kannst](https://minulo.app/de/instagram-lite-iphone.html)
+- [Gibt es News Feed Eradicator fürs iPhone? Feeds sozialer Netzwerke ausblenden und Nachrichten behalten](https://minulo.app/de/news-feed-eradicator-iphone.html)
+- [SocialLite vs. ScrollGuard: So unterscheiden sich die beiden Reels-Blocker auf dem iPhone](https://minulo.app/de/sociallite-vs-scrollguard.html)
+- [Freedom-Alternative fürs iPhone: Reels ausblenden und DMs behalten](https://minulo.app/de/freedom-app-alternative-iphone.html)
+- [Jomo-Alternativen, die Reels und Shorts ausblenden und DMs behalten](https://minulo.app/de/jomo-alternatives.html)
+- [Forest-Alternative: Reels und Shorts bleiben auch nach dem Fokus-Timer weg](https://minulo.app/de/forest-app-alternative.html)
+- [Brain Rot durch Reels, Shorts und TikTok auf dem iPhone stoppen](https://minulo.app/de/how-to-stop-brain-rot.html)
+- [Morgens nicht mehr als Erstes Instagram und TikTok checken](https://minulo.app/de/stop-checking-phone-in-the-morning.html)
+
 ## Daten
 Der Vergleich oben als CSV (eine Zeile pro App: Ansatz, Netzwerke, Preis, ob DMs weiter funktionieren, Anzahl der US-Bewertungen und Prüfdatum): [data/ios-reels-shorts-blockers.csv](data/ios-reels-shorts-blockers.csv). Die Bewertungen sind eine Momentaufnahme und ändern sich täglich; Korrekturen sind willkommen.
 

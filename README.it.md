@@ -161,6 +161,13 @@ Pagine brevi su minulo.app: ognuna risponde a una domanda, citando come fonte le
 - [Full immersion dell'iPhone solo per i messaggi: i DM di Instagram](https://minulo.app/it/focus-mode-messages-only.html)
 - [La scala di grigi su iPhone aiuta a scorrere meno?](https://minulo.app/it/grayscale-to-stop-scrolling.html)
 
+### Una domanda, una pagina (novembre 2026)
+- [Esiste Unhook per iPhone? Nascondere consigliati, Shorts e commenti di YouTube](https://minulo.app/it/unhook-for-iphone.html)
+- [Come nascondere i commenti di YouTube su iPhone](https://minulo.app/it/hide-youtube-comments.html)
+- [Esiste Instagram Lite per iPhone? Cosa usare al suo posto](https://minulo.app/it/instagram-lite-iphone.html)
+- [Esiste News Feed Eradicator per iPhone? Nascondere i feed dei social e tenere i messaggi](https://minulo.app/it/news-feed-eradicator-iphone.html)
+- [SocialLite o ScrollGuard: come cambiano le due app per i Reels su iPhone](https://minulo.app/it/sociallite-vs-scrollguard.html)
+
 <a id="guides-other-languages"></a>
 ## Guide in altre lingue
 Scritte dallo sviluppatore di minulo; ognuna parte dalle opzioni già presenti.

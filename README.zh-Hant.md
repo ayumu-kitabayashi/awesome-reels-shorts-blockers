@@ -161,6 +161,13 @@ minulo.app 上的短篇頁面，每頁回答一個問題，並以該平台的官
 - [只允許訊息的 iPhone 專注模式：Instagram 私訊會怎樣](https://minulo.app/zh-Hant/focus-mode-messages-only.html)
 - [iPhone 開灰階就能少滑手機嗎？](https://minulo.app/zh-Hant/grayscale-to-stop-scrolling.html)
 
+### 一個問題一頁（2026 年 11 月）
+- [Unhook 有 iPhone 版嗎？隱藏 YouTube 推薦、Shorts 和留言的方法](https://minulo.app/zh-Hant/unhook-for-iphone.html)
+- [在 iPhone 上隱藏 YouTube 留言的方法](https://minulo.app/zh-Hant/hide-youtube-comments.html)
+- [Instagram Lite 有 iPhone 版嗎？可以改用什麼](https://minulo.app/zh-Hant/instagram-lite-iphone.html)
+- [News Feed Eradicator 有 iPhone 版嗎？隱藏社群動態、保留訊息的方法](https://minulo.app/zh-Hant/news-feed-eradicator-iphone.html)
+- [SocialLite 與 ScrollGuard 比較：兩款 Reels 封鎖工具在 iPhone 上的差別](https://minulo.app/zh-Hant/sociallite-vs-scrollguard.html)
+
 <a id="guides-other-languages"></a>
 ## 其他語言的教學
 由 minulo 的開發者撰寫；每篇都先介紹內建做法。

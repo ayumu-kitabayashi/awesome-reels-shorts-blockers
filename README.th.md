@@ -161,6 +161,13 @@
 - [โฟกัสของ iPhone ที่ให้แจ้งเตือนแค่แอปแชท](https://minulo.app/th/focus-mode-messages-only.html)
 - [ตั้ง iPhone เป็นระดับสีเทาช่วยให้ไถฟีดน้อยลงไหม](https://minulo.app/th/grayscale-to-stop-scrolling.html)
 
+### หนึ่งคำถาม หนึ่งหน้า (พฤศจิกายน 2026)
+- [Unhook บน iPhone มีไหม วิธีซ่อนวิดีโอแนะนำ Shorts และความคิดเห็นของ YouTube](https://minulo.app/th/unhook-for-iphone.html)
+- [วิธีซ่อนความคิดเห็นของ YouTube บน iPhone](https://minulo.app/th/hide-youtube-comments.html)
+- [Instagram Lite บน iPhone มีไหม ใช้อะไรแทนได้](https://minulo.app/th/instagram-lite-iphone.html)
+- [News Feed Eradicator บน iPhone มีไหม วิธีซ่อนฟีดโซเชียลมีเดียโดยยังใช้ข้อความได้](https://minulo.app/th/news-feed-eradicator-iphone.html)
+- [SocialLite กับ ScrollGuard: แอปบล็อก Reels สองตัวนี้ต่างกันอย่างไรบน iPhone](https://minulo.app/th/sociallite-vs-scrollguard.html)
+
 <a id="guides-other-languages"></a>
 ## คู่มือภาษาอื่น
 เขียนโดยผู้พัฒนา minulo ทุกบทเริ่มจากวิธีที่ทำได้ในตัวก่อน

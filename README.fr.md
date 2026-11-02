@@ -189,6 +189,18 @@ Pages courtes de minulo.app qui répondent chacune à une question, avec l'aide 
 - [Lire le rapport hebdomadaire Temps d’écran sur iPhone](https://minulo.app/fr/screen-time-weekly-report.html)
 - [Concentration iPhone pour les messages : DM Instagram](https://minulo.app/fr/focus-mode-messages-only.html)
 
+### Une question, une page (novembre 2026)
+- [Unhook existe-t-il sur iPhone ? Masquer les recommandations, les Shorts et les commentaires de YouTube](https://minulo.app/fr/unhook-for-iphone.html)
+- [Comment masquer les commentaires de YouTube sur iPhone](https://minulo.app/fr/hide-youtube-comments.html)
+- [Instagram Lite existe-t-il sur iPhone ? Quelle alternative utiliser](https://minulo.app/fr/instagram-lite-iphone.html)
+- [News Feed Eradicator existe-t-il sur iPhone ? Masquer les fils des réseaux sociaux et garder les messages](https://minulo.app/fr/news-feed-eradicator-iphone.html)
+- [SocialLite ou ScrollGuard : en quoi ces deux bloqueurs de Reels diffèrent sur iPhone](https://minulo.app/fr/sociallite-vs-scrollguard.html)
+- [Alternative à Freedom sur iPhone qui masque les Reels mais garde vos DM](https://minulo.app/fr/freedom-app-alternative-iphone.html)
+- [Alternatives à Jomo qui masquent les Reels et les Shorts mais gardent vos DM](https://minulo.app/fr/jomo-alternatives.html)
+- [Alternative à l’app Forest : garder les Reels et les Shorts masqués après la fin du minuteur](https://minulo.app/fr/forest-app-alternative.html)
+- [Comment arrêter le « brain rot » des Reels, des Shorts et de TikTok sur iPhone](https://minulo.app/fr/how-to-stop-brain-rot.html)
+- [Comment arrêter de regarder Instagram et TikTok dès le réveil](https://minulo.app/fr/stop-checking-phone-in-the-morning.html)
+
 ## Données
 Le comparatif ci-dessus au format CSV (une ligne par appli : méthode, réseaux, prix, maintien des DM, nombre d'avis aux États-Unis et date de vérification) : [data/ios-reels-shorts-blockers.csv](data/ios-reels-shorts-blockers.csv). Les nombres d'avis sont un instantané et changent tous les jours ; corrections bienvenues.
 

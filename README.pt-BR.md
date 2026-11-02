@@ -189,6 +189,18 @@ Páginas curtas do minulo.app que respondem a uma pergunta usando a ajuda oficia
 - [Como ler o relatório semanal do Tempo de Uso no iPhone](https://minulo.app/pt/screen-time-weekly-report.html)
 - [Foco do iPhone só para mensagens: DMs do Instagram](https://minulo.app/pt/focus-mode-messages-only.html)
 
+### Uma pergunta, uma página (novembro de 2026)
+- [Existe Unhook para iPhone? Como ocultar as recomendações, os Shorts e os comentários do YouTube](https://minulo.app/pt/unhook-for-iphone.html)
+- [Como ocultar os comentários do YouTube no iPhone](https://minulo.app/pt/hide-youtube-comments.html)
+- [Existe Instagram Lite para iPhone? O que usar no lugar](https://minulo.app/pt/instagram-lite-iphone.html)
+- [Existe News Feed Eradicator para iPhone? Como ocultar os feeds das redes sociais e manter as mensagens](https://minulo.app/pt/news-feed-eradicator-iphone.html)
+- [SocialLite ou ScrollGuard: como os dois bloqueadores de Reels se diferenciam no iPhone](https://minulo.app/pt/sociallite-vs-scrollguard.html)
+- [Alternativa ao Freedom para iPhone que oculta os Reels e mantém as suas DMs](https://minulo.app/pt/freedom-app-alternative-iphone.html)
+- [Alternativas ao Jomo que ocultam os Reels e os Shorts e mantêm as suas DMs](https://minulo.app/pt/jomo-alternatives.html)
+- [Alternativa ao app Forest: mantenha os Reels e os Shorts desligados depois que o timer de foco acaba](https://minulo.app/pt/forest-app-alternative.html)
+- [Como parar o brain rot causado por Reels, Shorts e TikTok no iPhone](https://minulo.app/pt/how-to-stop-brain-rot.html)
+- [Como parar de abrir o Instagram e o TikTok assim que acorda](https://minulo.app/pt/stop-checking-phone-in-the-morning.html)
+
 ## Dados
 A comparação acima em CSV (uma linha por app; como funciona, redes, preço, se as DMs continuam funcionando, número de avaliações nos EUA e a data da conferência): [data/ios-reels-shorts-blockers.csv](data/ios-reels-shorts-blockers.csv). O CSV está em inglês. As avaliações são um retrato do dia e mudam todo dia; correções são bem-vindas.
 

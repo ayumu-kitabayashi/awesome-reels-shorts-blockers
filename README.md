@@ -18,6 +18,8 @@ A list of iPhone apps and settings that hide **Instagram Reels, YouTube Shorts a
 - **Does hiding the Shorts shelf with the X last?** Not for good: SlashGear and GeekChamp report a message saying the shelf is hidden for 30 days, but YouTube's help doesn't describe the X or give a period, the X isn't on every account, and Shorts stay in the Shorts tab, search, Subscriptions and channel pages. minulo hides the Shorts shelf and Shorts tab for free until you change the setting, though only inside minulo. ([how long the X lasts](https://minulo.app/en/youtube-hide-shorts-shelf.html))
 - **Can I open Instagram straight to my DMs?** Instagram itself has no setting for it; tapping a message notification opens that chat, but the feed and Reels are still one tap away in the app. In minulo the Every tab but DMs setting is free and leaves only DMs and the notifications tab, though only inside minulo. ([how-to](https://minulo.app/en/instagram-open-straight-to-dms.html))
 - **Does using Instagram or YouTube in Safari instead of the app avoid Reels and Shorts?** Not by itself: instagram.com has Reels and Explore, youtube.com shows Shorts, and without the Instagram app you stop getting its notifications. To hide them in Safari you need an extension such as Nope (free) or ScrollGuard, and minulo opens both websites with Reels and Shorts hidden for free, inside minulo. ([Instagram in Safari](https://minulo.app/en/instagram-in-safari-instead-of-app.html), [YouTube in Safari](https://minulo.app/en/youtube-in-safari-without-shorts.html))
+- **Is there an iPhone version of Unhook or News Feed Eradicator?** Not that we found: Unhook (Chrome, Firefox, Edge) and News Feed Eradicator (Chrome) are browser extensions, and their listings don't mention iPhone or Safari. On iPhone, Safari extensions such as tubetidy and SocialFocus hide YouTube recommendations, Shorts or comments while you browse in Safari, and in-app browsers such as minulo hide the feeds inside their own view. ([Unhook](https://minulo.app/en/unhook-for-iphone.html), [News Feed Eradicator](https://minulo.app/en/news-feed-eradicator-iphone.html))
+- **SocialLite or ScrollGuard: what is the difference?** SocialLite is an app of its own that opens networks in a focused view and can block the official apps with Screen Time; ScrollGuard is a Safari extension that works while you browse in Safari, and it also has an Android version. ([compared](https://minulo.app/en/sociallite-vs-scrollguard.html))
 
 
 ## Contents
@@ -154,6 +156,18 @@ Short pages on minulo.app that each answer one question with the platform's own 
 - [How to Read the iPhone Screen Time Weekly Report](https://minulo.app/en/screen-time-weekly-report.html)
 - [iPhone Focus for Messages Only: Instagram DMs](https://minulo.app/en/focus-mode-messages-only.html)
 - [Does Grayscale on iPhone Stop Scrolling?](https://minulo.app/en/grayscale-to-stop-scrolling.html)
+
+### One question, one page (November 2026)
+- [Is there Unhook for iPhone? Hiding YouTube recommendations, Shorts and comments](https://minulo.app/en/unhook-for-iphone.html)
+- [How to hide YouTube comments on iPhone](https://minulo.app/en/hide-youtube-comments.html)
+- [Is there Instagram Lite for iPhone? What to use instead](https://minulo.app/en/instagram-lite-iphone.html)
+- [Is there News Feed Eradicator for iPhone? Hiding social media feeds and keeping messages](https://minulo.app/en/news-feed-eradicator-iphone.html)
+- [SocialLite vs ScrollGuard: how the two Reels blockers differ on iPhone](https://minulo.app/en/sociallite-vs-scrollguard.html)
+- [Freedom app alternative for iPhone that hides Reels but keeps your DMs](https://minulo.app/en/freedom-app-alternative-iphone.html)
+- [Jomo alternatives that hide Reels and Shorts but keep your DMs](https://minulo.app/en/jomo-alternatives.html)
+- [Forest app alternative: keep Reels and Shorts off after your focus timer ends](https://minulo.app/en/forest-app-alternative.html)
+- [How to stop brain rot from Reels, Shorts and TikTok on iPhone](https://minulo.app/en/how-to-stop-brain-rot.html)
+- [How to stop checking Instagram and TikTok first thing in the morning](https://minulo.app/en/stop-checking-phone-in-the-morning.html)
 
 ## Guides in other languages
 Written by the minulo developer; each covers the built-in options first.

@@ -18,6 +18,8 @@
 - **ショートの棚の × で消すと、ずっと消えたまま？** ずっとではありません。SlashGear と GeekChamp は「30日間非表示」という表示が出ると伝えていますが、YouTube のヘルプには × のことも期間も書かれておらず、× が出ないアカウントもあります。棚を隠してもショートのタブ・検索・登録チャンネル・チャンネルのページには残ります。minulo ならショートの棚とタブを無料で消せて、設定を変えるまでそのままです（minulo の中だけ）。（[何日消えるか](https://minulo.app/youtube-hide-shorts-shelf.html)）
 - **インスタを開いたらすぐ DM へ行ける？** インスタ自体にその設定はありません。メッセージの通知をタップすればそのチャットが開きますが、アプリの中なのでフィードとリールはタップ1回の場所に残ります。minulo の［DM以外のタブ］は無料で、DM とお知らせのタブだけが残ります（minulo の中だけ）。（[やり方](https://minulo.app/instagram-open-straight-to-dms.html)）
 - **アプリを消して Safari でインスタや YouTube を使えば、リールやショートは避けられる？** それだけでは避けられません。instagram.com にもリールと発見があり、youtube.com にもショートが出ます。インスタのアプリが無いと通知も届かなくなります。Safari の中で消すには Nope（無料）や ScrollGuard のような機能拡張が要ります。minulo はどちらのウェブ版も、リールやショートを消した状態で無料で開けます（minulo の中だけ）。（[インスタを Safari で](https://minulo.app/instagram-in-safari-instead-of-app.html)・[YouTube を Safari で](https://minulo.app/youtube-in-safari-without-shorts.html)）
+- **Unhook や News Feed Eradicator の iPhone 版はある？** 見つかりませんでした。Unhook（Chrome・Firefox・Edge）と News Feed Eradicator（Chrome）はブラウザの拡張機能で、ストアの説明に iPhone や Safari の記載はありません。iPhone では、tubetidy や SocialFocus のような Safari 機能拡張が Safari の中で YouTube のおすすめ・ショート・コメントを消し、minulo のようなアプリ内ブラウザは自分の画面の中でフィードを消します。（[Unhook](https://minulo.app/unhook-for-iphone.html)・[News Feed Eradicator](https://minulo.app/news-feed-eradicator-iphone.html)）
+- **SocialLite と ScrollGuard の違いは？** SocialLite は SNS を自分の画面で開く独立したアプリで、公式アプリをスクリーンタイムで止められます。ScrollGuard は Safari で見ているときに効く Safari 機能拡張で、Android 版もあります。（[比較](https://minulo.app/sociallite-vs-scrollguard.html)）
 
 
 ## 目次
@@ -161,6 +163,18 @@ minulo.app の短いページです。各社の公式ヘルプを出典に、1�
 - [iPhone スクリーンタイムの週間レポートの見方](https://minulo.app/screen-time-weekly-report.html)
 - [iPhoneの集中モードをメッセージだけにする方法とインスタDM](https://minulo.app/focus-mode-messages-only.html)
 - [iPhoneを白黒（グレイスケール）にするとスマホ時間は減る？](https://minulo.app/grayscale-to-stop-scrolling.html)
+
+### 1ページ1問のまとめ（2026年11月）
+- [Unhook の iPhone 版はある？YouTube のおすすめ・ショート・コメントを消す方法](https://minulo.app/unhook-for-iphone.html)
+- [iPhone で YouTube のコメントを非表示にする方法](https://minulo.app/hide-youtube-comments.html)
+- [インスタライト（Instagram Lite）は iPhone にある？代わりに使えるもの](https://minulo.app/instagram-lite-iphone.html)
+- [News Feed Eradicator の iPhone 版はある？SNS のフィードだけ消してメッセージは残す方法](https://minulo.app/news-feed-eradicator-iphone.html)
+- [SocialLite と ScrollGuard の違い：iPhone でリールを消す2つのアプリを比べる](https://minulo.app/sociallite-vs-scrollguard.html)
+- [Studyplus の集中モードを使っても、休憩中にリールを見てしまうとき](https://minulo.app/studyplus-focus-mode-reels.html)
+- [勉強アプリでスマホを止められる？Studyplus・StudyCast・集中・スクリーンタイム・minulo を比べる](https://minulo.app/study-apps-phone-lock-compared.html)
+- [高校生のスマホ時間を自分で減らすアプリと設定](https://minulo.app/high-school-phone-time.html)
+- [推し活で X・インスタ・YouTube を推しの投稿だけにする方法](https://minulo.app/oshikatsu-following-only.html)
+- [通学の電車でリールやショートを見てしまうときの設定](https://minulo.app/commute-train-reels.html)
 
 ## 英語以外の解説記事
 minulo の開発者が書いたもので、どれも最初にアプリなしでできる設定を扱っています。
