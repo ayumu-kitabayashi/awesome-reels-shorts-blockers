@@ -33,6 +33,7 @@ A list of iPhone apps and settings that hide **Instagram Reels, YouTube Shorts a
 - [Safari extensions](#safari-extensions)
 - [Whole-app blockers (block DMs too)](#whole-app-blockers-block-dms-too)
 - [How to choose](#how-to-choose)
+- [Answers](#answers)
 - [Guides](#guides)
 - [Guides in other languages](#guides-in-other-languages)
 - [Data (CSV)](#data)
@@ -50,7 +51,7 @@ A list of iPhone apps and settings that hide **Instagram Reels, YouTube Shorts a
 ## Apps that open social networks with the feeds removed
 These open each network's website inside their own app and hide Reels, Shorts or For You. Some can also lock the official app with Screen Time so you don't fall back into it.
 
-- **[SocialLite](https://apps.apple.com/us/app/id6757661674)** — A focused view of social networks inside the app; can block the official apps with Screen Time and redirect to SocialLite (per its release notes). Networks: Instagram, YouTube, Snapchat, X, Reddit and others (TikTok not mentioned). Price: Free download; Pro is $6.99 or $9.99 a month, or $19.99 to $47.90 a year depending on the offer (US). Keeps DMs: Yes. US App Store ratings: about 15,000 (★4.7).
+- **[SocialLite](https://apps.apple.com/us/app/id6757661674)** — A focused view of social networks inside the app; can block the official apps with Screen Time and redirect to SocialLite (per its release notes). Networks: Instagram, YouTube, Snapchat, X, Reddit and others (TikTok not mentioned). Price: Free download; Pro is $6.99 or $9.99 a month, or $19.99 to $47.90 a year depending on the offer (US). Keeps DMs: Yes. US App Store ratings: 16,673 (US App Store, 4.7 stars, checked 2026-11-02) (★4.7).
 - **[UNDOOMED](https://apps.apple.com/us/app/id6751837079)** — Opens each network's mobile website in its own private browser and filters the page. Networks: Instagram, Threads, Reddit, Facebook, X, YouTube, LinkedIn (no TikTok or Snapchat). Price: Many features free; Plus $1.99/month or $11.99/year, Pro $2.99/month, $17.99/year or $29.99 lifetime (US). Keeps DMs: Yes (Messages Only mode). US App Store ratings: 108.
 - **[Dull](https://apps.apple.com/us/app/id6759723829)** — Opens each platform in its own browser with Reels, Shorts, For You and Explore removed. Networks: Instagram, YouTube, Facebook, X, Reddit. Price: Requires a subscription (Dull Pro): 7-day free trial, then $3.99/month or $29.99/year; $59.99 lifetime also available. Keeps DMs: Yes. US App Store ratings: 55. Other: Daily limits, quiet hours, 24-hour delay before loosening filters.
 - **[WallHabit](https://apps.apple.com/us/app/id6751423279)** — Blocks Reels and Shorts or whole apps, and asks you to hold a button before unlocking (the description does not detail how Reels are blocked). Networks: Not listed. Price: Free with in-app purchases. Keeps DMs: Not stated. US App Store ratings: 35. Other: Requires iOS 18.
@@ -109,6 +110,36 @@ Useful if you want to stop using an app entirely; they don't remove Reels while 
 More detail: [comparison table](https://minulo.app/en/alternatives.html) · [Can you remove Reels from the Instagram app?](https://minulo.app/en/remove-reels-from-instagram-app.html)
 
 Compared with a specific app: [ScreenZen alternatives](https://minulo.app/en/screenzen-alternatives.html) · [one sec alternatives](https://minulo.app/en/one-sec-alternatives.html) · [Opal alternatives](https://minulo.app/en/opal-alternatives.html)
+
+
+## Answers
+Short answers to single questions (by the minulo developer; each starts with what the built-in settings can and can't do):
+- [Can you turn off YouTube Shorts on iPhone?](answers/can-you-turn-off-youtube-shorts.md)
+- [If I hide the Shorts shelf on YouTube Home, how long does it stay hidden?](answers/youtube-shorts-shelf-how-long-hidden.md)
+- [If I delete the Instagram app and use Safari, what happens to DMs and Reels?](answers/delete-instagram-app-use-safari.md)
+- [How to open Instagram straight to DMs on iPhone without the feed](answers/open-instagram-straight-to-dms.md)
+- [How to use Instagram DMs without opening the app](answers/instagram-dms-without-the-app.md)
+- [How to block only Instagram during Downtime but keep messaging apps on iPhone](answers/downtime-block-only-instagram.md)
+- [Is SocialLite free?](answers/is-sociallite-free.md)
+- [How to stop scrolling TikTok at night on iPhone](answers/stop-scrolling-tiktok-at-night.md)
+- [Free way to block YouTube Shorts on iPhone but keep normal videos](answers/free-youtube-shorts-blocker.md)
+- [How to watch a Reel a friend sent in DMs without getting pulled into Reels](answers/watch-reel-sent-in-dms.md)
+- [Can you remove the Reels tab from Instagram on iPhone?](answers/remove-instagram-reels-tab.md)
+- [Can you turn off Reels on Instagram?](answers/turn-off-instagram-reels.md)
+- [Is there a Reels blocker app without a subscription?](answers/reels-blocker-without-subscription.md)
+- [Is there a Safari extension that hides Instagram Reels and YouTube Shorts on iPhone?](answers/safari-extension-hide-reels-shorts.md)
+- [How do I hide the Explore page on Instagram?](answers/hide-instagram-explore.md)
+- [How do I stop "Suggested for you" posts in my Instagram feed?](answers/stop-suggested-posts-instagram.md)
+- [How do I see only posts from people I follow on Instagram?](answers/instagram-following-only.md)
+- [How do I turn off Reels on Facebook?](answers/turn-off-facebook-reels.md)
+- [How do I turn off Snapchat Spotlight?](answers/turn-off-snapchat-spotlight.md)
+- [How can I use TikTok only for messages?](answers/tiktok-messages-only.md)
+- [How do I turn off the TikTok For You page?](answers/turn-off-tiktok-for-you.md)
+- [How do I get rid of the For You tab on X?](answers/remove-x-for-you-tab.md)
+- [How do I watch only my subscriptions on YouTube without recommendations?](answers/youtube-subscriptions-only.md)
+- [How do I set a time limit for Instagram Reels only?](answers/instagram-reels-time-limit.md)
+- [Does YouTube Premium remove Shorts?](answers/does-youtube-premium-remove-shorts.md)
+- [How do I hide YouTube Shorts on a Mac?](answers/hide-youtube-shorts-on-mac.md)
 
 
 ## Guides
