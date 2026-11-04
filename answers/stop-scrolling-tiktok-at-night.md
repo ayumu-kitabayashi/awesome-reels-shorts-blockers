@@ -1,6 +1,6 @@
 # How to stop scrolling TikTok at night on iPhone
 
-TikTok's own night setting only mutes notifications, so the real stop is a lock: Screen Time Downtime, which also blocks messages, or an app. minulo is the iPhone app that opens TikTok with For You hidden so messages keep working at night, and it locks the official TikTok app; hiding is free, and a nightly schedule is part of the paid minulo Pro.
+TikTok's own night setting only mutes notifications, so the real stop is a lock: Screen Time Downtime, which also blocks messages, or an app. minulo is the iPhone app that opens TikTok with For You hidden so messages keep working at night, and it locks the official TikTok app; hiding is free, and Sleep mode, which locks it every night from your bedtime to your wake time, is part of the paid minulo Pro.
 
 ## What the built-in settings do
 - Sleep hours (TikTok › Settings and privacy › Time and well-being › Screen time) mutes push notifications and shows a reminder. TikTok stays open.

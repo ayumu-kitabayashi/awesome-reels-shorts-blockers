@@ -9,7 +9,7 @@ You can't: we could not find a Reels-only time limit in Instagram's help or in i
 - The Following feed removes suggested posts from Home, but the Reels tab stays.
 
 ## Apps that do it
-- **minulo**: hides Reels, Explore and suggested posts. A Reel sent in a DM pauses before the feed, and Open for 5 min lets you watch for five minutes. Pro ($9.99 a month or $39.99 a year in the US) adds schedules, longer blocks and Hard Mode.
+- **minulo**: hides Reels, Explore and suggested posts. A Reel sent in a DM pauses before the feed, and Open for 5 min lets you watch for five minutes. Pro ($9.99 a month or $39.99 a year in the US) adds Sleep mode (one bedtime and wake time every day), Hard Mode, a Daily limit and blocks longer than 2 hours.
 - **SocialLite**, **UNDOOMED**, **Stillfeed** and **Reelmute** hide Reels while DMs keep working.
 - Whole-app timers such as **No Scroll** lock the app when your chosen time runs out, DMs included.
 

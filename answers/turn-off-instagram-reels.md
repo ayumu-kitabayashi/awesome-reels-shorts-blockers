@@ -10,7 +10,7 @@ No. We could not find any setting in Instagram's help that turns off Reels for a
 - iPhone Screen Time can only block the whole app, DMs included.
 
 ## Apps that do it
-- **minulo**: hides the Reels tab, Reels in the feed and Explore, and can lock the official app so tapping it sends you to minulo. Pro ($9.99 a month or $39.99 a year in the US) adds schedules, longer blocks and Hard Mode.
+- **minulo**: hides the Reels tab, Reels in the feed and Explore, and can lock the official app so tapping it sends you to minulo. Pro ($9.99 a month or $39.99 a year in the US) adds Sleep mode (one bedtime and wake time every day), Hard Mode, a Daily limit and blocks longer than 2 hours.
 - **UNDOOMED**, **Awhile**, **SocialLite** and **LoomWeb** open Instagram in their own view with Reels hidden and DMs kept.
 - **Stillfeed** and **Reelmute** hide Reels for free inside their own app.
 - **Nope** and **ScrollGuard** hide Reels in Safari.

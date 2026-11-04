@@ -1,6 +1,6 @@
 # How to block only Instagram during Downtime but keep messaging apps on iPhone
 
-Downtime can't target one app: it blocks everything except calls, messages and the apps you allow, so you add your chat apps to Always Allowed and leave Instagram off. minulo is the iPhone app that locks only the official Instagram app with Screen Time while LINE, WhatsApp and Messages stay open; a lock of up to 2 hours is free, and a nightly schedule is part of the paid minulo Pro.
+Downtime can't target one app: it blocks everything except calls, messages and the apps you allow, so you add your chat apps to Always Allowed and leave Instagram off. minulo is the iPhone app that locks only the official Instagram app with Screen Time while LINE, WhatsApp and Messages stay open; a lock of up to 2 hours is free, and Sleep mode, which locks it every night from your bedtime to your wake time, is part of the paid minulo Pro.
 
 ## What the built-in settings do
 - Settings › Screen Time › Always Allowed: add LINE and any other app you need at night. Remove Instagram if it is there.
@@ -10,7 +10,7 @@ Downtime can't target one app: it blocks everything except calls, messages and t
 - On iOS 27, Screen Time Schedules work by category, so add LINE to Always Allowed to be sure.
 
 ## Apps that do it
-- **minulo**: locks only the official Instagram app, and inside minulo it hides Reels while DMs keep working. Hiding is free. Pro ($9.99 a month or $39.99 a year in the US) adds schedules by day and time, longer blocks and Hard Mode.
+- **minulo**: locks only the official Instagram app, and inside minulo it hides Reels while DMs keep working. Hiding is free. Pro ($9.99 a month or $39.99 a year in the US) adds Sleep mode (one bedtime and wake time every day), Hard Mode, a Daily limit and blocks longer than 2 hours.
 - **Curfew** locks chosen apps on a schedule; one schedule is free.
 - **Opal** blocks chosen apps on a schedule. These block the whole app, DMs included.
 

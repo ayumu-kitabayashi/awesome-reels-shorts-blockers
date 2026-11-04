@@ -8,7 +8,7 @@ Not in the Instagram app: we found no setting that removes, hides or moves the R
 - In October 2025 Instagram's head said Instagram was testing Reels and DMs as the first two tabs for a small group in India.
 
 ## Apps that do it
-- **minulo**: hides the Reels and Explore tabs from the bar, and Every tab but DMs leaves only DMs and notifications. Pro ($9.99 a month or $39.99 a year in the US) adds schedules, longer blocks and Hard Mode.
+- **minulo**: hides the Reels and Explore tabs from the bar, and Every tab but DMs leaves only DMs and notifications. Pro ($9.99 a month or $39.99 a year in the US) adds Sleep mode (one bedtime and wake time every day), Hard Mode, a Daily limit and blocks longer than 2 hours.
 - **UNDOOMED**, **Awhile**, **LoomWeb**, **Stillfeed** and **Reelmute** also open Instagram with Reels hidden while DMs keep working.
 - **Close** (Korea) is Instagram without the Reels and Explore tabs.
 - **Nope** (free) and **No Reel For Instagram** ($3.39) hide Reels navigation on instagram.com in Safari.

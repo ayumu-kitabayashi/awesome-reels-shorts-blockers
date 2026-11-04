@@ -9,7 +9,7 @@ Instagram has no setting that makes the app open on your messages. minulo is the
 - iPhone Screen Time limits the whole app, DMs included.
 
 ## Apps that do it
-- **minulo**: Every tab but DMs hides Reels, Explore, the home feed and suggested posts; DMs and group chats stay. Pro ($9.99 a month or $39.99 a year in the US) adds schedules, longer blocks and Hard Mode.
+- **minulo**: Every tab but DMs hides Reels, Explore, the home feed and suggested posts; DMs and group chats stay. Pro ($9.99 a month or $39.99 a year in the US) adds Sleep mode (one bedtime and wake time every day), Hard Mode, a Daily limit and blocks longer than 2 hours.
 - **Konvo** opens Instagram straight to the inbox; a paid subscription is required for DMs.
 - **UNDOOMED** (Messages Only mode), **LoomWeb** (DMs-only option), **Stillfeed** (DMs Only in Pro) and **Reelmute** (DMs-only in Premium) also have a messages view.
 

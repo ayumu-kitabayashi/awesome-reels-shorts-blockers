@@ -9,7 +9,7 @@ You can't with a setting: we found none in Facebook's help, and since September 
 - iPhone Screen Time blocks the whole Facebook app.
 
 ## Apps that do it
-- **minulo**: Hide Reels, Watch and Marketplace and Hide suggested posts; Notifications, Messages, Friends and Feed open from its home screen. Pro ($9.99 a month or $39.99 a year in the US) adds schedules, longer blocks and Hard Mode.
+- **minulo**: Hide Reels, Watch and Marketplace and Hide suggested posts; Notifications, Messages, Friends and Feed open from its home screen. Pro ($9.99 a month or $39.99 a year in the US) adds Sleep mode (one bedtime and wake time every day), Hard Mode, a Daily limit and blocks longer than 2 hours.
 - **Yava** blocks Facebook Reels and Watch while letting you message friends (subscription required).
 - **UNDOOMED**, **Dull**, **Reelmute** and **noShorts** cover Facebook among their networks.
 - **Still** removes Facebook Reels in Safari for free.

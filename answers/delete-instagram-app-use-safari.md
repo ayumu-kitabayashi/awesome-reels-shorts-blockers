@@ -9,7 +9,7 @@ Your DMs still work on instagram.com, but Reels and Explore are on the website t
 - Instagram's notifications come from the app, so you lose them without it.
 
 ## Apps that do it
-- **minulo**: hides the Reels and Explore tabs and suggested posts, and Every tab but DMs leaves only messages. Pro ($9.99 a month or $39.99 a year in the US) adds schedules, longer blocks and Hard Mode.
+- **minulo**: hides the Reels and Explore tabs and suggested posts, and Every tab but DMs leaves only messages. Pro ($9.99 a month or $39.99 a year in the US) adds Sleep mode (one bedtime and wake time every day), Hard Mode, a Daily limit and blocks longer than 2 hours.
 - **Nope** (fully free) and **ScrollGuard** (free with Premium features) hide Reels in Safari.
 - **No Reel For Instagram** ($3.39) and **Still** (free) are other Safari extensions for instagram.com.
 

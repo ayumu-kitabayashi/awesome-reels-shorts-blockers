@@ -8,7 +8,7 @@ YouTube's own free options either can be dismissed or block the whole app, so th
 - iPhone Screen Time is free and strict, but it blocks the whole YouTube app, including the videos you wanted.
 
 ## Apps that do it
-- **minulo**: hides the Shorts shelf and Shorts tab and opens Shorts links in the normal player. Hiding stays on until you change it. Pro ($9.99 a month or $39.99 a year in the US) adds schedules, longer blocks and Hard Mode.
+- **minulo**: hides the Shorts shelf and Shorts tab and opens Shorts links in the normal player. Hiding stays on until you change it. Pro ($9.99 a month or $39.99 a year in the US) adds Sleep mode (one bedtime and wake time every day), Hard Mode, a Daily limit and blocks longer than 2 hours.
 - **Stillfeed** and **Reelmute** hide Shorts for free in their own app.
 - **noShorts** says it is free with no subscription or in-app purchases.
 - **Nope** and **ShortformBlock** are free Safari extensions for youtube.com.

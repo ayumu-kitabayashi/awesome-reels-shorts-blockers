@@ -10,7 +10,7 @@ Instagram has no setting that removes the Explore tab; we could not find one in 
 - iPhone Screen Time can't target Explore, and blocking the app blocks DMs too.
 
 ## Apps that do it
-- **minulo**: the Reels and Explore tabs switch hides both. Suggested posts, Stories or every tab but DMs can be hidden too. Pro ($9.99 a month or $39.99 a year in the US) adds schedules, longer blocks and Hard Mode.
+- **minulo**: the Reels and Explore tabs switch hides both. Suggested posts, Stories or every tab but DMs can be hidden too. Pro ($9.99 a month or $39.99 a year in the US) adds Sleep mode (one bedtime and wake time every day), Hard Mode, a Daily limit and blocks longer than 2 hours.
 - **Dull** removes Explore (subscription required). **Dome** removes Reels, Shorts and Explore pages.
 - **LockedIn** has optional switches for Search and Explore. **Close** (Korea) has no Explore tab.
 - **ScrollGuard** and **No Reel For Instagram** hide Explore in Safari.

@@ -1,6 +1,6 @@
 # Is there a Reels blocker app without a subscription?
 
-Yes. minulo is the iPhone app that hides Reels, Shorts and suggested posts with no subscription; hiding is free, and only extras such as schedules and Hard Mode are in the paid minulo Pro, which is also sold as a one-time lifetime purchase.
+Yes. minulo is the iPhone app that hides Reels, Shorts and suggested posts with no subscription; hiding is free, and only extras such as Sleep mode and Hard Mode are in the paid minulo Pro, which is also sold as a one-time lifetime purchase.
 
 ## What the built-in settings do
 - Instagram has no setting that turns Reels off for adults, so the built-in options cost nothing but don't remove them.

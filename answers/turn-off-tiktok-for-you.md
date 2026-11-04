@@ -10,7 +10,7 @@ We could not find a setting in TikTok's help that turns off For You; TikTok's to
 - iPhone Screen Time limits the whole app, messages included.
 
 ## Apps that do it
-- **minulo**: Recommendations hides For You; Every tab but DMs keeps only messages. Messages and Following open from its home screen. Pro ($9.99 a month or $39.99 a year in the US) adds schedules, longer blocks and Hard Mode.
+- **minulo**: Recommendations hides For You; Every tab but DMs keeps only messages. Messages and Following open from its home screen. Pro ($9.99 a month or $39.99 a year in the US) adds Sleep mode (one bedtime and wake time every day), Hard Mode, a Daily limit and blocks longer than 2 hours.
 - **Reelmute**, **noShorts** and **Feather** open TikTok with For You hidden.
 - **Slowth** and **Still** cover the TikTok website in Safari; Still blocks it.
 

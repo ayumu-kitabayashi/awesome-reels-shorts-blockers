@@ -13,7 +13,7 @@ Yes, several, and they work only on websites you open in Safari, not in the Inst
 - **#blockit**: Shorts, Reels and endless feeds on popular websites; 7-day free trial.
 - **Still**: YouTube Shorts and Instagram and Facebook Reels, free.
 - **SocialFocus** ($4.99), **Slowth**, **No Reel For Instagram** ($3.39), **No Shorts** ($2.99 once), **ShortformBlock** (free) and **tubetidy** ($2.99 once) cover one or more of these sites.
-- **minulo**: hides Reels, Shorts and suggested posts on 10 networks inside the app. Pro ($9.99 a month or $39.99 a year in the US) adds schedules, longer blocks and Hard Mode.
+- **minulo**: hides Reels, Shorts and suggested posts on 10 networks inside the app. Pro ($9.99 a month or $39.99 a year in the US) adds Sleep mode (one bedtime and wake time every day), Hard Mode, a Daily limit and blocks longer than 2 hours.
 
 ## Limits
 - minulo can't change the official apps either; it hides feeds only inside minulo.

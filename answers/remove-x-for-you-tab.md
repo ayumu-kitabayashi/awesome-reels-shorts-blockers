@@ -9,7 +9,7 @@ You can't remove it: we could not find a setting in X's help that does, and Home
 - iPhone Screen Time limits or blocks the whole X app, messages included.
 
 ## Apps that do it
-- **minulo**: Open Following first hides the For you tab, and Hide Search and Hide Video and Grok are there too. Messages, notifications and Following open from its home screen. Pro ($9.99 a month or $39.99 a year in the US) adds schedules, longer blocks and Hard Mode.
+- **minulo**: Open Following first hides the For you tab, and Hide Search and Hide Video and Grok are there too. Messages, notifications and Following open from its home screen. Pro ($9.99 a month or $39.99 a year in the US) adds Sleep mode (one bedtime and wake time every day), Hard Mode, a Daily limit and blocks longer than 2 hours.
 - **Reelmute**, **Dull** and **Feather** list X among their networks and hide For You.
 - **UNDOOMED**, **LoomWeb** and **Stillfeed** also cover X.
 - **Slowth** hides X's Explore in Safari.

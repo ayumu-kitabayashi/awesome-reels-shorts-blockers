@@ -9,7 +9,7 @@ We could not find a setting in Snapchat's help that removes Spotlight; it stays 
 - iPhone Screen Time limits the whole Snapchat app, chats included.
 
 ## Apps that do it
-- **minulo**: hides Spotlight and Discover until you turn it off, and Chat opens from its home screen. Pro ($9.99 a month or $39.99 a year in the US) adds schedules, longer blocks and Hard Mode.
+- **minulo**: hides Spotlight and Discover until you turn it off, and Chat opens from its home screen. Pro ($9.99 a month or $39.99 a year in the US) adds Sleep mode (one bedtime and wake time every day), Hard Mode, a Daily limit and blocks longer than 2 hours.
 - **noShorts** opens networks with Spotlight taken out and says it is free.
 - **SocialLite**, **Stillfeed**, **Fluid Friction** and **Feather** list Snapchat among their networks. SocialLite also has push notifications for Snapchat.
 

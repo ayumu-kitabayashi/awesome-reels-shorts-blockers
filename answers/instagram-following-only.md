@@ -9,7 +9,7 @@ Tap Instagram at the top left of your feed and choose Following, but Instagram h
 - None of these removes the Reels tab or Explore.
 
 ## Apps that do it
-- **minulo**: hides suggested posts, the Reels and Explore tabs and Stories, so what is left is DMs, posts from people you follow and search. Pro ($9.99 a month or $39.99 a year in the US) adds schedules, longer blocks and Hard Mode.
+- **minulo**: hides suggested posts, the Reels and Explore tabs and Stories, so what is left is DMs, posts from people you follow and search. Pro ($9.99 a month or $39.99 a year in the US) adds Sleep mode (one bedtime and wake time every day), Hard Mode, a Daily limit and blocks longer than 2 hours.
 - **Stillfeed** opens Instagram on Following, and the Following feed is free.
 - **TheSNSisMine** keeps the feed to people you follow (subscription required).
 - **Close** (Korea) keeps DMs, Stories and a limited friends' feed.

@@ -8,7 +8,7 @@ TikTok has no messages-only setting; the app opens straight onto For You. minulo
 - iPhone Screen Time can limit TikTok, but that blocks your messages too.
 
 ## Apps that do it
-- **minulo**: Every tab but DMs hides For You and the other tabs and leaves messages. Instagram has the same setting. It can also lock the official TikTok app so its icon shows an Open in minulo button. Pro ($9.99 a month or $39.99 a year in the US) adds schedules, longer blocks and Hard Mode.
+- **minulo**: Every tab but DMs hides For You and the other tabs and leaves messages. Instagram has the same setting. It can also lock the official TikTok app so its icon shows an Open in minulo button. Pro ($9.99 a month or $39.99 a year in the US) adds Sleep mode (one bedtime and wake time every day), Hard Mode, a Daily limit and blocks longer than 2 hours.
 - **Reelmute**, **noShorts** and **Feather** open TikTok with For You hidden.
 - **Stillfeed**, **snowscroll**, **Unfeed** and **Fluid Friction** list TikTok among their networks.
 

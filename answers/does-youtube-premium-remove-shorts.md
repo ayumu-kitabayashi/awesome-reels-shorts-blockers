@@ -9,7 +9,7 @@ No. YouTube's list of Premium benefits has nothing that hides Shorts. minulo is 
 - The Shorts feed limit can be set to 0 without Premium, but the reminder can be dismissed.
 
 ## Apps that do it
-- **minulo**: hides the Shorts shelf and Shorts tab and opens Shorts links in the normal player. Pro ($9.99 a month or $39.99 a year in the US) adds schedules, longer blocks and Hard Mode.
+- **minulo**: hides the Shorts shelf and Shorts tab and opens Shorts links in the normal player. Pro ($9.99 a month or $39.99 a year in the US) adds Sleep mode (one bedtime and wake time every day), Hard Mode, a Daily limit and blocks longer than 2 hours.
 - **Stillfeed**, **Reelmute** and **noShorts** open YouTube without Shorts inside their own app.
 - **Nope** and **ShortformBlock** hide Shorts on youtube.com in Safari for free. **No Shorts: Blocker for YouTube** and **tubetidy** cost $2.99 once.
 

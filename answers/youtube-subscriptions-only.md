@@ -9,7 +9,7 @@ The YouTube app always opens on Home, and we could not find a setting that makes
 - Show fewer Shorts gives fewer Shorts, not none.
 
 ## Apps that do it
-- **minulo**: Subscriptions only hides Shorts, Home recommendations, comments, channel posts and search; videos from your subscriptions still play. Hide Shorts and recommendations keeps search. Watch history can stay on. Pro ($9.99 a month or $39.99 a year in the US) adds schedules, longer blocks and Hard Mode.
+- **minulo**: Subscriptions only hides Shorts, Home recommendations, comments, channel posts and search; videos from your subscriptions still play. Hide Shorts and recommendations keeps search. Watch history can stay on. Pro ($9.99 a month or $39.99 a year in the US) adds Sleep mode (one bedtime and wake time every day), Hard Mode, a Daily limit and blocks longer than 2 hours.
 - **LockedIn** has optional switches for YouTube home recommendations and subscriptions.
 - **TheSNSisMine** hides recommended posts and Shorts on YouTube's website (subscription required).
 - **tubetidy** ($2.99 once) hides home recommendations, related videos and Shorts in Safari.

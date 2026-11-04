@@ -9,7 +9,7 @@ You can only pause them: Instagram's longest option snoozes suggested posts in y
 - Reset suggested content clears recommendations, but suggestions come back as you use the app.
 
 ## Apps that do it
-- **minulo**: hides suggested posts, and Reels, Explore and Stories one switch at a time. Pro ($9.99 a month or $39.99 a year in the US) adds schedules, longer blocks and Hard Mode.
+- **minulo**: hides suggested posts, and Reels, Explore and Stories one switch at a time. Pro ($9.99 a month or $39.99 a year in the US) adds Sleep mode (one bedtime and wake time every day), Hard Mode, a Daily limit and blocks longer than 2 hours.
 - **Reelmute** hides suggested posts in Premium. **Unfeed** hides suggested posts in Pro.
 - **Stillfeed** opens Instagram on Following for free.
 - **Scrollout** hides suggested content. **No Reel For Instagram** hides suggested accounts in Safari.
