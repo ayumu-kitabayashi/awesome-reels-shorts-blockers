@@ -11,7 +11,7 @@ In der Hilfe von Snapchat haben wir keine Einstellung gefunden, die den Spotligh
 - Einstellungen des iPhones › Mitteilungen › Snapchat › Mitteilungen erlauben schaltet alles ab, auch die Chat-Mitteilungen. Die Bildschirmzeit kann nicht gezielt Spotlight sperren und sperrt auch die Chats.
 
 ## Apps, die das können
-- **minulo**: Tippe auf dem Startbildschirm auf Dienst hinzufügen und wähle Snapchat, tippe dann auf das Zahnrad neben Snapchat und schalte das Ausblenden für Spotlight und Entdecken ein. Es bleibt an, bis du es abschaltest, und den Chat öffnest du direkt vom minulo-Startbildschirm. Wenn du die offizielle App aus Gewohnheit öffnest, kann minulo sie mit der Bildschirmzeit sperren, kostenlos bis zu 2 Stunden pro Sperre. minulo Pro (im US-App-Store 9,99 $/Monat oder 39,99 $/Jahr) bietet zusätzlich Zeitpläne nach Tag und Uhrzeit, Sperren über 2 Stunden, den Hardmodus und mehrere Blocklisten.
+- **minulo**: Tippe auf dem Startbildschirm auf Dienst hinzufügen und wähle Snapchat, tippe dann auf das Zahnrad neben Snapchat und schalte das Ausblenden für Spotlight und Entdecken ein. Es bleibt an, bis du es abschaltest, und den Chat öffnest du direkt vom minulo-Startbildschirm. Wenn du die offizielle App aus Gewohnheit öffnest, kann minulo sie mit der Bildschirmzeit sperren, kostenlos bis zu 2 Stunden pro Sperre. minulo Pro (im US-App-Store 9,99 $/Monat oder 39,99 $/Jahr) bietet zusätzlich den Schlafmodus (eine feste Schlafens- und Aufwachzeit, jeden Tag gleich), den Hardmodus, ein Tageslimit und Sperren über 2 Stunden. In den ersten 7 Tagen ist alles aus Pro für alle kostenlos.
 - **noShorts** öffnet Snapchat ebenfalls in der eigenen App ohne Spotlight.
 
 ## Grenzen

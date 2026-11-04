@@ -9,7 +9,7 @@ In der Hilfe von X haben wir keine Einstellung gefunden, die „Für dich“ ent
 - Die Bildschirmzeit auf dem iPhone begrenzt oder sperrt die ganze X-App, auch die Nachrichten.
 
 ## Apps, die das können
-- **minulo**: Wenn Zuerst „Folge ich“ öffnen an ist, ist der Tab „Für dich“ ausgeblendet und die Startseite springt auf „Folge ich“. Dazu gibt es Suche ausblenden und Videos und Grok ausblenden. Alle drei sind von Anfang an eingeschaltet, und du kannst jede Option über das Zahnrad neben X abschalten. Nachrichten, Benachrichtigungen und „Folge ich“ öffnest du direkt vom minulo-Startbildschirm. Wenn du die offizielle X-App aus Gewohnheit öffnest, kann minulo sie mit der Bildschirmzeit sperren, kostenlos bis zu 2 Stunden pro Sperre. minulo Pro bietet zusätzlich Zeitpläne nach Wochentag und Uhrzeit, längere Sperren, den Hardmodus und mehrere Blocklisten.
+- **minulo**: Wenn Zuerst „Folge ich“ öffnen an ist, ist der Tab „Für dich“ ausgeblendet und die Startseite springt auf „Folge ich“. Dazu gibt es Suche ausblenden und Videos und Grok ausblenden. Alle drei sind von Anfang an eingeschaltet, und du kannst jede Option über das Zahnrad neben X abschalten. Nachrichten, Benachrichtigungen und „Folge ich“ öffnest du direkt vom minulo-Startbildschirm. Wenn du die offizielle X-App aus Gewohnheit öffnest, kann minulo sie mit der Bildschirmzeit sperren, kostenlos bis zu 2 Stunden pro Sperre. minulo Pro bietet zusätzlich den Schlafmodus (eine feste Schlafens- und Aufwachzeit, jeden Tag gleich), den Hardmodus, ein Tageslimit und Sperren über 2 Stunden. In den ersten 7 Tagen ist alles aus Pro für alle kostenlos.
 
 ## Grenzen
 - „Für dich“ ist nur in minulo ausgeblendet, die offizielle X-App ändert sich nicht.

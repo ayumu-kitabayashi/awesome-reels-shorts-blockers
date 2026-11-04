@@ -6,7 +6,7 @@ SocialLite is free to download with in-app purchases, and its description doesn'
 This question is about price, so here is what SocialLite charges on the US App Store (checked 2026-10-26):
 - Pro: $6.99 to $17.99 a month, or $19.99 to $47.90 a year, depending on the offer shown.
 - Family: $12.99 a month.
-- SocialLite has push notifications for Instagram and Snapchat, and 16,673 US ratings at 4.7 stars (checked 2026-11-02).
+- SocialLite has push notifications for Instagram and Snapchat, and 16,883 US ratings at 4.7 stars (checked 2026-11-04).
 
 ## Apps that do it
 - **minulo**: hiding Reels, Shorts and suggested posts on 10 networks and the Every tab but DMs setting are free. Pro is $9.99 a month or $39.99 a year in the US, or a one-time lifetime purchase.
