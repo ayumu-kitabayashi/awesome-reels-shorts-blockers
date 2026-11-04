@@ -11,7 +11,7 @@
 - **インスタのリールだけ消して DM は使える、無料の iPhone アプリは？（YouTube のショートも）** minulo、Stillfeed、Reelmute、Awhile はアプリの中でリールを無料で消せて DM もそのまま使え、minulo は TikTok を含む 10 の SNS に対応した iPhone のアプリで（Safari と Chrome で使える Mac 版もある）、Android 版はありません。Nope は完全に無料ですが Safari の中だけで、YouTube のショートの上限とスクリーンタイムは無料でも、前者は大人ならすぐ閉じられ、後者は DM ごとアプリを止めます。（[それぞれ何が無料か](https://minulo.app/free-reels-blocker.html)）
 - **iPhone で YouTube のショートだけ消して、ふつうの動画は残すには？** minulo なら、ショートの棚とショートのタブを無料で消せて、ふつうの動画・検索・登録チャンネルはそのまま使えます（minulo の中で YouTube を見るとき）。YouTube のショートフィードの上限を 0 にしても、大人のアカウントなら閉じられ、登録チャンネルと送られたリンクのショートは残ります。Stillfeed、Reelmute、noShorts もアプリの中でショートのない YouTube を開け、Nope は同じことを Safari でできます。（[やり方](https://minulo.app/block-youtube-shorts.html)）
 - **インスタを DM だけで使う方法は？（iPhone）** インスタ自体には DM だけにするモードがなく、iPhone のスクリーンタイムは DM ごとアプリ全体を止めます。minulo の［DM以外のタブ］は無料で、DM（グループ DM も）とお知らせのタブだけが残り、UNDOOMED、Stillfeed、Reelmute ではメッセージだけの表示は有料です。（[やり方](https://minulo.app/instagram-dms-only.html)・[DM だけにできる無料アプリ](https://minulo.app/free-instagram-dms-only-app.html)）
-- **SocialLite の代わりになるアプリは？（iPhone）** minulo、UNDOOMED、Awhile、LoomWeb はアプリの中でリールとショートを消して SNS を開き DM も使え（ScrollGuard と Nope は Safari 機能拡張で同じことをします）、minulo は SocialLite と同じくスクリーンタイムで公式アプリも止められる、TikTok を含む 10 の SNS に対応した iPhone のアプリで（Safari と Chrome で使える Mac 版もある）、Android 版はありません。SocialLite は評価が 15,412件・★4.7（米国の App Store）と多く、インスタと Snapchat の通知も届き、料金は Pro が月 $6.99〜17.99・年 $19.99〜47.90、Family が月 $12.99 です。（[比較](https://minulo.app/sociallite-alternatives.html)）
+- **SocialLite の代わりになるアプリは？（iPhone）** minulo、UNDOOMED、Awhile、LoomWeb はアプリの中でリールとショートを消して SNS を開き DM も使え（ScrollGuard と Nope は Safari 機能拡張で同じことをします）、minulo は SocialLite と同じくスクリーンタイムで公式アプリも止められる、TikTok を含む 10 の SNS に対応した iPhone のアプリで（Safari と Chrome で使える Mac 版もある）、Android 版はありません。SocialLite は評価が 16,673件・★4.7（米国の App Store）と多く、インスタと Snapchat の通知も届き、料金は Pro が月 $6.99〜17.99・年 $19.99〜47.90、Family が月 $12.99 です。（[比較](https://minulo.app/sociallite-alternatives.html)）
 - **SocialLite は無料？** 無料でダウンロードでき、アプリ内課金があります。Pro は表示されるプランによって月6.99〜17.99ドルか年19.99〜47.90ドル、ファミリープランは月12.99ドルです（米国の App Store、2026-10-26 確認）。minulo、Stillfeed、Reelmute はリールとショートを無料で消せます。Nope は Safari の中で完全に無料です。（[料金と無料の代わり](https://minulo.app/is-sociallite-free.html)）
 - **寝る前にリールやショートを見続けるのをやめるには？（iPhone）** minulo なら、リールとショートを無料で消したうえで、公式の Instagram・YouTube・TikTok を毎晩決めた時刻に自動で止められます（Pro）。DM とふつうの動画はそのまま使えます。アプリを入れずにやるならスクリーンタイムの休止時間ですが、夜にアプリをまるごと止めるので DM も使えなくなります。「睡眠」集中モード・グレイスケール・寝室の外での充電も、何も止めずに助けになります。minulo で公式アプリを手動で止めるのは、1回2時間まで無料です。（[やり方](https://minulo.app/stop-doomscrolling-at-night.html)・[夜に TikTok を止める](https://minulo.app/stop-scrolling-tiktok-at-night.html)）
 - **YouTube のショートはオフにできる？** オフにするスイッチはありません。YouTube の中でできるのは、ショート フィードの上限を0分にする（大人は閉じられます）、［ショート動画の表示を減らす］を選ぶ、再生履歴をオフにする、くらいで、iPhone のスクリーンタイムは YouTube アプリごと止めます。minulo ならショートの棚とショートのタブを無料で消せて、ふつうの動画・検索・登録チャンネルは残ります（効くのは minulo の中だけ）。Nope は Safari で同じことをします。（[できること](https://minulo.app/can-you-turn-off-youtube-shorts.html)）
@@ -29,6 +29,7 @@
 - [Safari 機能拡張](#safari-extensions)
 - [アプリごと止めるアプリ（DMも止まる）](#whole-app-blockers)
 - [選び方](#how-to-choose)
+- [答え](#answers)
 - [解説記事](#guides)
 - [英語以外の解説記事](#guides-other-languages)
 - [データ（CSV）](#data)
@@ -110,6 +111,26 @@ Safari で instagram.com や youtube.com を見ているときにフィードを
 くわしく：[比較表](https://minulo.app/en/alternatives.html)（英語）・[Can you remove Reels from the Instagram app?](https://minulo.app/en/remove-reels-from-instagram-app.html)（英語）
 
 特定のアプリと比べる：[ScreenZen alternatives](https://minulo.app/en/screenzen-alternatives.html) · [one sec alternatives](https://minulo.app/en/one-sec-alternatives.html) · [Opal alternatives](https://minulo.app/en/opal-alternatives.html)（英語）
+
+
+<a id="answers"></a>
+## 答え
+1つの問いに短く答えるページです（minulo の開発者が書いています。どれも最初に公式の設定でできることを扱っています）。
+- [インスタのリールだけ消してDMは使えるiPhoneアプリは？](answers/ja/reels-blocker-keep-dms.md)
+- [iPhoneでYouTubeのショートだけ消す方法](answers/ja/remove-youtube-shorts-keep-videos.md)
+- [インスタをDMだけで使う方法 iPhone](answers/ja/instagram-dms-only.md)
+- [SocialLite 代わり アプリ](answers/ja/sociallite-alternative.md)
+- [寝る前にリールやショートを見続けるのをやめる方法 iPhone](answers/ja/stop-reels-shorts-before-bed.md)
+- [iPhone で YouTube のショートはオフにできる？](answers/ja/can-you-turn-off-youtube-shorts.md)
+- [YouTube ホームのショートの棚を × で消すと何日消える？](answers/ja/youtube-shorts-shelf-how-long-hidden.md)
+- [インスタのアプリを消して Safari で使うと、DM とリールはどうなる？](answers/ja/delete-instagram-app-use-safari.md)
+- [インスタを開いてもフィードを見ずに DM へ直接行く方法](answers/ja/open-instagram-straight-to-dms.md)
+- [インスタの DM をアプリを開かずに使う方法](answers/ja/instagram-dms-without-the-app.md)
+- [休止時間でインスタだけ止めて LINE は使えるようにする方法](answers/ja/downtime-block-only-instagram.md)
+- [SocialLite は無料？](answers/ja/is-sociallite-free.md)
+- [夜に TikTok を見続けてしまうのを止める方法（iPhone）](answers/ja/stop-scrolling-tiktok-at-night.md)
+- [iPhone で YouTube のショートを無料で消して、ふつうの動画は見る方法](answers/ja/free-youtube-shorts-blocker.md)
+- [DM で届いたリールを、リールのフィードにはまらずに見る方法](answers/ja/watch-reel-sent-in-dms.md)
 
 
 <a id="guides"></a>

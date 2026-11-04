@@ -30,6 +30,7 @@
 - [Safari 확장 프로그램](#safari-extensions)
 - [앱 전체를 막는 앱 (DM도 막힘)](#whole-app-blockers)
 - [고르는 법](#how-to-choose)
+- [답변](#answers)
 - [가이드](#guides)
 - [다른 언어로 된 가이드](#guides-other-languages)
 - [데이터 (CSV)](#data)
@@ -111,6 +112,26 @@ Safari에서 instagram.com이나 youtube.com을 볼 때 피드를 숨겨 줍니�
 더 자세히: [비교표](https://minulo.app/en/alternatives.html) (영어) · [Can you remove Reels from the Instagram app?](https://minulo.app/en/remove-reels-from-instagram-app.html) (영어)
 
 특정 앱과 비교: [ScreenZen alternatives](https://minulo.app/en/screenzen-alternatives.html) · [one sec alternatives](https://minulo.app/en/one-sec-alternatives.html) · [Opal alternatives](https://minulo.app/en/opal-alternatives.html) (영어)
+
+
+<a id="answers"></a>
+## 답변
+질문 하나에 짧게 답하는 페이지예요(minulo 개발자가 썼고, 모두 공식 설정으로 할 수 있는 것부터 다뤄요).
+- [인스타 릴스만 차단하고 DM은 쓸 수 있는 아이폰 앱](answers/ko/reels-blocker-keep-dms.md)
+- [아이폰 유튜브 쇼츠만 없애는 방법](answers/ko/remove-youtube-shorts-keep-videos.md)
+- [인스타 DM만 쓰는 방법 아이폰](answers/ko/instagram-dms-only.md)
+- [SocialLite 대체 앱](answers/ko/sociallite-alternative.md)
+- [자기 전에 릴스 쇼츠 그만 보는 방법 아이폰](answers/ko/stop-reels-shorts-before-bed.md)
+- [아이폰에서 유튜브 쇼츠 끌 수 있어?](answers/ko/can-you-turn-off-youtube-shorts.md)
+- [유튜브 홈 쇼츠 섹션을 X로 숨기면 며칠 가?](answers/ko/youtube-shorts-shelf-how-long-hidden.md)
+- [인스타 앱을 지우고 Safari로 쓰면 DM과 릴스는 어떻게 돼?](answers/ko/delete-instagram-app-use-safari.md)
+- [인스타 열어도 피드 안 보고 DM으로 바로 가는 법](answers/ko/open-instagram-straight-to-dms.md)
+- [인스타 DM을 앱 안 열고 쓰는 법](answers/ko/instagram-dms-without-the-app.md)
+- [다운타임에 인스타만 막고 카카오톡은 쓰는 방법](answers/ko/downtime-block-only-instagram.md)
+- [SocialLite 무료야?](answers/ko/is-sociallite-free.md)
+- [밤에 틱톡 계속 넘기는 거 막는 방법 (아이폰)](answers/ko/stop-scrolling-tiktok-at-night.md)
+- [아이폰에서 유튜브 쇼츠만 무료로 없애고 일반 영상은 보는 방법](answers/ko/free-youtube-shorts-blocker.md)
+- [DM으로 받은 릴스를 릴스 피드에 안 빠지고 보는 방법](answers/ko/watch-reel-sent-in-dms.md)
 
 
 <a id="guides"></a>
