@@ -11,7 +11,7 @@ En la ayuda de Snapchat no hemos encontrado ningún ajuste que quite la pestaña
 - Ajustes del iPhone › Notificaciones › Snapchat › Permitir notificaciones lo apaga todo, también las notificaciones de los chats. Tiempo de uso no puede apuntar solo a Spotlight y también bloquea los chats.
 
 ## Apps que lo hacen
-- **minulo**: en el inicio de minulo, toca Añadir un servicio y elige Snapchat; luego toca el engranaje junto a Snapchat y activa Spotlight y Descubre. Se queda así hasta que lo desactives, y el Chat se abre directamente desde el inicio de minulo. Si abres la app oficial por costumbre, minulo puede bloquearla con Tiempo de uso, gratis hasta 2 horas por bloqueo. minulo Pro (9,99 $ al mes o 39,99 $ al año en EE. UU.) añade el Modo sueño (una misma hora de dormir y de despertar todos los días), el Modo estricto, el Límite diario y los bloqueos de más de 2 horas. En los primeros 7 días, todas las funciones Pro son gratis para todos.
+- **minulo**: en el inicio de minulo, toca Añadir un servicio y elige Snapchat; luego toca el engranaje junto a Snapchat y activa Spotlight y Descubre. Se queda así hasta que lo desactives, y el Chat se abre directamente desde el inicio de minulo. Si abres la app oficial por costumbre, minulo puede bloquearla con Tiempo de uso, gratis hasta 2 horas por bloqueo. minulo Pro (9,99 $ al mes o 39,99 $ al año en EE. UU.) añade el Modo sueño (una misma hora de dormir y de despertar todos los días), el Modo estricto, el Límite diario y los bloqueos de más de 2 horas. El plan anual incluye una prueba gratis de 7 días para nuevos suscriptores.
 - **noShorts** también abre Snapchat dentro de su propia app sin Spotlight.
 
 ## Límites

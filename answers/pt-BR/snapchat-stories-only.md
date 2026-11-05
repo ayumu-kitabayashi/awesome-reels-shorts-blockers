@@ -11,7 +11,7 @@ Não com um ajuste do Snapchat: a ajuda do Snapchat diz que não é possível de
 - O Snapchat diz que algumas pessoas veem uma versão com menos abas, dependendo da região, da idade e de quando a conta foi criada. A ajuda não explica como escolher essa versão.
 
 ## Apps que fazem isso
-- **minulo**: toque em Adicionar serviço, escolha o Snapchat, toque na engrenagem ao lado do Snapchat e ative a ocultação de Spotlight e Descobrir. A tela do Snapchat no minulo tem duas abas no topo, Chat e Stories, e em Stories você abre as Histórias dos seus amigos. Se você vive abrindo o app oficial, o minulo pode bloqueá-lo com o Tempo de Uso e mandar você para o minulo, de graça por até 2 horas por bloqueio. O minulo Pro adiciona o Modo sono (um mesmo horário de dormir e de acordar todos os dias), o Modo Rígido, o Limite diário e bloqueios de mais de 2 horas. Nos primeiros 7 dias, todos os recursos do Pro são grátis para todo mundo.
+- **minulo**: toque em Adicionar serviço, escolha o Snapchat, toque na engrenagem ao lado do Snapchat e ative a ocultação de Spotlight e Descobrir. A tela do Snapchat no minulo tem duas abas no topo, Chat e Stories, e em Stories você abre as Histórias dos seus amigos. Se você vive abrindo o app oficial, o minulo pode bloqueá-lo com o Tempo de Uso e mandar você para o minulo, de graça por até 2 horas por bloqueio. O minulo Pro adiciona o Modo sono (um mesmo horário de dormir e de acordar todos os dias), o Modo Rígido, o Limite diário e bloqueios de mais de 2 horas. O plano anual tem 7 dias de teste grátis para novos assinantes.
 
 ## Limites
 - O app oficial do Snapchat não muda, e o Snapchat aparece como BETA no minulo.

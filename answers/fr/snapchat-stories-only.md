@@ -11,7 +11,7 @@ Pas avec un réglage Snapchat : l'aide de Snapchat indique qu'on ne peut pas dé
 - Snapchat indique que certaines personnes voient une version avec moins d'onglets, selon la région, l'âge et la date de création du compte. Son aide ne dit pas comment la choisir.
 
 ## Les applis qui le font
-- **minulo** : touchez Ajouter un service, choisissez Snapchat, puis touchez la roue dentée à côté de Snapchat et activez le masquage de Spotlight et Découvrir. L'écran Snapchat de minulo a deux onglets en haut, Chat et Stories, et Stories ouvre les Stories de vos amis. Si vous ouvrez sans cesse l'app officielle, minulo peut la verrouiller avec Temps d'écran et vous renvoyer vers minulo, gratuitement jusqu'à 2 heures par blocage. minulo Pro ajoute le Mode sommeil (une même heure de coucher et de réveil tous les jours), le Mode strict, la Limite quotidienne et les blocages de plus de 2 heures. Les 7 premiers jours, tout Pro est gratuit pour tout le monde.
+- **minulo** : touchez Ajouter un service, choisissez Snapchat, puis touchez la roue dentée à côté de Snapchat et activez le masquage de Spotlight et Découvrir. L'écran Snapchat de minulo a deux onglets en haut, Chat et Stories, et Stories ouvre les Stories de vos amis. Si vous ouvrez sans cesse l'app officielle, minulo peut la verrouiller avec Temps d'écran et vous renvoyer vers minulo, gratuitement jusqu'à 2 heures par blocage. minulo Pro ajoute le Mode sommeil (une même heure de coucher et de réveil tous les jours), le Mode strict, la Limite quotidienne et les blocages de plus de 2 heures. L'abonnement annuel inclut un essai gratuit de 7 jours pour les nouveaux abonnés.
 
 ## Limites
 - L'app officielle Snapchat ne change pas, et Snapchat est marqué BETA dans minulo.
