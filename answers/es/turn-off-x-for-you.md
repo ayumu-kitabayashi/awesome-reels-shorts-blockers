@@ -9,7 +9,7 @@ En la ayuda de X no hemos encontrado ningún ajuste que quite Para ti (octubre d
 - Tiempo de uso del iPhone limita o bloquea toda la app de X, mensajes incluidos.
 
 ## Apps que lo hacen
-- **minulo**: con Abrir primero Siguiendo activado, la pestaña Para ti queda oculta y el inicio pasa a Siguiendo. También están Ocultar Buscar y Ocultar Video y Grok. Vienen activados de serie, y puedes desactivar cada uno con el engranaje que hay junto a X. Mensajes, Notificaciones y Siguiendo se abren directamente desde el inicio de minulo. Si abres la app oficial de X por costumbre, minulo puede bloquearla con Tiempo de uso, gratis hasta 2 horas cada vez. minulo Pro añade el Modo sueño (una misma hora de dormir y de despertar todos los días), el Modo estricto, el Límite diario y los bloqueos de más de 2 horas. El plan anual incluye una prueba gratis de 7 días para nuevos suscriptores.
+- **minulo**: con Abrir primero Siguiendo activado, la pestaña Para ti queda oculta y el inicio pasa a Siguiendo. También están Ocultar Buscar y Ocultar Video y Grok. Vienen activados de serie, y puedes desactivar cada uno con el engranaje que hay junto a X. Mensajes, Notificaciones y Siguiendo se abren directamente desde el inicio de minulo. Si abres la app oficial de X por costumbre, minulo puede bloquearla con Tiempo de uso, gratis hasta 2 horas cada vez. minulo Pro añade el Modo sueño (una misma hora de dormir y de despertar todos los días), el Modo estricto, el Límite diario y los bloqueos de más de 2 horas.
 
 ## Límites
 - Para ti solo se oculta dentro de minulo; la app oficial de X no cambia.

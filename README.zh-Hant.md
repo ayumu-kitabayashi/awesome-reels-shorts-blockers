@@ -21,7 +21,7 @@
 - **停用時間怎麼只封鎖 Instagram、保留 WhatsApp？** 把 WhatsApp 加到「永遠允許」，Instagram 不要放進這個清單，再開啟「停用期間阻擋」（設定 > 螢幕使用時間 > 永遠允許），因為 Apple 說停用時間內只能使用電話、訊息和你允許的 App。不過這樣 Instagram 的私訊也會和 Reels 一起被擋。minulo 則可以用「螢幕使用時間」只鎖住官方 Instagram App，每次最多 2 小時免費，WhatsApp 照常能開，在 minulo 裡 Reels 會隱藏、私訊照常可用；用 Pro 的睡眠模式，每晚到了就寢時間會自動開始封鎖，到起床時間解除。（[做法（英文）](https://minulo.app/en/downtime-block-instagram-keep-whatsapp.html)）
 - **iPhone 能用 Snapchat Web 嗎？** Snapchat 說明只介紹在電腦上用 Chrome、Edge 或 Safari 開啟 web.snapchat.com 的 Snapchat for Web，我們找不到在 iPhone 的 Safari 上使用的說明。minulo 是在 App 裡開啟 Snapchat 網站的 iPhone App，可以免費隱藏 Spotlight 和 Discover，聊天照常可用。Snapchat for Web 本身也有 Spotlight，而回憶、管理限時動態、變更使用者名稱和隱私設定只能在手機 App 裡做。（[詳情（英文）](https://minulo.app/en/snapchat-web-iphone.html)）
 - **有 Mac 版的 TikTok App 嗎？** App Store 上沒有：TikTok 在美國 App Store 的「相容性」列出 iPhone、iPad、iPod touch 和 Apple Vision，沒有 Mac（2026-11-04 查詢）。在 Mac 上可以用 Safari 或 Chrome 開 tiktok.com，網頁版有 For You、Explore 和 LIVE，TikTok 的每日使用時間上限也適用於網頁版。minulo 有能在 Safari 和 Chrome 使用的 Mac App，在 iPhone 上則能隱藏 For You 開啟 TikTok，免費，訊息照常可用。（[詳情（英文）](https://minulo.app/en/tiktok-on-mac.html)）
-- **minulo 免費嗎？** 免費。在 10 個平台隱藏 Reels、Shorts 和建議貼文、選擇要隱藏的內容、閱讀私訊和貼文，以及每次最多 2 小時鎖住官方 App，都不用付費。Pro（美國 App Store 每月 $9.99 或每年 $39.99）加上睡眠模式（每天同一個就寢和起床時間）、嚴格模式、每日上限和超過 2 小時的封鎖，年付方案首次訂閱可免費試用 7 天。不訂閱 Pro，隱藏功能也一直免費。（[免費的部分（英文）](https://minulo.app/en/is-minulo-free.html)）
+- **minulo 免費嗎？** 免費。在 10 個平台隱藏 Reels、Shorts 和建議貼文、選擇要隱藏的內容、閱讀私訊和貼文，以及每次最多 2 小時鎖住官方 App，都不用付費。Pro（美國 App Store 每月 $9.99 或每年 $39.99）加上睡眠模式（每天同一個就寢和起床時間）、嚴格模式、每日上限和超過 2 小時的封鎖。不訂閱 Pro，隱藏功能也一直免費。（[免費的部分（英文）](https://minulo.app/en/is-minulo-free.html)）
 
 
 ## 目錄
@@ -31,6 +31,7 @@
 - [Safari 延伸功能](#safari-extensions)
 - [整個 App 一起封鎖的 App（私訊也會被擋）](#whole-app-blockers)
 - [怎麼選](#how-to-choose)
+- [官方 App 還是別的 App？](#official-app-vs-other-app)
 - [教學](#guides)
 - [其他語言的教學](#guides-other-languages)
 - [資料（CSV）](#data)
@@ -55,12 +56,12 @@
 - **[Dull](https://apps.apple.com/us/app/id6759723829)**：在自己的瀏覽器中開啟各平台，拿掉 Reels、Shorts、「為你推薦」和「探索」。支援平台：Instagram、YouTube、Facebook、X、Reddit。價格：要訂閱（Dull Pro）才能使用，免費試用 7 天，之後每月 $3.99 或每年 $29.99，另有一次買斷 $59.99。保留私訊：是。美國 App Store 評分數：55。其他：每日上限、安靜時段，放寬過濾前需等待 24 小時。
 - **[WallHabit](https://apps.apple.com/us/app/id6751423279)**：封鎖 Reels 和 Shorts 或整個 App，解鎖前要先長按按鈕（說明中沒有寫 Reels 是怎麼被擋的）。支援平台：未列出。價格：免費，含 App 內購買。保留私訊：未說明。美國 App Store 評分數：35。其他：需要 iOS 18。
 - **[LoomWeb](https://apps.apple.com/us/app/id6754727620)**：專為社群設計的瀏覽器，每個網站可以分開設定。支援平台：Instagram、YouTube、X、Facebook。價格：免費，另有 Pro 方案。保留私訊：是（有「只用私訊」選項）。美國 App Store 評分數：35。其他：需要 iOS 18。
-- **[Scroll Less](https://apps.apple.com/us/app/id6741134096)**：在自己的極簡瀏覽器（WebView）中開啟 YouTube、Instagram 等平台，拿掉演算法推薦動態。支援平台：YouTube、Instagram 等（沒有完整清單）。價格：免費下載。保留私訊：未說明。美國 App Store 評分數：23。
+- **[Scroll Less](https://apps.apple.com/us/app/id6741134096)**（Quintana Labs LLC）：開著 Scroll Less 的廣播時，Blocker 會在官方 Instagram 和 YouTube App 裡擋掉 Reels 和 Shorts（網站說偵測在 iPhone 上進行）；也能在 App 裡開 Instagram、YouTube 和 Reddit 的網站，隱藏動態、探索和相關影片。支援平台：Instagram 和 YouTube 的 App；Instagram、YouTube 和 Reddit 的網站（沒提到 TikTok）。價格：免費下載；App 內購買有 Premium $4.99、Premium Annual $29.99、Lifetime $14.99 或 $49.99 等，沒說明哪些功能免費。保留私訊：是（依 App Store 頁面：私訊、回覆限時動態、搜尋、在自己貼文留言）。美國 App Store 評分數：25（★4.5，2026-11-04 查詢）。其他：只有英文；iOS 17.6 以上。
 - **[Sociano](https://apps.apple.com/us/app/id6760568406)**：在自己可控管的瀏覽器中開啟支援的社群，封鎖 Reels、Shorts 和動態；也能用「螢幕使用時間」封鎖你選的 iPhone App。支援平台：Instagram、YouTube、X、Facebook、LinkedIn 等。價格：免費下載。保留私訊：是。美國 App Store 評分數：10。其他：App 封鎖、排程和每日上限。
 - **[snowscroll](https://apps.apple.com/us/app/id6778488660)**：在專注的 App 內瀏覽器中開啟各社群的行動版網站並隱藏動態；搭配「螢幕使用時間」，點真正的 Instagram App 時會改開 snowscroll。支援平台：Instagram、YouTube、Facebook、X、TikTok、LinkedIn。價格：沒有免費版，必須訂閱 Pro（月繳或年繳）。保留私訊：是。美國 App Store 評分數：10。其他：官方 App 的封鎖畫面。
 - **[Awhile](https://apps.apple.com/us/app/id6763551826)**：在自己的 App 內瀏覽器載入 instagram.com，並隱藏你選的部分。支援平台：只有 Instagram。價格：過濾功能免費；Premium 為 App 內購買，$2.99 或 $14.99（未寫明期間）。保留私訊：是。美國 App Store 評分數：4。
 - **[Fluid Friction](https://apps.apple.com/us/app/id6782510849)**：在 App 裡開啟社群，讓滑動態變得比較費力；也能隱藏 Reels、Shorts、限時動態和「探索」。支援平台：Instagram、TikTok、YouTube、Reddit、X、Snapchat、Facebook、LinkedIn。價格：免費下載。保留私訊：是（訊息照常可用）。美國 App Store 評分數：9。其他：可用「螢幕使用時間」封鎖其他 App。
-- **[minulo](https://apps.apple.com/us/app/id6809352229)**：在 App 裡開啟各社群的官方網站，並隱藏你選的部分。也能用「螢幕使用時間」鎖住官方 App，改帶你到 minulo。支援平台：Instagram、YouTube、TikTok、X、Threads、Facebook、Pinterest、Reddit、LinkedIn、Snapchat（10 個）。價格：隱藏功能免費，鎖住官方 App 每次最多 2 小時也免費；Pro（美國每月 $9.99 或每年 $39.99）加上睡眠模式（每天同一個就寢和起床時間）、嚴格模式、每日上限和超過 2 小時的封鎖；年付方案首次訂閱可免費試用 7 天。保留私訊：是。美國 App Store 評分數：1（★4.0，2026-11-04 查詢）。其他：支援 iPhone 和 Mac；沒有 Android 版。由這份清單的作者維護。
+- **[minulo](https://apps.apple.com/us/app/id6809352229)**：在 App 裡開啟各社群的官方網站，並隱藏你選的部分。也能用「螢幕使用時間」鎖住官方 App，改帶你到 minulo。支援平台：Instagram、YouTube、TikTok、X、Threads、Facebook、Pinterest、Reddit、LinkedIn、Snapchat（10 個）。價格：隱藏功能免費，鎖住官方 App 每次最多 2 小時也免費；Pro（美國每月 $9.99 或每年 $39.99）加上睡眠模式（每天同一個就寢和起床時間）、嚴格模式、每日上限和超過 2 小時的封鎖。保留私訊：是。美國 App Store 評分數：1（★4.0，2026-11-04 查詢）。其他：支援 iPhone 和 Mac；沒有 Android 版。由這份清單的作者維護。
 - **[Stillfeed](https://apps.apple.com/us/app/id6792934511)**：在內建瀏覽器中開啟 8 個社群，拿掉 Reels、「探索」和 Shorts，Instagram 會直接開在「追蹤中」動態。支援平台：Instagram、YouTube、X、Reddit、Snapchat、LinkedIn、Facebook、TikTok。價格：封鎖和「追蹤中」動態免費；Pro（每週 $2.99、每月 $5.99 或每年 $44.99）加上封鎖限時動態和動態、只用私訊模式等。保留私訊：是。美國 App Store 評分數：0（2026-11-05 查詢）。其他：每週封鎖統計。
 - **[Unfeed](https://apps.apple.com/us/app/id6814847686)**（「Unfeed: Block Reels & Shorts」，Greenbird Company Limited）：開啟 Instagram、TikTok、YouTube 和 X 時不顯示動態：封鎖 Reels、「探索」、「為你推薦」和 Shorts，訊息、搜尋、個人檔案和發文照常可用。支援平台：Instagram、TikTok、YouTube、X。價格：封鎖免費；Unfeed Pro（月付或年付，年付有 7 天免費試用）加上達到每日目標後關閉所有 App、排程、睡眠、用螢幕使用時間鎖住真正的 App、Hard Mode、只用私訊、隱藏廣告和建議貼文，以及多帳號。保留私訊：是。美國 App Store 評分數：0（2026-11-05 查詢）。其他：Focus now、開啟前的暫停和小工具免費。和另一個 App「Unfeed: Scroll Blocker」（id6788027178）不同，那個只能用螢幕使用時間封鎖整個 App。
 - **[Konvo](https://apps.apple.com/us/app/id6794756261)**：打開 Instagram 直接進收件匣；動態、Reels 和「探索」完全不會載入。支援平台：Instagram（只有訊息）。價格：要在 App 裡使用 Instagram 私訊，需付費訂閱。保留私訊：是。美國 App Store 評分數：1。其他：可以鎖住 Instagram App；每天兩次短暫通行。
@@ -113,6 +114,18 @@
 更多細節：[比較表](https://minulo.app/zh-Hant/alternatives.html) · [能把 iPhone 上 Instagram App 裡的 Reels 拿掉嗎？](https://minulo.app/zh-Hant/remove-reels-from-instagram-app.html)
 
 和特定 App 比較：[ScreenZen 的替代 App](https://minulo.app/zh-Hant/screenzen-alternatives.html) · [one sec 的替代 App](https://minulo.app/zh-Hant/one-sec-alternatives.html) · [Opal 的替代 App](https://minulo.app/zh-Hant/opal-alternatives.html)
+
+
+<a id="official-app-vs-other-app"></a>
+## 在官方 Instagram App 裡擋 Reels，還是用別的 App 開 Instagram？
+在 iPhone 上用 Instagram 又不看 Reels，有兩種做法，各有取捨。
+
+- **在官方 App 裡擋（Scroll Less）。** Scroll Less 的 App Store 頁面說，它會在真正的 Instagram 和 YouTube App 裡擋掉 Instagram Reels 和 YouTube Shorts。它的網站說，這要在 Blocker 開著時才有效：iOS 會詢問是否為 Scroll Less 開始廣播，Reels 和 Shorts 在 iPhone 上偵測，廣播可以從控制中心停止。官方 App 照常使用。代價是廣播必須一直開著，Blocker 只在 Instagram 和 YouTube 的 App 裡有效（App Store 頁面和網站都沒提到 TikTok），而且兩邊都沒說哪些功能免費。我們沒有親自試用 Scroll Less。
+- **用別的 App 開 Instagram（minulo、UNDOOMED、SocialLite、Stillfeed、FeedOff 和[上面其他的 App](#in-app-browsers)）。** 這些 App 在自己裡面開各平台的網站並隱藏 Reels，所以不需要廣播，很多也支援 Instagram 和 YouTube 以外的平台。代價是畫面和官方 App 有點不同，網站版沒有的功能就不能用；如果 App 也用螢幕使用時間鎖住官方 App，鎖住期間不會收到那個 App 的通知。
+- **minulo 的情況：** 隱藏 Reels、Shorts、探索和推薦貼文免費，不用訂閱，也沒有時間限制。私訊照常可用，Instagram 和 TikTok 的只看私訊畫面也免費。支援 10 個平台，用螢幕使用時間鎖住官方 App 每次最多 2 小時也免費。不能發限時動態、傳語音訊息或通話，也沒有 Android 版。minulo 由這份清單的作者開發。
+- **不用 App：** Instagram 沒有關掉 Reels 的設定，螢幕使用時間則會限制整個 App，私訊也一起被擋。
+
+想繼續用官方 Instagram 和 YouTube App，Scroll Less 就是為此設計的。如果也想在 TikTok 等其他平台拿掉推薦動態，或不想一直開著廣播，就選在自己裡面開各平台的 App。（[minulo vs Scroll Less](https://minulo.app/zh-Hant/minulo-vs-scroll-less.html)，minulo 開發者撰寫）
 
 
 <a id="guides"></a>

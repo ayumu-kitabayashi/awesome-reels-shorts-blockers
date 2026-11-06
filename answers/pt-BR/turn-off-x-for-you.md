@@ -9,7 +9,7 @@ Não encontramos na ajuda do X um ajuste que remova a aba Para você (outubro de
 - O Tempo de Uso do iPhone limita ou bloqueia o app do X inteiro, mensagens incluídas.
 
 ## Apps que fazem isso
-- **minulo**: com Abrir direto em Seguindo ativado, a aba Para você fica oculta e a Página Inicial passa para o Seguindo. Também há Ocultar Busca e Ocultar Vídeo e Grok. Essas opções já vêm ativadas, e você pode desligar cada uma na engrenagem ao lado do X. Mensagens, Notificações e Seguindo abrem direto do início do minulo. Se você abre o app oficial do X por hábito, o minulo pode bloqueá-lo com o Tempo de Uso, de graça por até 2 horas por vez. O minulo Pro adiciona o Modo sono (um mesmo horário de dormir e de acordar todos os dias), o Modo Rígido, o Limite diário e bloqueios de mais de 2 horas. O plano anual tem 7 dias de teste grátis para novos assinantes.
+- **minulo**: com Abrir direto em Seguindo ativado, a aba Para você fica oculta e a Página Inicial passa para o Seguindo. Também há Ocultar Busca e Ocultar Vídeo e Grok. Essas opções já vêm ativadas, e você pode desligar cada uma na engrenagem ao lado do X. Mensagens, Notificações e Seguindo abrem direto do início do minulo. Se você abre o app oficial do X por hábito, o minulo pode bloqueá-lo com o Tempo de Uso, de graça por até 2 horas por vez. O minulo Pro adiciona o Modo sono (um mesmo horário de dormir e de acordar todos os dias), o Modo Rígido, o Limite diário e bloqueios de mais de 2 horas.
 
 ## Limites
 - O Para você só fica escondido dentro do minulo; o app oficial do X não muda.

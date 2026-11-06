@@ -24,7 +24,7 @@
 - **다운타임에 인스타그램만 막고 WhatsApp은 쓰려면? (아이폰)** WhatsApp을 '항상 허용'에 넣고 인스타그램은 빼 둔 다음 '다운타임에 차단'을 켜세요(설정 > 스크린 타임 > 항상 허용). Apple에 따르면 다운타임 동안에는 전화, 메시지, 허용한 앱만 쓸 수 있기 때문이에요. 다만 이 방법으로는 인스타그램 DM도 릴스와 함께 막혀요. minulo는 공식 인스타그램 앱만 스크린 타임으로 잠글 수 있고(한 번에 2시간까지 무료) WhatsApp은 그대로 열려요. minulo 안에서는 릴스가 숨겨지고 DM은 쓸 수 있어요. Pro의 수면 모드를 쓰면 매일 밤 취침 시간에 차단이 켜지고 기상 시간에 꺼져요. ([방법(영어)](https://minulo.app/en/downtime-block-instagram-keep-whatsapp.html))
 - **아이폰에서 Snapchat 웹을 쓸 수 있나요?** Snapchat 고객센터는 Snapchat for Web을 컴퓨터에서 쓰는 방법만 설명하고(Chrome, Edge, Safari에서 web.snapchat.com 접속), 아이폰 Safari에서 쓰는 방법은 찾지 못했어요. minulo는 Snapchat 웹사이트를 앱 안에서 열어 스포트라이트와 디스커버를 무료로 숨기고 채팅은 그대로 쓰게 해 주는 아이폰 앱이에요. 웹 버전에도 스포트라이트가 있고, 추억, 스토리 관리, 사용자 이름 변경, 개인정보 설정은 모바일 앱에서만 할 수 있어요. ([자세히(영어)](https://minulo.app/en/snapchat-web-iphone.html))
 - **Mac용 틱톡 앱이 있나요?** App Store에는 없어요. 미국 App Store의 틱톡 호환성에는 iPhone, iPad, iPod touch, Apple Vision만 있고 Mac은 없어요(2026-11-04 확인). Mac에서는 Safari나 Chrome으로 tiktok.com에 접속하면 되고, 웹에도 추천 피드, 탐색, LIVE가 있으며 틱톡의 하루 사용 시간 제한도 웹에 적용돼요. minulo에는 Safari와 Chrome에서 쓰는 Mac 앱이 있고, 아이폰에서는 틱톡의 추천 피드를 무료로 숨기고 메시지는 그대로 쓸 수 있어요. ([자세히(영어)](https://minulo.app/en/tiktok-on-mac.html))
-- **minulo는 무료인가요?** 네. 10개 SNS에서 릴스, 쇼츠, 추천 게시물 숨기기, 숨길 항목 고르기, DM과 게시물 읽기, 공식 앱을 한 번에 2시간까지 잠그기는 무료이고 결제할 것이 없어요. Pro(미국 App Store 기준 월 $9.99 또는 연 $39.99)는 수면 모드(매일 같은 취침·기상 시간), 하드 모드, 하루 한도, 2시간보다 긴 차단을 더하고, 연간 플랜은 처음 구독하는 분이라면 7일 동안 무료로 체험할 수 있어요. Pro를 구독하지 않아도 숨기기는 계속 무료예요. ([무료로 되는 것](https://minulo.app/ko/is-minulo-free.html))
+- **minulo는 무료인가요?** 네. 10개 SNS에서 릴스, 쇼츠, 추천 게시물 숨기기, 숨길 항목 고르기, DM과 게시물 읽기, 공식 앱을 한 번에 2시간까지 잠그기는 무료이고 결제할 것이 없어요. Pro(미국 App Store 기준 월 $9.99 또는 연 $39.99)는 수면 모드(매일 같은 취침·기상 시간), 하드 모드, 하루 한도, 2시간보다 긴 차단을 더해요. Pro를 구독하지 않아도 숨기기는 계속 무료예요. ([무료로 되는 것](https://minulo.app/ko/is-minulo-free.html))
 
 
 ## 목차
@@ -34,6 +34,7 @@
 - [Safari 확장 프로그램](#safari-extensions)
 - [앱 전체를 막는 앱 (DM도 막힘)](#whole-app-blockers)
 - [고르는 법](#how-to-choose)
+- [공식 앱 안에서 막을까, 다른 앱으로 열까](#official-app-vs-other-app)
 - [답변](#answers)
 - [가이드](#guides)
 - [다른 언어로 된 가이드](#guides-other-languages)
@@ -59,12 +60,12 @@
 - **[Dull](https://apps.apple.com/us/app/id6759723829)**: 각 플랫폼을 자체 브라우저로 열고 릴스, 쇼츠, 추천(For You), 탐색을 뺍니다. 지원 SNS: Instagram, YouTube, Facebook, X, Reddit. 가격: 구독(Dull Pro)이 있어야 사용 가능. 7일 무료 체험 후 월 $3.99 또는 연 $29.99, 평생 이용 $59.99도 있음. DM: 그대로 사용. 미국 App Store 평가 수: 55개. 기타: 하루 사용 제한, 방해 금지 시간, 필터를 풀 때 24시간 대기.
 - **[WallHabit](https://apps.apple.com/us/app/id6751423279)**: 릴스와 쇼츠, 또는 앱 전체를 막고, 풀기 전에 버튼을 길게 누르게 합니다 (릴스를 어떻게 막는지는 설명에 자세히 없음). 지원 SNS: 표기 없음. 가격: 무료, 앱 내 구입 있음. DM: 언급 없음. 미국 App Store 평가 수: 35개. 기타: iOS 18 이상 필요.
 - **[LoomWeb](https://apps.apple.com/us/app/id6754727620)**: 사이트별로 설정할 수 있는 SNS용 브라우저입니다. 지원 SNS: Instagram, YouTube, X, Facebook. 가격: 무료, Pro 요금제 있음. DM: 그대로 사용 (DM만 보기 옵션). 미국 App Store 평가 수: 35개. 기타: iOS 18 이상 필요.
-- **[Scroll Less](https://apps.apple.com/us/app/id6741134096)**: YouTube, Instagram 등을 자체 미니멀 브라우저(WebView)로 열고 알고리즘 추천 피드를 없앱니다. 지원 SNS: YouTube, Instagram 등 (전체 목록은 없음). 가격: 무료 다운로드. DM: 언급 없음. 미국 App Store 평가 수: 23개.
+- **[Scroll Less](https://apps.apple.com/us/app/id6741134096)** (Quintana Labs LLC): Blocker를 켜고 Scroll Less 방송을 시작하면 공식 Instagram, YouTube 앱 안에서 릴스와 쇼츠를 막습니다(웹사이트에 따르면 찾아내는 과정은 아이폰 안에서 이뤄짐). Instagram, YouTube, Reddit 웹사이트를 앱 안에서 열어 피드, 탐색, 관련 동영상을 숨길 수도 있습니다. 지원 SNS: Instagram, YouTube 앱과 Instagram, YouTube, Reddit 웹사이트 (TikTok 언급 없음). 가격: 무료 다운로드. 앱 내 구입으로 Premium $4.99, Premium Annual $29.99, Lifetime $14.99·$49.99 등이 있고, 어떤 기능이 무료인지는 나와 있지 않음. DM: 그대로 사용 (App Store 설명 기준 DM, 스토리 답장, 검색, 내 게시물 댓글). 미국 App Store 평가 수: 25개 (★4.5, 2026-11-04 확인). 기타: 영어만 지원, iOS 17.6 이상.
 - **[Sociano](https://apps.apple.com/us/app/id6760568406)**: 지원하는 SNS를 자체 브라우저로 열고 릴스, 쇼츠, 피드를 막습니다. 스크린 타임으로 고른 아이폰 앱도 막을 수 있습니다. 지원 SNS: Instagram, YouTube, X, Facebook, LinkedIn 등. 가격: 무료 다운로드. DM: 그대로 사용. 미국 App Store 평가 수: 10개. 기타: 앱 차단, 일정, 하루 사용 제한.
 - **[snowscroll](https://apps.apple.com/us/app/id6778488660)**: 각 SNS의 모바일 사이트를 앱 안 브라우저로 열고 피드를 숨깁니다. 스크린 타임을 켜 두면 인스타그램 공식 앱을 열 때 snowscroll이 대신 열립니다. 지원 SNS: Instagram, YouTube, Facebook, X, TikTok, LinkedIn. 가격: 무료 버전 없음. Pro 구독(월간 또는 연간)이 필요. DM: 그대로 사용. 미국 App Store 평가 수: 10개. 기타: 공식 앱 잠금(Shield).
 - **[Awhile](https://apps.apple.com/us/app/id6763551826)**: instagram.com을 앱 안 브라우저로 열고 고른 부분을 숨깁니다. 지원 SNS: Instagram만. 가격: 필터 기능은 무료, Premium은 $2.99 또는 $14.99 인앱 구매(기간은 적혀 있지 않음). DM: 그대로 사용. 미국 App Store 평가 수: 4개.
 - **[Fluid Friction](https://apps.apple.com/us/app/id6782510849)**: SNS를 앱 안에서 열고 피드를 스크롤할 때 저항을 줍니다. 릴스, 쇼츠, 스토리, 탐색을 숨길 수도 있습니다. 지원 SNS: Instagram, TikTok, YouTube, Reddit, X, Snapchat, Facebook, LinkedIn. 가격: 무료 다운로드. DM: 그대로 사용 (메시지는 계속 됨). 미국 App Store 평가 수: 9개. 기타: 다른 앱에 스크린 타임 잠금.
-- **[minulo](https://apps.apple.com/us/app/id6809352229)**: 각 SNS의 공식 웹사이트를 앱 안에서 열고 고른 부분을 숨깁니다. 스크린 타임으로 공식 앱을 잠그고 minulo로 넘겨 줄 수도 있습니다. 지원 SNS: Instagram, YouTube, TikTok, X, Threads, Facebook, Pinterest, Reddit, LinkedIn, Snapchat (10개). 가격: 숨기기는 무료, 공식 앱 잠금은 한 번에 2시간까지 무료. Pro(미국 기준 월 $9.99 또는 연 $39.99)는 수면 모드(매일 같은 취침·기상 시간), 하드 모드, 하루 한도, 2시간보다 긴 차단을 더합니다. 연간 플랜은 처음 구독하는 분이라면 7일 동안 무료로 체험할 수 있습니다. DM: 그대로 사용. 미국 App Store 평가 수: 1개 (★4.0, 2026-11-04 확인). 기타: 아이폰과 Mac, 안드로이드 버전 없음. 이 목록을 만든 사람이 관리하는 앱입니다.
+- **[minulo](https://apps.apple.com/us/app/id6809352229)**: 각 SNS의 공식 웹사이트를 앱 안에서 열고 고른 부분을 숨깁니다. 스크린 타임으로 공식 앱을 잠그고 minulo로 넘겨 줄 수도 있습니다. 지원 SNS: Instagram, YouTube, TikTok, X, Threads, Facebook, Pinterest, Reddit, LinkedIn, Snapchat (10개). 가격: 숨기기는 무료, 공식 앱 잠금은 한 번에 2시간까지 무료. Pro(미국 기준 월 $9.99 또는 연 $39.99)는 수면 모드(매일 같은 취침·기상 시간), 하드 모드, 하루 한도, 2시간보다 긴 차단을 더합니다. DM: 그대로 사용. 미국 App Store 평가 수: 1개 (★4.0, 2026-11-04 확인). 기타: 아이폰과 Mac, 안드로이드 버전 없음. 이 목록을 만든 사람이 관리하는 앱입니다.
 - **[Stillfeed](https://apps.apple.com/us/app/id6792934511)**: 8개 SNS를 내장 브라우저로 열고 릴스, 탐색, 쇼츠를 뺍니다. Instagram은 팔로잉 피드로 열립니다. 지원 SNS: Instagram, YouTube, X, Reddit, Snapchat, LinkedIn, Facebook, TikTok. 가격: 차단과 팔로잉 피드는 무료, Pro(주 $2.99, 월 $5.99, 연 $44.99)는 스토리·피드 차단, DM만 보기 등을 더합니다. DM: 그대로 사용. 미국 App Store 평가 수: 0개 (2026-11-05 확인). 기타: 주간 차단 통계.
 - **[Unfeed](https://apps.apple.com/us/app/id6814847686)** ("Unfeed: Block Reels & Shorts", Greenbird Company Limited): Instagram, TikTok, YouTube, X를 피드 없이 엽니다. 릴스, 탐색, 추천(For You), 쇼츠는 막히고 메시지, 검색, 프로필, 게시는 그대로 됩니다. 지원 SNS: Instagram, TikTok, YouTube, X. 가격: 차단은 무료, Unfeed Pro(월간 또는 연간, 연간은 7일 무료 체험)는 하루 목표에 도달하면 모든 앱을 닫는 기능, 일정, 수면, 스크린 타임으로 공식 앱 잠금, Hard Mode, DM만 보기, 광고·추천 게시물 숨기기, 여러 계정을 더합니다. DM: 그대로 사용. 미국 App Store 평가 수: 0개 (2026-11-05 확인). 기타: Focus now, 열기 전 잠깐 멈춤, 위젯은 무료. 스크린 타임으로 앱 전체만 막는 "Unfeed: Scroll Blocker"(id6788027178)와는 다른 앱입니다.
 - **[Konvo](https://apps.apple.com/us/app/id6794756261)**: 인스타그램을 바로 받은 메시지함으로 엽니다. 피드, 릴스, 탐색은 아예 불러오지 않습니다. 지원 SNS: Instagram (메시지만). 가격: 앱에서 인스타그램 DM을 쓰려면 유료 구독이 필요합니다. DM: 그대로 사용. 미국 App Store 평가 수: 1개. 기타: 인스타그램 앱 잠금 가능, 하루 두 번 짧은 이용권.
@@ -117,6 +118,18 @@ Safari에서 instagram.com이나 youtube.com을 볼 때 피드를 숨겨 줍니�
 더 자세히: [비교표](https://minulo.app/en/alternatives.html) (영어) · [Can you remove Reels from the Instagram app?](https://minulo.app/en/remove-reels-from-instagram-app.html) (영어)
 
 특정 앱과 비교: [ScreenZen alternatives](https://minulo.app/en/screenzen-alternatives.html) · [one sec alternatives](https://minulo.app/en/one-sec-alternatives.html) · [Opal alternatives](https://minulo.app/en/opal-alternatives.html) (영어)
+
+
+<a id="official-app-vs-other-app"></a>
+## 공식 인스타 앱 안에서 릴스를 막을까, 다른 앱으로 인스타를 열까?
+아이폰에서 릴스 없이 인스타를 쓰는 방법은 두 가지이고, 어느 쪽이든 포기하는 것이 있습니다.
+
+- **공식 앱 안에서 막기 (Scroll Less).** Scroll Less의 App Store 설명에는 공식 Instagram, YouTube 앱 안에서 릴스와 쇼츠를 막는다고 적혀 있습니다. 웹사이트에 따르면 막히는 건 Blocker가 켜져 있는 동안입니다. iOS가 Scroll Less의 '방송'을 시작할지 묻고, 릴스와 쇼츠는 아이폰 안에서 찾아내며, 방송은 제어 센터에서 멈출 수 있습니다. 공식 앱은 그대로 쓸 수 있습니다. 대신 방송을 계속 켜 둬야 하고, Blocker는 Instagram, YouTube 앱에서만 작동합니다(TikTok은 App Store 설명에도 웹사이트에도 나오지 않습니다). 어떤 기능이 무료인지도 App Store 설명과 웹사이트에 나와 있지 않습니다. Scroll Less는 저희가 직접 써 보지 않았습니다.
+- **다른 앱으로 인스타 열기 (minulo, UNDOOMED, SocialLite, Stillfeed, FeedOff 등 [위의 앱](#in-app-browsers)).** 각 SNS의 웹사이트를 앱 안에서 열고 릴스를 숨긴 채 보여 줍니다. 방송을 켜 둘 필요가 없고, Instagram과 YouTube 말고도 여러 SNS를 지원하는 앱이 많습니다. 대신 화면이 공식 앱과 조금 다르고, 웹 버전에 없는 기능은 쓸 수 없습니다. 스크린 타임으로 공식 앱도 잠그는 경우, 잠긴 동안에는 그 앱의 알림이 오지 않습니다.
+- **minulo의 경우:** 릴스, 쇼츠, 탐색, 추천 게시물 숨기기는 무료이고, 구독도 시간 제한도 없습니다. DM은 그대로 쓸 수 있고, DM만 남기는 화면('DM 외의 모든 탭' 설정)은 인스타와 틱톡에서 무료입니다. 10개 SNS를 지원하고, 스크린 타임으로 공식 앱을 잠그는 것도 한 번에 2시간까지 무료입니다. 스토리 올리기, 음성 메시지, 통화는 쓸 수 없고, 안드로이드 버전은 없습니다. minulo는 이 목록을 만든 사람이 개발합니다.
+- **앱 없이:** 인스타에는 릴스를 끄는 설정이 없고, 스크린 타임은 앱 전체를 막기 때문에 DM도 함께 막힙니다.
+
+공식 Instagram, YouTube 앱을 계속 쓰고 싶다면 Scroll Less가 맞습니다. 틱톡 같은 다른 SNS도 피드 없이 쓰고 싶거나 방송을 켜 두고 싶지 않다면, SNS를 앱 안에서 여는 방식을 고르세요. ([minulo vs Scroll Less](https://minulo.app/ko/minulo-vs-scroll-less.html), minulo 개발자가 쓴 글)
 
 
 <a id="answers"></a>

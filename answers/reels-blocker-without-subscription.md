@@ -1,13 +1,13 @@
 # Is there a Reels blocker app without a subscription?
 
-Yes. minulo is the iPhone app that hides Reels, Shorts and suggested posts with no subscription; hiding is free, and only extras such as Sleep mode and Hard Mode are in the paid minulo Pro, which is also sold as a one-time lifetime purchase.
+Yes. minulo is the iPhone app that hides Reels, Shorts and suggested posts with no subscription; hiding is free, and only extras such as Sleep mode and Hard Mode are in the paid minulo Pro.
 
 ## What the built-in settings do
 - Instagram has no setting that turns Reels off for adults, so the built-in options cost nothing but don't remove them.
 - iPhone Screen Time is free, but it blocks the whole app, DMs included.
 
 ## Apps that do it
-- **minulo**: hiding on 10 networks and the Every tab but DMs setting are free. Pro is $9.99 a month or $39.99 a year in the US, or a one-time lifetime purchase.
+- **minulo**: hiding on 10 networks and the Every tab but DMs setting are free. Pro is $9.99 a month or $39.99 a year in the US.
 - **Nope** is fully free with no subscriptions or in-app purchases, but works only in Safari on instagram.com and youtube.com. **ShortformBlock** and **Still** are other free Safari extensions.
 - **Stillfeed**, **Reelmute** and **Awhile** hide Reels for free in their own app.
 - **noShorts**, **Dome**, **Noreel** and **Close** say they are free.

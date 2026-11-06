@@ -11,7 +11,7 @@ Nous n'avons trouvé dans l'aide de Snapchat aucun réglage qui retire l'onglet 
 - Réglages de l'iPhone › Notifications › Snapchat › Autoriser les notifications coupe tout, y compris les notifications des discussions. Temps d'écran ne peut pas viser Spotlight et bloque aussi les discussions.
 
 ## Les applis qui le font
-- **minulo** : sur l'écran d'accueil, touchez Ajouter un service et choisissez Snapchat, puis touchez l'engrenage à côté de Snapchat et activez le masquage de Spotlight et Découvrir. Il reste actif jusqu'à ce que vous le désactiviez, et le Chat s'ouvre directement depuis l'accueil de minulo. Si vous ouvrez l'app officielle par habitude, minulo peut la verrouiller avec Temps d'écran, gratuitement jusqu'à 2 heures par blocage. minulo Pro (9,99 $ par mois ou 39,99 $ par an aux États-Unis) ajoute le Mode sommeil (une même heure de coucher et de réveil tous les jours), le Mode strict, la Limite quotidienne et les blocages de plus de 2 heures. L'abonnement annuel inclut un essai gratuit de 7 jours pour les nouveaux abonnés.
+- **minulo** : sur l'écran d'accueil, touchez Ajouter un service et choisissez Snapchat, puis touchez l'engrenage à côté de Snapchat et activez le masquage de Spotlight et Découvrir. Il reste actif jusqu'à ce que vous le désactiviez, et le Chat s'ouvre directement depuis l'accueil de minulo. Si vous ouvrez l'app officielle par habitude, minulo peut la verrouiller avec Temps d'écran, gratuitement jusqu'à 2 heures par blocage. minulo Pro (9,99 $ par mois ou 39,99 $ par an aux États-Unis) ajoute le Mode sommeil (une même heure de coucher et de réveil tous les jours), le Mode strict, la Limite quotidienne et les blocages de plus de 2 heures.
 - **noShorts** ouvre aussi Snapchat dans son appli sans Spotlight.
 
 ## Limites

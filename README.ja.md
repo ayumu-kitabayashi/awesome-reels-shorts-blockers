@@ -23,7 +23,7 @@
 - **休止時間にインスタだけ止めて、WhatsApp は使えるようにするには？（iPhone）** WhatsApp を［常に許可］に入れ、インスタはそこに入れずに［休止時間中にブロック］をオンにします（設定 > スクリーンタイム > 常に許可）。Apple によると、休止時間中に使えるのは電話・メッセージと許可したアプリだけだからです。ただしこの方法では、インスタの DM もリールと一緒に止まります。minulo なら公式のインスタアプリだけをスクリーンタイムで止められ（1回2時間まで無料）、WhatsApp はそのまま使えます。minulo の中ではリールが消えて DM は使えます。Pro のスリープモードを使えば、毎晩寝る時刻にブロックが始まり、起きる時刻に外れます。（[やり方（英語）](https://minulo.app/en/downtime-block-instagram-keep-whatsapp.html)）
 - **iPhone で Snapchat Web は使える？** Snapchat のヘルプが説明しているのはパソコンで使う方法だけです（Chrome・Edge・Safari で web.snapchat.com を開く）。iPhone の Safari で使う手順は見つかりませんでした。minulo は、Snapchat のウェブ版をアプリの中で開き、スポットライトと Discover を無料で隠したままチャットを使える iPhone アプリです。ウェブ版にもスポットライトはあり、メモリーズ、ストーリーの管理、ユーザーネームの変更、プライバシー設定はスマホのアプリでしかできません。（[詳しく（英語）](https://minulo.app/en/snapchat-web-iphone.html)）
 - **Mac 用の TikTok アプリはある？** App Store にはありません。米国の App Store で TikTok の「互換性」に載っているのは iPhone・iPad・iPod touch・Apple Vision で、Mac はありません（2026-11-04 確認）。Mac では Safari か Chrome で tiktok.com を開きます。ウェブ版にも「おすすめ」・Explore・LIVE があり、TikTok の1日の利用時間の上限もウェブに効きます。minulo には Safari と Chrome で使える Mac 版があり、iPhone では TikTok の「おすすめ」を無料で消したままメッセージを使えます。（[詳しく（英語）](https://minulo.app/en/tiktok-on-mac.html)）
-- **minulo は無料？** はい。10の SNS でリール・ショート・おすすめ投稿を消すこと、隠すものを選ぶこと、DM や投稿を読むこと、公式アプリを1回2時間まで止めることは無料で、買うものはありません。Pro（日本の App Store で月額1,480円・年額6,800円）ではスリープモード（毎日同じ就寝・起床時刻）・ハードモード・1日の上限・2時間を超えるブロックが使え、年額プランは、初めて登録する方なら7日間無料で試せます。Pro に入らなくても、隠す機能はずっと無料です。（[無料でできること](https://minulo.app/is-minulo-free.html)）
+- **minulo は無料？** はい。10の SNS でリール・ショート・おすすめ投稿を消すこと、隠すものを選ぶこと、DM や投稿を読むこと、公式アプリを1回2時間まで止めることは無料で、買うものはありません。Pro（日本の App Store で月額1,480円・年額6,800円）ではスリープモード（毎日同じ就寝・起床時刻）・ハードモード・1日の上限・2時間を超えるブロックが使えます。Pro に入らなくても、隠す機能はずっと無料です。（[無料でできること](https://minulo.app/is-minulo-free.html)）
 
 
 ## 目次
@@ -33,6 +33,7 @@
 - [Safari 機能拡張](#safari-extensions)
 - [アプリごと止めるアプリ（DMも止まる）](#whole-app-blockers)
 - [選び方](#how-to-choose)
+- [公式アプリの中で止めるか、別のアプリで開くか](#official-app-vs-other-app)
 - [答え](#answers)
 - [解説記事](#guides)
 - [英語以外の解説記事](#guides-other-languages)
@@ -58,12 +59,12 @@
 - **[Dull](https://apps.apple.com/us/app/id6759723829)**：各 SNS を専用ブラウザで開き、リール・ショート・おすすめ・発見タブを取り除く。対応SNS：Instagram、YouTube、Facebook、X、Reddit。料金：使うにはサブスク（Dull Pro）が必要。7日間無料のあと月 $3.99 か年 $29.99。買い切り $59.99 もある。DM：使える。米国 App Store の評価数：55。その他：1日の上限、使わない時間帯、フィルタをゆるめるときは24時間待つ。
 - **[WallHabit](https://apps.apple.com/us/app/id6751423279)**：リールとショート、またはアプリごとブロックし、解除の前にボタンを長押しさせる（リールをどう止めるかは説明文に書かれていない）。対応SNS：記載なし。料金：無料（アプリ内課金あり）。DM：記載なし。米国 App Store の評価数：35。その他：iOS 18 以降。
 - **[LoomWeb](https://apps.apple.com/us/app/id6754727620)**：SNS 用のブラウザで、サイトごとに設定できる。対応SNS：Instagram、YouTube、X、Facebook。料金：無料（Pro あり）。DM：使える（DM だけにする設定あり）。米国 App Store の評価数：35。その他：iOS 18 以降。
-- **[Scroll Less](https://apps.apple.com/us/app/id6741134096)**：YouTube や Instagram などを最小限の専用ブラウザ（WebView）で開き、アルゴリズムのおすすめフィードを消す。対応SNS：YouTube、Instagram ほか（全一覧の記載なし）。料金：ダウンロード無料。DM：記載なし。米国 App Store の評価数：23。
+- **[Scroll Less](https://apps.apple.com/us/app/id6741134096)**（Quintana Labs LLC）：ブロッカー（Blocker）をオンにして Scroll Less のブロードキャストを始めると、公式の Instagram と YouTube のアプリの中でリールとショートを止める（公式サイトによると検出は iPhone の中）。Instagram・YouTube・Reddit のウェブサイトをアプリの中で開き、フィード・発見・関連動画を隠すこともできる。対応SNS：Instagram と YouTube のアプリ、Instagram・YouTube・Reddit のウェブサイト（TikTok の記載なし）。料金：ダウンロード無料。アプリ内課金に Premium $4.99、Premium Annual $29.99、Lifetime $14.99・$49.99 などがあり、どの機能が無料かは書かれていない。DM：使える（App Store ページによると、DM・ストーリーへの返信・検索・自分の投稿へのコメント）。米国 App Store の評価数：25（★4.5、2026-11-04 確認）。その他：英語のみ。iOS 17.6 以降。
 - **[Sociano](https://apps.apple.com/us/app/id6760568406)**：対応する SNS を専用ブラウザで開き、リール・ショート・フィードを止める。スクリーンタイムで選んだ iPhone のアプリも止められる。対応SNS：Instagram、YouTube、X、Facebook、LinkedIn ほか。料金：ダウンロード無料。DM：使える。米国 App Store の評価数：10。その他：アプリのブロック、スケジュール、1日の上限。
 - **[snowscroll](https://apps.apple.com/us/app/id6778488660)**：各 SNS のモバイルサイトを集中用のアプリ内ブラウザで開き、フィードを隠す。スクリーンタイムを使うと、本物の Instagram アプリを開こうとしたとき snowscroll が開く。対応SNS：Instagram、YouTube、Facebook、X、TikTok、LinkedIn。料金：無料版はなく、使うにはサブスク（Pro・月ごとか年ごと）が必要。DM：使える。米国 App Store の評価数：10。その他：公式アプリにロックをかけられる。
 - **[Awhile](https://apps.apple.com/us/app/id6763551826)**：instagram.com を専用のアプリ内ブラウザで開き、選んだ部分を隠す。対応SNS：Instagram のみ。料金：フィルタは無料。Premium はアプリ内課金で $2.99 と $14.99（期間の記載なし）。DM：使える。米国 App Store の評価数：4。
 - **[Fluid Friction](https://apps.apple.com/us/app/id6782510849)**：SNS をアプリの中で開き、フィードのスクロールを重くする。リール・ショート・ストーリーズ・発見タブを隠すこともできる。対応SNS：Instagram、TikTok、YouTube、Reddit、X、Snapchat、Facebook、LinkedIn。料金：ダウンロード無料。DM：使える（メッセージはそのまま動く）。米国 App Store の評価数：9。その他：ほかのアプリにもスクリーンタイムでロックをかけられる。
-- **[minulo](https://apps.apple.com/us/app/id6809352229)**：各 SNS の公式サイトをアプリの中で開き、選んだ部分を隠す。スクリーンタイムで公式アプリにロックをかけ、minulo のほうへ案内することもできる。対応SNS：Instagram、YouTube、TikTok、X、Threads、Facebook、Pinterest、Reddit、LinkedIn、Snapchat（10）。料金：隠すのは無料。公式アプリのロックも1回2時間までなら無料。Pro（米国で月 $9.99 か年 $39.99）でスリープモード（毎日同じ就寝・起床時刻）、ハードモード、1日の上限、2時間を超えるブロックが使える。年額プランは、初めて登録する人なら7日間無料で試せる。DM：使える。米国 App Store の評価数：1（★4.0、2026-11-04 確認）。その他：iPhone と Mac。Android 版はなし。この一覧の作者が作っているアプリ。
+- **[minulo](https://apps.apple.com/us/app/id6809352229)**：各 SNS の公式サイトをアプリの中で開き、選んだ部分を隠す。スクリーンタイムで公式アプリにロックをかけ、minulo のほうへ案内することもできる。対応SNS：Instagram、YouTube、TikTok、X、Threads、Facebook、Pinterest、Reddit、LinkedIn、Snapchat（10）。料金：隠すのは無料。公式アプリのロックも1回2時間までなら無料。Pro（米国で月 $9.99 か年 $39.99）でスリープモード（毎日同じ就寝・起床時刻）、ハードモード、1日の上限、2時間を超えるブロックが使える。DM：使える。米国 App Store の評価数：1（★4.0、2026-11-04 確認）。その他：iPhone と Mac。Android 版はなし。この一覧の作者が作っているアプリ。
 - **[Stillfeed](https://apps.apple.com/us/app/id6792934511)**：8つの SNS を内蔵ブラウザで開き、リール・発見タブ・ショートを取り除く。Instagram はフォロー中のフィードで開く。対応SNS：Instagram、YouTube、X、Reddit、Snapchat、LinkedIn、Facebook、TikTok。料金：ブロックとフォロー中のフィードは無料。Pro（週 $2.99・月 $5.99・年 $44.99）でストーリーズやフィードのブロック、DM だけの表示などが使える。DM：使える。米国 App Store の評価数：0（2026-11-05 確認）。その他：ブロックした数の週ごとの記録。
 - **[Unfeed](https://apps.apple.com/us/app/id6814847686)**（「Unfeed: Block Reels & Shorts」、Greenbird Company Limited）：Instagram・TikTok・YouTube・X をフィードなしで開く。リール・発見・おすすめ・ショートを止め、メッセージ・検索・プロフィール・投稿は使える。対応SNS：Instagram、TikTok、YouTube、X。料金：ブロックは無料。Unfeed Pro（月額か年額。年額は7日間無料）で、1日の目標に達したら全アプリを閉じる機能、スケジュール、おやすみ、スクリーンタイムで公式アプリをロック、Hard Mode、DM だけ、広告とおすすめ投稿の非表示、複数アカウントが使える。DM：使える。米国 App Store の評価数：0（2026-11-05 確認）。その他：Focus now、開く前のひと呼吸、ウィジェットは無料。「Unfeed: Scroll Blocker」（id6788027178）は別のアプリで、スクリーンタイムでアプリごとブロックするだけ。
 - **[Konvo](https://apps.apple.com/us/app/id6794756261)**：Instagram を開くといきなり受信箱が出て、フィード・リール・発見タブは読み込まれない。対応SNS：Instagram（メッセージのみ）。料金：アプリで Instagram の DM を使うには有料のサブスクリプションが必要。DM：使える。米国 App Store の評価数：1。その他：Instagram アプリにロックをかけられる。1日2回の短いパス。
@@ -116,6 +117,18 @@ Safari で instagram.com や youtube.com を見ているときにフィードを
 くわしく：[比較表](https://minulo.app/en/alternatives.html)（英語）・[Can you remove Reels from the Instagram app?](https://minulo.app/en/remove-reels-from-instagram-app.html)（英語）
 
 特定のアプリと比べる：[ScreenZen alternatives](https://minulo.app/en/screenzen-alternatives.html) · [one sec alternatives](https://minulo.app/en/one-sec-alternatives.html) · [Opal alternatives](https://minulo.app/en/opal-alternatives.html)（英語）
+
+
+<a id="official-app-vs-other-app"></a>
+## 公式のインスタアプリの中でリールを止めるか、別のアプリでインスタを開くか
+iPhone でリールなしのインスタを使う方法は2通りあり、どちらにも引きかえがあります。
+
+- **公式アプリの中で止める（Scroll Less）。** Scroll Less の App Store ページには、本物の Instagram と YouTube のアプリの中でリールとショートを止めると書かれています。公式サイトによると、止まるのはブロッカー（Blocker）がオンのあいだです。iOS が Scroll Less のブロードキャストを始めるか聞き、リールとショートの検出は iPhone の中で行われ、ブロードキャストはコントロールセンターから止められます。公式アプリはそのまま使えます。そのかわり、ブロードキャストはつけたままにしておく必要があり、ブロッカーが効くのは Instagram と YouTube のアプリだけです（TikTok は App Store ページにも公式サイトにも出てきません）。どの機能が無料かも、App Store ページと公式サイトには書かれていません。Scroll Less は私たちでは試していません。
+- **別のアプリでインスタを開く（minulo、UNDOOMED、SocialLite、Stillfeed、FeedOff など[上のアプリ](#in-app-browsers)）。** 各 SNS のウェブサイトをアプリの中で開き、リールを消して表示します。ブロードキャストは要らず、Instagram と YouTube 以外の SNS に対応しているものも多いです。そのかわり、画面は公式アプリと少し違い、ウェブ版にない機能は使えません。スクリーンタイムで公式アプリもロックする場合、ロック中はそのアプリの通知が届きません。
+- **minulo の場合：** リール・ショート・発見・おすすめ投稿を消すのは無料で、サブスクも時間の制限もありません。DM は使え、DM だけにする表示（［DM以外のタブ］）はインスタと TikTok で無料です。10の SNS に対応し、スクリーンタイムで公式アプリを止めるのも1回2時間まで無料です。ストーリーズの投稿、ボイスメッセージ、通話は使えず、Android 版はありません。minulo はこのリストの作者が作っています。
+- **アプリを入れない場合：** インスタにはリールを消す設定がなく、スクリーンタイムはアプリごと止めるので DM も止まります。
+
+公式の Instagram と YouTube のアプリを使い続けたいなら、Scroll Less が向いています。TikTok などほかの SNS もおすすめなしで使いたい、ブロードキャストをつけたままにしたくないなら、SNS をアプリの中で開くタイプを選んでください。（[minulo vs Scroll Less](https://minulo.app/en/minulo-vs-scroll-less.html)、英語、minulo の開発者が書いたページ）
 
 
 <a id="answers"></a>

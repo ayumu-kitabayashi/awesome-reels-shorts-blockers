@@ -9,7 +9,7 @@ This question is about price, so here is what SocialLite charges on the US App S
 - SocialLite has push notifications for Instagram and Snapchat, and 16,883 US ratings at 4.7 stars (checked 2026-11-04).
 
 ## Apps that do it
-- **minulo**: hiding Reels, Shorts and suggested posts on 10 networks and the Every tab but DMs setting are free. Pro is $9.99 a month or $39.99 a year in the US, or a one-time lifetime purchase.
+- **minulo**: hiding Reels, Shorts and suggested posts on 10 networks and the Every tab but DMs setting are free. Pro is $9.99 a month or $39.99 a year in the US.
 - **Stillfeed** and **Reelmute** hide Reels and Shorts for free; DMs-only views are paid.
 - **Awhile** filters Instagram for free; Premium is $2.99 or $14.99.
 - **UNDOOMED** has many free features; Plus is $1.99 a month and Pro has a $29.99 lifetime option.

@@ -11,7 +11,7 @@ Nicht mit einer Snapchat-Einstellung: Laut der Snapchat-Hilfe lässt sich die En
 - Laut Snapchat sehen manche Leute je nach Region, Alter und Zeitpunkt der Kontoerstellung eine Version mit weniger Tabs. Wie man sie auswählt, beschreibt die Hilfe nicht.
 
 ## Apps, die das können
-- **minulo**: Tippe auf Dienst hinzufügen, wähle Snapchat, tippe auf das Zahnrad neben Snapchat und schalte das Ausblenden für Spotlight und Entdecken ein. Der Snapchat-Bildschirm von minulo hat oben zwei Tabs, Chat und Storys, und unter Storys öffnest du die Storys deiner Freunde. Wenn du die offizielle App immer wieder öffnest, kann minulo sie mit der Bildschirmzeit sperren und dich zu minulo schicken, kostenlos bis zu 2 Stunden pro Sperre. minulo Pro bietet zusätzlich den Schlafmodus (eine feste Schlafens- und Aufwachzeit, jeden Tag gleich), den Hardmodus, ein Tageslimit und Sperren über 2 Stunden. Beim Jahresabo können Neuabonnenten 7 Tage kostenlos testen.
+- **minulo**: Tippe auf Dienst hinzufügen, wähle Snapchat, tippe auf das Zahnrad neben Snapchat und schalte das Ausblenden für Spotlight und Entdecken ein. Der Snapchat-Bildschirm von minulo hat oben zwei Tabs, Chat und Storys, und unter Storys öffnest du die Storys deiner Freunde. Wenn du die offizielle App immer wieder öffnest, kann minulo sie mit der Bildschirmzeit sperren und dich zu minulo schicken, kostenlos bis zu 2 Stunden pro Sperre. minulo Pro bietet zusätzlich den Schlafmodus (eine feste Schlafens- und Aufwachzeit, jeden Tag gleich), den Hardmodus, ein Tageslimit und Sperren über 2 Stunden.
 
 ## Grenzen
 - Die offizielle Snapchat-App ändert sich nicht, und Snapchat ist in minulo als BETA markiert.

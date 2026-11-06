@@ -9,7 +9,7 @@ Nous n'avons trouvé aucun réglage qui supprime Pour vous dans l'aide de X (oct
 - Temps d'écran de l'iPhone limite ou bloque toute l'app X, messages compris.
 
 ## Les applis qui le font
-- **minulo** : avec Ouvrir d'abord Abonnements activé, l'onglet Pour vous est masqué et l'accueil passe sur Abonnements. Vous trouverez aussi Masquer Rechercher et Masquer Vidéo et Grok. Ces options sont activées par défaut, et vous pouvez désactiver chacune d'elles avec la roue dentée à côté de X. Messages, Notifications et Abonnements s'ouvrent directement depuis l'accueil de minulo. Si vous ouvrez l'app X officielle par habitude, minulo peut la bloquer avec Temps d'écran, gratuitement jusqu'à 2 heures par blocage. minulo Pro ajoute le Mode sommeil (une même heure de coucher et de réveil tous les jours), le Mode strict, la Limite quotidienne et les blocages de plus de 2 heures. L'abonnement annuel inclut un essai gratuit de 7 jours pour les nouveaux abonnés.
+- **minulo** : avec Ouvrir d'abord Abonnements activé, l'onglet Pour vous est masqué et l'accueil passe sur Abonnements. Vous trouverez aussi Masquer Rechercher et Masquer Vidéo et Grok. Ces options sont activées par défaut, et vous pouvez désactiver chacune d'elles avec la roue dentée à côté de X. Messages, Notifications et Abonnements s'ouvrent directement depuis l'accueil de minulo. Si vous ouvrez l'app X officielle par habitude, minulo peut la bloquer avec Temps d'écran, gratuitement jusqu'à 2 heures par blocage. minulo Pro ajoute le Mode sommeil (une même heure de coucher et de réveil tous les jours), le Mode strict, la Limite quotidienne et les blocages de plus de 2 heures.
 
 ## Limites
 - Pour vous n'est masqué que dans minulo : l'app X officielle ne change pas.
