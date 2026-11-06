@@ -169,6 +169,11 @@ Schritt-für-Schritt-Artikel auf Englisch (vom Entwickler von minulo; jeder begi
 - [Brick alternatives for iPhone without the hardware](https://minulo.app/en/brick-alternative-iphone.html)
 - [Why you can't set a time limit on just Instagram Reels on iPhone (and what Screen Time's API can do)](https://dev.to/ayumu_kitabayashi_8e0de96/why-you-cant-set-a-time-limit-on-just-instagram-reels-on-iphone-and-what-screen-times-api-can-522)
 - [How I ship an iPhone app and its website in 13 languages as a solo developer](https://dev.to/ayumu_kitabayashi_8e0de96/how-i-ship-an-iphone-app-and-its-website-in-13-languages-as-a-solo-developer-10gk) (für Entwickler)
+- [Free iPhone apps that block Instagram Reels but keep DMs (2026): what each one actually does for free](https://dev.to/ayumu_kitabayashi_8e0de96/free-iphone-apps-that-block-instagram-reels-but-keep-dms-2026-what-each-one-actually-does-for-3gci)
+- [Block Reels inside the official Instagram app or open Instagram in another app? Trade-offs on iPhone](https://dev.to/ayumu_kitabayashi_8e0de96/block-reels-inside-the-official-instagram-app-or-open-instagram-in-another-app-trade-offs-on-iphone-538p)
+- [How to use Instagram only for DMs on iPhone without deleting it (2026)](https://dev.to/ayumu_kitabayashi_8e0de96/how-to-use-instagram-only-for-dms-on-iphone-without-deleting-it-2026-4bj2)
+- [Is there a free SocialLite alternative for iPhone? Hiding Reels and keeping DMs without paying (2026)](https://dev.to/ayumu_kitabayashi_8e0de96/is-there-a-free-sociallite-alternative-for-iphone-hiding-reels-and-keeping-dms-without-paying-ajn)
+- [My class group chat is on Instagram, but I want Reels gone: a free way to keep group chats on iPhone (2026)](https://dev.to/ayumu_kitabayashi_8e0de96/my-class-group-chat-is-on-instagram-but-i-want-reels-gone-a-free-way-to-keep-group-chats-on-409d)
 
 
 <a id="guides-other-languages"></a>
@@ -196,6 +201,9 @@ Vom Entwickler von minulo; jede beginnt mit den eingebauten Möglichkeiten.
 - [공부할 때 유튜브 강의는 보고 쇼츠만 끄는 법 (아이폰, 2026)](https://velog.io/@barcaak1011/공부할-때-유튜브-강의는-보고-쇼츠만-끄는-법-아이폰-2026)
 - [iOS에서 '릴스만' 숨기는 앱을 만들 때 고를 수 있는 3가지 방법](https://velog.io/@barcaak1011/iOS에서-릴스만-숨기는-앱을-만들-때-고를-수-있는-3가지-방법-콘텐츠-차단기Safari-확장WKWebView) (개발자용)
 - [틱톡을 DM(메시지)용으로만 쓰는 법 (아이폰, 2026)](https://velog.io/@barcaak1011/틱톡을-DM메시지용으로만-쓰는-법-아이폰-2026)
+- [인스타 릴스만 차단하고 DM은 쓸 수 있는 아이폰 앱은? 돈 안 내고 되는 범위부터 정리 (2026)](https://dev.to/ayumu_kitabayashi_8e0de96/inseuta-rilseuman-cadanhago-dmeun-sseul-su-issneun-aipon-aebeun-don-an-naego-doeneun-beomwibuteo-jeongri-2026-1n4p)
+- [수행평가 공지가 반 인스타 단톡으로 올 때: 릴스는 안 보고 단톡만 확인하는 아이폰 설정 (2026)](https://dev.to/ayumu_kitabayashi_8e0de96/suhaengpyeongga-gongjiga-ban-inseuta-dantogeuro-ol-ddae-rilseuneun-an-bogo-dantogman-hwaginhaneun-aipon-seoljeong-2026-41dn)
+- [유튜브 쇼츠만 끄고 강의 영상은 보는 아이폰 앱은? 쇼츠를 없애는 설정 3개 (2026)](https://dev.to/ayumu_kitabayashi_8e0de96/yutyubeu-syoceuman-ggeugo-gangyi-yeongsangeun-boneun-aipon-aebeun-syoceureul-eobsaeneun-seoljeong-3gae-2026-d95)
 
 **Tiếng Việt**
 - [Mở app của mình từ màn hình chặn Screen Time trên iOS: ShieldAction không mở được URL, nên đi qua thông báo](https://viblo.asia/p/mo-app-cua-minh-tu-man-hinh-chan-screen-time-tren-ios-shieldaction-khong-mo-duoc-url-nen-di-qua-thong-bao-ZjJYWRrpVOE) (cho lập trình viên)
@@ -208,6 +216,16 @@ Vom Entwickler von minulo; jede beginnt mit den eingebauten Möglichkeiten.
 - [Esconder os Reels no iPhone com Expo: três caminhos (content blocker, extensão do Safari ou WebView)](https://dev.to/ayumu_kitabayashi_8e0de96/esconder-os-reels-no-iphone-com-expo-tres-caminhos-content-blocker-extensao-do-safari-ou-h07) (para devs)
 - [Lo que la API de Tiempo en pantalla de iOS puede y no puede hacer, y las tres formas que quedan para esconder los Reels](https://dev.to/ayumu_kitabayashi_8e0de96/lo-que-la-api-de-tiempo-en-pantalla-de-ios-puede-y-no-puede-hacer-y-las-tres-formas-que-quedan-33h2) (para devs)
 - [DeviceActivity sur iOS : un blocage qui se lève à l'heure prévue, et les cinq pièges d'horaire que j'ai rencontrés](https://dev.to/ayumu_kitabayashi_8e0de96/deviceactivity-sur-ios-un-blocage-qui-se-leve-a-lheure-prevue-et-les-cinq-pieges-dhoraire-que-5hb9) (pour les devs)
+- [Qual é o melhor app grátis para iPhone que bloqueia os Reels e deixa as DMs funcionando? O que é grátis e o que é Pro (2026)](https://dev.to/ayumu_kitabayashi_8e0de96/qual-e-o-melhor-app-gratis-para-iphone-que-bloqueia-os-reels-e-deixa-as-dms-funcionando-o-que-e-4cmi)
+- [App para tirar os Reels do Instagram no iPhone e continuar usando o Direct (2026)](https://dev.to/ayumu_kitabayashi_8e0de96/app-para-tirar-os-reels-do-instagram-no-iphone-e-continuar-usando-o-direct-2026-16m7)
+- [Nope, FeedOff, Unfeed ou minulo: qual app tira os Reels do Instagram no iPhone sem cortar o Direct? (2026)](https://dev.to/ayumu_kitabayashi_8e0de96/nope-feedoff-unfeed-ou-minulo-qual-app-tira-os-reels-do-instagram-no-iphone-sem-cortar-o-direct-p5l)
+- [O trabalho em grupo da faculdade é combinado nas DMs do Instagram: como responder sem cair nos Reels no iPhone (2026)](https://dev.to/ayumu_kitabayashi_8e0de96/o-trabalho-em-grupo-da-faculdade-e-combinado-nas-dms-do-instagram-como-responder-sem-cair-nos-1nbe)
+- [Qual app tira os Shorts do YouTube no iPhone e deixa as aulas gravadas da faculdade? As 3 chaves grátis (2026)](https://dev.to/ayumu_kitabayashi_8e0de96/qual-app-tira-os-shorts-do-youtube-no-iphone-e-deixa-as-aulas-gravadas-da-faculdade-as-3-chaves-1fde)
+- [Qual o melhor app grátis para bloquear Reels no iPhone sem perder as DMs: bloquear dentro do app oficial ou abrir em outro app?](https://minulo-app.blogspot.com/2026/11/qual-o-melhor-app-gratis-para-bloquear.html)
+- [Como tirar os Shorts do YouTube no iPhone e continuar vendo as videoaulas para o ENEM e o vestibular (2026)](https://minulo-app.blogspot.com/2026/11/como-tirar-os-shorts-do-youtube-no.html)
+- [¿Cuál es la mejor app gratis para iPhone que bloquea los Reels y deja los mensajes? minulo, SocialLite, Nope y Reelmute (2026)](https://minulo-app.blogspot.com/2026/11/cual-es-la-mejor-app-gratis-para-iphone.html)
+- [El grupo de la clase de la universidad está en Instagram: cómo quedarte con el chat y quitar los Reels en iPhone (2026)](https://minulo-app.blogspot.com/2026/11/el-grupo-de-la-clase-de-la-universidad.html)
+- [Quelle est la meilleure app gratuite pour iPhone qui bloque les Reels d'Instagram mais garde les messages privés ?](https://dev.to/ayumu_kitabayashi_8e0de96/quelle-est-la-meilleure-app-gratuite-pour-iphone-qui-bloque-les-reels-dinstagram-mais-garde-les-332d)
 
 
 <a id="data"></a>
