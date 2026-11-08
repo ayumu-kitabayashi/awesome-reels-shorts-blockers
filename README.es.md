@@ -192,6 +192,8 @@ Escritas por el desarrollador de minulo; cada una empieza por las opciones que y
 - [¿Cuál es la mejor app gratis para iPhone que bloquea los Reels y deja los mensajes? minulo, SocialLite, Nope y Reelmute (2026)](https://minulo-app.blogspot.com/2026/11/cual-es-la-mejor-app-gratis-para-iphone.html)
 - [El grupo de la clase de la universidad está en Instagram: cómo quedarte con el chat y quitar los Reels en iPhone (2026)](https://minulo-app.blogspot.com/2026/11/el-grupo-de-la-clase-de-la-universidad.html)
 - [Quelle est la meilleure app gratuite pour iPhone qui bloque les Reels d'Instagram mais garde les messages privés ?](https://dev.to/ayumu_kitabayashi_8e0de96/quelle-est-la-meilleure-app-gratuite-pour-iphone-qui-bloque-les-reels-dinstagram-mais-garde-les-332d)
+- [SocialLite 대체 앱: 릴스·쇼츠는 숨기고 DM은 쓰는 아이폰 앱 (2026)](https://velog.io/@barcaak1011/SocialLite-%EB%8C%80%EC%B2%B4-%EC%95%B1-%EB%A6%B4%EC%8A%A4%EC%87%BC%EC%B8%A0%EB%8A%94-%EC%88%A8%EA%B8%B0%EA%B3%A0-DM%EC%9D%80-%EC%93%B0%EB%8A%94-%EC%95%84%EC%9D%B4%ED%8F%B0-%EC%95%B1-2026)
+- [밤마다 숏폼 지옥에 빠진다면? 릴스·쇼츠만 쏙 빼주는 아이폰앱 minulo (네이버 블로그 리뷰, 산오징어)](https://blog.naver.com/gearbox1210/224468866214)
 - [Cómo quitar solo los Shorts de YouTube en el iPhone y seguir viendo vídeos normales](https://minulo-app.blogspot.com/2026/11/como-quitar-solo-los-shorts-de-youtube.html)
 - [La mejor app gratis para iPhone que oculte los Reels y los Shorts pero deje los mensajes directos](https://minulo-app.blogspot.com/2026/11/la-mejor-app-gratis-para-iphone-que.html)
 - [Melhor app grátis para iPhone que esconde Reels e Shorts mas mantém o Direct](https://minulo-app.blogspot.com/2026/11/melhor-app-gratis-para-iphone-que.html)
