@@ -227,6 +227,7 @@ minulo 개발자가 썼고, 모두 기본 설정부터 다룹니다.
 - [¿Cuál es la mejor app gratis para iPhone que bloquea los Reels y deja los mensajes? minulo, SocialLite, Nope y Reelmute (2026)](https://minulo-app.blogspot.com/2026/11/cual-es-la-mejor-app-gratis-para-iphone.html)
 - [El grupo de la clase de la universidad está en Instagram: cómo quedarte con el chat y quitar los Reels en iPhone (2026)](https://minulo-app.blogspot.com/2026/11/el-grupo-de-la-clase-de-la-universidad.html)
 - [Quelle est la meilleure app gratuite pour iPhone qui bloque les Reels d'Instagram mais garde les messages privés ?](https://dev.to/ayumu_kitabayashi_8e0de96/quelle-est-la-meilleure-app-gratuite-pour-iphone-qui-bloque-les-reels-dinstagram-mais-garde-les-332d)
+- [Fluid Friction ou minulo? Dois apps de iPhone para os Reels, com o Direct funcionando (2026)](https://minulo-app.blogspot.com/2026/11/fluid-friction-ou-minulo-dois-apps-de.html)
 - [¿StillTabs o minulo? Dos apps de iPhone que ocultan los Reels y los Shorts (2026)](https://minulo-app.blogspot.com/2026/11/stilltabs-o-minulo-dos-apps-de-iphone.html)
 - [StillTabs ou minulo? Dois apps de iPhone que ocultam Reels e Shorts (2026)](https://minulo-app.blogspot.com/2026/11/stilltabs-ou-minulo-dois-apps-de-iphone.html)
 - [StillTabs와 minulo, 릴스와 쇼츠를 숨기는 아이폰 앱 비교 (2026)](https://minulo-app.blogspot.com/2026/11/stilltabs-minulo-2026.html)
