@@ -224,6 +224,8 @@ Tutoriels pas à pas, en anglais (écrits par le développeur de minulo ; chacun
 - [¿Cuál es la mejor app gratis para iPhone que bloquea los Reels y deja los mensajes? minulo, SocialLite, Nope y Reelmute (2026)](https://minulo-app.blogspot.com/2026/11/cual-es-la-mejor-app-gratis-para-iphone.html)
 - [El grupo de la clase de la universidad está en Instagram: cómo quedarte con el chat y quitar los Reels en iPhone (2026)](https://minulo-app.blogspot.com/2026/11/el-grupo-de-la-clase-de-la-universidad.html)
 - [Quelle est la meilleure app gratuite pour iPhone qui bloque les Reels d'Instagram mais garde les messages privés ?](https://dev.to/ayumu_kitabayashi_8e0de96/quelle-est-la-meilleure-app-gratuite-pour-iphone-qui-bloque-les-reels-dinstagram-mais-garde-les-332d)
+- [자기 전에 릴스·쇼츠 그만 보는 법: 다운타임·수면 집중 모드·minulo 비교 (아이폰, 2026)](https://note.com/minulo/n/ne3a82d579cb5)
+- [Cómo quitar los Shorts de YouTube en el iPhone: la sección, la pestaña y los enlaces que te pasan (2026)](https://note.com/minulo/n/n0131b8b91398)
 - [How to get rid of YouTube Shorts on iPhone but keep watching normal videos (2026)](https://note.com/minulo/n/n6f4c7f71dca7)
 - [Qual app grátis no iPhone bloqueia os Reels do Instagram e deixa usar o Direct? (2026)](https://note.com/minulo/n/n3acac6c8e57f)
 - [Fluid Friction ou minulo? Dois apps de iPhone para os Reels, com o Direct funcionando (2026)](https://minulo-app.blogspot.com/2026/11/fluid-friction-ou-minulo-dois-apps-de.html)
