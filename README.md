@@ -284,6 +284,8 @@ Written by the minulo developer; each covers the built-in options first.
 - [¿Cuál es la mejor app gratis para iPhone que bloquea los Reels y deja los mensajes? minulo, SocialLite, Nope y Reelmute (2026)](https://minulo-app.blogspot.com/2026/11/cual-es-la-mejor-app-gratis-para-iphone.html)
 - [El grupo de la clase de la universidad está en Instagram: cómo quedarte con el chat y quitar los Reels en iPhone (2026)](https://minulo-app.blogspot.com/2026/11/el-grupo-de-la-clase-de-la-universidad.html)
 - [Quelle est la meilleure app gratuite pour iPhone qui bloque les Reels d'Instagram mais garde les messages privés ?](https://dev.to/ayumu_kitabayashi_8e0de96/quelle-est-la-meilleure-app-gratuite-pour-iphone-qui-bloque-les-reels-dinstagram-mais-garde-les-332d)
+- [Can You Remove the Reels Tab from Instagram on iPhone? (2026)](https://note.com/minulo/n/nf007263f155d)
+- [Qual app para iPhone esconde Reels e Shorts sem perder as DMs? Comparando as opções (2026)](https://web.dio.me/articles/qual-app-para-iphone-esconde-reels-e-shorts-sem-perder-as-dms-comparando-as-opcoes-2026-f91be3da91a1)
 - [How to hide Instagram Explore on iPhone and keep your DMs (2026)](https://note.com/minulo/n/n792dafcc8ddc)
 - [How to get rid of the For You tab on X on iPhone (2026)](https://note.com/minulo/n/nbbcd9c4db915)
 - [YouTube autoplay and Home recommendations on iPhone: how to turn them off (2026)](https://note.com/minulo/n/n12be7ce57a6b)
