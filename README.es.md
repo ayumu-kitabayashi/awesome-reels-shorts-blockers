@@ -36,6 +36,7 @@ Lista de apps y ajustes de iPhone para bloquear **los Reels de Instagram, los Sh
 - [Respuestas](#answers)
 - [Guías](#guides)
 - [Guías en otros idiomas](#guides-other-languages)
+- [Preguntas comunes](#common-questions)
 - [Datos (CSV)](#data)
 
 
@@ -472,6 +473,41 @@ Páginas breves de minulo.app que responden a una sola pregunta con la ayuda ofi
 - [Alternativa a Forest: que los Reels y los Shorts no vuelvan cuando acaba el temporizador](https://minulo.app/es/forest-app-alternative.html)
 - [Cómo frenar el brain rot de los Reels, los Shorts y TikTok en el iPhone](https://minulo.app/es/how-to-stop-brain-rot.html)
 - [Cómo dejar de mirar Instagram y TikTok nada más despertarte](https://minulo.app/es/stop-checking-phone-in-the-morning.html)
+
+<a id="common-questions"></a>
+## Preguntas comunes
+Diez preguntas frecuentes sobre Shorts, Reels y mensajes en el iPhone, cada una empezando por lo que los ajustes de la propia app y del iPhone hacen y no hacen. minulo lo hace quien mantiene esta lista; las demás apps están descritas como en la lista de arriba.
+
+### ¿Se pueden desactivar los Shorts de YouTube en el iPhone?
+No. YouTube no tiene ningún interruptor que desactive los Shorts para adultos: puedes poner en 0 el límite del feed de Shorts (un adulto puede descartar el aviso), elegir Mostrar menos Shorts o desactivar el historial de reproducciones, y el Tiempo de uso del iPhone bloquea toda la app de YouTube. En minulo, activa Ocultar la sección de Shorts y Ocultar la pestaña Shorts: los Shorts desaparecen, los vídeos normales, la búsqueda y las suscripciones siguen, y ocultarlos es gratis. Nope hace lo mismo en youtube.com en Safari, y Stillfeed, Reelmute y noShorts abren YouTube sin Shorts dentro de su propia app. ([qué funciona](https://minulo.app/es/can-you-turn-off-youtube-shorts.html?ref=github-arsb-faq))
+
+### Si oculto la sección de Shorts en el Inicio de YouTube, ¿cuánto tiempo se queda oculta?
+Unos 30 días, según los artículos que citan el mensaje de YouTube «Shelf will be hidden for 30 days»; la ayuda de YouTube no explica la X ni da ningún plazo, y la X no aparece en todas las cuentas. Ocultar la sección deja los Shorts en la pestaña Shorts, la búsqueda, Suscripciones y las páginas de los canales. En minulo, Ocultar la sección de Shorts y Ocultar la pestaña Shorts los mantienen ocultos gratis hasta que cambies el ajuste (solo dentro de minulo). ([cuánto dura](https://minulo.app/es/can-you-turn-off-youtube-shorts.html?ref=github-arsb-faq))
+
+### Si borro la app de Instagram y uso Safari, ¿qué pasa con los mensajes y los Reels?
+Los mensajes funcionan igual en instagram.com, pero los Reels y Explorar siguen ahí y dejan de llegarte las notificaciones de la app. Para ocultarlos en el propio Safari necesitas una extensión como Nope (gratis) o ScrollGuard. En minulo, ocultar los Reels, Explorar y las publicaciones sugeridas es gratis, Todas las pestañas menos los mensajes deja solo tus mensajes, y bloquear la app oficial con Tiempo de uso es gratis hasta 2 horas por bloqueo. ([Instagram en Safari](https://minulo.app/es/instagram-in-safari-instead-of-app.html?ref=github-arsb-faq))
+
+### ¿Cómo abrir Instagram directamente en los mensajes en el iPhone, sin pasar por el feed?
+Instagram no tiene ningún ajuste para que la app se abra en los mensajes; tocar la notificación de un mensaje abre ese chat, pero el feed y los Reels siguen a un toque. En minulo, el ajuste Todas las pestañas menos los mensajes es gratis y deja solo los DMs (grupos incluidos) y la pestaña de notificaciones. El DMs Only de Fluid Friction y el «Limit to DMs only» de LoomWeb también son gratis, Konvo abre directamente en la bandeja de entrada con una suscripción de pago, y la vista solo de mensajes es de pago en UNDOOMED, Stillfeed, Reelmute, Awhile e Intent. ([cómo hacerlo](https://minulo.app/es/instagram-dms-only.html?ref=github-arsb-faq))
+
+### ¿Cómo usar los DMs de Instagram sin abrir la app?
+En el ordenador, instagram.com en el navegador tiene Mensajes, pero las pestañas Reels y Explorar están a un clic. La app de minulo para Mac oculta las pestañas Reels y Explorar de instagram.com en Safari y Chrome, y el enlace a Mensajes sigue funcionando; en el iPhone, minulo abre la web de Instagram solo con los DMs y la pestaña de notificaciones (Todas las pestañas menos los mensajes, gratis). ([cómo hacerlo](https://minulo.app/es/instagram-dms-on-computer.html?ref=github-arsb-faq))
+
+### ¿Cómo bloquear solo Instagram durante el tiempo de inactividad y seguir usando WhatsApp en el iPhone?
+Ve a Ajustes, Tiempo de uso, Siempre permitido, añade WhatsApp y las demás apps de chat que uses por la noche, deja Instagram fuera de la lista y activa Bloquear durante la inactividad; eso también bloquea los mensajes de Instagram junto con los Reels. minulo puede bloquear solo la app oficial de Instagram con Tiempo de uso (gratis hasta 2 horas por bloqueo; el Modo sueño, que lo hace cada noche, es de Pro) mientras WhatsApp sigue abierto, y dentro de minulo los mensajes siguen funcionando. Los bloqueadores de apps completas, como Opal y Curfew, también bloquean Instagram por horario, mensajes incluidos. ([cómo hacerlo](https://minulo.app/es/downtime-block-instagram-keep-line.html?ref=github-arsb-faq))
+
+### ¿SocialLite es gratis?
+No para quien empieza ahora. Se descarga gratis, pero sus preguntas frecuentes dicen que quien se registra necesita una suscripción de pago y que no hay un plan gratuito para todos; su página de precios muestra 9,99 $ al mes o 29,99 $ al año en EE. UU., y el App Store también muestra un plan familiar de 12,99 $ al mes (comprobado el 2026-11-10). Ocultar los Reels y los Shorts es gratis en minulo, Stillfeed, Reelmute y Fluid Friction, FeedOff y StillTabs no tienen nada que comprar, y Nope es totalmente gratis en Safari. ([precio y alternativas gratis](https://minulo.app/es/is-sociallite-free.html?ref=github-arsb-faq))
+
+### ¿Cómo dejar de deslizar en TikTok por la noche en el iPhone?
+Sleep hours, el ajuste de noche de TikTok, solo silencia las notificaciones. El tiempo de inactividad de Tiempo de uso con Bloquear durante la inactividad y un código bloquea toda la app, mensajes incluidos. En minulo, TikTok se abre con Para ti oculto gratis y los mensajes siguen, bloquear a mano la app oficial de TikTok es gratis hasta 2 horas, y el Modo sueño (Pro) la bloquea cada noche desde la hora de dormir hasta la de despertar. ([cómo hacerlo](https://minulo.app/es/stop-scrolling-tiktok-at-night.html?ref=github-arsb-faq))
+
+### ¿Hay una forma gratis de bloquear los Shorts de YouTube en el iPhone y seguir viendo vídeos normales?
+La forma oficial de YouTube es poner el límite del feed de Shorts en 0 minutos, que no cuesta nada, pero una cuenta de adulto puede descartarlo y los Shorts siguen en Suscripciones y en los enlaces que te envían. En minulo, activa Ocultar la sección de Shorts y Ocultar la pestaña Shorts: los vídeos normales, la búsqueda y las suscripciones siguen, y ocultarlos es gratis, sin suscripción y sin límite de tiempo. Stillfeed también oculta los Shorts gratis, y Nope y ShortformBlock lo hacen gratis en Safari. ([formas gratis](https://minulo.app/es/block-youtube-shorts.html?ref=github-arsb-faq))
+
+### ¿Cómo ver un Reel que te ha mandado un amigo por DM sin quedarte enganchado a los Reels?
+En la app de Instagram, un Reel que abres desde un chat se reproduce en el visor de Reels, y con un solo deslizamiento el feed sigue; Instagram no tiene ningún ajuste que oculte la pestaña de Reels a las cuentas de adultos. En minulo, el Reel que te mandan por DM se detiene antes de que empiece el feed de Reels, Abrir 5 min te deja verlo durante cinco minutos, y después el bloqueo vuelve a activarse solo; ocultar los Reels es gratis. NoReels dice que los vídeos que te envían se siguen reproduciendo, y LockedIn tiene un ajuste para la reproducción de vídeos en los DMs. ([cómo hacerlo](https://minulo.app/es/instagram-reels-sent-in-dms.html?ref=github-arsb-faq))
+
 
 ## Datos
 La comparación de arriba en CSV (una fila por app, con el método, las redes, el precio, si los DMs siguen funcionando, el número de valoraciones en EE. UU. y la fecha de revisión): [data/ios-reels-shorts-blockers.csv](data/ios-reels-shorts-blockers.csv). Las valoraciones son una foto del momento y cambian cada día; se agradecen las correcciones.

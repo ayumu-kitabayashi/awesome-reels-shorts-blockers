@@ -39,6 +39,7 @@
 - [답변](#answers)
 - [가이드](#guides)
 - [다른 언어로 된 가이드](#guides-other-languages)
+- [자주 받는 질문 10가지](#common-questions)
 - [데이터 (CSV)](#data)
 
 
@@ -492,6 +493,41 @@ minulo.app의 짧은 페이지입니다. 각 플랫폼의 공식 도움말을 �
 - [공부할 때 폰 잠그는 앱 비교: 열품타, 포레스트, 스크린 타임, minulo](https://minulo.app/ko/study-lock-apps-compared.html)
 - [수능 끝나고 인스타 다시 깔 때: 릴스에 다시 빠지지 않고 돌아오는 방법](https://minulo.app/ko/after-suneung-instagram.html)
 - [카카오톡 숏폼 안 보는 방법: 자동 재생 끄기와 인스타 릴스·유튜브 쇼츠까지 줄이기](https://minulo.app/ko/kakaotalk-shortform.html)
+
+<a id="common-questions"></a>
+## 자주 받는 질문 10가지
+아이폰에서 쇼츠, 릴스, DM에 대해 자주 받는 질문 10가지입니다. 모두 기본 설정으로 되는 것과 안 되는 것을 먼저 적었습니다. minulo는 이 목록의 관리자가 만든 앱이고, 다른 앱은 위 목록에 적은 그대로입니다.
+
+### 아이폰에서 유튜브 쇼츠 끌 수 있어?
+아니요. 성인 계정에는 쇼츠를 끄는 스위치가 없고, Shorts 피드 제한을 0분으로 정하기(성인은 닫을 수 있음), Shorts 동영상 적게 표시, 시청 기록 끄기 정도만 할 수 있습니다. 아이폰 스크린 타임은 유튜브 앱 전체를 막습니다. minulo에서 쇼츠 섹션 숨기기와 쇼츠 탭 숨기기를 켜면 쇼츠는 사라지고 일반 영상, 검색, 구독은 그대로이며, 숨기기는 무료입니다(공식 유튜브 앱은 그대로). Nope는 Safari의 youtube.com에서 같은 일을 하고, Stillfeed, Reelmute, noShorts도 자체 앱 안에서 쇼츠 없는 유튜브를 엽니다. ([되는 방법](https://minulo.app/ko/can-you-turn-off-youtube-shorts.html?ref=github-arsb-faq))
+
+### 유튜브 홈 쇼츠 섹션을 X로 숨기면 며칠 가?
+해외 기사에 따르면 약 30일이고(유튜브의 "Shelf will be hidden for 30 days" 메시지를 인용), YouTube 고객센터에는 X도 기간도 나와 있지 않으며 X가 안 보이는 계정도 있습니다. X로 숨겨도 쇼츠 탭, 검색, 구독, 채널 페이지에는 쇼츠가 남습니다. minulo의 쇼츠 섹션 숨기기와 쇼츠 탭 숨기기는 직접 끌 때까지 무료로 계속 숨겨 줍니다(minulo 안에서만). ([며칠 가는지](https://minulo.app/ko/can-you-turn-off-youtube-shorts.html?ref=github-arsb-faq))
+
+### 인스타 앱을 지우고 Safari로 쓰면 DM과 릴스는 어떻게 돼?
+instagram.com에서도 DM은 그대로 되지만 릴스와 탐색 탭도 그대로 있고, 앱 알림은 오지 않습니다. Safari 안에서 숨기려면 Nope(무료)나 ScrollGuard 같은 Safari 확장 프로그램이 필요합니다. minulo에서는 릴스, 탐색 탭, 추천 게시물 숨기기가 무료이고, 'DM 외의 모든 탭'을 켜면 DM만 남으며, 공식 앱을 스크린 타임으로 잠그는 것도 한 번에 2시간까지 무료입니다. ([Safari로 쓰면](https://minulo.app/ko/instagram-in-safari-instead-of-app.html?ref=github-arsb-faq))
+
+### 인스타 열어도 피드 안 보고 DM으로 바로 가는 법
+인스타그램 자체에는 앱을 DM 화면으로 여는 설정이 없습니다. 메시지 알림을 누르면 그 대화가 열리지만, 피드와 릴스는 한 번만 누르면 닿는 곳에 남습니다. minulo의 DM 외의 모든 탭 설정은 무료이고 DM(단톡 포함)과 알림 탭만 남깁니다. Fluid Friction의 DMs Only와 LoomWeb의 "Limit to DMs only"도 무료이고, Konvo는 받은 메시지함으로 바로 열지만 유료 구독이 필요하며, UNDOOMED, Stillfeed, Reelmute, Awhile, Intent에서는 메시지만 보는 화면이 유료입니다. ([방법](https://minulo.app/ko/instagram-dms-only.html?ref=github-arsb-faq))
+
+### 인스타 DM을 앱 안 열고 쓰는 법
+컴퓨터 브라우저의 instagram.com에서도 DM을 쓸 수 있지만, 릴스와 탐색 탭이 바로 옆에 있습니다. minulo Mac 앱을 설치하면 Safari와 Chrome의 instagram.com에서 릴스와 탐색 탭이 사라지고 메시지는 그대로 쓸 수 있습니다. 아이폰에서는 minulo의 DM 외의 모든 탭(무료)으로 DM과 알림 탭만 남긴 인스타그램을 엽니다. ([방법](https://minulo.app/ko/instagram-dms-on-computer.html?ref=github-arsb-faq))
+
+### 다운타임에 인스타만 막고 카카오톡은 쓰는 방법
+설정, 스크린 타임, 항상 허용에서 카카오톡과 밤에 쓸 메시지 앱을 넣고, 인스타그램은 목록에서 뺀 다음 다운타임에 차단을 켭니다. 이렇게 하면 인스타 DM도 릴스와 함께 막힙니다. minulo는 공식 인스타그램 앱만 스크린 타임으로 잠글 수 있고(한 번에 2시간까지 무료, 매일 밤 저절로 잠그는 수면 모드는 Pro) 카카오톡은 그대로 쓸 수 있으며, minulo 안에서는 인스타 DM도 됩니다. Opal이나 Curfew 같은 앱 전체를 막는 앱도 시간표대로 인스타를 막지만 DM도 함께 막힙니다. ([방법](https://minulo.app/ko/downtime-block-instagram-keep-line.html?ref=github-arsb-faq))
+
+### SocialLite 무료야?
+새로 쓰는 사람에게는 무료가 아닙니다. 내려받기는 무료지만, 공식 FAQ에 따르면 새로 가입하면 유료 구독이 필요하고 모두에게 열린 무료 플랜은 없습니다. 가격 페이지에는 미국 기준 월 $9.99 또는 연 $29.99가 나와 있고, App Store에는 월 $12.99 패밀리 요금제도 있습니다(2026-11-10 확인). minulo, Stillfeed, Reelmute, Fluid Friction은 릴스와 쇼츠를 무료로 숨기고, FeedOff와 StillTabs는 살 것이 없으며, Nope는 Safari에서 완전히 무료입니다. ([가격과 무료 대안](https://minulo.app/ko/is-sociallite-free.html?ref=github-arsb-faq))
+
+### 밤에 틱톡 계속 넘기는 거 막는 방법 (아이폰)
+틱톡의 Sleep hours는 알림만 꺼 줍니다. 스크린 타임에서 다운타임을 정하고 암호를 설정한 뒤 다운타임에 차단을 켜면 앱 전체가 막혀서 틱톡 메시지도 못 씁니다. minulo에서 틱톡을 열면 추천 피드를 무료로 숨기고 메시지는 그대로 쓸 수 있고, 공식 틱톡 앱을 직접 잠그는 건 한 번에 2시간까지 무료이며, 매일 밤 취침 시간부터 기상 시간까지 저절로 잠그는 수면 모드는 Pro입니다. ([방법](https://minulo.app/ko/stop-scrolling-tiktok-at-night.html?ref=github-arsb-faq))
+
+### 아이폰에서 유튜브 쇼츠만 무료로 없애고 일반 영상은 보는 방법
+유튜브의 공식 방법은 Shorts 피드 제한을 0분으로 정하는 것이라 무료지만, 성인 계정은 제한을 닫고 계속 볼 수 있고 보도에 따르면 구독 피드와 링크로 연 쇼츠는 남습니다. minulo 안에서 유튜브를 열고 쇼츠 섹션 숨기기와 쇼츠 탭 숨기기를 켜면 일반 영상, 검색, 구독은 그대로 쓸 수 있고 숨기기는 무료입니다. Stillfeed도 쇼츠를 무료로 숨기고, Nope와 ShortformBlock은 Safari에서 무료로 숨깁니다. ([방법](https://minulo.app/ko/free-youtube-shorts-blocker.html?ref=github-arsb-faq))
+
+### DM으로 받은 릴스를 릴스 피드에 안 빠지고 보는 방법
+인스타 앱에서 대화방의 릴스를 열면 릴스 화면에서 재생되고, 한 번 넘기면 그대로 피드가 이어집니다. 성인 계정에는 릴스 탭을 숨기는 설정이 없습니다. minulo에서 인스타그램을 열면 DM으로 받은 릴스가 릴스 피드가 시작되기 전에 멈추고, 5분만 열기를 누르면 5분 동안 볼 수 있으며, 그 뒤에는 차단이 저절로 다시 켜집니다. 릴스 숨기기는 무료입니다. NoReels는 받은 동영상은 그대로 재생된다고 적고 있고, LockedIn에는 DM 동영상 재생 스위치가 있습니다. ([방법](https://minulo.app/ko/instagram-reels-sent-in-dms.html?ref=github-arsb-faq))
+
 
 ## 데이터
 위 비교 내용을 CSV로 내려받을 수 있습니다 (앱마다 한 줄, 방식, 지원 SNS, 가격, DM이 계속 되는지, 미국 평가 수, 확인한 날짜, 영어): [data/ios-reels-shorts-blockers.csv](data/ios-reels-shorts-blockers.csv). 평가 수는 특정 시점의 값이라 매일 바뀝니다. 고칠 곳이 있으면 알려 주세요.

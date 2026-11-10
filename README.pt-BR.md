@@ -43,6 +43,7 @@ No minulo, esconder é grátis, sem assinatura e sem limite de tempo, em 10 rede
 - [Respostas](#answers)
 - [Guias](#guides)
 - [Guias em outros idiomas](#guides-other-languages)
+- [Perguntas comuns](#common-questions)
 - [Dados (CSV)](#data)
 
 
@@ -479,6 +480,41 @@ Páginas curtas do minulo.app que respondem a uma pergunta usando a ajuda oficia
 - [Alternativa ao app Forest: mantenha os Reels e os Shorts desligados depois que o timer de foco acaba](https://minulo.app/pt/forest-app-alternative.html)
 - [Como parar o brain rot causado por Reels, Shorts e TikTok no iPhone](https://minulo.app/pt/how-to-stop-brain-rot.html)
 - [Como parar de abrir o Instagram e o TikTok assim que acorda](https://minulo.app/pt/stop-checking-phone-in-the-morning.html)
+
+<a id="common-questions"></a>
+## Perguntas comuns
+Dez perguntas frequentes sobre Shorts, Reels e DMs no iPhone, cada uma começando pelo que os ajustes do próprio app e do iPhone fazem e não fazem. O minulo é feito pelo mantenedor desta lista; os outros apps estão descritos como na lista acima.
+
+### Dá para desativar os Shorts do YouTube no iPhone?
+Não. O YouTube não tem um botão que desative os Shorts para adultos: dá para colocar o Limite do Feed dos Shorts em 0 (um adulto pode dispensar o lembrete), escolher Mostrar menos Shorts ou desativar o histórico de exibição, e o Tempo de Uso do iPhone bloqueia o app do YouTube inteiro. No minulo, ative Ocultar a seção de Shorts e Ocultar a aba Shorts: os Shorts somem, os vídeos normais, a busca e as inscrições continuam, e ocultar é grátis. O Nope faz o mesmo no youtube.com no Safari, e o Stillfeed, o Reelmute e o noShorts abrem o YouTube sem Shorts dentro do próprio app. ([o que funciona](https://minulo.app/pt/can-you-turn-off-youtube-shorts.html?ref=github-arsb-faq))
+
+### Se eu ocultar a seção de Shorts no Início do YouTube, por quanto tempo ela fica oculta?
+Cerca de 30 dias, segundo reportagens que citam a mensagem do YouTube "Shelf will be hidden for 30 days"; a ajuda do YouTube não descreve o X nem informa um prazo, e o X não aparece em todas as contas. Ocultar a seção deixa os Shorts na aba Shorts, na pesquisa, em Inscrições e nas páginas dos canais. No minulo, Ocultar a seção de Shorts e Ocultar a aba Shorts ficam ativos de graça até você mudar o ajuste (só dentro do minulo). ([quanto tempo dura](https://minulo.app/pt/can-you-turn-off-youtube-shorts.html?ref=github-arsb-faq))
+
+### Se eu apagar o app do Instagram e usar o Safari, o que acontece com as DMs e os Reels?
+As DMs continuam funcionando no instagram.com, mas os Reels e o Explorar continuam lá e as notificações do app param. Para ocultá-los no próprio Safari, você precisa de uma extensão como o Nope (grátis) ou o ScrollGuard. No minulo, ocultar os Reels, o Explorar e os posts sugeridos é grátis, Todas as abas menos mensagens deixa só as suas mensagens, e bloquear o app oficial com o Tempo de Uso é grátis por até 2 horas por bloqueio. ([Instagram no Safari](https://minulo.app/pt/instagram-in-safari-instead-of-app.html?ref=github-arsb-faq))
+
+### Como abrir o Instagram direto nas DMs no iPhone, sem passar pelo feed?
+O próprio Instagram não tem nenhum ajuste para o app abrir nas mensagens; tocar numa notificação de mensagem abre aquela conversa, mas o feed e os Reels continuam a um toque. No minulo, o ajuste Todas as abas menos mensagens é grátis e deixa só as DMs (grupos incluídos) e a aba de notificações. O DMs Only do Fluid Friction e o "Limit to DMs only" do LoomWeb também são grátis, o Konvo abre direto na caixa de entrada com assinatura paga, e a visão só de mensagens é paga no UNDOOMED, Stillfeed, Reelmute, Awhile e Intent. ([como fazer](https://minulo.app/pt/instagram-dms-only.html?ref=github-arsb-faq))
+
+### Como usar as DMs do Instagram sem abrir o app?
+No computador, o instagram.com no navegador tem as Mensagens, mas as abas Reels e Explorar ficam a um clique. O app do minulo para Mac esconde as abas Reels e Explorar do instagram.com no Safari e no Chrome, e o link de Mensagens continua funcionando; no iPhone, o minulo abre o site do Instagram só com as DMs e a aba de notificações (Todas as abas menos mensagens, grátis). ([como fazer](https://minulo.app/pt/instagram-dms-on-computer.html?ref=github-arsb-faq))
+
+### Como bloquear só o Instagram no Repouso e manter o WhatsApp no iPhone?
+Vá em Ajustes, Tempo de Uso, Sempre Permitidos, adicione o WhatsApp e os outros apps de conversa que você usa à noite, deixe o Instagram fora da lista e ative Bloquear ao Repousar; isso bloqueia as DMs do Instagram junto com os Reels. O minulo pode bloquear só o app oficial do Instagram com o Tempo de Uso (grátis por até 2 horas por bloqueio; o Modo sono, que faz isso toda noite, é do Pro) enquanto o WhatsApp continua aberto, e dentro do minulo as DMs continuam funcionando. Bloqueadores do app inteiro, como o Opal e o Curfew, também bloqueiam o Instagram por horário, DMs incluídas. ([como fazer](https://minulo.app/pt/downtime-block-instagram-keep-line.html?ref=github-arsb-faq))
+
+### O SocialLite é grátis?
+Não para quem chega agora. Ele é grátis para baixar, mas o FAQ diz que novos cadastros precisam de uma assinatura paga e que não existe um plano grátis para todos; a página de preços mostra US$ 9,99 por mês ou US$ 29,99 por ano nos EUA, e a App Store também mostra um plano Família de US$ 12,99 por mês (verificado em 2026-11-10). Ocultar Reels e Shorts é grátis no minulo, no Stillfeed, no Reelmute e no Fluid Friction, o FeedOff e o StillTabs não têm nada para comprar, e o Nope é totalmente grátis no Safari. ([preço e alternativas grátis](https://minulo.app/pt/is-sociallite-free.html?ref=github-arsb-faq))
+
+### Como parar de rolar o TikTok à noite no iPhone?
+O Horário de dormir (Sleep hours) do TikTok só silencia as notificações. O Repouso do Tempo de Uso com Bloquear ao Repousar e um código bloqueia o app inteiro, mensagens incluídas. No minulo, o TikTok abre com o Para você oculto de graça e as mensagens continuam, bloquear o app oficial do TikTok na mão é grátis por até 2 horas, e o Modo sono (Pro) bloqueia toda noite, da hora de dormir até a hora de acordar. ([como fazer](https://minulo.app/pt/stop-scrolling-tiktok-at-night.html?ref=github-arsb-faq))
+
+### Tem um jeito grátis de bloquear os Shorts do YouTube no iPhone e manter os vídeos normais?
+O jeito oficial do YouTube é colocar o Limite do Feed dos Shorts em 0 minuto, que não custa nada, mas uma conta de adulto pode dispensar o limite e os Shorts continuam em Inscrições e nos links que mandam para você. No minulo, ative Ocultar a seção de Shorts e Ocultar a aba Shorts: os vídeos normais, a busca e as inscrições continuam, e ocultar é grátis. O Stillfeed também oculta os Shorts de graça, e o Nope e o ShortformBlock fazem isso de graça no Safari. ([jeitos grátis](https://minulo.app/pt/block-youtube-shorts.html?ref=github-arsb-faq))
+
+### Como ver um Reel que um amigo mandou por DM sem ser puxado para os Reels?
+No app do Instagram, um Reel aberto pelo chat toca no visualizador de Reels, e o feed continua dali com uma deslizada; o Instagram não tem ajuste que oculte a aba de Reels para contas de adultos. No minulo, o Reel enviado por DM pausa antes de o feed de Reels começar, Abrir por 5 min libera cinco minutos para assistir, e depois o bloqueio volta sozinho; ocultar os Reels é grátis. O NoReels diz que os vídeos que mandam para você continuam tocando, e o LockedIn tem um ajuste para a reprodução de vídeos nas DMs. ([como fazer](https://minulo.app/pt/instagram-reels-sent-in-dms.html?ref=github-arsb-faq))
+
 
 ## Dados
 A comparação acima em CSV (uma linha por app; como funciona, redes, preço, se as DMs continuam funcionando, número de avaliações nos EUA e a data da conferência): [data/ios-reels-shorts-blockers.csv](data/ios-reels-shorts-blockers.csv). O CSV está em inglês. As avaliações são um retrato do dia e mudam todo dia; correções são bem-vindas.

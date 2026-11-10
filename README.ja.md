@@ -38,6 +38,7 @@
 - [答え](#answers)
 - [解説記事](#guides)
 - [英語以外の解説記事](#guides-other-languages)
+- [よく聞かれる10の質問](#common-questions)
 - [データ（CSV）](#data)
 
 
@@ -489,6 +490,41 @@ minulo の開発者が書いたもので、どれも最初にアプリなしで�
 - [Cómo dejar de ver Reels y Shorts por la noche en el iPhone](https://minulo.substack.com/p/como-dejar-de-ver-reels-y-shorts)
 - [Como parar de ver Reels e Shorts à noite no iPhone](https://minulo.substack.com/p/como-parar-de-ver-reels-e-shorts)
 - [Usar Instagram solo para mensajes en el iPhone: qué funciona y qué no (2026)](https://minulo.substack.com/p/usar-instagram-solo-para-mensajes)
+
+
+<a id="common-questions"></a>
+## よく聞かれる10の質問
+iPhone のショート・リール・DM についてよく聞かれる10の質問です。どれも先に公式の設定でできること・できないことを書いています。minulo はこの一覧の管理者が作っているアプリで、ほかのアプリは上の一覧に書いたとおりです。
+
+### iPhone で YouTube のショートはオフにできる？
+できません。大人のアカウントでショートを切るスイッチはなく、できるのはショート フィードの上限を0分にする（大人は閉じられます）、［ショート動画の表示を減らす］を選ぶ、再生履歴をオフにする、くらいです。iPhone のスクリーンタイムは YouTube アプリごと止めます。minulo で［ショートの棚を非表示］と［下のショートタブを非表示］をオンにすると、ショートは消えてふつうの動画・検索・登録チャンネルは残り、消すのは無料です（公式の YouTube アプリは変わりません）。Nope は Safari の youtube.com で同じことをし、Stillfeed、Reelmute、noShorts も自分のアプリの中でショートのない YouTube を開けます。（[できること](https://minulo.app/can-you-turn-off-youtube-shorts.html?ref=github-arsb-faq)）
+
+### YouTube ホームのショートの棚を × で消すと何日消える？
+報道では約30日です（YouTube の「Shelf will be hidden for 30 days」という表示が伝えられています）。YouTube のヘルプには × のことも期間も書かれておらず、× が出ないアカウントもあります。棚を隠しても、ショートのタブ・検索・登録チャンネル・チャンネルのページには残ります。minulo の［ショートの棚を非表示］と［下のショートタブを非表示］は、設定を変えるまで無料で隠したままです（minulo の中だけ）。（[何日消えるか](https://minulo.app/can-you-turn-off-youtube-shorts.html?ref=github-arsb-faq)）
+
+### インスタのアプリを消して Safari で使うと、DM とリールはどうなる？
+instagram.com でも DM は使えますが、リールと発見もそのまま残り、アプリの通知は届かなくなります。Safari の中で消すには Nope（無料）や ScrollGuard のような Safari 機能拡張が要ります。minulo ならリール・発見・おすすめ投稿を消すのは無料で、［DM以外のタブ］にすると DM だけが残り、公式アプリをスクリーンタイムで止めるのも1回2時間まで無料です。（[インスタを Safari で](https://minulo.app/instagram-in-safari-instead-of-app.html?ref=github-arsb-faq)）
+
+### インスタを開いてもフィードを見ずに DM へ直接行く方法
+インスタ自体に、アプリを DM の画面で開く設定はありません。メッセージの通知をタップすればそのチャットが開きますが、フィードとリールはタップ1回の場所に残ります。minulo の［DM以外のタブ］は無料で、DM（グループ DM も）とお知らせのタブだけが残ります。Fluid Friction の DMs Only と LoomWeb の「Limit to DMs only」も無料、Konvo は受信箱から開きますが有料のサブスクリプションが必要で、UNDOOMED、Stillfeed、Reelmute、Awhile、Intent ではメッセージだけの表示は有料です。（[やり方](https://minulo.app/instagram-dms-only.html?ref=github-arsb-faq)）
+
+### インスタの DM をアプリを開かずに使う方法
+パソコンのブラウザで instagram.com を開けば DM は使えますが、リールと発見のタブもすぐ横にあります。minulo の Mac アプリを入れると、Safari と Chrome の instagram.com でリールと発見のタブが消え、DM はそのまま使えます。iPhone では minulo の［DM以外のタブ］（無料）で、DM とお知らせのタブだけのインスタを開けます。（[やり方](https://minulo.app/instagram-dms-on-computer.html?ref=github-arsb-faq)）
+
+### 休止時間でインスタだけ止めて LINE は使えるようにする方法
+設定 > スクリーンタイム > 常に許可 に LINE を入れ、インスタは入れずに［休止時間中にブロック］をオンにします。この方法では、インスタの DM もリールと一緒に止まります。minulo なら公式のインスタアプリだけをスクリーンタイムで止められ（1回2時間まで無料。毎晩自動で止めるスリープモードは Pro）、LINE はそのまま使えて、minulo の中ではインスタの DM も使えます。Opal や Curfew のようなアプリごと止めるアプリも時間割でインスタを止めますが、DM も止まります。（[やり方](https://minulo.app/downtime-block-instagram-keep-line.html?ref=github-arsb-faq)）
+
+### SocialLite は無料？
+新しく使う人には無料ではありません。ダウンロードは無料ですが、FAQ によると新規登録には有料のサブスクリプションが必要で、誰でも使える無料プランはありません。料金ページでは米国で月9.99ドルか年29.99ドルで、App Store には月12.99ドルのファミリープランも載っています（2026-11-10 確認）。minulo、Stillfeed、Reelmute、Fluid Friction はリールとショートを無料で消せ、FeedOff と StillTabs には買うものがなく、Nope は Safari の中で完全に無料です。（[料金と無料の代わり](https://minulo.app/is-sociallite-free.html?ref=github-arsb-faq)）
+
+### 夜に TikTok を見続けてしまうのを止める方法（iPhone）
+TikTok の［Sleep hours］は通知を止めるだけです。スクリーンタイムの休止時間でパスコードをかけてブロックすればアプリごと止まりますが、メッセージも使えなくなります。minulo で TikTok を開けば「おすすめ」を無料で消せるのでメッセージだけ使え、公式の TikTok アプリを手動で止めるのは1回2時間まで無料、毎晩寝る時刻から起きる時刻まで自動で止めるスリープモードは Pro です。（[やり方](https://minulo.app/stop-scrolling-tiktok-at-night.html?ref=github-arsb-faq)）
+
+### iPhone で YouTube のショートを無料で消して、ふつうの動画は見る方法
+YouTube の公式の方法はショート フィードの上限を0分にすることで、無料ですが、大人のアカウントでは閉じて見続けられ、登録チャンネルと送られたリンクのショートは残ります。minulo の中で YouTube を開き［ショートの棚を非表示］と［下のショートタブを非表示］をオンにすると、ふつうの動画・検索・登録チャンネルはそのままで、消すのは無料です。Stillfeed もショートを無料で消せ、Nope と ShortformBlock は Safari の中で無料で消します。（[やり方](https://minulo.app/block-youtube-shorts.html?ref=github-arsb-faq)）
+
+### DM で届いたリールを、リールのフィードにはまらずに見る方法
+インスタのアプリでチャットからリールを開くとリールの画面で再生され、1回スワイプすればそのままフィードが続きます。大人のアカウントでリールのタブを消す設定はありません。minulo なら DM で届いたリールはリールのフィードが始まる前で止まり、「5分だけ開く」を押すと5分間だけ見られ、その後は自動でブロックに戻ります。リールを消すのは無料です。NoReels は送られてきた動画は再生できると書いており、LockedIn には DM の動画再生のスイッチがあります。（[やり方](https://minulo.app/instagram-reels-sent-in-dms.html?ref=github-arsb-faq)）
 
 
 <a id="data"></a>
