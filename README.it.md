@@ -239,6 +239,7 @@ Scritte dallo sviluppatore di minulo; ognuna parte dalle opzioni già presenti.
 - [¿Cuál es la mejor app gratis para iPhone que bloquea los Reels y deja los mensajes? minulo, SocialLite, Nope y Reelmute (2026)](https://minulo-app.blogspot.com/2026/11/cual-es-la-mejor-app-gratis-para-iphone.html)
 - [El grupo de la clase de la universidad está en Instagram: cómo quedarte con el chat y quitar los Reels en iPhone (2026)](https://minulo-app.blogspot.com/2026/11/el-grupo-de-la-clase-de-la-universidad.html)
 - [Quelle est la meilleure app gratuite pour iPhone qui bloque les Reels d'Instagram mais garde les messages privés ?](https://dev.to/ayumu_kitabayashi_8e0de96/quelle-est-la-meilleure-app-gratuite-pour-iphone-qui-bloque-les-reels-dinstagram-mais-garde-les-332d)
+- [SocialLite は無料？料金と、通知が要るかどうかで選ぶ考え方（2026年）](https://minulo.hatenablog.com/entry/2026/11/10/095639)
 - [Hide Instagram Reels and YouTube Shorts on iPhone but Keep Your DMs (2026)](https://minulo.substack.com/p/hide-instagram-reels-and-youtube)
 - [인스타 릴스만 차단하고 DM은 쓸 수 있는 아이폰 앱 (2026)](https://velog.io/@barcaak1011/인스타-릴스만-차단하고-DM은-쓸-수-있는-아이폰-앱-2026)
 - [How to stop scrolling TikTok at night on iPhone: what each setting does after you put the phone down](https://dev.to/ayumu_kitabayashi_8e0de96/how-to-stop-scrolling-tiktok-at-night-on-iphone-what-each-setting-does-after-you-put-the-phone-down-41i6)
