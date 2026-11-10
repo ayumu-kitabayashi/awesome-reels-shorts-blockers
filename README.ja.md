@@ -3,16 +3,16 @@
 
 **インスタのリール、YouTubeショート、TikTok のおすすめ**だけを消して、DM・グループチャット・検索・フォロー中のアカウントはそのまま使える iPhone のアプリと設定をまとめた一覧です。
 
-> **開示：** この一覧は、下に載っているアプリのひとつ [minulo](https://minulo.app/en/) の開発者が管理しています。内容は各アプリの米国 App Store のページか公式サイトに書かれていることだけを使っています（2026年10月に確認、評価数の最終更新は 2026-10-27）。評価数は毎日変わります。誤りの指摘や追加は issue か pull request でお願いします。
+> **開示：** この一覧は、下に載っているアプリのひとつ [minulo](https://minulo.app/en/) の開発者が管理しています。内容は各アプリの米国 App Store のページか公式サイトに書かれていることだけを使っています（2026年10月に確認、評価数の最終更新は 2026-10-27）。評価数は毎日変わります。誤りの指摘や追加は issue か pull request でお願いします。minulo もこの一覧に入っているので、[無料でできること](#whats-free)の表では、minulo も含めたすべてのアプリについて、払わずに使える範囲を各アプリの掲載ページか公式サイトに書かれているとおりに載せています。
 
 
 <a id="quick-answers"></a>
 ## よくある質問
-- **インスタのリールだけ消して DM は使える、無料の iPhone アプリは？（YouTube のショートも）** minulo、Stillfeed、Reelmute、Awhile はアプリの中でリールを無料で消せて DM もそのまま使え、minulo は TikTok を含む 10 の SNS に対応した iPhone のアプリで（Safari と Chrome で使える Mac 版もある）、Android 版はありません。Nope は完全に無料ですが Safari の中だけで、YouTube のショートの上限とスクリーンタイムは無料でも、前者は大人ならすぐ閉じられ、後者は DM ごとアプリを止めます。（[それぞれ何が無料か](https://minulo.app/free-reels-blocker.html)）
+- **インスタのリールだけ消して DM は使える、無料の iPhone アプリは？（YouTube のショートも）** minulo、Stillfeed、Reelmute、Awhile はアプリの中でリールを無料で消せて DM もそのまま使え、minulo は TikTok を含む 10 の SNS に対応した iPhone のアプリで（Safari と Chrome で使える Mac 版もある）、Android 版はありません。FeedOff と StillTabs には買うものがまったくなく（FeedOff は6つの SNS で、TikTok はアプリごと止めるだけ。StillTabs は5つの SNS で、TikTok はなし）、Fluid Friction はインスタの DMs Only も含めてブロックの機能がすべて無料です（Pro はテーマとダークモード）。Stillfeed はバージョン 1.2.6 から公式アプリのロックも無料です。Nope は完全に無料ですが Safari の中だけで、YouTube のショートの上限とスクリーンタイムは無料でも、前者は大人ならすぐ閉じられ、後者は DM ごとアプリを止めます。（[それぞれ何が無料か](https://minulo.app/free-reels-blocker.html)）
 - **iPhone で YouTube のショートだけ消して、ふつうの動画は残すには？** minulo なら、ショートの棚とショートのタブを無料で消せて、ふつうの動画・検索・登録チャンネルはそのまま使えます（minulo の中で YouTube を見るとき）。YouTube のショートフィードの上限を 0 にしても、大人のアカウントなら閉じられ、登録チャンネルと送られたリンクのショートは残ります。Stillfeed、Reelmute、noShorts もアプリの中でショートのない YouTube を開け、Nope は同じことを Safari でできます。（[やり方](https://minulo.app/block-youtube-shorts.html)）
-- **インスタを DM だけで使う方法は？（iPhone）** インスタ自体には DM だけにするモードがなく、iPhone のスクリーンタイムは DM ごとアプリ全体を止めます。minulo の［DM以外のタブ］は無料で、DM（グループ DM も）とお知らせのタブだけが残り、UNDOOMED、Stillfeed、Reelmute ではメッセージだけの表示は有料です。（[やり方](https://minulo.app/instagram-dms-only.html)・[DM だけにできる無料アプリは？](https://minulo.app/free-instagram-dms-only-app.html)）
-- **SocialLite の代わりになるアプリは？（iPhone）** minulo、UNDOOMED、Awhile、LoomWeb はアプリの中でリールとショートを消して SNS を開き DM も使え（ScrollGuard と Nope は Safari 機能拡張で同じことをします）、minulo は SocialLite と同じくスクリーンタイムで公式アプリも止められる、TikTok を含む 10 の SNS に対応した iPhone のアプリで（Safari と Chrome で使える Mac 版もある）、Android 版はありません。SocialLite は評価が 16,883件・★4.7（米国の App Store、2026-11-04 確認）と多く、インスタと Snapchat の通知も届き、料金は Pro が月 $6.99〜17.99・年 $19.99〜47.90、Family が月 $12.99 です。（[比較](https://minulo.app/sociallite-alternatives.html)）
-- **SocialLite は無料？** 無料でダウンロードでき、アプリ内課金があります。Pro は表示されるプランによって月6.99〜17.99ドルか年19.99〜47.90ドル、ファミリープランは月12.99ドルです（米国の App Store、2026-10-26 確認）。minulo、Stillfeed、Reelmute はリールとショートを無料で消せます。Nope は Safari の中で完全に無料です。（[料金と無料の代わり](https://minulo.app/is-sociallite-free.html)）
+- **インスタを DM だけで使う方法は？（iPhone）** インスタ自体には DM だけにするモードがなく、iPhone のスクリーンタイムは DM ごとアプリ全体を止めます。minulo の［DM以外のタブ］は無料で、DM（グループ DM も）とお知らせのタブだけが残ります。Fluid Friction の DMs Only（インスタ）と LoomWeb の「Limit to DMs only」も無料で、UNDOOMED、Stillfeed、Reelmute、Awhile、Intent ではメッセージだけの表示は有料です。（[やり方](https://minulo.app/instagram-dms-only.html)・[DM だけにできる無料アプリは？](https://minulo.app/free-instagram-dms-only-app.html)）
+- **SocialLite の代わりになるアプリは？（iPhone）** minulo、UNDOOMED、Awhile、LoomWeb はアプリの中でリールとショートを消して SNS を開き DM も使え（ScrollGuard と Nope は Safari 機能拡張で同じことをします）、minulo は SocialLite と同じくスクリーンタイムで公式アプリも止められる、TikTok を含む 10 の SNS に対応した iPhone のアプリで（Safari と Chrome で使える Mac 版もある）、Android 版はありません。SocialLite は評価が 17,645件・★4.7（米国の App Store、2026-11-10 確認）と多く、インスタと Snapchat の通知も届きます。ただし新しく使う人はサブスクリプションが必要です（料金ページでは米国で月 $9.99 か年 $29.99。App Store には月 $12.99 の Family もあります）。（[比較](https://minulo.app/sociallite-alternatives.html)）
+- **SocialLite は無料？** 新しく使う人には無料ではありません。ダウンロードは無料ですが、FAQ によると新規登録には有料のサブスクリプションが必要で、誰でも使える無料プランはありません。料金ページでは米国で月9.99ドルか年29.99ドル、無料体験は条件しだいで、App Store にはほかのオファーと月12.99ドルのファミリープランも載っています（2026-11-10 確認）。minulo、Stillfeed、Reelmute、Fluid Friction はリールとショートを無料で消せ、FeedOff と StillTabs には買うものがありません。Nope は Safari の中で完全に無料です。（[料金と無料の代わり](https://minulo.app/is-sociallite-free.html)）
 - **寝る前にリールやショートを見続けるのをやめるには？（iPhone）** minulo なら、リールとショートを無料で消したうえで、公式の Instagram・YouTube・TikTok を毎晩同じ時刻に自動で止められます（スリープモード、Pro）。DM とふつうの動画はそのまま使えます。アプリを入れずにやるならスクリーンタイムの休止時間ですが、夜にアプリをまるごと止めるので DM も使えなくなります。「睡眠」集中モード・グレイスケール・寝室の外での充電も、何も止めずに助けになります。minulo で公式アプリを手動で止めるのは、1回2時間まで無料です。（[やり方](https://minulo.app/stop-doomscrolling-at-night.html)・[夜に TikTok を止める](https://minulo.app/stop-scrolling-tiktok-at-night.html)）
 - **YouTube のショートはオフにできる？** オフにするスイッチはありません。YouTube の中でできるのは、ショート フィードの上限を0分にする（大人は閉じられます）、［ショート動画の表示を減らす］を選ぶ、再生履歴をオフにする、くらいで、iPhone のスクリーンタイムは YouTube アプリごと止めます。minulo ならショートの棚とショートのタブを無料で消せて、ふつうの動画・検索・登録チャンネルは残ります（効くのは minulo の中だけ）。Nope は Safari で同じことをします。（[できること](https://minulo.app/can-you-turn-off-youtube-shorts.html)）
 - **ショートの棚の × で消すと、ずっと消えたまま？** ずっとではありません。SlashGear と GeekChamp は「30日間非表示」という表示が出ると伝えていますが、YouTube のヘルプには × のことも期間も書かれておらず、× が出ないアカウントもあります。棚を隠してもショートのタブ・検索・登録チャンネル・チャンネルのページには残ります。minulo ならショートの棚とタブを無料で消せて、設定を変えるまでそのままです（minulo の中だけ）。（[何日消えるか](https://minulo.app/youtube-hide-shorts-shelf.html)）
@@ -23,11 +23,12 @@
 - **休止時間にインスタだけ止めて、WhatsApp は使えるようにするには？（iPhone）** WhatsApp を［常に許可］に入れ、インスタはそこに入れずに［休止時間中にブロック］をオンにします（設定 > スクリーンタイム > 常に許可）。Apple によると、休止時間中に使えるのは電話・メッセージと許可したアプリだけだからです。ただしこの方法では、インスタの DM もリールと一緒に止まります。minulo なら公式のインスタアプリだけをスクリーンタイムで止められ（1回2時間まで無料）、WhatsApp はそのまま使えます。minulo の中ではリールが消えて DM は使えます。Pro のスリープモードを使えば、毎晩寝る時刻にブロックが始まり、起きる時刻に外れます。（[やり方（英語）](https://minulo.app/en/downtime-block-instagram-keep-whatsapp.html)）
 - **iPhone で Snapchat Web は使える？** Snapchat のヘルプが説明しているのはパソコンで使う方法だけです（Chrome・Edge・Safari で web.snapchat.com を開く）。iPhone の Safari で使う手順は見つかりませんでした。minulo は、Snapchat のウェブ版をアプリの中で開き、スポットライトと Discover を無料で隠したままチャットを使える iPhone アプリです。ウェブ版にもスポットライトはあり、メモリーズ、ストーリーの管理、ユーザーネームの変更、プライバシー設定はスマホのアプリでしかできません。（[詳しく（英語）](https://minulo.app/en/snapchat-web-iphone.html)）
 - **Mac 用の TikTok アプリはある？** App Store にはありません。米国の App Store で TikTok の「互換性」に載っているのは iPhone・iPad・iPod touch・Apple Vision で、Mac はありません（2026-11-04 確認）。Mac では Safari か Chrome で tiktok.com を開きます。ウェブ版にも「おすすめ」・Explore・LIVE があり、TikTok の1日の利用時間の上限もウェブに効きます。minulo には Safari と Chrome で使える Mac 版があり、iPhone では TikTok の「おすすめ」を無料で消したままメッセージを使えます。（[詳しく（英語）](https://minulo.app/en/tiktok-on-mac.html)）
-- **minulo は無料？** はい。10の SNS でリール・ショート・おすすめ投稿を消すこと、隠すものを選ぶこと、DM や投稿を読むこと、公式アプリを1回2時間まで止めることは無料で、買うものはありません。Pro（日本の App Store で月額1,480円・年額6,800円）ではスリープモード（毎日同じ就寝・起床時刻）・ハードモード・1日の上限・2時間を超えるブロックが使えます。Pro に入らなくても、隠す機能はずっと無料です。（[無料でできること](https://minulo.app/is-minulo-free.html)）
+- **minulo は無料？** 隠す機能は無料で、Pro は入りたい人だけです。10の SNS でリール・ショート・おすすめ投稿を消すこと、隠すものを選ぶこと、DM や投稿を読むこと、公式アプリを1回2時間まで止めることは無料で、買うものはありません。Pro（日本の App Store で月額1,480円・年額6,800円）ではスリープモード（毎日同じ就寝・起床時刻）・ワークモード・ハードモード・1日の上限・2時間を超えるブロックが使えます。Pro に入らなくても、隠す機能はずっと無料です。（[無料でできること](https://minulo.app/is-minulo-free.html)）
 
 
 ## 目次
 - [よくある質問](#quick-answers)
+- [各アプリで無料でできること](#whats-free)
 - [アプリなしでできる設定](#built-in-settings)
 - [リール・ショートを消した状態で SNS を開くアプリ（DMはそのまま）](#in-app-browsers)
 - [Safari 機能拡張](#safari-extensions)
@@ -38,6 +39,60 @@
 - [解説記事](#guides)
 - [英語以外の解説記事](#guides-other-languages)
 - [データ（CSV）](#data)
+
+
+<a id="whats-free"></a>
+## 各アプリで無料でできること
+お金を払わずに使える範囲を、各アプリの米国 App Store の掲載ページか公式サイトからまとめました。† のついたアプリは 2026-11-10 に確かめ直したもので、ほかは下の各アプリの欄にある日付の時点の内容です。「記載なし」は、掲載ページにも公式サイトにも、どの機能が無料か書かれていないという意味です。
+
+### SNS をアプリの中で開くアプリ
+| アプリ | 無料でできること | お金がかかること |
+|---|---|---|
+| FeedOff | すべて：6つの SNS でリール・ショート・発見・おすすめ・おすすめ投稿を隠すこと、スクリーンタイムでほかのアプリを止める Shield。サブスクリプション・アプリ内課金・広告なし † | なし |
+| StillTabs | すべて：5つの SNS で4段階のフィルタ（Off・Standard・Strict・Blackout）が全部使える。アプリ内課金・アカウント・ログインなし † | なし |
+| noShorts | すべて（掲載ページより。サブスクリプションもアプリ内課金もなし） | なし |
+| Noreel | 「無料で使え、サブスクリプションなし」（掲載ページより） | 有料の記載なし |
+| Dome | 「無料。課金の壁も広告もなし」（掲載ページより） | 有料の記載なし |
+| Close（韓国） | すべての機能 | 任意のチップ |
+| Fluid Friction | フィードのブロックと機能のすべて（インスタの DMs Only、X と LinkedIn のメッセージだけの表示も） † | Fluid Pro（月 $4.99 か年 $39.99）：テーマとダークモード |
+| minulo | 隠すのは無料（サブスク・お試し・アカウントなし、期限なし）。公式アプリのロックは2時間まで無料。Pro は任意。隠す機能は10の SNS すべてで使え、［DM以外のタブ］も無料 † | Pro（米国で月 $9.99 か年 $39.99）：スリープモード、ワークモード、ハードモード、1日の上限、2時間を超えるロック |
+| Stillfeed | 8つの SNS でリール・発見・ショートを隠すこと、フォロー中のフィード、スクリーンタイムでの公式アプリのロック（1.2.6 から）、ファミリーモード † | Pro（週 $2.99、月 $5.99、年 $44.99〜$99.99）：ストーリーズとフィードのブロック、DMs Only など |
+| Reelmute | リール・ショート・おすすめ、Reddit の動画フィード、Facebook の動画を隠すこと † | Premium（月 $2.99、年 $19.99、買い切り $44.99）：DM だけの表示、おすすめ投稿とストーリーズの非表示、元のアプリのロック |
+| Unfeed | 4つの SNS でリール・発見・おすすめ・ショートを止めること。Focus now、開く前のひと呼吸、ウィジェット | Unfeed Pro：1日の目標、スケジュール、おやすみ、公式アプリのロック、Hard Mode、DM だけ、広告とおすすめ投稿の非表示、複数アカウント |
+| Awhile | インスタのフィード・リール・発見・ストーリーズを隠すこと（1アカウント、期限なし） † | Premium（$2.99 か $14.99）：Messages Only など |
+| NoReels | リールとショートのブロック | Pro（月 $6.99 か年 $34.99）：広告・おすすめ投稿・ストーリーズの非表示、メッセージだけのモード |
+| LoomWeb | 対応するサイトすべて（インスタの「Limit to DMs only」も）。保存できる設定（Weave）は1つ † | Pro（月 $2.99、年 $19.99、買い切り $49.99）：Weave を何個でも、時間制限、ウィジェット、Hide Stories など |
+| UNDOOMED | 「多くの機能」（掲載ページより。どの機能かは書かれていない） † | Plus（月 $1.99 か年 $11.99）と Pro（月 $2.99、年 $17.99、買い切り $29.99）。公式サイトによると、ウェブ版の Messages Only は Pro |
+| Intent | 検索と時間を決めた閲覧 † | Intent Pro（月 $2.99 か年 $19.99）：Messages、Notifications、Post、Profile |
+| SocialLite | 新しく使う人はなし：FAQ によると、新規登録には有料のサブスクリプションが必要で、誰でも使える無料プランはない。無料体験は条件しだい † | サブスクリプション（料金ページでは月 $9.99 か年 $29.99。App Store にはほかのオファーと月 $12.99 の Family もある） |
+| Konvo | DM はなし：アプリで Instagram の DM を使うには有料のサブスクリプションが必要 † | サブスクリプション（週・月・年） |
+| Dull | 7日間の無料体験 | Dull Pro（月 $3.99、年 $29.99、買い切り $59.99） |
+| TheSNSisMine | 7日間の無料体験 | サブスクリプション（説明文では月 ¥200） |
+| snowscroll | なし：無料版はない | snowscroll Pro |
+| Feather | 記載なし。すべて使うにはサブスクリプションが必要 | サブスクリプション（月・6か月・年） |
+| Yava | 記載なし。機能を使うにはサブスクリプションが必要 | サブスクリプション |
+| StopScroll | 記載なし（ダウンロード無料・広告あり） | StopScroll Premium（$7.99 か $29.99、無料体験あり） |
+| Scroll Less | 記載なし † | Premium $4.99、Premium Annual $29.99、Lifetime $14.99 か $49.99 |
+| Sociano | 記載なし（「一部の機能には Sociano Pro が必要」） | Sociano Pro（週か月 $9.99、年 $19.99 か $39.99） |
+| FeedLite | 記載なし | 月 $9.99 か年 $39.99（3日間の無料体験） |
+| WallHabit | 記載なし（無料・アプリ内課金あり） | アプリ内課金 |
+| SocialRouter、LockedIn、Scrollout | ダウンロード無料。有料の機能は掲載ページに書かれていない | 記載なし |
+
+### Safari 機能拡張
+| アプリ | 無料でできること | お金がかかること |
+|---|---|---|
+| Nope | すべて（サブスクリプションもアプリ内課金もなし） | なし |
+| ShortformBlock | すべて | 任意のチップ $0.99 |
+| Still | ブロック（アカウントも購入もいらない） | 有料の記載なし |
+| Untethered | すべて。アプリ内課金の記載なし | 有料の記載なし |
+| ScrollGuard | 公式サイトによると基本のブロック。DMs only と Messages only のモードが無料かは書かれていない † | ScrollGuard Pro（$3.99、$19.99、$29.99、$59.99）：カスタムフィルタを何個でも、など |
+| Scrolless | 記載なし（ダウンロード無料） | Unlock Scrolless（1回 $4.99） |
+| Slowth | 記載なし（ダウンロード無料） | 記載なし |
+| #blockit | 7日間の無料体験 | 月 $0.99、年 $3.99、ファミリー共有つきで年 $7.99 |
+| No Shorts: Blocker for YouTube | なし | 買い切り $2.99 |
+| tubetidy | なし | 買い切り $2.99 |
+| No Reel For Instagram | なし | 買い切り $3.39 |
+| SocialFocus | なし | 購入に $4.99。任意の Pro は月 $3.99、年 $35.99、買い切り $79.99 |
 
 
 <a id="built-in-settings"></a>
@@ -54,7 +109,7 @@
 ## リール・ショートを消した状態で SNS を開くアプリ（DMはそのまま）
 各 SNS のウェブサイトをアプリの中で開き、リール・ショート・おすすめを非表示にします。スクリーンタイムで公式アプリにロックをかけ、うっかり公式アプリに戻らないようにできるものもあります。
 
-- **[SocialLite](https://apps.apple.com/us/app/id6757661674)**：SNS をアプリの中ですっきり見られる。スクリーンタイムで公式アプリを止めて SocialLite に飛ばせる（リリースノートより）。対応SNS：Instagram、YouTube、Snapchat、X、Reddit ほか（TikTok の記載なし）。料金：ダウンロード無料。Pro は月 $6.99 か $9.99、年 $19.99〜$47.90（オファーによる・米国）。DM：使える。米国 App Store の評価数：16,883（★4.7、2026-11-04 確認）。
+- **[SocialLite](https://apps.apple.com/us/app/id6757661674)**：SNS をアプリの中ですっきり見られる。スクリーンタイムで公式アプリを止めて SocialLite に飛ばせる（リリースノートより）。対応SNS：Instagram、YouTube、Reddit。TikTok、Snapchat、LinkedIn、X、Facebook はベータ（FAQ より）。料金：ダウンロード無料だが、新しく使う人はサブスクリプションが必要（FAQ によると誰でも使える無料プランはない）。料金ページでは米国で月 $9.99 か年 $29.99。App Store にはほかのオファーと月 $12.99 の Family もある（2026-11-10 確認）。無料でできること：新しく使う人はなし。DM：使える。米国 App Store の評価数：17,645（★4.7、2026-11-10 確認）。その他：インスタと Snapchat のメッセージのプッシュ通知。
 - **[UNDOOMED](https://apps.apple.com/us/app/id6751837079)**：各 SNS のモバイルサイトを専用のプライベートブラウザで開き、ページをふるいにかける。対応SNS：Instagram、Threads、Reddit、Facebook、X、YouTube、LinkedIn（TikTok と Snapchat はなし）。料金：多くの機能は無料。Plus は月 $1.99 か年 $11.99、Pro は月 $2.99、年 $17.99、買い切り $29.99（米国）。DM：使える（Messages Only モード）。米国 App Store の評価数：108。
 - **[Dull](https://apps.apple.com/us/app/id6759723829)**：各 SNS を専用ブラウザで開き、リール・ショート・おすすめ・発見タブを取り除く。対応SNS：Instagram、YouTube、Facebook、X、Reddit。料金：使うにはサブスク（Dull Pro）が必要。7日間無料のあと月 $3.99 か年 $29.99。買い切り $59.99 もある。DM：使える。米国 App Store の評価数：55。その他：1日の上限、使わない時間帯、フィルタをゆるめるときは24時間待つ。
 - **[WallHabit](https://apps.apple.com/us/app/id6751423279)**：リールとショート、またはアプリごとブロックし、解除の前にボタンを長押しさせる（リールをどう止めるかは説明文に書かれていない）。対応SNS：記載なし。料金：無料（アプリ内課金あり）。DM：記載なし。米国 App Store の評価数：35。その他：iOS 18 以降。
@@ -63,9 +118,10 @@
 - **[Sociano](https://apps.apple.com/us/app/id6760568406)**：対応する SNS を専用ブラウザで開き、リール・ショート・フィードを止める。スクリーンタイムで選んだ iPhone のアプリも止められる。対応SNS：Instagram、YouTube、X、Facebook、LinkedIn ほか。料金：ダウンロード無料。DM：使える。米国 App Store の評価数：10。その他：アプリのブロック、スケジュール、1日の上限。
 - **[snowscroll](https://apps.apple.com/us/app/id6778488660)**：各 SNS のモバイルサイトを集中用のアプリ内ブラウザで開き、フィードを隠す。スクリーンタイムを使うと、本物の Instagram アプリを開こうとしたとき snowscroll が開く。対応SNS：Instagram、YouTube、Facebook、X、TikTok、LinkedIn。料金：無料版はなく、使うにはサブスク（Pro・月ごとか年ごと）が必要。DM：使える。米国 App Store の評価数：10。その他：公式アプリにロックをかけられる。
 - **[Awhile](https://apps.apple.com/us/app/id6763551826)**：instagram.com を専用のアプリ内ブラウザで開き、選んだ部分を隠す。対応SNS：Instagram のみ。料金：フィルタは無料。Premium はアプリ内課金で $2.99 と $14.99（期間の記載なし）。DM：使える。米国 App Store の評価数：4。
-- **[Fluid Friction](https://apps.apple.com/us/app/id6782510849)**：SNS をアプリの中で開き、フィードのスクロールを重くする。リール・ショート・ストーリーズ・発見タブを隠すこともできる。対応SNS：Instagram、TikTok、YouTube、Reddit、X、Snapchat、Facebook、LinkedIn。料金：ダウンロード無料。DM：使える（メッセージはそのまま動く）。米国 App Store の評価数：9。その他：ほかのアプリにもスクリーンタイムでロックをかけられる。
-- **[minulo](https://apps.apple.com/us/app/id6809352229)**：各 SNS の公式サイトをアプリの中で開き、選んだ部分を隠す。スクリーンタイムで公式アプリにロックをかけ、minulo のほうへ案内することもできる。対応SNS：Instagram、YouTube、TikTok、X、Threads、Facebook、Pinterest、Reddit、LinkedIn、Snapchat（10）。料金：隠すのは無料。公式アプリのロックも1回2時間までなら無料。Pro（米国で月 $9.99 か年 $39.99）でスリープモード（毎日同じ就寝・起床時刻）、ハードモード、1日の上限、2時間を超えるブロックが使える。DM：使える。米国 App Store の評価数：1（★4.0、2026-11-04 確認）。その他：iPhone と Mac。Android 版はなし。この一覧の作者が作っているアプリ。
-- **[Stillfeed](https://apps.apple.com/us/app/id6792934511)**：8つの SNS を内蔵ブラウザで開き、リール・発見タブ・ショートを取り除く。Instagram はフォロー中のフィードで開く。対応SNS：Instagram、YouTube、X、Reddit、Snapchat、LinkedIn、Facebook、TikTok。料金：ブロックとフォロー中のフィードは無料。Pro（週 $2.99・月 $5.99・年 $44.99）でストーリーズやフィードのブロック、DM だけの表示などが使える。DM：使える。米国 App Store の評価数：0（2026-11-05 確認）。その他：ブロックした数の週ごとの記録。
+- **[Fluid Friction](https://apps.apple.com/us/app/id6782510849)**：SNS をアプリの中で開き、フィードのスクロールを重くする。リール・ショート・ストーリーズ・発見タブを隠すこともできる。対応SNS：Instagram、TikTok、YouTube、Reddit、X、Snapchat、Facebook、LinkedIn。料金：フィードのブロックと機能はすべて無料。Fluid Pro（月 $4.99 か年 $39.99、7日間無料）で増えるのはテーマとダークモードだけ。無料でできること：ブロックのすべて（インスタの DMs Only、X と LinkedIn のメッセージだけの表示も）。DM：使える（インスタの DMs Only は無料。バージョン 1.8 では TikTok がメッセージの画面から開く）。米国 App Store の評価数：26（★4.7、2026-11-10 確認）。その他：ほかのアプリにもスクリーンタイムでロックをかけられる。インスタのメッセージと通知は Fluid Friction から届く（バージョン 1.7）。iPhone、iPad、Apple Watch、Android。
+- **[minulo](https://apps.apple.com/us/app/id6809352229)**：各 SNS の公式サイトをアプリの中で開き、選んだ部分を隠す。スクリーンタイムで公式アプリにロックをかけ、minulo のほうへ案内することもできる。対応SNS：Instagram、YouTube、TikTok、X、Threads、Facebook、Pinterest、Reddit、LinkedIn、Snapchat（10）。料金：Pro（米国で月 $9.99 か年 $39.99）でスリープモード（毎日同じ就寝・起床時刻）、ワークモード、ハードモード、1日の上限、2時間を超えるブロックが使える。無料でできること：隠すのは無料（サブスク・お試し・アカウントなし、期限なし）。公式アプリのロックは2時間まで無料。Pro は任意。DM：使える（［DM以外のタブ］は無料）。米国 App Store の評価数：2（★4.5、2026-11-10 確認）。その他：iPhone と Mac。Android 版はなし。この一覧の作者が作っているアプリ。
+- **[StillTabs](https://apps.apple.com/us/app/id6761367777)**：各サイトをアプリ内のブラウザで開き、CSS と JavaScript を使って端末の中でページをふるいにかける。強さは4段階（Off・Standard・Strict・Blackout）で、Blackout ではフィード・ストーリーズ・発見が消え、検索・プロフィール・メッセージは残る。対応SNS：YouTube、Instagram、Facebook、X（ベータ）、Reddit（ベータ）（5。TikTok はなし）。料金：無料。アプリ内課金・アカウント・ログインなし（2026-11-10 確認）。無料でできること：すべて。DM：使える（公式サイトより）。米国 App Store の評価数：表示されるほどの数がない（2026-11-10 確認）。その他：バージョン 1.3（2026-10-15）。スクリーンタイムで公式アプリをロックすることは書かれていない。iPhone のみ。
+- **[Stillfeed](https://apps.apple.com/us/app/id6792934511)**：8つの SNS を内蔵ブラウザで開き、リール・発見タブ・ショートを取り除く。Instagram はフォロー中のフィードで開く。バージョン 1.2.6（2026-11-09）からは、スクリーンタイムで公式アプリを無料でロックすることもできる。対応SNS：Instagram、YouTube、X、Reddit、Snapchat、LinkedIn、Facebook、TikTok（8。Facebook は 1.2.4 で追加）。料金：Pro は週 $2.99・月 $5.99・年 $44.99〜$99.99。無料でできること：リール・発見タブ・ショートのブロック、フォロー中のフィード、公式アプリのロック、ファミリーモード。Pro でストーリーズやフィードのブロック、DM だけの表示などが使える。DM：使える。米国 App Store の評価数：1（★5.0、2026-11-10 確認）。その他：ブロックした数の週ごとの記録。10代の子のスマホ向けのファミリーモード。iPhone、iPad、Mac。
 - **[Unfeed](https://apps.apple.com/us/app/id6814847686)**（「Unfeed: Block Reels & Shorts」、Greenbird Company Limited）：Instagram・TikTok・YouTube・X をフィードなしで開く。リール・発見・おすすめ・ショートを止め、メッセージ・検索・プロフィール・投稿は使える。対応SNS：Instagram、TikTok、YouTube、X。料金：ブロックは無料。Unfeed Pro（月額か年額。年額は7日間無料）で、1日の目標に達したら全アプリを閉じる機能、スケジュール、おやすみ、スクリーンタイムで公式アプリをロック、Hard Mode、DM だけ、広告とおすすめ投稿の非表示、複数アカウントが使える。DM：使える。米国 App Store の評価数：0（2026-11-05 確認）。その他：Focus now、開く前のひと呼吸、ウィジェットは無料。「Unfeed: Scroll Blocker」（id6788027178）は別のアプリで、スクリーンタイムでアプリごとブロックするだけ。
 - **[Konvo](https://apps.apple.com/us/app/id6794756261)**：Instagram を開くといきなり受信箱が出て、フィード・リール・発見タブは読み込まれない。対応SNS：Instagram（メッセージのみ）。料金：アプリで Instagram の DM を使うには有料のサブスクリプションが必要。DM：使える。米国 App Store の評価数：1。その他：Instagram アプリにロックをかけられる。1日2回の短いパス。
 - **[Scrollout](https://apps.apple.com/us/app/id6802054477)**：対応する SNS でリール・ショート・おすすめ・広告を隠す。対応SNS：YouTube ほか（全一覧の記載なし）。料金：ダウンロード無料。DM：使える。米国 App Store の評価数：0。
@@ -78,7 +134,7 @@
 - **[TheSNSisMine](https://apps.apple.com/us/app/id6765809922)**：Instagram、YouTube、Facebook、X のウェブ版を見るブラウザアプリで、おすすめ投稿・リール・ショートを隠し、フィードをフォローしている人だけにする。対応SNS：Instagram、YouTube、Facebook、X。料金：サブスクリプションが必要（説明文では月 ¥200、7日間の無料体験）。DM：記載なし。米国 App Store の評価数：0。
 - **[Feather](https://apps.apple.com/us/app/id6787193472)**：SNS をアプリ経由で開き、リール・ショート・おすすめ・発見タブを取り除く。対応SNS：Instagram、YouTube、Snapchat、TikTok、Facebook、LinkedIn、X、Threads、Reddit。料金：すべて使うにはサブスクリプションが必要（月・6か月・年）。DM：使える（メッセージ・プロフィール・検索は残る）。米国 App Store の評価数：8。その他：子ども5人までの保護者向け設定。
 - **[Yava](https://apps.apple.com/us/app/id6800918860)**：リール、ショート、Facebook のリールと Watch、発見のページ、自動再生を止め、友だちとのメッセージは使える（止め方は説明文に書かれていない）。対応SNS：Instagram、YouTube、Facebook ほか。料金：機能を使うにはサブスクリプションが必要。DM：使える。米国 App Store の評価数：8。
-- **[FeedOff](https://apps.apple.com/us/app/id6815511380)**：各サイトをアプリ内のブラウザで開き、リール・ショート・発見・おすすめ・おすすめ投稿・広告・自動再生を隠す。Shield ではスクリーンタイムで TikTok を含む公式アプリをブロックできる。対応SNS：Instagram、YouTube、X、Reddit、LinkedIn（TikTok は Shield でアプリごとブロックするだけ）。料金：無料。サブスクリプション・アプリ内課金・広告なし。DM：使える（Instagram、X、LinkedIn）。米国 App Store の評価数：6（★4.3、2026-11-05 確認）。その他：YouTube は登録チャンネルで開く。説明文によると、ブロックしたアプリの通知は届く。
+- **[FeedOff](https://apps.apple.com/us/app/id6815511380)**：各サイトをアプリ内のブラウザで開き、リール・ショート・発見・おすすめ・おすすめ投稿・広告・自動再生を隠す。Shield ではスクリーンタイムで TikTok を含む公式アプリをブロックできる。対応SNS：Instagram、YouTube、X、Reddit、LinkedIn、Facebook（6。TikTok は Shield でアプリごとブロックするだけ）。料金：無料。サブスクリプション・アプリ内課金・広告なし（2026-11-10 確認）。無料でできること：すべて。DM：使える（メッセージだけにする別のモードは書かれていない）。米国 App Store の評価数：6（★4.3、2026-11-10 確認）。その他：YouTube は登録チャンネルで開く。説明文によると、ブロックしたアプリの通知は届く。
 - **[Close](https://apps.apple.com/kr/app/id6817441004)**（韓国）：リールと発見タブのない Instagram。DM、ストーリーズ、友だちの投稿に絞ったフィードは残り、スクリーンタイムで本物の Instagram アプリにロックをかけられる。対応SNS：Instagram。料金：すべての機能が無料。任意のチップあり。DM：使える。App Store の評価数：米国のストアにはなし。韓国で3。
 
 <a id="safari-extensions"></a>
@@ -109,10 +165,10 @@ Safari で instagram.com や youtube.com を見ているときにフィードを
 
 <a id="how-to-choose"></a>
 ## 選び方
-- **インスタは DM とグループチャットにしか使わない？** DM だけにするモード（Messages Only など）があるものを選ぶ（UNDOOMED、LoomWeb、Konvo、minulo、Reelmute、Stillfeed）。
+- **インスタは DM とグループチャットにしか使わない？** DM だけにするモード（Messages Only など）があるものを選ぶ。minulo、Fluid Friction、LoomWeb では無料、UNDOOMED、Stillfeed、Reelmute、Awhile、NoReels、Intent、Konvo では有料で、Sociano と ScrollGuard は書かれていません。
 - **TikTok や Snapchat も使う？** 対応SNS の欄を見てください。全部のアプリが対応しているわけではありません。
-- **くせで公式アプリを開いてしまう？** スクリーンタイムで公式アプリにロックをかけられるものを選ぶ（SocialLite、minulo、noShorts、snowscroll、Reelmute、Konvo）。
-- **全部無料がいい？** Nope、ShortformBlock、Still は無料の Safari 機能拡張です。noShorts、Dome、Noreel、Close は無料とうたっています。アプリ内ブラウザ型でも、minulo・Stillfeed・Reelmute・Awhile は基本の非表示が無料です。それぞれ何が無料か：[Free apps to block Reels and Shorts on iPhone](https://minulo.app/en/free-reels-blocker.html)（英語）。
+- **くせで公式アプリを開いてしまう？** スクリーンタイムで公式アプリにロックをかけられるものを選ぶ（SocialLite、minulo、Stillfeed、noShorts、snowscroll、Reelmute、Konvo）。
+- **全部無料がいい？** Nope、ShortformBlock、Still は無料の Safari 機能拡張です。noShorts、FeedOff、StillTabs、Dome、Noreel、Close は無料とうたっています。Fluid Friction はブロックの機能がすべて無料です。アプリ内ブラウザ型でも、minulo・Stillfeed・Reelmute・Unfeed・Awhile・NoReels は基本の非表示が無料です。アプリごとの内容は[無料でできること](#whats-free)の表にあります。それぞれ何が無料か：[Free apps to block Reels and Shorts on iPhone](https://minulo.app/en/free-reels-blocker.html)（英語）。
 
 くわしく：[比較表](https://minulo.app/en/alternatives.html)（英語）・[Can you remove Reels from the Instagram app?](https://minulo.app/en/remove-reels-from-instagram-app.html)（英語）
 
@@ -124,7 +180,7 @@ Safari で instagram.com や youtube.com を見ているときにフィードを
 iPhone でリールなしのインスタを使う方法は2通りあり、どちらにも引きかえがあります。
 
 - **公式アプリの中で止める（Scroll Less）。** Scroll Less の App Store ページには、本物の Instagram と YouTube のアプリの中でリールとショートを止めると書かれています。公式サイトによると、止まるのはブロッカー（Blocker）がオンのあいだです。iOS が Scroll Less のブロードキャストを始めるか聞き、リールとショートの検出は iPhone の中で行われ、ブロードキャストはコントロールセンターから止められます。公式アプリはそのまま使えます。そのかわり、ブロードキャストはつけたままにしておく必要があり、ブロッカーが効くのは Instagram と YouTube のアプリだけです（TikTok は App Store ページにも公式サイトにも出てきません）。どの機能が無料かも、App Store ページと公式サイトには書かれていません。Scroll Less は私たちでは試していません。
-- **別のアプリでインスタを開く（minulo、UNDOOMED、SocialLite、Stillfeed、FeedOff など[上のアプリ](#in-app-browsers)）。** 各 SNS のウェブサイトをアプリの中で開き、リールを消して表示します。ブロードキャストは要らず、Instagram と YouTube 以外の SNS に対応しているものも多いです。そのかわり、画面は公式アプリと少し違い、ウェブ版にない機能は使えません。スクリーンタイムで公式アプリもロックする場合、ロック中はそのアプリの通知が届きません。
+- **別のアプリでインスタを開く（minulo、UNDOOMED、SocialLite、Stillfeed、FeedOff、StillTabs など[上のアプリ](#in-app-browsers)）。** 各 SNS のウェブサイトをアプリの中で開き、リールを消して表示します。ブロードキャストは要らず、Instagram と YouTube 以外の SNS に対応しているものも多いです。そのかわり、画面は公式アプリと少し違い、ウェブ版にない機能は使えません。スクリーンタイムで公式アプリもロックする場合、ロック中はそのアプリの通知が届きません。
 - **minulo の場合：** リール・ショート・発見・おすすめ投稿を消すのは無料で、サブスクも時間の制限もありません。DM は使え、DM だけにする表示（［DM以外のタブ］）はインスタと TikTok で無料です。10の SNS に対応し、スクリーンタイムで公式アプリを止めるのも1回2時間まで無料です。ストーリーズの投稿、ボイスメッセージ、通話は使えず、Android 版はありません。minulo はこのリストの作者が作っています。
 - **アプリを入れない場合：** インスタにはリールを消す設定がなく、スクリーンタイムはアプリごと止めるので DM も止まります。
 
