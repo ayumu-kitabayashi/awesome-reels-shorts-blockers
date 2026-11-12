@@ -18,7 +18,7 @@ No. We could not find any setting in Instagram's help that turns off Reels for a
 ## Limits
 - minulo can't change the official Instagram app, so Reels are hidden only inside minulo.
 - Locking the official app is free for up to 2 hours per block. A nightly schedule is part of Pro.
-- While minulo locks an official app, its notifications don't arrive.
+- While minulo locks an official app, its notifications don't arrive. Since version 1.0.19, Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Work mode or after the daily limit.
 - There is no Android version.
 
 Source: https://minulo.app/en/turn-off-instagram-reels.html (checked 2026-11-03)

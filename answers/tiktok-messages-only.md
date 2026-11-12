@@ -15,7 +15,7 @@ TikTok has no messages-only setting; the app opens straight onto For You. minulo
 ## Limits
 - minulo can't change the official TikTok app, so For You is hidden only inside minulo.
 - Locking the official app is free for up to 2 hours per block. A nightly schedule is part of Pro.
-- While minulo locks an official app, its notifications don't arrive, and minulo sends none of its own.
+- While minulo locks an official app, its notifications don't arrive, and minulo sends none of its own. Since version 1.0.19, Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Work mode or after the daily limit.
 - There is no Android version.
 
 Source: https://minulo.app/en/tiktok-dms-only.html (checked 2026-11-03)

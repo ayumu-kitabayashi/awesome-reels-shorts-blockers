@@ -13,7 +13,7 @@ Non : Instagram n'a annoncé aucun réglage qui retire ou masque l'onglet Reels,
 
 ## Limites
 - L'onglet Reels ne disparaît que dans minulo. Si vous ouvrez l'app officielle Instagram directement, il est toujours là.
-- Tant que minulo verrouille l'app officielle, ses notifications n'arrivent pas, et minulo n'en envoie aucune.
+- Tant que minulo verrouille l'app officielle, ses notifications n'arrivent pas, et minulo n'en envoie aucune. Depuis la version 1.0.19, les abonnés Pro peuvent activer les notifications de DM (bêta) pour continuer à recevoir les notifications des DM Instagram pendant qu'Instagram est bloqué, sauf en Mode sommeil, pendant les Heures de travail ou une fois la Limite quotidienne atteinte.
 - minulo existe sur iPhone et sur Mac (Safari et Chrome), sans version Android ni iPad.
 
 Source : https://minulo.app/fr/instagram-reels-tab-remove.html (vérifié le 2026-11-04)

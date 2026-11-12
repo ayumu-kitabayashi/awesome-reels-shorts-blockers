@@ -18,7 +18,7 @@ This question is about price, so here is what SocialLite charges on the US App S
 ## Limits
 - minulo can't change the official apps, so feeds are hidden only inside minulo.
 - Locking the official apps is free for up to 2 hours per block. A nightly schedule is part of Pro.
-- While minulo locks an official app, its notifications don't arrive, and minulo has no push notifications of its own.
+- While minulo locks an official app, its notifications don't arrive, and minulo has no push notifications of its own. Since version 1.0.19, Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Work mode or after the daily limit.
 - There is no Android version.
 
 Source: https://minulo.app/en/is-sociallite-free.html (checked 2026-11-03)

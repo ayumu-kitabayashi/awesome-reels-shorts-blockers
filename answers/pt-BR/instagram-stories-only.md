@@ -12,7 +12,7 @@ Não encontramos na ajuda do Instagram um modo só de Stories, e as abas Reels e
 
 ## Limites
 - No minulo dá para ver Stories, mas não para postar. Mensagens de voz e ligações também não funcionam, porque o site do Instagram não tem esses recursos.
-- Enquanto o minulo bloqueia o app oficial, as notificações dele não chegam, e o minulo não envia nenhuma.
+- Enquanto o minulo bloqueia o app oficial, as notificações dele não chegam, e o minulo não envia nenhuma. Desde a versão 1.0.19, quem tem o Pro pode ativar as notificações de DM (beta), e aí as notificações das DMs do Instagram continuam chegando enquanto o Instagram está bloqueado, exceto no Modo sono, no Horário de trabalho ou depois de atingir o Limite diário.
 - O app oficial do Instagram não muda. O minulo é para iPhone e Mac (Safari e Chrome), não para Android.
 
 Fonte: https://minulo.app/pt/instagram-stories-only.html (verificado em 2026-11-04)

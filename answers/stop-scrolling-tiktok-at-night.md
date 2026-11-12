@@ -15,7 +15,7 @@ TikTok's own night setting only mutes notifications, so the real stop is a lock:
 
 ## Limits
 - minulo can't change the official TikTok app.
-- While minulo locks an official app, its notifications don't arrive, and minulo sends none of its own.
+- While minulo locks an official app, its notifications don't arrive, and minulo sends none of its own. Since version 1.0.19, Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Work mode or after the daily limit.
 - There is no Android version.
 
 Source: https://minulo.app/en/stop-scrolling-tiktok-at-night.html (checked 2026-11-03)

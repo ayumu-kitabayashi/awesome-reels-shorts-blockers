@@ -13,7 +13,7 @@ Nein: Instagram hat keine Einstellung angekündigt, die den Reels-Tab entfernt o
 
 ## Grenzen
 - Der Reels-Tab verschwindet nur in minulo. Öffnest du die offizielle Instagram-App direkt, ist er noch da.
-- Solange minulo die offizielle App sperrt, kommen ihre Mitteilungen nicht an, und minulo schickt keine.
+- Solange minulo die offizielle App sperrt, kommen ihre Mitteilungen nicht an, und minulo schickt keine. Seit Version 1.0.19 können Pro-Nutzer DM-Benachrichtigungen (Beta) einschalten, dann kommen Benachrichtigungen zu Instagram-DMs auch an, während Instagram gesperrt ist, außer im Schlafmodus, während der „Arbeitszeit“ oder nach Erreichen des Tageslimits.
 - minulo gibt es für das iPhone und den Mac (Safari und Chrome), ohne Android- oder iPad-Version.
 
 Quelle: https://minulo.app/de/instagram-reels-tab-remove.html (geprüft am 2026-11-04)

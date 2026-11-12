@@ -13,7 +13,7 @@ Instagram no tiene un modo «solo mensajes», y un límite de Tiempo de uso tamb
 
 ## Límites
 - Solo cambia el Instagram de minulo; la app oficial sigue igual.
-- Las notificaciones vienen de la app oficial de Instagram. Si no la bloqueas, llegan como siempre y respondes en minulo. Mientras está bloqueada, tampoco llegan sus notificaciones (así funciona iOS).
+- Las notificaciones vienen de la app oficial de Instagram. Si no la bloqueas, llegan como siempre y respondes en minulo. Mientras está bloqueada, tampoco llegan sus notificaciones (así funciona iOS). Desde la versión 1.0.19, los usuarios de Pro pueden activar las notificaciones de DM (beta) para que las notificaciones de los DM de Instagram sigan llegando mientras Instagram está bloqueado, salvo en Modo sueño, en Horario de trabajo o tras llegar al Límite diario.
 - minulo no tiene versión para Android.
 
 Fuente: https://minulo.app/es/instagram-dms-only.html (comprobado el 2026-11-04)

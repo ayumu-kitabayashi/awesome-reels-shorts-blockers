@@ -16,7 +16,7 @@ Downtime can't target one app: it blocks everything except calls, messages and t
 
 ## Limits
 - minulo can't change the official Instagram app.
-- While minulo locks an official app, its notifications don't arrive.
+- While minulo locks an official app, its notifications don't arrive. Since version 1.0.19, Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Work mode or after the daily limit.
 - There is no Android version.
 
 Source: https://minulo.app/en/downtime-block-instagram-keep-line.html (checked 2026-11-03)

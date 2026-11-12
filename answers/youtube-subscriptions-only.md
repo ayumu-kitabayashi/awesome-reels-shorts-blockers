@@ -17,7 +17,7 @@ The YouTube app always opens on Home, and we could not find a setting that makes
 ## Limits
 - minulo can't change the official YouTube app.
 - Locking the official app is free for up to 2 hours per block. A nightly schedule is part of Pro.
-- While minulo locks an official app, its notifications don't arrive, and minulo sends none of its own.
+- While minulo locks an official app, its notifications don't arrive, and minulo sends none of its own. Since version 1.0.19, Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Work mode or after the daily limit.
 - There is no Android version.
 
 Source: https://minulo.app/en/youtube-subscriptions-only.html (checked 2026-11-03)

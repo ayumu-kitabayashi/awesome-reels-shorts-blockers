@@ -13,7 +13,7 @@ Não: o Instagram não anunciou nenhum ajuste que tire ou esconda a aba Reels, e
 
 ## Limites
 - A aba Reels só some dentro do minulo. Se você abrir o app oficial do Instagram direto, ela continua lá.
-- Enquanto o minulo bloqueia o app oficial, as notificações dele não chegam, e o minulo não manda nenhuma.
+- Enquanto o minulo bloqueia o app oficial, as notificações dele não chegam, e o minulo não manda nenhuma. Desde a versão 1.0.19, quem tem o Pro pode ativar as notificações de DM (beta), e aí as notificações das DMs do Instagram continuam chegando enquanto o Instagram está bloqueado, exceto no Modo sono, no Horário de trabalho ou depois de atingir o Limite diário.
 - O minulo é para iPhone e Mac (Safari e Chrome), sem versão para Android nem para iPad.
 
 Fonte: https://minulo.app/pt/instagram-reels-tab-remove.html (verificado em 2026-11-04)

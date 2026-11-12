@@ -13,7 +13,7 @@ Instagram n'a pas de mode « messages seulement », et une limite Temps d'écran
 
 ## Limites
 - Seul l'Instagram de minulo change : l'app officielle reste la même.
-- Les notifications viennent de l'app Instagram officielle. Si vous ne la bloquez pas, elles arrivent comme d'habitude et vous répondez dans minulo. Tant que minulo la bloque avec Temps d'écran, ses notifications n'arrivent pas (c'est ainsi qu'iOS fonctionne).
+- Les notifications viennent de l'app Instagram officielle. Si vous ne la bloquez pas, elles arrivent comme d'habitude et vous répondez dans minulo. Tant que minulo la bloque avec Temps d'écran, ses notifications n'arrivent pas (c'est ainsi qu'iOS fonctionne). Depuis la version 1.0.19, les abonnés Pro peuvent activer les notifications de DM (bêta) pour continuer à recevoir les notifications des DM Instagram pendant qu'Instagram est bloqué, sauf en Mode sommeil, pendant les Heures de travail ou une fois la Limite quotidienne atteinte.
 - minulo n'existe pas sur Android.
 
 Source : https://minulo.app/fr/instagram-dms-only.html (vérifié le 2026-11-04)

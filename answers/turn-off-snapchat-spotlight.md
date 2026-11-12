@@ -16,7 +16,7 @@ We could not find a setting in Snapchat's help that removes Spotlight; it stays 
 ## Limits
 - minulo can't change the official Snapchat app.
 - Locking the official app is free for up to 2 hours per block. A nightly schedule is part of Pro.
-- While minulo locks an official app, its notifications don't arrive, so lock it only when you can miss them.
+- While minulo locks an official app, its notifications don't arrive, so lock it only when you can miss them. Since version 1.0.19, Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Work mode or after the daily limit.
 - There is no Android version.
 
 Source: https://minulo.app/en/turn-off-snapchat-spotlight.html (checked 2026-11-03)

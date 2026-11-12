@@ -8,7 +8,7 @@ SocialLite と同じように、リールとショートを消した画面で SN
 - iPhone のスクリーンタイムはアプリごと止めるので、DM も使えなくなります。
 
 ## できるアプリ
-- **minulo**：Instagram・YouTube・TikTok・X・Threads・Facebook・Pinterest・Reddit・LinkedIn・Snapchat に対応しています。インスタは［リールと発見タブ］か［DM以外のタブ］で消せます。公式アプリを止めるのは1回2時間まで無料で、スリープモード・ハードモード・1日の上限・2時間を超えるブロックは Pro です。Safari と Chrome で使える Mac 版もあります。
+- **minulo**：Instagram・YouTube・TikTok・X・Threads・Facebook・Pinterest・Reddit・LinkedIn・Snapchat に対応しています。インスタは［リールタブ］と［発見タブ］か、［DM以外のタブ］で消せます。公式アプリを止めるのは1回2時間まで無料で、スリープモード・ハードモード・1日の上限・2時間を超えるブロックは Pro です。Safari と Chrome で使える Mac 版もあります。
 - **UNDOOMED**：7つの SNS に対応し、TikTok と Snapchat はありません。多くの機能が無料で、Plus と Pro で増えます。
 - **Awhile**：Instagram だけ。隠す機能は無料です。
 - **LoomWeb**：Instagram・YouTube・X・Facebook・Threads に対応し、無料で Pro もあります。

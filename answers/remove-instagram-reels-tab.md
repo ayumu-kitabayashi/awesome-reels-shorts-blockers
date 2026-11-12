@@ -16,7 +16,7 @@ Not in the Instagram app: we found no setting that removes, hides or moves the R
 ## Limits
 - minulo can't change the official Instagram app, so the Reels tab is still there if you open it directly.
 - Locking the official app is free for up to 2 hours per block. A nightly schedule is part of Pro.
-- While minulo locks an official app, its notifications don't arrive.
+- While minulo locks an official app, its notifications don't arrive. Since version 1.0.19, Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Work mode or after the daily limit.
 - There is no Android or iPad version.
 
 Source: https://minulo.app/en/instagram-reels-tab-remove.html (checked 2026-11-03)

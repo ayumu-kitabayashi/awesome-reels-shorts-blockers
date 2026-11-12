@@ -13,7 +13,7 @@ No: Instagram no ha anunciado ningún ajuste para quitar u ocultar la pestaña d
 
 ## Límites
 - La pestaña de Reels solo desaparece dentro de minulo. Si abres directamente la app oficial de Instagram, sigue ahí.
-- Mientras minulo bloquea la app oficial, sus notificaciones no llegan, y minulo no envía ninguna.
+- Mientras minulo bloquea la app oficial, sus notificaciones no llegan, y minulo no envía ninguna. Desde la versión 1.0.19, los usuarios de Pro pueden activar las notificaciones de DM (beta) para que las notificaciones de los DM de Instagram sigan llegando mientras Instagram está bloqueado, salvo en Modo sueño, en Horario de trabajo o tras llegar al Límite diario.
 - minulo es para iPhone y Mac (Safari y Chrome), sin versión para Android ni para iPad.
 
 Fuente: https://minulo.app/es/instagram-reels-tab-remove.html (comprobado el 2026-11-04)
