@@ -232,6 +232,7 @@ Passo a passo em inglês (escritos pelo desenvolvedor do minulo; cada um começa
 - [Is there a free SocialLite alternative for iPhone? Hiding Reels and keeping DMs without paying (2026)](https://dev.to/ayumu_kitabayashi_8e0de96/is-there-a-free-sociallite-alternative-for-iphone-hiding-reels-and-keeping-dms-without-paying-ajn)
 - [My class group chat is on Instagram, but I want Reels gone: a free way to keep group chats on iPhone (2026)](https://dev.to/ayumu_kitabayashi_8e0de96/my-class-group-chat-is-on-instagram-but-i-want-reels-gone-a-free-way-to-keep-group-chats-on-409d)
 - [O SocialLite é grátis ou não tem versão grátis? Preço no iPhone em 2026 e o que dá para usar sem pagar](https://dev.to/ayumu_kitabayashi_8e0de96/o-sociallite-e-gratis-ou-nao-tem-versao-gratis-preco-no-iphone-em-2026-e-o-que-da-para-usar-sem-4mm8)
+- [Um amigo mandou um Reel no Direct: como assistir sem cair no feed de Reels no iPhone (2026)](https://dev.to/ayumu_kitabayashi_8e0de96/um-amigo-mandou-um-reel-no-direct-como-assistir-sem-cair-no-feed-de-reels-no-iphone-2026-3f27)
 
 
 <a id="guides-other-languages"></a>

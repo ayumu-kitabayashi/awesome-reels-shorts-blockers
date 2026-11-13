@@ -255,6 +255,9 @@ Step-by-step write-ups (by the minulo developer; each covers the built-in option
 - [Is minulo safe? Does it see my Instagram password? What the app can and can't see (2026)](https://dev.to/ayumu_kitabayashi_8e0de96/is-minulo-safe-does-it-see-my-instagram-password-what-the-app-can-and-cant-see-2026-192f)
 - [Can I make Instagram show only people I follow, no suggested posts or Reels? Getting the early-days feed back (iPhone 2026)](https://dev.to/ayumu_kitabayashi_8e0de96/can-i-make-instagram-show-only-people-i-follow-no-suggested-posts-or-reels-getting-the-early-days-loa)
 - [Downtime isn't blocking Instagram on my iPhone and I'm still scrolling at 2am: the 4 causes and fixes (2026)](https://dev.to/ayumu_kitabayashi_8e0de96/downtime-isnt-blocking-instagram-on-my-iphone-and-im-still-scrolling-at-2am-the-4-causes-and-2b5k)
+- [Which free YouTube Shorts blockers for iPhone have in-app purchases? I checked each App Store page (November 2026)](https://dev.to/ayumu_kitabayashi_8e0de96/which-free-youtube-shorts-blockers-for-iphone-have-in-app-purchases-i-checked-each-app-store-page-24an)
+- [If I delete the Instagram app and use Safari, what happens to my DMs and Reels? (iPhone, 2026)](https://dev.to/ayumu_kitabayashi_8e0de96/if-i-delete-the-instagram-app-and-use-safari-what-happens-to-my-dms-and-reels-iphone-2026-4ack)
+- [FeedOff or minulo? Two ways to turn off YouTube Shorts and Instagram Reels on iPhone, and what each one charges (2026)](https://dev.to/ayumu_kitabayashi_8e0de96/feedoff-or-minulo-two-ways-to-turn-off-youtube-shorts-and-instagram-reels-on-iphone-and-what-each-4nk0)
 
 
 ### One question, one page (October 2026)

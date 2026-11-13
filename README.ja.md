@@ -294,6 +294,10 @@ minulo の開発者が書いたもので、どれも最初にアプリなしで�
 - [Safari のまま SNS を見たいか、別のアプリに移るか：SocialLite と ScrollGuard で迷ったときの分かれ目（iPhone・2026年）](https://note.com/minulo/n/n183bfdce89ed)
 - [リールを消すアプリを10月に開いた2,565人のうち、24歳以下は84%だった：minulo の10月のデータ（2026年）](https://note.com/minulo/n/n4c82f6372601)
 - [Studyplus・StudyCast・「集中」、どれならスマホの SNS を止められる？ App Store の説明を読み比べてわかったこと（iPhone・2026年）](https://note.com/minulo/n/nfaa7e6d4e3a8)
+- [インスタのリールだけ制限して、DMは普通に使いたい（iPhone）：minulo と limitd の違いと、お金を払わずにできる範囲（2026年）](https://note.com/minulo/n/nd50fda1f13dd)
+- [寝る前にリールやショートを見続けるのをやめる方法：iPhone の休止時間・YouTube の「おやすみ時間」・minulo を、夜に何が残るかで比べた（2026年）](https://note.com/minulo/n/n06ca6ef99b2a)
+- [パソコン（Mac）でインスタのリールと YouTube のショートだけ消す方法：Safari と Chrome で、DM とふつうの動画は残す（2026年）](https://note.com/minulo/n/nb1664d85a13d)
+- [インスタのストーリーズを CSS で消すルールと、効かなくなったことをどう知るか：当たった数で見張る](https://zenn.dev/minulo/articles/135b1eef6c1d79)
 
 **한국어**
 - [인스타 DM은 남기고 릴스만 없애는 법: 아이폰에서 쓸 수 있는 5가지 방법 비교 (2026)](https://velog.io/@barcaak1011/인스타-DM은-남기고-릴스만-없애는-법-아이폰에서-쓸-수-있는-5가지-방법-비교-2026)

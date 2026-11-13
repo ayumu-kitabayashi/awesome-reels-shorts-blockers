@@ -254,6 +254,7 @@ Escritas por el desarrollador de minulo; cada una empieza por las opciones que y
 - [How do I stop scrolling on my phone but keep my messages?](https://dev.to/ayumu_kitabayashi_8e0de96/how-do-i-stop-scrolling-on-my-phone-but-keep-my-messages-6nn)
 - [App grátis para iPhone que esconde os Reels e mantém as DMs: o que é grátis no Fluid Friction, no Nope, no SocialLite e no minulo (2026)](https://dev.to/ayumu_kitabayashi_8e0de96/app-gratis-para-iphone-que-esconde-os-reels-e-mantem-as-dms-o-que-e-gratis-no-fluid-friction-no-13d4)
 - [¿SocialLite es gratis en iPhone? (2026) Precio, compras dentro de la app y qué no pagas](https://dev.to/ayumu_kitabayashi_8e0de96/sociallite-es-gratis-en-iphone-2026-precio-compras-dentro-de-la-app-y-que-no-pagas-3ck1)
+- [StillTabs, UNDOOMED, SocialLite o minulo: qué app de iPhone bloquea los Reels y te deja usar los mensajes (2026)](https://dev.to/ayumu_kitabayashi_8e0de96/stilltabs-undoomed-sociallite-o-minulo-que-app-de-iphone-bloquea-los-reels-y-te-deja-usar-los-31kd)
 - [What's the best free iPhone app to hide Instagram Reels but keep DMs? (2026)](https://note.com/minulo/n/n32e93c79d089)
 - [If I hide the Shorts shelf on YouTube Home, how long does it stay hidden? (iPhone, 2026)](https://note.com/minulo/n/nd47d549ee2e4)
 - [YouTube ショートを消す方法：登録チャンネルの新着は残したいとき、iPhone でできること・できないこと（2026年）](https://note.com/minulo/n/n12aa4d338e0b)
