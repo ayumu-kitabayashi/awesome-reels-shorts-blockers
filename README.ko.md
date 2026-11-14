@@ -39,7 +39,7 @@
 - [답변](#answers)
 - [가이드](#guides)
 - [다른 언어로 된 가이드](#guides-other-languages)
-- [자주 받는 질문 10가지](#common-questions)
+- [자주 받는 질문 15가지](#common-questions)
 - [데이터 (CSV)](#data)
 
 
@@ -505,8 +505,8 @@ minulo.app의 짧은 페이지입니다. 각 플랫폼의 공식 도움말을 �
 - [카카오톡 숏폼 안 보는 방법: 자동 재생 끄기와 인스타 릴스·유튜브 쇼츠까지 줄이기](https://minulo.app/ko/kakaotalk-shortform.html)
 
 <a id="common-questions"></a>
-## 자주 받는 질문 10가지
-아이폰에서 쇼츠, 릴스, DM에 대해 자주 받는 질문 10가지입니다. 모두 기본 설정으로 되는 것과 안 되는 것을 먼저 적었습니다. minulo는 이 목록의 관리자가 만든 앱이고, 다른 앱은 위 목록에 적은 그대로입니다.
+## 자주 받는 질문 15가지
+아이폰에서 쇼츠, 릴스, DM에 대해 자주 받는 질문 15가지입니다. 모두 기본 설정으로 되는 것과 안 되는 것을 먼저 적었습니다. minulo는 이 목록의 관리자가 만든 앱이고, 다른 앱은 위 목록에 적은 그대로입니다.
 
 ### 아이폰에서 유튜브 쇼츠 끌 수 있어?
 아니요. 성인 계정에는 쇼츠를 끄는 스위치가 없고, Shorts 피드 제한을 0분으로 정하기(성인은 닫을 수 있음), Shorts 동영상 적게 표시, 시청 기록 끄기 정도만 할 수 있습니다. 아이폰 스크린 타임은 유튜브 앱 전체를 막습니다. minulo에서 쇼츠 섹션 숨기기와 쇼츠 탭 숨기기를 켜면 쇼츠는 사라지고 일반 영상, 검색, 구독은 그대로이며, 숨기기는 무료입니다(공식 유튜브 앱은 그대로). Nope는 Safari의 youtube.com에서 같은 일을 하고, Stillfeed, Reelmute, noShorts도 자체 앱 안에서 쇼츠 없는 유튜브를 엽니다. ([되는 방법](https://minulo.app/ko/can-you-turn-off-youtube-shorts.html?ref=github-arsb-faq))
@@ -537,6 +537,21 @@ instagram.com에서도 DM은 그대로 되지만 릴스와 탐색 탭도 그대�
 
 ### DM으로 받은 릴스를 릴스 피드에 안 빠지고 보는 방법
 인스타 앱에서 대화방의 릴스를 열면 릴스 화면에서 재생되고, 한 번 넘기면 그대로 피드가 이어집니다. 성인 계정에는 릴스 탭을 숨기는 설정이 없습니다. minulo에서 인스타그램을 열면 DM으로 받은 릴스가 릴스 피드가 시작되기 전에 멈추고, 5분만 열기를 누르면 5분 동안 볼 수 있으며, 그 뒤에는 차단이 저절로 다시 켜집니다. 릴스 숨기기는 무료입니다. NoReels는 받은 동영상은 그대로 재생된다고 적고 있고, LockedIn에는 DM 동영상 재생 스위치가 있습니다. ([방법](https://minulo.app/ko/instagram-reels-sent-in-dms.html?ref=github-arsb-faq))
+
+### 인스타 릴스만 차단하고 DM은 쓸 수 있는 아이폰 앱
+인스타그램에는 성인 계정에서 릴스 탭을 숨기는 설정이 없고, 아이폰 스크린 타임으로 막으면 DM까지 막힙니다. minulo 안에서 인스타그램을 열면 릴스 탭, 피드 속 릴스, 탐색, 추천 게시물이 사라지고 DM과 단톡은 그대로 쓸 수 있으며, 숨기기는 계속 무료라 구독도 시간 제한도 minulo 계정도 필요 없습니다. 유튜브 쇼츠와 틱톡까지 10개 SNS에서 같은 방식으로 숨기고, 공식 앱을 스크린 타임으로 잠그는 것도 한 번에 2시간까지 무료입니다. Stillfeed, Reelmute, Awhile도 자체 앱에서 릴스를 무료로 숨기고, Nope는 Safari에서 완전히 무료입니다. ([무료로 되는 것](https://minulo.app/ko/free-reels-blocker.html?ref=github-arsb-faq))
+
+### 아이폰 유튜브 쇼츠만 없애는 방법
+유튜브에는 쇼츠를 끄는 스위치가 없고, Shorts 피드 제한을 0분으로 정해도 YouTube 고객센터에 따르면 제한에 도달했을 때 Shorts 피드를 닫을지 제한을 무시할지 고르는 알림이 뜰 뿐이며, 보도에 따르면 구독 피드와 링크로 받은 쇼츠도 남습니다. minulo 안에서 유튜브를 열고 톱니바퀴에서 쇼츠 섹션 숨기기와 쇼츠 탭 숨기기를 켜면 쇼츠만 사라지고 일반 영상, 검색, 구독, 나중에 볼 동영상은 그대로이며, 숨기기는 계속 무료입니다(정기 결제, 체험판, minulo 계정 모두 필요 없음). 쇼츠를 일반 플레이어로 열기도 켤 수 있습니다. 공식 YouTube 앱 자체는 바뀌지 않으니 유튜브는 minulo 안에서 봅니다. ([방법](https://minulo.app/ko/block-youtube-shorts.html?ref=github-arsb-faq))
+
+### 인스타 DM만 쓰는 방법 아이폰
+인스타그램에는 메시지만 보는 모드가 없고, 아이폰 스크린 타임은 DM까지 포함해 앱 전체만 제한할 수 있습니다. minulo에서 인스타그램 옆 톱니바퀴를 누르고 DM 외의 모든 탭을 켜면 릴스, 탐색, 홈 피드, 추천 게시물이 사라지고 DM과 단톡, 알림 탭만 남으며, 이 설정은 계속 무료입니다. 1.0.19부터는 릴스 탭과 탐색 탭을 따로 숨길 수 있고, 탐색을 숨겨도 돋보기로 사람과 계정은 찾을 수 있습니다. 음성 메시지, 통화, 스토리 올리기는 인스타그램 웹에 없어서 minulo에서는 할 수 없습니다. Fluid Friction의 DMs Only(인스타그램)와 LoomWeb의 "Limit to DMs only"도 무료이고, UNDOOMED, Stillfeed, Reelmute, Awhile, Intent에서는 메시지만 보는 화면이 유료입니다. ([방법](https://minulo.app/ko/instagram-dms-only.html?ref=github-arsb-faq))
+
+### SocialLite 대체 앱
+인스타그램과 유튜브에는 성인 계정에서 릴스나 쇼츠를 없애는 설정이 없고, 아이폰 스크린 타임은 DM까지 앱 전체를 막습니다. SocialLite 대체 앱으로 가장 비슷한 건 minulo로, SocialLite처럼 릴스와 쇼츠를 숨기고 DM은 그대로 쓰며 공식 앱을 스크린 타임으로 잠글 수 있고, 틱톡을 포함한 10개 SNS를 지원하며 숨기기는 계속 무료라 구독이 필요 없습니다. SocialLite는 새로 쓰는 사람에게 유료 구독이 필요합니다(요금 페이지 기준 미국 월 $9.99 또는 연 $29.99, 2026-11-10 확인). 같은 방식의 앱으로는 UNDOOMED, Awhile, LoomWeb이 있고, ScrollGuard와 Nope는 Safari 확장 프로그램입니다. SocialLite는 평가 수가 훨씬 많고 인스타그램과 Snapchat 푸시 알림도 지원합니다. ([비교](https://minulo.app/ko/sociallite-alternatives.html?ref=github-arsb-faq))
+
+### 자기 전에 릴스 쇼츠 그만 보는 방법 아이폰
+스크린 타임의 다운타임에서 시간을 정하고 스크린 타임 암호를 설정한 뒤 다운타임에 차단을 켜면 밤에 인스타그램, 유튜브, 틱톡이 열리지 않지만 DM도 막힙니다. minulo에서는 인스타그램과 유튜브를 릴스와 쇼츠 없이 열 수 있어(숨기기는 계속 무료) DM과 일반 영상은 그대로이고, 침대에 누울 때 차단 탭에서 공식 앱을 잠글 수 있습니다(한 번에 2시간까지 무료, Pro의 수면 모드는 매일 밤 잘 시간부터 일어날 시간까지 자동). 다운타임과 함께 쓸 때 minulo를 항상 허용에 넣어 두면 메시지는 계속 쓸 수 있습니다. ([방법](https://minulo.app/ko/stop-doomscrolling-at-night.html?ref=github-arsb-faq))
 
 
 ## 데이터
