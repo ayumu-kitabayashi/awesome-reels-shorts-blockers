@@ -258,6 +258,8 @@ Step-by-step write-ups (by the minulo developer; each covers the built-in option
 - [Which free YouTube Shorts blockers for iPhone have in-app purchases? I checked each App Store page (November 2026)](https://dev.to/ayumu_kitabayashi_8e0de96/which-free-youtube-shorts-blockers-for-iphone-have-in-app-purchases-i-checked-each-app-store-page-24an)
 - [If I delete the Instagram app and use Safari, what happens to my DMs and Reels? (iPhone, 2026)](https://dev.to/ayumu_kitabayashi_8e0de96/if-i-delete-the-instagram-app-and-use-safari-what-happens-to-my-dms-and-reels-iphone-2026-4ack)
 - [FeedOff or minulo? Two ways to turn off YouTube Shorts and Instagram Reels on iPhone, and what each one charges (2026)](https://dev.to/ayumu_kitabayashi_8e0de96/feedoff-or-minulo-two-ways-to-turn-off-youtube-shorts-and-instagram-reels-on-iphone-and-what-each-4nk0)
+- [YouTube's 0-minute Shorts limit is a reminder you can dismiss. How to get rid of Shorts on iPhone and keep normal videos (2026)](https://dev.to/ayumu_kitabayashi_8e0de96/youtubes-0-minute-shorts-limit-is-a-reminder-you-can-dismiss-how-to-get-rid-of-shorts-on-iphone-ch)
+- [If I block Instagram, will I still get DM notifications? (iPhone, 2026)](https://note.com/minulo/n/n2d7691a40da1)
 
 
 ### One question, one page (October 2026)
