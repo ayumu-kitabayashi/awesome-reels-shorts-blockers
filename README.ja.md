@@ -542,19 +542,19 @@ YouTube の公式の方法はショート フィードの上限を0分にする�
 インスタのアプリでチャットからリールを開くとリールの画面で再生され、1回スワイプすればそのままフィードが続きます。大人のアカウントでリールのタブを消す設定はありません。minulo なら DM で届いたリールはリールのフィードが始まる前で止まり、「5分だけ開く」を押すと5分間だけ見られ、その後は自動でブロックに戻ります。リールを消すのは無料です。NoReels は送られてきた動画は再生できると書いており、LockedIn には DM の動画再生のスイッチがあります。（[やり方](https://minulo.app/instagram-reels-sent-in-dms.html?ref=github-arsb-faq)）
 
 ### iPhoneでYouTubeのショートだけ消す方法
-YouTube にはショートを切るスイッチがなく、ショート フィードの上限を0分にしても、YouTube のヘルプによると上限に達したときにショート フィードを閉じるか上限を無視するかを選ぶ知らせが出るだけで、報道では登録チャンネルや送られたリンクのショートも残ります。minulo の中で YouTube を開き、歯車から［ショートの棚を非表示］と［下のショートタブを非表示］をオンにすると、消えるのはショートだけで、ふつうの動画・検索・登録チャンネルはそのまま使え、消すのはずっと無料です（サブスクも minulo のアカウント登録もいりません）。［ショートを普通の再生画面で開く］もオンにできます。公式の YouTube アプリそのものは変わらないので、YouTube は minulo の中で見ます。 ([やり方](https://minulo.app/block-youtube-shorts.html?ref=github-arsb-faq))
+YouTube にはショートを切るスイッチがなく、ショート フィードの上限を0分にしても、YouTube のヘルプによると上限に達したときにショート フィードを閉じるか上限を無視するかを選ぶ知らせが出るだけで、報道では登録チャンネルや送られたリンクのショートも残ります。minulo の中で YouTube を開き、歯車から［ショートの棚を非表示］と［下のショートタブを非表示］をオンにすると、消えるのはショートだけで、ふつうの動画・検索・登録チャンネルはそのまま使え、消すのは無料です（サブスクも minulo のアカウント登録もいりません）。［ショートを普通の再生画面で開く］もオンにできます。公式の YouTube アプリそのものは変わらないので、YouTube は minulo の中で見ます。 ([やり方](https://minulo.app/block-youtube-shorts.html?ref=github-arsb-faq))
 
 ### インスタをDMだけで使う方法 iPhone
-インスタには「DMだけ」のモードも、開いたときに DM から始める設定もなく、iPhone のスクリーンタイムで止めると DM も一緒に止まります。minulo の中でインスタを開いて［DM以外のタブ］をオンにすると、リール・発見・ホームのフィード・おすすめ投稿が消えて、DM（グループDMも）とお知らせのタブだけが残り、この設定はずっと無料です。1.0.19 からはリールのタブと発見のタブを別々に消すこともでき、発見を消しても虫めがねから人やアカウントは探せます。Fluid Friction の DMs Only（インスタ）と LoomWeb の「Limit to DMs only」も無料で、UNDOOMED、Stillfeed、Reelmute、Awhile、Intent ではメッセージだけの表示は有料です。 ([やり方](https://minulo.app/instagram-dms-only.html?ref=github-arsb-faq))
+インスタには「DMだけ」のモードも、開いたときに DM から始める設定もなく、iPhone のスクリーンタイムで止めると DM も一緒に止まります。minulo の中でインスタを開いて［DM以外のタブ］をオンにすると、リール・発見・ホームのフィード・おすすめ投稿が消えて、DM（グループDMも）とお知らせのタブだけが残り、この設定は無料です。1.0.19 からはリールのタブと発見のタブを別々に消すこともでき、発見を消しても虫めがねから人やアカウントは探せます。Fluid Friction の DMs Only（インスタ）と LoomWeb の「Limit to DMs only」も無料で、UNDOOMED、Stillfeed、Reelmute、Awhile、Intent ではメッセージだけの表示は有料です。 ([やり方](https://minulo.app/instagram-dms-only.html?ref=github-arsb-faq))
 
 ### 寝る前にリールやショートを見続けるのをやめる方法 iPhone
-iPhone の休止時間で時間を決め、スクリーンタイム・パスコードを設定して［休止時間中にブロック］をオンにすると、夜はインスタ・YouTube・TikTok が開かなくなりますが、DM も止まります。minulo ならインスタと YouTube をリールとショートなしで開けて（消すのはずっと無料）、DM とふつうの動画は残したまま、布団に入るときに［ブロック］タブで公式アプリを止められます（1回2時間まで無料、Pro のスリープモードなら毎晩寝る時間から起きる時間まで自動）。休止時間と一緒に使うなら、minulo を［常に許可］に入れておくとメッセージは使えます。何も止めない方法としては、睡眠の集中モード、グレイスケール、布団から離れた場所での充電もあります。 ([やり方](https://minulo.app/stop-doomscrolling-at-night.html?ref=github-arsb-faq))
+iPhone の休止時間で時間を決め、スクリーンタイム・パスコードを設定して［休止時間中にブロック］をオンにすると、夜はインスタ・YouTube・TikTok が開かなくなりますが、DM も止まります。minulo ならインスタと YouTube をリールとショートなしで開けて（消すのは無料）、DM とふつうの動画は残したまま、布団に入るときに［ブロック］タブで公式アプリを止められます（1回2時間まで無料、Pro のスリープモードなら毎晩寝る時間から起きる時間まで自動）。休止時間と一緒に使うなら、minulo を［常に許可］に入れておくとメッセージは使えます。何も止めない方法としては、睡眠の集中モード、グレイスケール、布団から離れた場所での充電もあります。 ([やり方](https://minulo.app/stop-doomscrolling-at-night.html?ref=github-arsb-faq))
 
 ### SocialLite 代わり アプリ
-インスタと YouTube には大人のアカウントでリールやショートを消す設定がなく、iPhone のスクリーンタイムは DM ごとアプリを止めます。SocialLite の代わりになる iPhone アプリでいちばん近いのは minulo で、SocialLite と同じくリールとショートを消して DM は残し、公式アプリをスクリーンタイムで止められ、TikTok を含む10の SNS に対応していて、消す機能はずっと無料です。SocialLite は新しく使う人には有料のサブスクリプションが必要です（料金ページでは米国で月 $9.99 か年 $29.99、2026-11-10 確認）。同じ仕組みのアプリには UNDOOMED、Awhile、LoomWeb があり、ScrollGuard と Nope は Safari 機能拡張です。SocialLite は評価の数がずっと多く、インスタと Snapchat の通知にも対応しています。 ([比較](https://minulo.app/sociallite-alternatives.html?ref=github-arsb-faq))
+インスタと YouTube には大人のアカウントでリールやショートを消す設定がなく、iPhone のスクリーンタイムは DM ごとアプリを止めます。SocialLite の代わりになる iPhone アプリでいちばん近いのは minulo で、SocialLite と同じくリールとショートを消して DM は残し、公式アプリをスクリーンタイムで止められ、TikTok を含む10の SNS に対応していて、消す機能は無料です。SocialLite は新しく使う人には有料のサブスクリプションが必要です（料金ページでは米国で月 $9.99 か年 $29.99、2026-11-10 確認）。同じ仕組みのアプリには UNDOOMED、Awhile、LoomWeb があり、ScrollGuard と Nope は Safari 機能拡張です。SocialLite は評価の数がずっと多く、インスタと Snapchat の通知にも対応しています。 ([比較](https://minulo.app/sociallite-alternatives.html?ref=github-arsb-faq))
 
 ### インスタのリールだけ消してDMは使えるiPhoneアプリは？
-インスタには大人のアカウントでリールのタブを消す設定がなく、iPhone のスクリーンタイムで止めると DM も止まります。minulo の中でインスタを開けば、リールのタブ・発見・おすすめ投稿を消して DM（グループDMも）はそのまま使え、消すのはずっと無料で、サブスクも minulo のアカウント登録もいりません（YouTube のショートも同じように消せ、TikTok を含む10の SNS に対応）。公式アプリをスクリーンタイムで止めるのも1回2時間まで無料で、寝る時間の自動ロックなどは Pro です。Stillfeed、Reelmute、Awhile もアプリの中でリールを無料で消せ、Nope は Safari の中で完全に無料です。 ([それぞれ何が無料か](https://minulo.app/free-reels-blocker.html?ref=github-arsb-faq))
+インスタには大人のアカウントでリールのタブを消す設定がなく、iPhone のスクリーンタイムで止めると DM も止まります。minulo の中でインスタを開けば、リールのタブ・発見・おすすめ投稿を消して DM（グループDMも）はそのまま使え、消すのは無料で、サブスクも minulo のアカウント登録もいりません（YouTube のショートも同じように消せ、TikTok を含む10の SNS に対応）。公式アプリをスクリーンタイムで止めるのも1回2時間まで無料で、寝る時間の自動ロックなどは Pro です。Stillfeed、Reelmute、Awhile もアプリの中でリールを無料で消せ、Nope は Safari の中で完全に無料です。 ([それぞれ何が無料か](https://minulo.app/free-reels-blocker.html?ref=github-arsb-faq))
 
 
 <a id="data"></a>
