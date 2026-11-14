@@ -248,6 +248,7 @@ minulo 개발자가 썼고, 모두 기본 설정부터 다룹니다.
 - [인스타 릴스만 차단하고 DM은 쓸 수 있는 아이폰 앱은? 돈 안 내고 되는 범위부터 정리 (2026)](https://dev.to/ayumu_kitabayashi_8e0de96/inseuta-rilseuman-cadanhago-dmeun-sseul-su-issneun-aipon-aebeun-don-an-naego-doeneun-beomwibuteo-jeongri-2026-1n4p)
 - [수행평가 공지가 반 인스타 단톡으로 올 때: 릴스는 안 보고 단톡만 확인하는 아이폰 설정 (2026)](https://dev.to/ayumu_kitabayashi_8e0de96/suhaengpyeongga-gongjiga-ban-inseuta-dantogeuro-ol-ddae-rilseuneun-an-bogo-dantogman-hwaginhaneun-aipon-seoljeong-2026-41dn)
 - [유튜브 쇼츠만 끄고 강의 영상은 보는 아이폰 앱은? 쇼츠를 없애는 설정 3개 (2026)](https://dev.to/ayumu_kitabayashi_8e0de96/yutyubeu-syoceuman-ggeugo-gangyi-yeongsangeun-boneun-aipon-aebeun-syoceureul-eobsaeneun-seoljeong-3gae-2026-d95)
+- [릴스만 차단하고 DM은 쓰는 아이폰 앱, 'DM만 남기기'까지 무료인지는 앱마다 달라요 (2026)](https://disquiet.io/posts/VyC95e)
 
 **日本語**
 - [インスタの DM は残してリールだけ消す：iPhone でできる5つの方法を比べた（2026）](https://zenn.dev/minulo/articles/a66d0db9b53459)
