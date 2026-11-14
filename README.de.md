@@ -239,6 +239,7 @@ Vom Entwickler von minulo; jede beginnt mit den eingebauten Möglichkeiten.
 **Deutsch**
 - [Instagram nur für Nachrichten: Bevor du die App löschst, probier das (iPhone, 2026)](https://medium.com/@feedminus47/instagram-nur-f%C3%BCr-nachrichten-bevor-du-die-app-l%C3%B6schst-probier-das-iphone-2026-322f89d370d5)
 - [Aus dem Screen-Time-Sperrbildschirm die eigene App öffnen: ShieldAction kann es nicht, eine Mitteilung schon](https://dev.to/ayumu_kitabayashi_8e0de96/aus-dem-screen-time-sperrbildschirm-die-eigene-app-offnen-shieldaction-kann-es-nicht-eine-3o82) (für Entwickler)
+- [Abends keine Reels und Shorts mehr schauen am iPhone: minulo, die Auszeit und was jeweils gesperrt wird (2026)](https://dev.to/ayumu_kitabayashi_8e0de96/abends-keine-reels-und-shorts-mehr-schauen-am-iphone-minulo-die-auszeit-und-was-jeweils-gesperrt-2iac)
 
 **日本語**
 - [インスタの DM は残してリールだけ消す：iPhone でできる5つの方法を比べた（2026）](https://zenn.dev/minulo/articles/a66d0db9b53459)

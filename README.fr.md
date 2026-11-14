@@ -454,6 +454,7 @@ Tutoriels pas à pas, en anglais (écrits par le développeur de minulo ; chacun
 - [Cómo dejar de ver Reels y Shorts por la noche en el iPhone](https://minulo.substack.com/p/como-dejar-de-ver-reels-y-shorts)
 - [Como parar de ver Reels e Shorts à noite no iPhone](https://minulo.substack.com/p/como-parar-de-ver-reels-e-shorts)
 - [Usar Instagram solo para mensajes en el iPhone: qué funciona y qué no (2026)](https://minulo.substack.com/p/usar-instagram-solo-para-mensajes)
+- [Comment utiliser Instagram seulement pour les messages sur iPhone ? Les groupes restent, les Reels et le fil partent (2026)](https://dev.to/ayumu_kitabayashi_8e0de96/comment-utiliser-instagram-seulement-pour-les-messages-sur-iphone-les-groupes-restent-les-reels-4845)
 
 
 <a id="data"></a>
