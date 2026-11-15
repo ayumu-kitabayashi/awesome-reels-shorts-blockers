@@ -262,6 +262,8 @@ Step-by-step write-ups (by the minulo developer; each covers the built-in option
 - [If I block Instagram, will I still get DM notifications? (iPhone, 2026)](https://note.com/minulo/n/n2d7691a40da1)
 - [YouTube's bedtime reminder is easy to dismiss. What actually stops Shorts and Reels at night on iPhone? (2026)](https://dev.to/ayumu_kitabayashi_8e0de96/youtubes-bedtime-reminder-is-easy-to-dismiss-what-actually-stops-shorts-and-reels-at-night-on-nha)
 - [Instagram keeps opening on Reels. How do I stop it? (iPhone, 2026)](https://note.com/minulo/n/n247658ad1b3c)
+- [Opal, Freedom or Downtime? Blocking only Instagram at night on iPhone while WhatsApp and iMessage keep working (2026)](https://dev.to/ayumu_kitabayashi_8e0de96/opal-freedom-or-downtime-blocking-only-instagram-at-night-on-iphone-while-whatsapp-and-imessage-115f)
+- [Is there a Safari extension on iPhone that hides Instagram Reels and YouTube Shorts? What they cover and where they stop (2026)](https://dev.to/ayumu_kitabayashi_8e0de96/is-there-a-safari-extension-on-iphone-that-hides-instagram-reels-and-youtube-shorts-what-they-2pec)
 
 
 ### One question, one page (October 2026)
