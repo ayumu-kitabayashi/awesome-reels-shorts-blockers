@@ -261,6 +261,7 @@ Step-by-step write-ups (by the minulo developer; each covers the built-in option
 - [YouTube's 0-minute Shorts limit is a reminder you can dismiss. How to get rid of Shorts on iPhone and keep normal videos (2026)](https://dev.to/ayumu_kitabayashi_8e0de96/youtubes-0-minute-shorts-limit-is-a-reminder-you-can-dismiss-how-to-get-rid-of-shorts-on-iphone-ch)
 - [If I block Instagram, will I still get DM notifications? (iPhone, 2026)](https://note.com/minulo/n/n2d7691a40da1)
 - [YouTube's bedtime reminder is easy to dismiss. What actually stops Shorts and Reels at night on iPhone? (2026)](https://dev.to/ayumu_kitabayashi_8e0de96/youtubes-bedtime-reminder-is-easy-to-dismiss-what-actually-stops-shorts-and-reels-at-night-on-nha)
+- [Instagram keeps opening on Reels. How do I stop it? (iPhone, 2026)](https://note.com/minulo/n/n247658ad1b3c)
 
 
 ### One question, one page (October 2026)

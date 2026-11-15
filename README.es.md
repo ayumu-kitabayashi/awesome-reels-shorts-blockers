@@ -257,6 +257,7 @@ Escritas por el desarrollador de minulo; cada una empieza por las opciones que y
 - [StillTabs, UNDOOMED, SocialLite o minulo: qué app de iPhone bloquea los Reels y te deja usar los mensajes (2026)](https://dev.to/ayumu_kitabayashi_8e0de96/stilltabs-undoomed-sociallite-o-minulo-que-app-de-iphone-bloquea-los-reels-y-te-deja-usar-los-31kd)
 - [Puse el límite de Shorts en 0 y YouTube solo me muestra un aviso: ¿cómo quito solo los Shorts? (iPhone, 2026)](https://dev.to/ayumu_kitabayashi_8e0de96/puse-el-limite-de-shorts-en-0-y-youtube-solo-me-muestra-un-aviso-como-quito-solo-los-shorts-4b95)
 - [Cómo dejar de ver Reels y Shorts antes de dormir si el modo Descanso de Instagram solo silencia avisos (iPhone, 2026)](https://note.com/minulo/n/nd89e355a8016)
+- [¿minulo es seguro? ¿Puede ver mi contraseña o mis mensajes de Instagram? (iPhone, 2026)](https://note.com/minulo/n/n5b0343da1f0c)
 - [What's the best free iPhone app to hide Instagram Reels but keep DMs? (2026)](https://note.com/minulo/n/n32e93c79d089)
 - [If I hide the Shorts shelf on YouTube Home, how long does it stay hidden? (iPhone, 2026)](https://note.com/minulo/n/nd47d549ee2e4)
 - [YouTube ショートを消す方法：登録チャンネルの新着は残したいとき、iPhone でできること・できないこと（2026年）](https://note.com/minulo/n/n12aa4d338e0b)
