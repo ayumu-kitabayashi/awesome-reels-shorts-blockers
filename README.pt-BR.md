@@ -234,6 +234,7 @@ Passo a passo em inglês (escritos pelo desenvolvedor do minulo; cada um começa
 - [O SocialLite é grátis ou não tem versão grátis? Preço no iPhone em 2026 e o que dá para usar sem pagar](https://dev.to/ayumu_kitabayashi_8e0de96/o-sociallite-e-gratis-ou-nao-tem-versao-gratis-preco-no-iphone-em-2026-e-o-que-da-para-usar-sem-4mm8)
 - [Um amigo mandou um Reel no Direct: como assistir sem cair no feed de Reels no iPhone (2026)](https://dev.to/ayumu_kitabayashi_8e0de96/um-amigo-mandou-um-reel-no-direct-como-assistir-sem-cair-no-feed-de-reels-no-iphone-2026-3f27)
 - [Scroll Less, StillTabs ou minulo: qual app no iPhone bloqueia os Reels e mantém o Direct, e o que cada um vende no app (2026)](https://dev.to/ayumu_kitabayashi_8e0de96/scroll-less-stilltabs-ou-minulo-qual-app-no-iphone-bloqueia-os-reels-e-mantem-o-direct-e-o-que-2bno)
+- [Como parar de ver Reels e Shorts à noite? O que fazer na hora em que você pega o celular na cama (iPhone, 2026)](https://note.com/minulo/n/n883bec20caff)
 
 
 <a id="guides-other-languages"></a>

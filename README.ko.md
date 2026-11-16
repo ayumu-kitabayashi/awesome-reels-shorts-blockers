@@ -251,6 +251,8 @@ minulo 개발자가 썼고, 모두 기본 설정부터 다룹니다.
 - [릴스만 차단하고 DM은 쓰는 아이폰 앱, 'DM만 남기기'까지 무료인지는 앱마다 달라요 (2026)](https://disquiet.io/posts/VyC95e)
 - [SocialLite 대신 쓸 앱 있어요? 구독 없이 릴스 숨기고 DM은 남기는 대체 앱 고르는 법 (아이폰, 2026)](https://note.com/minulo/n/n08280477f4b7)
 - [자기 전에 릴스·쇼츠 그만 보고 싶은데 폰을 내려놓으면 손이 심심해요: 대신 할 것 하나와 2시간 잠금 (아이폰, 2026)](https://note.com/minulo/n/n1f5960f6ab26)
+- [인스타 앱을 지우고 Safari로 쓰면 DM과 릴스는 어떻게 돼? 인스타는 지우고 싶지만 디엠은 필요할 때 알아 둘 알림 문제 (아이폰, 2026)](https://note.com/minulo/n/nc8babaf27960)
+- [[피드백 요청] WKWebView에서 '로그인 화면만' 통과시키는 호스트 허용 목록: 부분 일치 때문에 스레드 안에서 인스타가 통째로 열렸던 이야기](https://okky.kr/articles/1567182)
 - [다운타임 켰더니 카카오톡도 막혀요: 항상 허용으로 푸는 법과 인스타 DM까지 막힐 때 (아이폰, 2026)](https://dev.to/ayumu_kitabayashi_8e0de96/dauntaim-kyeossdeoni-kakaotogdo-maghyeoyo-hangsang-heoyongeuro-puneun-beobgwa-inseuta-dmggaji-maghil-ddae-aipon-2026-1849)
 
 **日本語**
