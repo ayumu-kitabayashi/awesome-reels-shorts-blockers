@@ -307,6 +307,7 @@ minulo の開発者が書いたもので、どれも最初にアプリなしで�
 - [インスタのストーリーズを CSS で消すルールと、効かなくなったことをどう知るか：当たった数で見張る](https://zenn.dev/minulo/articles/135b1eef6c1d79)
 - [アプリ使用時間の制限と休止時間、どちらが「無視」できない？ iPhone のスクリーンタイムを止まる強さで比べる](https://zenn.dev/minulo/articles/1cda966cdbbd6d)
 - [DM で届いたリールを、リールのフィードにはまらずに見る方法（iPhone）：届いた1本の手前で止める作り](https://qiita.com/feedminus47/items/1f03118eba25dae71941)
+- [YouTube ホームのショートの棚を × で消すと何日消える？（iPhone・パソコン）](https://zenn.dev/minulo/articles/b4a0816831a22f)
 
 **한국어**
 - [인스타 DM은 남기고 릴스만 없애는 법: 아이폰에서 쓸 수 있는 5가지 방법 비교 (2026)](https://velog.io/@barcaak1011/인스타-DM은-남기고-릴스만-없애는-법-아이폰에서-쓸-수-있는-5가지-방법-비교-2026)
