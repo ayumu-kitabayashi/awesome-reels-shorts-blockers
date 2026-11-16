@@ -9,7 +9,7 @@
 
 ## 되는 앱
 - **minulo(아이폰)**: minulo 안에서 인스타그램을 열고 DM 외의 모든 탭을 켜면(무료) 피드나 릴스를 안 보고 DM을 읽고 답장할 수 있어요.
-- **minulo(Mac)**: Mac 앱을 설치하면 Safari의 instagram.com에서 릴스와 탐색 탭, 스토리 줄이 사라지고 메시지로 가는 버튼은 그대로 쓸 수 있어요. Chrome에서는 Mac 앱 안의 안내에 따라 Chrome 확장 프로그램을 추가해요.
+- **minulo(Mac)**: Mac 앱을 설치하면 Safari의 instagram.com에서 릴스와 탐색 탭, 스토리 줄이 사라지고 메시지로 가는 버튼은 평소처럼 쓸 수 있어요. Chrome에서는 Mac 앱 안의 안내에 따라 Chrome 확장 프로그램을 추가해요.
 
 ## 한계
 - Mac 앱은 지금은 일본어로만 나와요.
