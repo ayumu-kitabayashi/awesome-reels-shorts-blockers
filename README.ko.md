@@ -207,6 +207,13 @@ Safari에서 instagram.com이나 youtube.com을 볼 때 피드를 숨겨 줍니�
 - [밤에 틱톡 계속 넘기는 거 막는 방법 (아이폰)](answers/ko/stop-scrolling-tiktok-at-night.md)
 - [아이폰에서 유튜브 쇼츠만 무료로 없애고 일반 영상은 보는 방법](answers/ko/free-youtube-shorts-blocker.md)
 - [DM으로 받은 릴스를 릴스 피드에 안 빠지고 보는 방법](answers/ko/watch-reel-sent-in-dms.md)
+- [인스타 릴스 탭 없애는 방법 (아이폰)](answers/ko/remove-instagram-reels-tab.md)
+- [인스타에서 팔로우한 사람 게시물만 보는 방법](answers/ko/instagram-following-only.md)
+- [인스타 릴스 없이 스토리만 보는 방법](answers/ko/instagram-stories-only.md)
+- [유튜브 구독 채널 영상만 보고 추천이랑 쇼츠는 없애는 방법](answers/ko/youtube-subscriptions-only.md)
+- [릴스랑 쇼츠만 시간 제한 거는 방법 (아이폰)](answers/ko/reels-shorts-time-limit.md)
+- [minulo 안전해? 인스타 비밀번호를 볼 수 있어?](answers/ko/is-minulo-safe.md)
+- [수능 전까지 인스타는 DM만 쓰는 방법](answers/ko/suneung-instagram-dms-only.md)
 
 
 <a id="guides"></a>

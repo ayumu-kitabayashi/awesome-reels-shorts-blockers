@@ -206,6 +206,13 @@ iPhone でリールなしのインスタを使う方法は2通りあり、どち
 - [夜に TikTok を見続けてしまうのを止める方法（iPhone）](answers/ja/stop-scrolling-tiktok-at-night.md)
 - [iPhone で YouTube のショートを無料で消して、ふつうの動画は見る方法](answers/ja/free-youtube-shorts-blocker.md)
 - [DM で届いたリールを、リールのフィードにはまらずに見る方法](answers/ja/watch-reel-sent-in-dms.md)
+- [インスタのリールのタブを消す方法は？（iPhone）](answers/ja/remove-instagram-reels-tab.md)
+- [インスタの動画の自動再生をオフにする方法（iPhone）](answers/ja/instagram-autoplay-off.md)
+- [YouTube で登録チャンネルの動画だけ見たい。おすすめやショートを消す方法は？](answers/ja/youtube-subscriptions-only.md)
+- [インスタでフォロー中の人の投稿だけを見る方法は？](answers/ja/instagram-following-only.md)
+- [インスタのリールだけに時間制限をかける方法は？（iPhone）](answers/ja/reels-only-time-limit.md)
+- [インスタでリールを見ずにストーリーズだけ見る方法は？](answers/ja/instagram-stories-only.md)
+- [minulo は安全？インスタのパスワードは見られる？](answers/ja/is-minulo-safe.md)
 
 
 <a id="guides"></a>

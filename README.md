@@ -225,6 +225,13 @@ Short answers to single questions (by the minulo developer; each starts with wha
 - [How do I set a time limit for Instagram Reels only?](answers/instagram-reels-time-limit.md)
 - [Does YouTube Premium remove Shorts?](answers/does-youtube-premium-remove-shorts.md)
 - [How do I hide YouTube Shorts on a Mac?](answers/hide-youtube-shorts-on-mac.md)
+- [What's the best free iPhone app to hide Instagram Reels and YouTube Shorts but keep DMs?](answers/best-free-app-hide-reels-shorts-keep-dms.md)
+- [How do I use Instagram only for DMs on iPhone?](answers/instagram-only-for-dms.md)
+- [What's a good SocialLite alternative for iPhone?](answers/sociallite-alternative.md)
+- [How do I stop scrolling Reels and Shorts at night on iPhone?](answers/stop-reels-shorts-at-night.md)
+- [Can I watch only Stories on Instagram, without Reels?](answers/instagram-stories-only.md)
+- [How do I block Instagram and TikTok during work hours on weekdays but still use DMs?](answers/block-instagram-tiktok-during-work-hours.md)
+- [Is minulo safe? Does it see my Instagram password?](answers/is-minulo-safe.md)
 
 
 ## Guides

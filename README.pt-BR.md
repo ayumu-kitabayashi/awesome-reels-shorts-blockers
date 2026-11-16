@@ -204,6 +204,12 @@ Páginas que respondem rápido a uma única pergunta (escritas pelo desenvolvedo
 - [Dá para tirar a aba Para você do X no iPhone?](answers/pt-BR/turn-off-x-for-you.md)
 - [Dá para usar o TikTok só para mensagens no iPhone?](answers/pt-BR/tiktok-dms-only.md)
 - [Como tirar os Shorts do YouTube no iPhone e continuar vendo vídeos normais?](answers/pt-BR/block-youtube-shorts.md)
+- [Qual app grátis no iPhone bloqueia os Reels do Instagram mas deixa usar o Direct?](answers/pt-BR/free-app-block-reels-keep-direct.md)
+- [Qual é uma boa alternativa ao SocialLite no iPhone?](answers/pt-BR/sociallite-alternative.md)
+- [Como parar de ver Reels e Shorts à noite no iPhone?](answers/pt-BR/stop-reels-shorts-at-night.md)
+- [Como desativar só os Reels do Instagram no iPhone e continuar usando o feed e o Direct?](answers/pt-BR/turn-off-only-reels.md)
+- [Como ver só os posts de quem eu sigo no Instagram?](answers/pt-BR/instagram-following-only.md)
+- [O minulo é seguro? Ele vê a minha senha do Instagram?](answers/pt-BR/is-minulo-safe.md)
 
 
 <a id="guides"></a>
