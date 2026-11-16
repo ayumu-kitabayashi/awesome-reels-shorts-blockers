@@ -30,7 +30,7 @@
 - [よくある質問](#quick-answers)
 - [各アプリで無料でできること](#whats-free)
 - [アプリなしでできる設定](#built-in-settings)
-- [リール・ショートを消した状態で SNS を開くアプリ（DMはそのまま）](#in-app-browsers)
+- [リール・ショートを消した状態で SNS を開くアプリ（DMはいつもどおり）](#in-app-browsers)
 - [Safari 機能拡張](#safari-extensions)
 - [アプリごと止めるアプリ（DMも止まる）](#whole-app-blockers)
 - [選び方](#how-to-choose)
@@ -107,7 +107,7 @@
 
 
 <a id="in-app-browsers"></a>
-## リール・ショートを消した状態で SNS を開くアプリ（DMはそのまま）
+## リール・ショートを消した状態で SNS を開くアプリ（DMはいつもどおり）
 各 SNS のウェブサイトをアプリの中で開き、リール・ショート・おすすめを非表示にします。スクリーンタイムで公式アプリにロックをかけ、うっかり公式アプリに戻らないようにできるものもあります。
 
 - **[SocialLite](https://apps.apple.com/us/app/id6757661674)**：SNS をアプリの中ですっきり見られる。スクリーンタイムで公式アプリを止めて SocialLite に飛ばせる（リリースノートより）。対応SNS：Instagram、YouTube、Reddit。TikTok、Snapchat、LinkedIn、X、Facebook はベータ（FAQ より）。料金：ダウンロード無料だが、新しく使う人はサブスクリプションが必要（FAQ によると誰でも使える無料プランはない）。料金ページでは米国で月 $9.99 か年 $29.99。App Store にはほかのオファーと月 $12.99 の Family もある（2026-11-10 確認）。無料でできること：新しく使う人はなし。DM：使える。米国 App Store の評価数：17,645（★4.7、2026-11-10 確認）。その他：インスタと Snapchat のメッセージのプッシュ通知。
