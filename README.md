@@ -265,6 +265,9 @@ Step-by-step write-ups (by the minulo developer; each covers the built-in option
 - [How do I only see posts from people I follow on Instagram? (iPhone, 2026)](https://note.com/minulo/n/na48d9a2874a6)
 - [Opal, Freedom or Downtime? Blocking only Instagram at night on iPhone while WhatsApp and iMessage keep working (2026)](https://dev.to/ayumu_kitabayashi_8e0de96/opal-freedom-or-downtime-blocking-only-instagram-at-night-on-iphone-while-whatsapp-and-imessage-115f)
 - [Is there a Safari extension on iPhone that hides Instagram Reels and YouTube Shorts? What they cover and where they stop (2026)](https://dev.to/ayumu_kitabayashi_8e0de96/is-there-a-safari-extension-on-iphone-that-hides-instagram-reels-and-youtube-shorts-what-they-2pec)
+- [I only want my YouTube subscriptions, no Shorts or recommendations. Unhook is for computers, so what works on iPhone? (2026)](https://dev.to/ayumu_kitabayashi_8e0de96/i-only-want-my-youtube-subscriptions-no-shorts-or-recommendations-unhook-is-for-computers-so-577n)
+- [Does YouTube Premium get rid of Shorts on iPhone? What it changes, what it doesn't, and how to hide Shorts without paying (2026)](https://dev.to/ayumu_kitabayashi_8e0de96/does-youtube-premium-get-rid-of-shorts-on-iphone-what-it-changes-what-it-doesnt-and-how-to-hide-3oik)
+- [Can I watch my friends' Instagram Stories without the Reels? A Stories-and-DMs setup for iPhone (2026)](https://dev.to/ayumu_kitabayashi_8e0de96/can-i-watch-my-friends-instagram-stories-without-the-reels-a-stories-and-dms-setup-for-iphone-12j)
 
 
 ### One question, one page (October 2026)

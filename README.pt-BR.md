@@ -235,6 +235,7 @@ Passo a passo em inglês (escritos pelo desenvolvedor do minulo; cada um começa
 - [Um amigo mandou um Reel no Direct: como assistir sem cair no feed de Reels no iPhone (2026)](https://dev.to/ayumu_kitabayashi_8e0de96/um-amigo-mandou-um-reel-no-direct-como-assistir-sem-cair-no-feed-de-reels-no-iphone-2026-3f27)
 - [Scroll Less, StillTabs ou minulo: qual app no iPhone bloqueia os Reels e mantém o Direct, e o que cada um vende no app (2026)](https://dev.to/ayumu_kitabayashi_8e0de96/scroll-less-stilltabs-ou-minulo-qual-app-no-iphone-bloqueia-os-reels-e-mantem-o-direct-e-o-que-2bno)
 - [Como parar de ver Reels e Shorts à noite? O que fazer na hora em que você pega o celular na cama (iPhone, 2026)](https://note.com/minulo/n/n883bec20caff)
+- [Dá para tirar a aba Reels do Instagram e manter o Explorar, ou o contrário? (iPhone, 2026)](https://dev.to/ayumu_kitabayashi_8e0de96/da-para-tirar-a-aba-reels-do-instagram-e-manter-o-explorar-ou-o-contrario-iphone-2026-436g)
 
 
 <a id="guides-other-languages"></a>
