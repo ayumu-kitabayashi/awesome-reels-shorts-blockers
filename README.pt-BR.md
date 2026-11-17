@@ -242,6 +242,8 @@ Passo a passo em inglês (escritos pelo desenvolvedor do minulo; cada um começa
 - [Scroll Less, StillTabs ou minulo: qual app no iPhone bloqueia os Reels e mantém o Direct, e o que cada um vende no app (2026)](https://dev.to/ayumu_kitabayashi_8e0de96/scroll-less-stilltabs-ou-minulo-qual-app-no-iphone-bloqueia-os-reels-e-mantem-o-direct-e-o-que-2bno)
 - [Como parar de ver Reels e Shorts à noite? O que fazer na hora em que você pega o celular na cama (iPhone, 2026)](https://note.com/minulo/n/n883bec20caff)
 - [Dá para tirar a aba Reels do Instagram e manter o Explorar, ou o contrário? (iPhone, 2026)](https://dev.to/ayumu_kitabayashi_8e0de96/da-para-tirar-a-aba-reels-do-instagram-e-manter-o-explorar-ou-o-contrario-iphone-2026-436g)
+- [Dá para bloquear o Instagram e continuar recebendo a notificação do Direct? O que é grátis e o que é beta do Pro (iPhone, 2026)](https://dev.to/ayumu_kitabayashi_8e0de96/da-para-bloquear-o-instagram-e-continuar-recebendo-a-notificacao-do-direct-o-que-e-gratis-e-o-que-14e6)
+- [Qual é uma boa alternativa ao SocialLite no iPhone? Cinco coisas para conferir antes de trocar (iPhone, 2026)](https://note.com/minulo/n/n70364dcd37b3)
 
 
 <a id="guides-other-languages"></a>

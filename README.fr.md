@@ -456,6 +456,7 @@ Tutoriels pas à pas, en anglais (écrits par le développeur de minulo ; chacun
 - [Usar Instagram solo para mensajes en el iPhone: qué funciona y qué no (2026)](https://minulo.substack.com/p/usar-instagram-solo-para-mensajes)
 - [Comment utiliser Instagram seulement pour les messages sur iPhone ? Les groupes restent, les Reels et le fil partent (2026)](https://dev.to/ayumu_kitabayashi_8e0de96/comment-utiliser-instagram-seulement-pour-les-messages-sur-iphone-les-groupes-restent-les-reels-4845)
 - [Peut-on enlever seulement l'onglet Reels d'Instagram et garder Explorer, ou l'inverse ? (iPhone, 2026)](https://dev.to/ayumu_kitabayashi_8e0de96/peut-on-enlever-seulement-longlet-reels-dinstagram-et-garder-explorer-ou-linverse-iphone-49mm)
+- [Comment ne voir que les vidéos de mes abonnements sur YouTube, sans Shorts ni recommandations ? (iPhone, 2026)](https://dev.to/ayumu_kitabayashi_8e0de96/comment-ne-voir-que-les-videos-de-mes-abonnements-sur-youtube-sans-shorts-ni-recommandations--27d2)
 
 
 <a id="data"></a>

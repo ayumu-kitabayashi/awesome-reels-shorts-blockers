@@ -275,6 +275,10 @@ Step-by-step write-ups (by the minulo developer; each covers the built-in option
 - [I only want my YouTube subscriptions, no Shorts or recommendations. Unhook is for computers, so what works on iPhone? (2026)](https://dev.to/ayumu_kitabayashi_8e0de96/i-only-want-my-youtube-subscriptions-no-shorts-or-recommendations-unhook-is-for-computers-so-577n)
 - [Does YouTube Premium get rid of Shorts on iPhone? What it changes, what it doesn't, and how to hide Shorts without paying (2026)](https://dev.to/ayumu_kitabayashi_8e0de96/does-youtube-premium-get-rid-of-shorts-on-iphone-what-it-changes-what-it-doesnt-and-how-to-hide-3oik)
 - [Can I watch my friends' Instagram Stories without the Reels? A Stories-and-DMs setup for iPhone (2026)](https://dev.to/ayumu_kitabayashi_8e0de96/can-i-watch-my-friends-instagram-stories-without-the-reels-a-stories-and-dms-setup-for-iphone-12j)
+- [Why Instagram's Daily limit doesn't stop you from scrolling Reels (and what does) (2026)](https://dev.to/ayumu_kitabayashi_8e0de96/why-instagrams-daily-limit-doesnt-stop-you-from-scrolling-reels-and-what-does-2026-kfj)
+- [How do I use Instagram DMs without opening the app, but still get the message alerts? (iPhone, 2026)](https://dev.to/ayumu_kitabayashi_8e0de96/how-do-i-use-instagram-dms-without-opening-the-app-but-still-get-the-message-alerts-iphone-2026-58e9)
+- [How do I watch a Reel a friend sent in DMs without getting pulled into Reels? Which blockers still let it play (iPhone, 2026)](https://dev.to/ayumu_kitabayashi_8e0de96/how-do-i-watch-a-reel-a-friend-sent-in-dms-without-getting-pulled-into-reels-which-blockers-still-2k8m)
+- [What can I do instead of scrolling Reels before bed? (iPhone, 2026)](https://note.com/minulo/n/n40bbffd2eabe)
 
 
 ### One question, one page (October 2026)

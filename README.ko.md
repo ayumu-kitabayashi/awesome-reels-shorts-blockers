@@ -260,6 +260,8 @@ minulo 개발자가 썼고, 모두 기본 설정부터 다룹니다.
 - [자기 전에 릴스·쇼츠 그만 보고 싶은데 폰을 내려놓으면 손이 심심해요: 대신 할 것 하나와 2시간 잠금 (아이폰, 2026)](https://note.com/minulo/n/n1f5960f6ab26)
 - [인스타 앱을 지우고 Safari로 쓰면 DM과 릴스는 어떻게 돼? 인스타는 지우고 싶지만 디엠은 필요할 때 알아 둘 알림 문제 (아이폰, 2026)](https://note.com/minulo/n/nc8babaf27960)
 - [[피드백 요청] WKWebView에서 '로그인 화면만' 통과시키는 호스트 허용 목록: 부분 일치 때문에 스레드 안에서 인스타가 통째로 열렸던 이야기](https://okky.kr/articles/1567182)
+- [SocialLite 무료야? 요금, 인앱 결제, 무료로 되는 것 정리 (아이폰, 2026년 11월 확인)](https://note.com/minulo/n/na7c04d41e992)
+- [인스타 열어도 피드 안 보고 DM으로 바로 가는 법 (아이폰, 2026)](https://disquiet.io/posts/oAC9O8)
 - [다운타임 켰더니 카카오톡도 막혀요: 항상 허용으로 푸는 법과 인스타 DM까지 막힐 때 (아이폰, 2026)](https://dev.to/ayumu_kitabayashi_8e0de96/dauntaim-kyeossdeoni-kakaotogdo-maghyeoyo-hangsang-heoyongeuro-puneun-beobgwa-inseuta-dmggaji-maghil-ddae-aipon-2026-1849)
 
 **日本語**
