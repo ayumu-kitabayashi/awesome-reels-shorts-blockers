@@ -279,6 +279,10 @@ Step-by-step write-ups (by the minulo developer; each covers the built-in option
 - [How do I use Instagram DMs without opening the app, but still get the message alerts? (iPhone, 2026)](https://dev.to/ayumu_kitabayashi_8e0de96/how-do-i-use-instagram-dms-without-opening-the-app-but-still-get-the-message-alerts-iphone-2026-58e9)
 - [How do I watch a Reel a friend sent in DMs without getting pulled into Reels? Which blockers still let it play (iPhone, 2026)](https://dev.to/ayumu_kitabayashi_8e0de96/how-do-i-watch-a-reel-a-friend-sent-in-dms-without-getting-pulled-into-reels-which-blockers-still-2k8m)
 - [What can I do instead of scrolling Reels before bed? (iPhone, 2026)](https://note.com/minulo/n/n40bbffd2eabe)
+- [I'm addicted to Reels but I need Instagram to message my friends. How to get rid of the Reels tab on iPhone (2026)](https://dev.to/ayumu_kitabayashi_8e0de96/im-addicted-to-reels-but-i-need-instagram-to-message-my-friends-how-to-get-rid-of-the-reels-tab-2e3i)
+- [How do I turn off Snapchat Spotlight? I only use Snapchat to message my friends (iPhone, 2026)](https://dev.to/ayumu_kitabayashi_8e0de96/how-do-i-turn-off-snapchat-spotlight-i-only-use-snapchat-to-message-my-friends-iphone-2026-3me5)
+- [Is SocialLite free? My roommate uses it without paying, but it asks me to subscribe (iPhone, 2026)](https://dev.to/ayumu_kitabayashi_8e0de96/is-sociallite-free-my-roommate-uses-it-without-paying-but-it-asks-me-to-subscribe-iphone-2026-388d)
+- [If I delete the Instagram app and use Safari, do I still get DM notifications? (iPhone, 2026)](https://note.com/minulo/n/nbddfb4aa9322)
 
 
 ### One question, one page (October 2026)

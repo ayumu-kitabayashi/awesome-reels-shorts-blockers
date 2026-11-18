@@ -262,6 +262,8 @@ minulo 개발자가 썼고, 모두 기본 설정부터 다룹니다.
 - [[피드백 요청] WKWebView에서 '로그인 화면만' 통과시키는 호스트 허용 목록: 부분 일치 때문에 스레드 안에서 인스타가 통째로 열렸던 이야기](https://okky.kr/articles/1567182)
 - [SocialLite 무료야? 요금, 인앱 결제, 무료로 되는 것 정리 (아이폰, 2026년 11월 확인)](https://note.com/minulo/n/na7c04d41e992)
 - [인스타 열어도 피드 안 보고 DM으로 바로 가는 법 (아이폰, 2026)](https://disquiet.io/posts/oAC9O8)
+- [다운타임에 인스타만 막고 카카오톡은 쓰는 방법: 항상 허용에 카카오톡과 minulo를 같이 넣으면 (아이폰, 2026)](https://note.com/minulo/n/n6b7e0bb897f2)
+- [[피드백 요청] DM으로 받은 릴스를 릴스 피드에 안 빠지고 보는 방법: WKWebView에서 /reel/ 경로 앞에서 멈추고, 10초 뒤에 5분만 여는 구조](https://okky.kr/articles/1567324)
 - [다운타임 켰더니 카카오톡도 막혀요: 항상 허용으로 푸는 법과 인스타 DM까지 막힐 때 (아이폰, 2026)](https://dev.to/ayumu_kitabayashi_8e0de96/dauntaim-kyeossdeoni-kakaotogdo-maghyeoyo-hangsang-heoyongeuro-puneun-beobgwa-inseuta-dmggaji-maghil-ddae-aipon-2026-1849)
 
 **日本語**

@@ -241,6 +241,7 @@ Vom Entwickler von minulo; jede beginnt mit den eingebauten Möglichkeiten.
 - [Aus dem Screen-Time-Sperrbildschirm die eigene App öffnen: ShieldAction kann es nicht, eine Mitteilung schon](https://dev.to/ayumu_kitabayashi_8e0de96/aus-dem-screen-time-sperrbildschirm-die-eigene-app-offnen-shieldaction-kann-es-nicht-eine-3o82) (für Entwickler)
 - [Abends keine Reels und Shorts mehr schauen am iPhone: minulo, die Auszeit und was jeweils gesperrt wird (2026)](https://dev.to/ayumu_kitabayashi_8e0de96/abends-keine-reels-und-shorts-mehr-schauen-am-iphone-minulo-die-auszeit-und-was-jeweils-gesperrt-2iac)
 - [Kann ich TikTok ohne „Für dich“ nutzen, nur für Nachrichten oder nur für Leute, denen ich folge? (iPhone, 2026)](https://dev.to/ayumu_kitabayashi_8e0de96/kann-ich-tiktok-ohne-fur-dich-nutzen-nur-fur-nachrichten-oder-nur-fur-leute-denen-ich-folge-3p9d)
+- [Du wartest auf eine Recruiterin und landest im LinkedIn-Feed: LinkedIn auf dem iPhone nur für Nachrichten und Jobs nutzen (2026)](https://dev.to/ayumu_kitabayashi_8e0de96/du-wartest-auf-eine-recruiterin-und-landest-im-linkedin-feed-linkedin-auf-dem-iphone-nur-fur-3plj)
 
 **日本語**
 - [インスタの DM は残してリールだけ消す：iPhone でできる5つの方法を比べた（2026）](https://zenn.dev/minulo/articles/a66d0db9b53459)
