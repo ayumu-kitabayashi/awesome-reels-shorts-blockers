@@ -265,6 +265,7 @@ minulo 개발자가 썼고, 모두 기본 설정부터 다룹니다.
 - [다운타임에 인스타만 막고 카카오톡은 쓰는 방법: 항상 허용에 카카오톡과 minulo를 같이 넣으면 (아이폰, 2026)](https://note.com/minulo/n/n6b7e0bb897f2)
 - [[피드백 요청] DM으로 받은 릴스를 릴스 피드에 안 빠지고 보는 방법: WKWebView에서 /reel/ 경로 앞에서 멈추고, 10초 뒤에 5분만 여는 구조](https://okky.kr/articles/1567324)
 - [다운타임 켰더니 카카오톡도 막혀요: 항상 허용으로 푸는 법과 인스타 DM까지 막힐 때 (아이폰, 2026)](https://dev.to/ayumu_kitabayashi_8e0de96/dauntaim-kyeossdeoni-kakaotogdo-maghyeoyo-hangsang-heoyongeuro-puneun-beobgwa-inseuta-dmggaji-maghil-ddae-aipon-2026-1849)
+- [자기 전에 DM 답장만 하고 자려는데 릴스로 넘어가요: 침대에서 쓰는 아이폰 설정 (2026)](https://note.com/minulo/n/n94493d161666)
 
 **日本語**
 - [インスタの DM は残してリールだけ消す：iPhone でできる5つの方法を比べた（2026）](https://zenn.dev/minulo/articles/a66d0db9b53459)

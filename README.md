@@ -283,6 +283,11 @@ Step-by-step write-ups (by the minulo developer; each covers the built-in option
 - [How do I turn off Snapchat Spotlight? I only use Snapchat to message my friends (iPhone, 2026)](https://dev.to/ayumu_kitabayashi_8e0de96/how-do-i-turn-off-snapchat-spotlight-i-only-use-snapchat-to-message-my-friends-iphone-2026-3me5)
 - [Is SocialLite free? My roommate uses it without paying, but it asks me to subscribe (iPhone, 2026)](https://dev.to/ayumu_kitabayashi_8e0de96/is-sociallite-free-my-roommate-uses-it-without-paying-but-it-asks-me-to-subscribe-iphone-2026-388d)
 - [If I delete the Instagram app and use Safari, do I still get DM notifications? (iPhone, 2026)](https://note.com/minulo/n/nbddfb4aa9322)
+- [I open Instagram to check one message, then doomscroll for an hour. How do I open it straight to my DMs? (iPhone, 2026)](https://dev.to/ayumu_kitabayashi_8e0de96/i-open-instagram-to-check-one-message-then-doomscroll-for-an-hour-how-do-i-open-it-straight-to-my-4ake)
+- [I tapped Not interested on YouTube Shorts and they came back. How do I hide Shorts on iPhone and keep normal videos? (2026)](https://dev.to/ayumu_kitabayashi_8e0de96/i-tapped-not-interested-on-youtube-shorts-and-they-came-back-how-do-i-hide-shorts-on-iphone-and-519j)
+- [If I hide the Shorts shelf on YouTube Home, how long does it stay hidden? And how do I keep it off? (iPhone, 2026)](https://dev.to/ayumu_kitabayashi_8e0de96/if-i-hide-the-shorts-shelf-on-youtube-home-how-long-does-it-stay-hidden-and-how-do-i-keep-it-off-4o90)
+- [Can I hide Instagram Explore but still search for my friends? (iPhone, 2026)](https://note.com/minulo/n/n9d0c50262a2f)
+- [How to block only Instagram during Downtime but keep messaging apps on iPhone](https://minulo.substack.com/p/how-to-block-only-instagram-during)
 
 
 ### One question, one page (October 2026)

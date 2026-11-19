@@ -246,6 +246,8 @@ Passo a passo em inglês (escritos pelo desenvolvedor do minulo; cada um começa
 - [Qual é uma boa alternativa ao SocialLite no iPhone? Cinco coisas para conferir antes de trocar (iPhone, 2026)](https://note.com/minulo/n/n70364dcd37b3)
 - [Abro o Instagram só para responder o Direct e caio nos Reels: como cortar esse caminho (iPhone, 2026)](https://dev.to/ayumu_kitabayashi_8e0de96/abro-o-instagram-so-para-responder-o-direct-e-caio-nos-reels-como-cortar-esse-caminho-iphone-1kgf)
 - [Como usar o Instagram só para mensagens diretas no iPhone? O que continua funcionando e o que não (iPhone, 2026)](https://note.com/minulo/n/na8d7ca445164)
+- [Um amigo me mandou um Short: como assistir só aquele vídeo no player normal, sem cair no feed de Shorts (iPhone, 2026)](https://dev.to/ayumu_kitabayashi_8e0de96/um-amigo-me-mandou-um-short-como-assistir-so-aquele-video-no-player-normal-sem-cair-no-feed-de-560e)
+- [Como bloquear Reels e Shorts sem pagar? O que o minulo deixa usar sem assinatura, sem cadastro e sem cartão (iPhone, 2026)](https://note.com/minulo/n/n430c01316e6f)
 
 
 <a id="guides-other-languages"></a>
