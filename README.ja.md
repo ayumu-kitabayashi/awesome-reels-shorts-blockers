@@ -327,6 +327,8 @@ minulo の開発者が書いたもので、どれも最初にアプリなしで�
 - [インスタのアプリを消して Safari で使うと、DM とリールはどうなる？通知と機能拡張のことも先に知っておく（iPhone・2026年）](https://minulo.hatenablog.com/entry/2026/11/17/190000)
 - [SocialLite の代わりは Safari の拡張機能でもいい？Nope・ScrollGuard と、アプリの中で開く minulo の違い（iPhone・2026年）](https://minulo.hatenablog.com/entry/2026/11/18/090000)
 - [インスタを開いてもフィードを見ずに DM へ直接行く方法（iPhone・2026年）](https://minulo.hatenablog.com/entry/2026/11/18/190000)
+- [寝る前にリールやショートを見続けるのをやめる方法：スマホを置いたあとに「代わりにすること」を先に決める（iPhone・2026年）](https://minulo.hatenablog.com/entry/2026/11/19/090000)
+- [インスタの DM をアプリを開かずに使う方法：既読をつけずに読む話とは別に、フィードを見ずに返信したい人へ（iPhone・2026年）](https://minulo.hatenablog.com/entry/2026/11/19/190000)
 
 **한국어**
 - [인스타 DM은 남기고 릴스만 없애는 법: 아이폰에서 쓸 수 있는 5가지 방법 비교 (2026)](https://velog.io/@barcaak1011/인스타-DM은-남기고-릴스만-없애는-법-아이폰에서-쓸-수-있는-5가지-방법-비교-2026)
