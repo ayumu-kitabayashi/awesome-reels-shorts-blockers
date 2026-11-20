@@ -458,6 +458,7 @@ Tutoriels pas à pas, en anglais (écrits par le développeur de minulo ; chacun
 - [Peut-on enlever seulement l'onglet Reels d'Instagram et garder Explorer, ou l'inverse ? (iPhone, 2026)](https://dev.to/ayumu_kitabayashi_8e0de96/peut-on-enlever-seulement-longlet-reels-dinstagram-et-garder-explorer-ou-linverse-iphone-49mm)
 - [Comment ne voir que les vidéos de mes abonnements sur YouTube, sans Shorts ni recommandations ? (iPhone, 2026)](https://dev.to/ayumu_kitabayashi_8e0de96/comment-ne-voir-que-les-videos-de-mes-abonnements-sur-youtube-sans-shorts-ni-recommandations--27d2)
 - [Comment enlever l'onglet « Pour vous » de X (Twitter) sur iPhone ? Ce que X permet et ce qui le fait disparaître (2026)](https://dev.to/ayumu_kitabayashi_8e0de96/comment-enlever-longlet-pour-vous-de-x-twitter-sur-iphone-ce-que-x-permet-et-ce-qui-le-69f)
+- [Le groupe de la classe est sur Instagram : garder les messages sans les Reels sur iPhone, sans abonnement (2026)](https://dev.to/ayumu_kitabayashi_8e0de96/le-groupe-de-la-classe-est-sur-instagram-garder-les-messages-sans-les-reels-sur-iphone-sans-3ch)
 
 
 <a id="data"></a>

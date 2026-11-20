@@ -266,6 +266,8 @@ minulo 개발자가 썼고, 모두 기본 설정부터 다룹니다.
 - [[피드백 요청] DM으로 받은 릴스를 릴스 피드에 안 빠지고 보는 방법: WKWebView에서 /reel/ 경로 앞에서 멈추고, 10초 뒤에 5분만 여는 구조](https://okky.kr/articles/1567324)
 - [다운타임 켰더니 카카오톡도 막혀요: 항상 허용으로 푸는 법과 인스타 DM까지 막힐 때 (아이폰, 2026)](https://dev.to/ayumu_kitabayashi_8e0de96/dauntaim-kyeossdeoni-kakaotogdo-maghyeoyo-hangsang-heoyongeuro-puneun-beobgwa-inseuta-dmggaji-maghil-ddae-aipon-2026-1849)
 - [자기 전에 DM 답장만 하고 자려는데 릴스로 넘어가요: 침대에서 쓰는 아이폰 설정 (2026)](https://note.com/minulo/n/n94493d161666)
+- [인스타 막아 둔 동안 DM은 어떻게 돼요? 알림이 오는 경우와 안 오는 경우 정리 (Pro 베타 포함, 아이폰 2026)](https://note.com/minulo/n/nc599a6406f17)
+- [[피드백 요청] 틱톡 모바일 웹은 PC와 주소가 달랐어요: /messages는 추천으로 튕기고, 로그인 뒤에도 추천으로 가서 막혔던 이야기](https://okky.kr/articles/1567485)
 
 **日本語**
 - [インスタの DM は残してリールだけ消す：iPhone でできる5つの方法を比べた（2026）](https://zenn.dev/minulo/articles/a66d0db9b53459)

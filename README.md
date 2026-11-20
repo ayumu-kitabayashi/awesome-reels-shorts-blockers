@@ -288,6 +288,10 @@ Step-by-step write-ups (by the minulo developer; each covers the built-in option
 - [If I hide the Shorts shelf on YouTube Home, how long does it stay hidden? And how do I keep it off? (iPhone, 2026)](https://dev.to/ayumu_kitabayashi_8e0de96/if-i-hide-the-shorts-shelf-on-youtube-home-how-long-does-it-stay-hidden-and-how-do-i-keep-it-off-4o90)
 - [Can I hide Instagram Explore but still search for my friends? (iPhone, 2026)](https://note.com/minulo/n/n9d0c50262a2f)
 - [How to block only Instagram during Downtime but keep messaging apps on iPhone](https://minulo.substack.com/p/how-to-block-only-instagram-during)
+- [How do I stop scrolling TikTok at night on iPhone? Downtime blocks messages too, so here's what keeps them (2026)](https://dev.to/ayumu_kitabayashi_8e0de96/how-do-i-stop-scrolling-tiktok-at-night-on-iphone-downtime-blocks-messages-too-so-heres-what-387o)
+- [A Reels blocker that doesn't ask for money in setup? What you can hide on iPhone before paying anything (2026)](https://dev.to/ayumu_kitabayashi_8e0de96/a-reels-blocker-that-doesnt-ask-for-money-in-setup-what-you-can-hide-on-iphone-before-paying-35jh)
+- [Do I have to start a block every night? Sleep mode, a 2-hour block or Sleep Focus for Instagram and TikTok (iPhone, 2026)](https://dev.to/ayumu_kitabayashi_8e0de96/do-i-have-to-start-a-block-every-night-sleep-mode-a-2-hour-block-or-sleep-focus-for-instagram-and-3eca)
+- [How do I only get notified about new videos from my YouTube subscriptions, and only watch those? (iPhone, 2026)](https://note.com/minulo/n/n9e32eebd82a1)
 
 
 ### One question, one page (October 2026)

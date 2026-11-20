@@ -248,6 +248,8 @@ Passo a passo em inglês (escritos pelo desenvolvedor do minulo; cada um começa
 - [Como usar o Instagram só para mensagens diretas no iPhone? O que continua funcionando e o que não (iPhone, 2026)](https://note.com/minulo/n/na8d7ca445164)
 - [Um amigo me mandou um Short: como assistir só aquele vídeo no player normal, sem cair no feed de Shorts (iPhone, 2026)](https://dev.to/ayumu_kitabayashi_8e0de96/um-amigo-me-mandou-um-short-como-assistir-so-aquele-video-no-player-normal-sem-cair-no-feed-de-560e)
 - [Como bloquear Reels e Shorts sem pagar? O que o minulo deixa usar sem assinatura, sem cadastro e sem cartão (iPhone, 2026)](https://note.com/minulo/n/n430c01316e6f)
+- [Se eu esconder o Explorar do Instagram, ainda dá para pesquisar pessoas pela lupa? (iPhone, 2026)](https://dev.to/ayumu_kitabayashi_8e0de96/se-eu-esconder-o-explorar-do-instagram-ainda-da-para-pesquisar-pessoas-pela-lupa-iphone-2026-2him)
+- [Como tirar os Shorts do YouTube no iPhone mas continuar vendo vídeos normais? Os três lugares onde os Shorts aparecem (iPhone, 2026)](https://note.com/minulo/n/n5221603c7802)
 
 
 <a id="guides-other-languages"></a>
