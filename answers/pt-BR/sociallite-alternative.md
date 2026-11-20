@@ -22,7 +22,7 @@ O SocialLite (Block Reels & Shorts) esconde os feeds de vídeos curtos e o Explo
 
 ## Perguntas frequentes
 ### Eu recebo as notificações do Instagram no minulo?
-O minulo não envia notificações próprias. Enquanto ele bloqueia o app oficial, as notificações desse app não chegam. Desde a versão 1.0.19, quem tem o Pro pode ativar as notificações de DM (beta), e aí as notificações do Direct continuam chegando com o Instagram bloqueado, exceto no Modo sono, no Horário de trabalho ou depois do Limite diário. Se você depende das notificações do Instagram e do Snapchat, o SocialLite atende melhor.
+O minulo não envia notificações próprias. Enquanto ele bloqueia o app oficial, as notificações desse app não chegam. Quem tem o Pro pode ativar as notificações de DM (beta), e aí as notificações do Direct continuam chegando com o Instagram bloqueado, exceto no Modo sono, no Foco do Horário de trabalho ou depois do Limite diário. Se você depende das notificações do Instagram e do Snapchat, o SocialLite atende melhor.
 
 ### O que é pago no minulo?
 Esconder Reels, Shorts e posts sugeridos não custa nada. O Pro, uma assinatura mensal ou anual, adiciona o Modo sono, o Horário de trabalho, o Modo Rígido e o Limite diário.

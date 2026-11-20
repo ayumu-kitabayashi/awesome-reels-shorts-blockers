@@ -3,27 +3,27 @@
 
 **インスタのリール、YouTubeショート、TikTok のおすすめ**だけを消して、DM やグループチャット、検索、フォロー中のアカウントはいつもどおり使える iPhone のアプリと設定をまとめた一覧です。
 
-> **開示：** この一覧は、下に載っているアプリのひとつ [minulo](https://minulo.app/en/) の開発者が管理しています。内容は各アプリの米国 App Store のページか公式サイトに書かれていることだけを使っています（2026年10月に確認、評価数の最終更新は 2026-10-27）。評価数は毎日変わります。誤りの指摘や追加は issue か pull request でお願いします。minulo もこの一覧に入っているので、[無料でできること](#whats-free)の表では、minulo も含めたすべてのアプリについて、払わずに使える範囲を各アプリの掲載ページか公式サイトに書かれているとおりに載せています。
+> **開示：** この一覧は、下に載っているアプリのひとつ [minulo](https://minulo.app/en/?ref=github-arsb-ja) の開発者が管理しています。内容は各アプリの米国 App Store のページか公式サイトに書かれていることだけを使っています（2026年10月に確認、評価数の最終更新は 2026-10-27）。評価数は毎日変わります。誤りの指摘や追加は issue か pull request でお願いします。minulo もこの一覧に入っているので、[無料でできること](#whats-free)の表では、minulo も含めたすべてのアプリについて、払わずに使える範囲を各アプリの掲載ページか公式サイトに書かれているとおりに載せています。
 
 
 <a id="quick-answers"></a>
 ## よくある質問
-- **インスタのリールだけ消して DM は使える、無料の iPhone アプリは？（YouTube のショートも）** minulo、Stillfeed、Reelmute、Awhile はアプリの中でリールを無料で消せて DM もいつもどおり使え、minulo は TikTok を含む 10 の SNS に対応した iPhone のアプリで（Safari と Chrome で使える Mac 版もある）、Android 版はありません。FeedOff と StillTabs には買うものがまったくなく（FeedOff は6つの SNS で、TikTok はアプリごと止めるだけ。StillTabs は5つの SNS で、TikTok はなし）、Fluid Friction はインスタの DMs Only も含めてブロックの機能がすべて無料です（Pro はテーマとダークモード）。Stillfeed はバージョン 1.2.6 から公式アプリのロックも無料です。Nope は完全に無料ですが Safari の中だけで、YouTube のショートの上限とスクリーンタイムは無料でも、前者は大人ならすぐ閉じられ、後者は DM ごとアプリを止めます。（[それぞれ何が無料か](https://minulo.app/free-reels-blocker.html)）
-- **iPhone で YouTube のショートだけ消して、ふつうの動画は残すには？** minulo なら、ショートの棚とショートのタブを無料で消せて、ふつうの動画や検索、登録チャンネルはいつもどおり使えます（minulo の中で YouTube を見るとき）。YouTube のショートフィードの上限を 0 にしても、大人のアカウントなら閉じられ、登録チャンネルと送られたリンクのショートは残ります。Stillfeed、Reelmute、noShorts もアプリの中でショートのない YouTube を開け、Nope は同じことを Safari でできます。（[やり方](https://minulo.app/block-youtube-shorts.html)）
-- **インスタを DM だけで使う方法は？（iPhone）** インスタ自体には DM だけにするモードがなく、iPhone のスクリーンタイムは DM ごとアプリ全体を止めます。minulo の［DM以外のタブ］は無料で、DM（グループ DM も）とお知らせのタブだけが残ります。Fluid Friction の DMs Only（インスタ）と LoomWeb の「Limit to DMs only」も無料で、UNDOOMED、Stillfeed、Reelmute、Awhile、Intent ではメッセージだけの表示は有料です。（[やり方](https://minulo.app/instagram-dms-only.html)・[DM だけにできる無料アプリは？](https://minulo.app/free-instagram-dms-only-app.html)）
-- **SocialLite の代わりになるアプリは？（iPhone）** minulo、UNDOOMED、Awhile、LoomWeb はアプリの中でリールとショートを消して SNS を開き DM も使え（ScrollGuard と Nope は Safari 機能拡張で同じことをします）、minulo は SocialLite と同じくスクリーンタイムで公式アプリも止められる、TikTok を含む 10 の SNS に対応した iPhone のアプリで（Safari と Chrome で使える Mac 版もある）、Android 版はありません。SocialLite は評価が 17,645件・★4.7（米国の App Store、2026-11-10 確認）と多く、インスタと Snapchat の通知も届きます。ただし新しく使う人はサブスクリプションが必要です（料金ページでは米国で月 $9.99 か年 $29.99。App Store には月 $12.99 の Family もあります）。（[比較](https://minulo.app/sociallite-alternatives.html)）
-- **SocialLite は無料？** 新しく使う人には無料ではありません。ダウンロードは無料ですが、FAQ によると新規登録には有料のサブスクリプションが必要で、誰でも使える無料プランはありません。料金ページでは米国で月9.99ドルか年29.99ドル、無料体験は条件しだいで、App Store にはほかのオファーと月12.99ドルのファミリープランも載っています（2026-11-10 確認）。minulo、Stillfeed、Reelmute、Fluid Friction はリールとショートを無料で消せ、FeedOff と StillTabs には買うものがありません。Nope は Safari の中で完全に無料です。（[料金と無料の代わり](https://minulo.app/is-sociallite-free.html)）
-- **寝る前にリールやショートを見続けるのをやめるには？（iPhone）** minulo なら、リールとショートを無料で消したうえで、公式の Instagram・YouTube・TikTok を毎晩同じ時刻に自動で止められます（スリープモード、Pro）。DM やふつうの動画はいつもどおり使えます。アプリを入れずにやるならスクリーンタイムの休止時間ですが、夜にアプリをまるごと止めるので DM も使えなくなります。「睡眠」集中モード・グレイスケール・寝室の外での充電も、何も止めずに助けになります。minulo で公式アプリを手動で止めるのは、1回2時間まで無料です。（[やり方](https://minulo.app/stop-doomscrolling-at-night.html)・[夜に TikTok を止める](https://minulo.app/stop-scrolling-tiktok-at-night.html)）
-- **YouTube のショートはオフにできる？** オフにするスイッチはありません。YouTube の中でできるのは、ショート フィードの上限を0分にする（大人は閉じられます）、［ショート動画の表示を減らす］を選ぶ、再生履歴をオフにする、くらいで、iPhone のスクリーンタイムは YouTube アプリごと止めます。minulo ならショートの棚とショートのタブを無料で消せて、ふつうの動画・検索・登録チャンネルは残ります（効くのは minulo の中だけ）。Nope は Safari で同じことをします。（[できること](https://minulo.app/can-you-turn-off-youtube-shorts.html)）
-- **ショートの棚の × で消すと、ずっと消えたまま？** ずっとではありません。SlashGear と GeekChamp は「30日間非表示」という表示が出ると伝えていますが、YouTube のヘルプには × のことも期間も書かれておらず、× が出ないアカウントもあります。棚を隠してもショートのタブ・検索・登録チャンネル・チャンネルのページには残ります。minulo ならショートの棚とタブを無料で消せて、設定を変えるまで消えたままです（minulo の中だけ）。（[何日消えるか](https://minulo.app/youtube-hide-shorts-shelf.html)）
-- **インスタを開いたらすぐ DM へ行ける？** インスタ自体にその設定はありません。メッセージの通知をタップすればそのチャットが開きますが、アプリの中なのでフィードとリールはタップ1回の場所に残ります。minulo の［DM以外のタブ］は無料で、DM とお知らせのタブだけが残ります（minulo の中だけ）。（[やり方](https://minulo.app/instagram-open-straight-to-dms.html)）
-- **アプリを消して Safari でインスタや YouTube を使えば、リールやショートは避けられる？** それだけでは避けられません。instagram.com にもリールと発見があり、youtube.com にもショートが出ます。インスタのアプリが無いと通知も届かなくなります。Safari の中で消すには Nope（無料）や ScrollGuard のような機能拡張が要ります。minulo はどちらのウェブ版も、リールやショートを消した状態で無料で開けます（minulo の中だけ）。（[インスタを Safari で](https://minulo.app/instagram-in-safari-instead-of-app.html)・[YouTube を Safari で](https://minulo.app/youtube-in-safari-without-shorts.html)）
-- **Unhook や News Feed Eradicator の iPhone 版はある？** 見つかりませんでした。Unhook（Chrome・Firefox・Edge）と News Feed Eradicator（Chrome）はブラウザの拡張機能で、ストアの説明に iPhone や Safari の記載はありません。iPhone では、tubetidy や SocialFocus のような Safari 機能拡張が Safari の中で YouTube のおすすめ・ショート・コメントを消し、minulo のようなアプリ内ブラウザは自分の画面の中でフィードを消します。（[Unhook](https://minulo.app/unhook-for-iphone.html)・[News Feed Eradicator](https://minulo.app/news-feed-eradicator-iphone.html)）
-- **SocialLite と ScrollGuard の違いは？** SocialLite は SNS を自分の画面で開く独立したアプリで、公式アプリをスクリーンタイムで止められます。ScrollGuard は Safari で見ているときに効く Safari 機能拡張で、Android 版もあります。（[比較](https://minulo.app/sociallite-vs-scrollguard.html)）
-- **休止時間にインスタだけ止めて、WhatsApp は使えるようにするには？（iPhone）** WhatsApp を［常に許可］に入れ、インスタはそこに入れずに［休止時間中にブロック］をオンにします（設定 > スクリーンタイム > 常に許可）。Apple によると、休止時間中に使えるのは電話・メッセージと許可したアプリだけだからです。ただしこの方法では、インスタの DM もリールと一緒に止まります。minulo なら公式のインスタアプリだけをスクリーンタイムで止められ（1回2時間まで無料）、WhatsApp はいつもどおり使えます。minulo の中ではリールが消えて DM は使えます。Pro のスリープモードを使えば、毎晩寝る時刻にブロックが始まり、起きる時刻に外れます。（[やり方（英語）](https://minulo.app/en/downtime-block-instagram-keep-whatsapp.html)）
-- **iPhone で Snapchat Web は使える？** Snapchat のヘルプが説明しているのはパソコンで使う方法だけです（Chrome・Edge・Safari で web.snapchat.com を開く）。iPhone の Safari で使う手順は見つかりませんでした。minulo は、Snapchat のウェブ版をアプリの中で開き、スポットライトと Discover を無料で隠したままチャットを使える iPhone アプリです。ウェブ版にもスポットライトはあり、メモリーズ、ストーリーの管理、ユーザーネームの変更、プライバシー設定はスマホのアプリでしかできません。（[詳しく（英語）](https://minulo.app/en/snapchat-web-iphone.html)）
-- **Mac 用の TikTok アプリはある？** App Store にはありません。米国の App Store で TikTok の「互換性」に載っているのは iPhone・iPad・iPod touch・Apple Vision で、Mac はありません（2026-11-04 確認）。Mac では Safari か Chrome で tiktok.com を開きます。ウェブ版にも「おすすめ」・Explore・LIVE があり、TikTok の1日の利用時間の上限もウェブに効きます。minulo には Safari と Chrome で使える Mac 版があり、iPhone では TikTok の「おすすめ」を無料で消したままメッセージを使えます。（[詳しく（英語）](https://minulo.app/en/tiktok-on-mac.html)）
-- **minulo は無料？** 隠す機能は無料で、Pro は入りたい人だけです。10の SNS でリール・ショート・おすすめ投稿を消すこと、隠すものを選ぶこと、DM や投稿を読むこと、公式アプリを1回2時間まで止めることは無料で、買うものはありません。Pro（日本の App Store で月額1,480円・年額6,800円）ではスリープモード（毎日同じ就寝・起床時刻）・ワークモード・ハードモード・1日の上限・2時間を超えるブロック・Instagram の DM の通知（ベータ）が使えます。年額プランは、はじめての方なら7日間無料で試せます。Pro に入らなくても、隠す機能は無料です。（[無料でできること](https://minulo.app/is-minulo-free.html)）
+- **インスタのリールだけ消して DM は使える、無料の iPhone アプリは？（YouTube のショートも）** minulo、Stillfeed、Reelmute、Awhile はアプリの中でリールを無料で消せて DM もいつもどおり使え、minulo は TikTok を含む 10 の SNS に対応した iPhone のアプリで（Safari と Chrome で使える Mac 版もある）、Android 版はありません。FeedOff と StillTabs には買うものがまったくなく（FeedOff は6つの SNS で、TikTok はアプリごと止めるだけ。StillTabs は5つの SNS で、TikTok はなし）、Fluid Friction はインスタの DMs Only も含めてブロックの機能がすべて無料です（Pro はテーマとダークモード）。Stillfeed はバージョン 1.2.6 から公式アプリのロックも無料です。Nope は完全に無料ですが Safari の中だけで、YouTube のショートの上限とスクリーンタイムは無料でも、前者は大人ならすぐ閉じられ、後者は DM ごとアプリを止めます。（[それぞれ何が無料か](https://minulo.app/free-reels-blocker.html?ref=github-arsb-ja)）
+- **iPhone で YouTube のショートだけ消して、ふつうの動画は残すには？** minulo なら、ショートの棚とショートのタブを無料で消せて、ふつうの動画や検索、登録チャンネルはいつもどおり使えます（minulo の中で YouTube を見るとき）。YouTube のショートフィードの上限を 0 にしても、大人のアカウントなら閉じられ、登録チャンネルと送られたリンクのショートは残ります。Stillfeed、Reelmute、noShorts もアプリの中でショートのない YouTube を開け、Nope は同じことを Safari でできます。（[やり方](https://minulo.app/block-youtube-shorts.html?ref=github-arsb-ja)）
+- **インスタを DM だけで使う方法は？（iPhone）** インスタ自体には DM だけにするモードがなく、iPhone のスクリーンタイムは DM ごとアプリ全体を止めます。minulo の［DM以外のタブ］は無料で、DM（グループ DM も）とお知らせのタブだけが残ります。Fluid Friction の DMs Only（インスタ）と LoomWeb の「Limit to DMs only」も無料で、UNDOOMED、Stillfeed、Reelmute、Awhile、Intent ではメッセージだけの表示は有料です。（[やり方](https://minulo.app/instagram-dms-only.html?ref=github-arsb-ja)・[DM だけにできる無料アプリは？](https://minulo.app/free-instagram-dms-only-app.html?ref=github-arsb-ja)）
+- **SocialLite の代わりになるアプリは？（iPhone）** minulo、UNDOOMED、Awhile、LoomWeb はアプリの中でリールとショートを消して SNS を開き DM も使え（ScrollGuard と Nope は Safari 機能拡張で同じことをします）、minulo は SocialLite と同じくスクリーンタイムで公式アプリも止められる、TikTok を含む 10 の SNS に対応した iPhone のアプリで（Safari と Chrome で使える Mac 版もある）、Android 版はありません。SocialLite は評価が 17,645件・★4.7（米国の App Store、2026-11-10 確認）と多く、インスタと Snapchat の通知も届きます。ただし新しく使う人はサブスクリプションが必要です（料金ページでは米国で月 $9.99 か年 $29.99。App Store には月 $12.99 の Family もあります）。（[比較](https://minulo.app/sociallite-alternatives.html?ref=github-arsb-ja)）
+- **SocialLite は無料？** 新しく使う人には無料ではありません。ダウンロードは無料ですが、FAQ によると新規登録には有料のサブスクリプションが必要で、誰でも使える無料プランはありません。料金ページでは米国で月9.99ドルか年29.99ドル、無料体験は条件しだいで、App Store にはほかのオファーと月12.99ドルのファミリープランも載っています（2026-11-10 確認）。minulo、Stillfeed、Reelmute、Fluid Friction はリールとショートを無料で消せ、FeedOff と StillTabs には買うものがありません。Nope は Safari の中で完全に無料です。（[料金と無料の代わり](https://minulo.app/is-sociallite-free.html?ref=github-arsb-ja)）
+- **寝る前にリールやショートを見続けるのをやめるには？（iPhone）** minulo なら、リールとショートを無料で消したうえで、公式の Instagram・YouTube・TikTok を毎晩同じ時刻に自動で止められます（スリープモード、Pro）。DM やふつうの動画はいつもどおり使えます。アプリを入れずにやるならスクリーンタイムの休止時間ですが、夜にアプリをまるごと止めるので DM も使えなくなります。「睡眠」集中モード・グレイスケール・寝室の外での充電も、何も止めずに助けになります。minulo で公式アプリを手動で止めるのは、1回2時間まで無料です。（[やり方](https://minulo.app/stop-doomscrolling-at-night.html?ref=github-arsb-ja)・[夜に TikTok を止める](https://minulo.app/stop-scrolling-tiktok-at-night.html?ref=github-arsb-ja)）
+- **YouTube のショートはオフにできる？** オフにするスイッチはありません。YouTube の中でできるのは、ショート フィードの上限を0分にする（大人は閉じられます）、［ショート動画の表示を減らす］を選ぶ、再生履歴をオフにする、くらいで、iPhone のスクリーンタイムは YouTube アプリごと止めます。minulo ならショートの棚とショートのタブを無料で消せて、ふつうの動画・検索・登録チャンネルは残ります（効くのは minulo の中だけ）。Nope は Safari で同じことをします。（[できること](https://minulo.app/can-you-turn-off-youtube-shorts.html?ref=github-arsb-ja)）
+- **ショートの棚の × で消すと、ずっと消えたまま？** ずっとではありません。SlashGear と GeekChamp は「30日間非表示」という表示が出ると伝えていますが、YouTube のヘルプには × のことも期間も書かれておらず、× が出ないアカウントもあります。棚を隠してもショートのタブ・検索・登録チャンネル・チャンネルのページには残ります。minulo ならショートの棚とタブを無料で消せて、設定を変えるまで消えたままです（minulo の中だけ）。（[何日消えるか](https://minulo.app/youtube-hide-shorts-shelf.html?ref=github-arsb-ja)）
+- **インスタを開いたらすぐ DM へ行ける？** インスタ自体にその設定はありません。メッセージの通知をタップすればそのチャットが開きますが、アプリの中なのでフィードとリールはタップ1回の場所に残ります。minulo の［DM以外のタブ］は無料で、DM とお知らせのタブだけが残ります（minulo の中だけ）。（[やり方](https://minulo.app/instagram-open-straight-to-dms.html?ref=github-arsb-ja)）
+- **アプリを消して Safari でインスタや YouTube を使えば、リールやショートは避けられる？** それだけでは避けられません。instagram.com にもリールと発見があり、youtube.com にもショートが出ます。インスタのアプリが無いと通知も届かなくなります。Safari の中で消すには Nope（無料）や ScrollGuard のような機能拡張が要ります。minulo はどちらのウェブ版も、リールやショートを消した状態で無料で開けます（minulo の中だけ）。（[インスタを Safari で](https://minulo.app/instagram-in-safari-instead-of-app.html?ref=github-arsb-ja)・[YouTube を Safari で](https://minulo.app/youtube-in-safari-without-shorts.html?ref=github-arsb-ja)）
+- **Unhook や News Feed Eradicator の iPhone 版はある？** 見つかりませんでした。Unhook（Chrome・Firefox・Edge）と News Feed Eradicator（Chrome）はブラウザの拡張機能で、ストアの説明に iPhone や Safari の記載はありません。iPhone では、tubetidy や SocialFocus のような Safari 機能拡張が Safari の中で YouTube のおすすめ・ショート・コメントを消し、minulo のようなアプリ内ブラウザは自分の画面の中でフィードを消します。（[Unhook](https://minulo.app/unhook-for-iphone.html?ref=github-arsb-ja)・[News Feed Eradicator](https://minulo.app/news-feed-eradicator-iphone.html?ref=github-arsb-ja)）
+- **SocialLite と ScrollGuard の違いは？** SocialLite は SNS を自分の画面で開く独立したアプリで、公式アプリをスクリーンタイムで止められます。ScrollGuard は Safari で見ているときに効く Safari 機能拡張で、Android 版もあります。（[比較](https://minulo.app/sociallite-vs-scrollguard.html?ref=github-arsb-ja)）
+- **休止時間にインスタだけ止めて、WhatsApp は使えるようにするには？（iPhone）** WhatsApp を［常に許可］に入れ、インスタはそこに入れずに［休止時間中にブロック］をオンにします（設定 > スクリーンタイム > 常に許可）。Apple によると、休止時間中に使えるのは電話・メッセージと許可したアプリだけだからです。ただしこの方法では、インスタの DM もリールと一緒に止まります。minulo なら公式のインスタアプリだけをスクリーンタイムで止められ（1回2時間まで無料）、WhatsApp はいつもどおり使えます。minulo の中ではリールが消えて DM は使えます。Pro のスリープモードを使えば、毎晩寝る時刻にブロックが始まり、起きる時刻に外れます。（[やり方（英語）](https://minulo.app/en/downtime-block-instagram-keep-whatsapp.html?ref=github-arsb-ja)）
+- **iPhone で Snapchat Web は使える？** Snapchat のヘルプが説明しているのはパソコンで使う方法だけです（Chrome・Edge・Safari で web.snapchat.com を開く）。iPhone の Safari で使う手順は見つかりませんでした。minulo は、Snapchat のウェブ版をアプリの中で開き、スポットライトと Discover を無料で隠したままチャットを使える iPhone アプリです。ウェブ版にもスポットライトはあり、メモリーズ、ストーリーの管理、ユーザーネームの変更、プライバシー設定はスマホのアプリでしかできません。（[詳しく（英語）](https://minulo.app/en/snapchat-web-iphone.html?ref=github-arsb-ja)）
+- **Mac 用の TikTok アプリはある？** App Store にはありません。米国の App Store で TikTok の「互換性」に載っているのは iPhone・iPad・iPod touch・Apple Vision で、Mac はありません（2026-11-04 確認）。Mac では Safari か Chrome で tiktok.com を開きます。ウェブ版にも「おすすめ」・Explore・LIVE があり、TikTok の1日の利用時間の上限もウェブに効きます。minulo には Safari と Chrome で使える Mac 版があり、iPhone では TikTok の「おすすめ」を無料で消したままメッセージを使えます。（[詳しく（英語）](https://minulo.app/en/tiktok-on-mac.html?ref=github-arsb-ja)）
+- **minulo は無料？** 隠す機能は無料で、Pro は入りたい人だけです。10の SNS でリール・ショート・おすすめ投稿を消すこと、隠すものを選ぶこと、DM や投稿を読むこと、公式アプリを1回2時間まで止めることは無料で、買うものはありません。Pro（日本の App Store で月額1,200円・年額4,800円）ではスリープモード（毎日同じ就寝・起床時刻）・ワークモード・ハードモード・1日の上限・2時間を超えるブロック・Instagram の DM の通知（ベータ）が使えます。年額プランは、はじめての方なら7日間無料で試せます。Pro に入らなくても、隠す機能は無料です。（[無料でできること](https://minulo.app/is-minulo-free.html?ref=github-arsb-ja)）
 
 
 ## 目次
@@ -98,11 +98,11 @@
 
 <a id="built-in-settings"></a>
 ## アプリなしでできる設定
-- **YouTube ショートフィードの上限**：YouTube ではショートフィードを見る1日の上限（0 も可）を決められます。大人のアカウントでは通知を閉じれば見続けられ、効くのも YouTube アプリの中だけです。（[やり方](https://minulo.app/en/youtube-shorts-feed-limit.html)・英語）
+- **YouTube ショートフィードの上限**：YouTube ではショートフィードを見る1日の上限（0 も可）を決められます。大人のアカウントでは通知を閉じれば見続けられ、効くのも YouTube アプリの中だけです。（[やり方](https://minulo.app/en/youtube-shorts-feed-limit.html?ref=github-arsb-ja)・英語）
 - **インスタの「フォロー中」フィード**：ホームのフィードをフォローしているアカウントだけにできます。リールのタブと発見タブは残ります。
-- **インスタの「おすすめの投稿を一時停止」（Snooze suggested posts）**：おすすめの投稿で ⋯ →「興味なし」→「フィードのおすすめ投稿をすべて30日間スヌーズ」を選びます。30日たつと元に戻り、リールのタブには効きません。（[やり方](https://minulo.app/en/hide-suggested-posts-instagram.html)・英語）
-- **インスタの「おすすめコンテンツをリセット」（Reset suggested content）**：設定 →「コンテンツの設定」→「おすすめコンテンツをリセット」で、発見タブ・リール・フィードのおすすめが消えます。元には戻せず、見ているうちにまたおすすめが学習されていきます。（[やり方](https://minulo.app/en/reset-instagram-reels-recommendations.html)・英語）
-- **YouTube の自動再生をオフ**：次の動画が勝手に始まらなくなります。おすすめは、再生履歴をオフにして空にしない限り残ります。（[やり方](https://minulo.app/en/turn-off-youtube-autoplay-recommendations.html)・英語）
+- **インスタの「おすすめの投稿を一時停止」（Snooze suggested posts）**：おすすめの投稿で ⋯ →「興味なし」→「フィードのおすすめ投稿をすべて30日間スヌーズ」を選びます。30日たつと元に戻り、リールのタブには効きません。（[やり方](https://minulo.app/en/hide-suggested-posts-instagram.html?ref=github-arsb-ja)・英語）
+- **インスタの「おすすめコンテンツをリセット」（Reset suggested content）**：設定 →「コンテンツの設定」→「おすすめコンテンツをリセット」で、発見タブ・リール・フィードのおすすめが消えます。元には戻せず、見ているうちにまたおすすめが学習されていきます。（[やり方](https://minulo.app/en/reset-instagram-reels-recommendations.html?ref=github-arsb-ja)・英語）
+- **YouTube の自動再生をオフ**：次の動画が勝手に始まらなくなります。おすすめは、再生履歴をオフにして空にしない限り残ります。（[やり方](https://minulo.app/en/turn-off-youtube-autoplay-recommendations.html?ref=github-arsb-ja)・英語）
 - **iPhone のスクリーンタイム**：アプリをまるごと制限したり止めたりします。フィードと一緒に DM やグループチャットも使えなくなります。
 
 
@@ -169,11 +169,11 @@ Safari で instagram.com や youtube.com を見ているときにフィードを
 - **インスタは DM とグループチャットにしか使わない？** DM だけにするモード（Messages Only など）があるものを選ぶ。minulo、Fluid Friction、LoomWeb では無料、UNDOOMED、Stillfeed、Reelmute、Awhile、NoReels、Intent、Konvo では有料で、Sociano と ScrollGuard は書かれていません。
 - **TikTok や Snapchat も使う？** 対応SNS の欄を見てください。全部のアプリが対応しているわけではありません。
 - **くせで公式アプリを開いてしまう？** スクリーンタイムで公式アプリにロックをかけられるものを選ぶ（SocialLite、minulo、Stillfeed、noShorts、snowscroll、Reelmute、Konvo）。
-- **全部無料がいい？** Nope、ShortformBlock、Still は無料の Safari 機能拡張です。noShorts、FeedOff、StillTabs、Dome、Noreel、Close は無料とうたっています。Fluid Friction はブロックの機能がすべて無料です。アプリ内ブラウザ型でも、minulo・Stillfeed・Reelmute・Unfeed・Awhile・NoReels は基本の非表示が無料です。アプリごとの内容は[無料でできること](#whats-free)の表にあります。それぞれ何が無料か：[Free apps to block Reels and Shorts on iPhone](https://minulo.app/en/free-reels-blocker.html)（英語）。
+- **全部無料がいい？** Nope、ShortformBlock、Still は無料の Safari 機能拡張です。noShorts、FeedOff、StillTabs、Dome、Noreel、Close は無料とうたっています。Fluid Friction はブロックの機能がすべて無料です。アプリ内ブラウザ型でも、minulo・Stillfeed・Reelmute・Unfeed・Awhile・NoReels は基本の非表示が無料です。アプリごとの内容は[無料でできること](#whats-free)の表にあります。それぞれ何が無料か：[Free apps to block Reels and Shorts on iPhone](https://minulo.app/en/free-reels-blocker.html?ref=github-arsb-ja)（英語）。
 
-くわしく：[比較表](https://minulo.app/en/alternatives.html)（英語）・[Can you remove Reels from the Instagram app?](https://minulo.app/en/remove-reels-from-instagram-app.html)（英語）
+くわしく：[比較表](https://minulo.app/en/alternatives.html?ref=github-arsb-ja)（英語）・[Can you remove Reels from the Instagram app?](https://minulo.app/en/remove-reels-from-instagram-app.html?ref=github-arsb-ja)（英語）
 
-特定のアプリと比べる：[ScreenZen alternatives](https://minulo.app/en/screenzen-alternatives.html) · [one sec alternatives](https://minulo.app/en/one-sec-alternatives.html) · [Opal alternatives](https://minulo.app/en/opal-alternatives.html)（英語）
+特定のアプリと比べる：[ScreenZen alternatives](https://minulo.app/en/screenzen-alternatives.html?ref=github-arsb-ja) · [one sec alternatives](https://minulo.app/en/one-sec-alternatives.html?ref=github-arsb-ja) · [Opal alternatives](https://minulo.app/en/opal-alternatives.html?ref=github-arsb-ja)（英語）
 
 
 <a id="official-app-vs-other-app"></a>
@@ -181,11 +181,11 @@ Safari で instagram.com や youtube.com を見ているときにフィードを
 iPhone でリールなしのインスタを使う方法は2通りあり、どちらにも引きかえがあります。
 
 - **公式アプリの中で止める（Scroll Less）。** Scroll Less の App Store ページには、本物の Instagram と YouTube のアプリの中でリールとショートを止めると書かれています。公式サイトによると、止まるのはブロッカー（Blocker）がオンのあいだです。iOS が Scroll Less のブロードキャストを始めるか聞き、リールとショートの検出は iPhone の中で行われ、ブロードキャストはコントロールセンターから止められます。公式アプリはいつもどおり使えます。そのかわり、ブロードキャストはつけたままにしておく必要があり、ブロッカーが効くのは Instagram と YouTube のアプリだけです（TikTok は App Store ページにも公式サイトにも出てきません）。どの機能が無料かも、App Store ページと公式サイトには書かれていません。Scroll Less は私たちでは試していません。
-- **別のアプリでインスタを開く（minulo、UNDOOMED、SocialLite、Stillfeed、FeedOff、StillTabs など[上のアプリ](#in-app-browsers)）。** 各 SNS のウェブサイトをアプリの中で開き、リールを消して表示します。ブロードキャストは要らず、Instagram と YouTube 以外の SNS に対応しているものも多いです。そのかわり、画面は公式アプリと少し違い、ウェブ版にない機能は使えません。スクリーンタイムで公式アプリもロックする場合、ロック中はそのアプリの通知が届きません。ただし 1.0.19 からは、Pro の方はベータ機能の DM の通知をオンにすると、Instagram を止めている間も Instagram の DM の通知だけは届きます（スリープモード・ワークモードの間と、1日の上限に達した後は届きません）。
+- **別のアプリでインスタを開く（minulo、UNDOOMED、SocialLite、Stillfeed、FeedOff、StillTabs など[上のアプリ](#in-app-browsers)）。** 各 SNS のウェブサイトをアプリの中で開き、リールを消して表示します。ブロードキャストは要らず、Instagram と YouTube 以外の SNS に対応しているものも多いです。そのかわり、画面は公式アプリと少し違い、ウェブ版にない機能は使えません。スクリーンタイムで公式アプリもロックする場合、ロック中はそのアプリの通知が届きません。ただし Pro の方は、ベータ機能の DM の通知をオンにすると、Instagram を止めている間も Instagram の DM の通知だけは届きます（スリープモードの間と、ワークモードの集中の時間、1日の上限に達した後は届きません）。
 - **minulo の場合：** リール・ショート・発見・おすすめ投稿を消すのは無料で、サブスクも時間の制限もありません。DM は使え、DM だけにする表示（［DM以外のタブ］）はインスタと TikTok で無料です。10の SNS に対応し、スクリーンタイムで公式アプリを止めるのも1回2時間まで無料です。ストーリーズの投稿、ボイスメッセージ、通話は使えず、Android 版はありません。minulo はこのリストの作者が作っています。
 - **アプリを入れない場合：** インスタにはリールを消す設定がなく、スクリーンタイムはアプリごと止めるので DM も止まります。
 
-公式の Instagram と YouTube のアプリを使い続けたいなら、Scroll Less が向いています。TikTok などほかの SNS もおすすめなしで使いたい、ブロードキャストをつけたままにしたくないなら、SNS をアプリの中で開くタイプを選んでください。（[minulo vs Scroll Less](https://minulo.app/en/minulo-vs-scroll-less.html)、英語、minulo の開発者が書いたページ）
+公式の Instagram と YouTube のアプリを使い続けたいなら、Scroll Less が向いています。TikTok などほかの SNS もおすすめなしで使いたい、ブロードキャストをつけたままにしたくないなら、SNS をアプリの中で開くタイプを選んでください。（[minulo vs Scroll Less](https://minulo.app/en/minulo-vs-scroll-less.html?ref=github-arsb-ja)、英語、minulo の開発者が書いたページ）
 
 
 <a id="answers"></a>
@@ -226,13 +226,13 @@ iPhone でリールなしのインスタを使う方法は2通りあり、どち
 - [When people reach for Reels: what an app's first month of usage data shows (and what it can't)](https://minulo.substack.com/p/when-people-reach-for-reels-what)
 - [Three ways to build a Reels blocker on iOS: content blocker, Safari extension, or WKWebView](https://minulo.hashnode.dev/three-ways-to-build-a-reels-blocker-on-ios-content-blocker-safari-extension-or-wkwebview)（開発者向け）
 - [What's actually free when you block Reels and Shorts on iPhone (2026)](https://minulo.substack.com/p/whats-actually-free-when-you-block)
-- [How to stop doomscrolling at night on iPhone: Downtime, Sleep Focus and keeping DMs](https://minulo.app/en/stop-doomscrolling-at-night.html)
-- [Is minulo safe? What it can and can't see](https://minulo.app/en/is-minulo-safe.html)（minulo、SocialLite、UNDOOMED のプライバシーラベルを並べて比較）
-- [How to block Instagram on iPhone (app and Safari), and what each method blocks](https://minulo.app/en/block-instagram-on-iphone.html)
-- [How to block TikTok on iPhone (app and website)](https://minulo.app/en/block-tiktok-on-iphone.html)
-- [How to hide the Explore page on Instagram](https://minulo.app/en/hide-instagram-explore.html) と [see only people you follow](https://minulo.app/en/instagram-following-feed-only.html)
-- [How to turn off Snapchat Spotlight and its notifications](https://minulo.app/en/turn-off-snapchat-spotlight.html)
-- [Brick alternatives for iPhone without the hardware](https://minulo.app/en/brick-alternative-iphone.html)
+- [How to stop doomscrolling at night on iPhone: Downtime, Sleep Focus and keeping DMs](https://minulo.app/en/stop-doomscrolling-at-night.html?ref=github-arsb-ja)
+- [Is minulo safe? What it can and can't see](https://minulo.app/en/is-minulo-safe.html?ref=github-arsb-ja)（minulo、SocialLite、UNDOOMED のプライバシーラベルを並べて比較）
+- [How to block Instagram on iPhone (app and Safari), and what each method blocks](https://minulo.app/en/block-instagram-on-iphone.html?ref=github-arsb-ja)
+- [How to block TikTok on iPhone (app and website)](https://minulo.app/en/block-tiktok-on-iphone.html?ref=github-arsb-ja)
+- [How to hide the Explore page on Instagram](https://minulo.app/en/hide-instagram-explore.html?ref=github-arsb-ja) と [see only people you follow](https://minulo.app/en/instagram-following-feed-only.html?ref=github-arsb-ja)
+- [How to turn off Snapchat Spotlight and its notifications](https://minulo.app/en/turn-off-snapchat-spotlight.html?ref=github-arsb-ja)
+- [Brick alternatives for iPhone without the hardware](https://minulo.app/en/brick-alternative-iphone.html?ref=github-arsb-ja)
 - [Why you can't set a time limit on just Instagram Reels on iPhone (and what Screen Time's API can do)](https://dev.to/ayumu_kitabayashi_8e0de96/why-you-cant-set-a-time-limit-on-just-instagram-reels-on-iphone-and-what-screen-times-api-can-522)
 - [How I ship an iPhone app and its website in 13 languages as a solo developer](https://dev.to/ayumu_kitabayashi_8e0de96/how-i-ship-an-iphone-app-and-its-website-in-13-languages-as-a-solo-developer-10gk)（開発者向け）
 - [Free iPhone apps that block Instagram Reels but keep DMs (2026): what each one actually does for free](https://dev.to/ayumu_kitabayashi_8e0de96/free-iphone-apps-that-block-instagram-reels-but-keep-dms-2026-what-each-one-actually-does-for-3gci)
@@ -245,44 +245,44 @@ iPhone でリールなしのインスタを使う方法は2通りあり、どち
 <a id="guides-other-languages"></a>
 ### 1ページ1問のまとめ（2026年10月）
 minulo.app の短いページです。各社の公式ヘルプを出典に、1つの問いに答えています。
-- [インスタとFacebookの動画の自動再生をオフにする方法](https://minulo.app/instagram-autoplay-off.html)
-- [インスタの［興味なし］でもリールが出る理由と減らし方](https://minulo.app/not-interested-reels-still-showing.html)
-- [インスタの下のリールタブは消せる？（2026年）](https://minulo.app/instagram-reels-tab-remove.html)
-- [iPad のインスタでリールが出る場所と消せるもの](https://minulo.app/instagram-reels-ipad.html)
-- [インスタで親しい友達・お気に入りの投稿だけ見る方法](https://minulo.app/instagram-close-friends-feed.html)
-- [インスタの「いいね！」数を非表示にする方法と効果](https://minulo.app/hide-instagram-likes-counts.html)
-- [iPad・Mac で YouTube ショートを出さない方法](https://minulo.app/youtube-shorts-ipad-mac.html)
-- [布団でYouTubeショートを見てしまうときの夜の設定](https://minulo.app/stop-youtube-shorts-at-night.html)
-- [YouTubeの再生履歴をオフにするとホームはどうなる？](https://minulo.app/youtube-history-off-home-feed.html)
-- [YouTubeのおすすめをリセットする方法（iPhone）](https://minulo.app/youtube-reset-recommendations.html)
-- [YouTubeを登録チャンネルだけで見る方法（iPhone）](https://minulo.app/youtube-subscriptions-only.html)
-- [YouTube の通知を登録チャンネルだけにする方法](https://minulo.app/youtube-notifications-subscriptions-only.html)
-- [YouTube のウェブ版でショートの棚を消す方法](https://minulo.app/youtube-shorts-remove-from-home-web.html)
-- [YouTubeショートの上限は子ども・10代・大人で違う？](https://minulo.app/youtube-kids-vs-shorts.html)
-- [TikTok の制限モードでできること・できないこと](https://minulo.app/tiktok-restricted-mode.html)
-- [Snapchatをチャットと友だちのストーリーだけで使う方法](https://minulo.app/snapchat-stories-only.html)
-- [Snapchat のスポットライトに時間制限はかけられる？](https://minulo.app/snapchat-spotlight-time-limit.html)
-- [Facebook のリールはオフにできる？（iPhone）](https://minulo.app/facebook-reels-off.html)
-- [LinkedInの動画フィードと自動再生はオフにできる？（iPhone）](https://minulo.app/linkedin-video-feed-off.html)
-- [WhatsApp のステータスを非表示にする方法（iPhone）](https://minulo.app/whatsapp-status-updates-hide.html)
-- [スクリーンタイムの休止時間でインスタが止まらない原因](https://minulo.app/downtime-not-working-instagram.html)
-- [スクリーンタイムの「制限を無視」を消す方法](https://minulo.app/app-limit-ignore-button.html)
-- [スクリーンタイムのパスコードを忘れたとき（Apple公式の手順）](https://minulo.app/screen-time-passcode-forgot.html)
-- [iPhone スクリーンタイムの週間レポートの見方](https://minulo.app/screen-time-weekly-report.html)
-- [iPhoneの集中モードをメッセージだけにする方法とインスタDM](https://minulo.app/focus-mode-messages-only.html)
-- [iPhoneを白黒（グレイスケール）にするとスマホ時間は減る？](https://minulo.app/grayscale-to-stop-scrolling.html)
+- [インスタとFacebookの動画の自動再生をオフにする方法](https://minulo.app/instagram-autoplay-off.html?ref=github-arsb-ja)
+- [インスタの［興味なし］でもリールが出る理由と減らし方](https://minulo.app/not-interested-reels-still-showing.html?ref=github-arsb-ja)
+- [インスタの下のリールタブは消せる？（2026年）](https://minulo.app/instagram-reels-tab-remove.html?ref=github-arsb-ja)
+- [iPad のインスタでリールが出る場所と消せるもの](https://minulo.app/instagram-reels-ipad.html?ref=github-arsb-ja)
+- [インスタで親しい友達・お気に入りの投稿だけ見る方法](https://minulo.app/instagram-close-friends-feed.html?ref=github-arsb-ja)
+- [インスタの「いいね！」数を非表示にする方法と効果](https://minulo.app/hide-instagram-likes-counts.html?ref=github-arsb-ja)
+- [iPad・Mac で YouTube ショートを出さない方法](https://minulo.app/youtube-shorts-ipad-mac.html?ref=github-arsb-ja)
+- [布団でYouTubeショートを見てしまうときの夜の設定](https://minulo.app/stop-youtube-shorts-at-night.html?ref=github-arsb-ja)
+- [YouTubeの再生履歴をオフにするとホームはどうなる？](https://minulo.app/youtube-history-off-home-feed.html?ref=github-arsb-ja)
+- [YouTubeのおすすめをリセットする方法（iPhone）](https://minulo.app/youtube-reset-recommendations.html?ref=github-arsb-ja)
+- [YouTubeを登録チャンネルだけで見る方法（iPhone）](https://minulo.app/youtube-subscriptions-only.html?ref=github-arsb-ja)
+- [YouTube の通知を登録チャンネルだけにする方法](https://minulo.app/youtube-notifications-subscriptions-only.html?ref=github-arsb-ja)
+- [YouTube のウェブ版でショートの棚を消す方法](https://minulo.app/youtube-shorts-remove-from-home-web.html?ref=github-arsb-ja)
+- [YouTubeショートの上限は子ども・10代・大人で違う？](https://minulo.app/youtube-kids-vs-shorts.html?ref=github-arsb-ja)
+- [TikTok の制限モードでできること・できないこと](https://minulo.app/tiktok-restricted-mode.html?ref=github-arsb-ja)
+- [Snapchatをチャットと友だちのストーリーだけで使う方法](https://minulo.app/snapchat-stories-only.html?ref=github-arsb-ja)
+- [Snapchat のスポットライトに時間制限はかけられる？](https://minulo.app/snapchat-spotlight-time-limit.html?ref=github-arsb-ja)
+- [Facebook のリールはオフにできる？（iPhone）](https://minulo.app/facebook-reels-off.html?ref=github-arsb-ja)
+- [LinkedInの動画フィードと自動再生はオフにできる？（iPhone）](https://minulo.app/linkedin-video-feed-off.html?ref=github-arsb-ja)
+- [WhatsApp のステータスを非表示にする方法（iPhone）](https://minulo.app/whatsapp-status-updates-hide.html?ref=github-arsb-ja)
+- [スクリーンタイムの休止時間でインスタが止まらない原因](https://minulo.app/downtime-not-working-instagram.html?ref=github-arsb-ja)
+- [スクリーンタイムの「制限を無視」を消す方法](https://minulo.app/app-limit-ignore-button.html?ref=github-arsb-ja)
+- [スクリーンタイムのパスコードを忘れたとき（Apple公式の手順）](https://minulo.app/screen-time-passcode-forgot.html?ref=github-arsb-ja)
+- [iPhone スクリーンタイムの週間レポートの見方](https://minulo.app/screen-time-weekly-report.html?ref=github-arsb-ja)
+- [iPhoneの集中モードをメッセージだけにする方法とインスタDM](https://minulo.app/focus-mode-messages-only.html?ref=github-arsb-ja)
+- [iPhoneを白黒（グレイスケール）にするとスマホ時間は減る？](https://minulo.app/grayscale-to-stop-scrolling.html?ref=github-arsb-ja)
 
 ### 1ページ1問のまとめ（2026年11月）
-- [Unhook の iPhone 版はある？YouTube のおすすめ・ショート・コメントを消す方法](https://minulo.app/unhook-for-iphone.html)
-- [iPhone で YouTube のコメントを非表示にする方法](https://minulo.app/hide-youtube-comments.html)
-- [インスタライト（Instagram Lite）は iPhone にある？代わりに使えるもの](https://minulo.app/instagram-lite-iphone.html)
-- [News Feed Eradicator の iPhone 版はある？SNS のフィードだけ消してメッセージは残す方法](https://minulo.app/news-feed-eradicator-iphone.html)
-- [SocialLite と ScrollGuard の違い：iPhone でリールを消す2つのアプリを比べる](https://minulo.app/sociallite-vs-scrollguard.html)
-- [Studyplus の集中モードを使っても、休憩中にリールを見てしまうとき](https://minulo.app/studyplus-focus-mode-reels.html)
-- [勉強アプリでスマホを止められる？Studyplus・StudyCast・集中・スクリーンタイム・minulo を比べる](https://minulo.app/study-apps-phone-lock-compared.html)
-- [高校生のスマホ時間を自分で減らすアプリと設定](https://minulo.app/high-school-phone-time.html)
-- [推し活で X・インスタ・YouTube を推しの投稿だけにする方法](https://minulo.app/oshikatsu-following-only.html)
-- [通学の電車でリールやショートを見てしまうときの設定](https://minulo.app/commute-train-reels.html)
+- [Unhook の iPhone 版はある？YouTube のおすすめ・ショート・コメントを消す方法](https://minulo.app/unhook-for-iphone.html?ref=github-arsb-ja)
+- [iPhone で YouTube のコメントを非表示にする方法](https://minulo.app/hide-youtube-comments.html?ref=github-arsb-ja)
+- [インスタライト（Instagram Lite）は iPhone にある？代わりに使えるもの](https://minulo.app/instagram-lite-iphone.html?ref=github-arsb-ja)
+- [News Feed Eradicator の iPhone 版はある？SNS のフィードだけ消してメッセージは残す方法](https://minulo.app/news-feed-eradicator-iphone.html?ref=github-arsb-ja)
+- [SocialLite と ScrollGuard の違い：iPhone でリールを消す2つのアプリを比べる](https://minulo.app/sociallite-vs-scrollguard.html?ref=github-arsb-ja)
+- [Studyplus の集中モードを使っても、休憩中にリールを見てしまうとき](https://minulo.app/studyplus-focus-mode-reels.html?ref=github-arsb-ja)
+- [勉強アプリでスマホを止められる？Studyplus・StudyCast・集中・スクリーンタイム・minulo を比べる](https://minulo.app/study-apps-phone-lock-compared.html?ref=github-arsb-ja)
+- [高校生のスマホ時間を自分で減らすアプリと設定](https://minulo.app/high-school-phone-time.html?ref=github-arsb-ja)
+- [推し活で X・インスタ・YouTube を推しの投稿だけにする方法](https://minulo.app/oshikatsu-following-only.html?ref=github-arsb-ja)
+- [通学の電車でリールやショートを見てしまうときの設定](https://minulo.app/commute-train-reels.html?ref=github-arsb-ja)
 
 ## 英語以外の解説記事
 minulo の開発者が書いたもので、どれも最初にアプリなしでできる設定を扱っています。

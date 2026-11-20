@@ -18,7 +18,7 @@ Instagram has no messages-only mode, and iPhone Screen Time limits the whole app
 Yes. Group chats are part of Instagram DMs, so you can read and reply to them in minulo's DMs-only view.
 
 ### Will I get message notifications?
-Notifications come from the official Instagram app. If you leave it unlocked, they arrive as usual. While minulo locks it, none arrive. Since version 1.0.19, Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Work mode or after the daily limit.
+Notifications come from the official Instagram app. If you leave it unlocked, they arrive as usual. While minulo locks it, none arrive. Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Focus time in Work mode or after the daily limit.
 
 ### Does minulo change the Instagram app itself?
 No. The DMs-only view exists only inside minulo. The official app still opens on the regular feed unless you lock it.

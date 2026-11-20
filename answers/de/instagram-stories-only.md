@@ -12,7 +12,7 @@ Einen Modus nur für Stories haben wir in der Instagram-Hilfe nicht gefunden, un
 
 ## Grenzen
 - In minulo kannst du Stories ansehen, aber keine posten. Sprachnachrichten und Anrufe gehen auch nicht, weil die Website von Instagram sie nicht hat.
-- Solange minulo die offizielle App sperrt, kommen ihre Benachrichtigungen nicht an, und minulo schickt keine. Seit Version 1.0.19 können Pro-Nutzer DM-Benachrichtigungen (Beta) einschalten, dann kommen Benachrichtigungen zu Instagram-DMs auch an, während Instagram gesperrt ist, außer im Schlafmodus, während der „Arbeitszeit“ oder nach Erreichen des Tageslimits.
+- Solange minulo die offizielle App sperrt, kommen ihre Benachrichtigungen nicht an, und minulo schickt keine. Pro-Nutzer können DM-Benachrichtigungen (Beta) einschalten, dann kommen Benachrichtigungen zu Instagram-DMs auch an, während Instagram gesperrt ist, außer im Schlafmodus, während der Fokuszeit in der „Arbeitszeit“ oder nach Erreichen des Tageslimits.
 - Die offizielle Instagram-App ändert sich nicht. minulo gibt es für das iPhone und den Mac (Safari und Chrome), nicht für Android.
 
 Quelle: https://minulo.app/de/instagram-stories-only.html (geprüft am 2026-11-04)

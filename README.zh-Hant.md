@@ -3,25 +3,25 @@
 
 這份清單整理了 iPhone 上能隱藏 **Instagram Reels、YouTube Shorts 和 TikTok「為你推薦」** 的 App 與設定，同時每個 App 的其他功能都照常能用：私訊、群組聊天、搜尋，以及你追蹤的帳號。
 
-> **揭露：** 這份清單由 [minulo](https://minulo.app/zh-Hant/) 的開發者維護，minulo 也是下面列出的 App 之一。所有資訊只取自各 App 的美國 App Store 頁面或官方網站（2026 年 10 月確認；評分數最後更新於 2026-10-27）。評分數每天都會變動。歡迎透過 issue 或 pull request 指正或補充。因為 minulo 也在清單裡，[免費的部分](#whats-free)表格依各 App 自己的商店頁面或官網，寫出每個 App（包括 minulo）不付費能用到哪裡。
+> **揭露：** 這份清單由 [minulo](https://minulo.app/zh-Hant/?ref=github-arsb-zh-Hant) 的開發者維護，minulo 也是下面列出的 App 之一。所有資訊只取自各 App 的美國 App Store 頁面或官方網站（2026 年 10 月確認；評分數最後更新於 2026-10-27）。評分數每天都會變動。歡迎透過 issue 或 pull request 指正或補充。因為 minulo 也在清單裡，[免費的部分](#whats-free)表格依各 App 自己的商店頁面或官網，寫出每個 App（包括 minulo）不付費能用到哪裡。
 
 
 <a id="quick-answers"></a>
 ## 快速解答
-- **iPhone 上隱藏 Reels 和 Shorts、私訊照用，最好用的免費 App 是哪個？** minulo、Stillfeed、Reelmute 和 Awhile 都能在自家 App 裡免費隱藏 Reels，私訊照常能用；其中 minulo 支援 10 個平台（包括 TikTok），是 iPhone App（也有能在 Safari 和 Chrome 使用的 Mac 版），沒有 Android 版。FeedOff 和 StillTabs 完全沒有 App 內購買（FeedOff 支援 6 個平台，TikTok 只能封鎖整個 App；StillTabs 支援 5 個平台，沒有 TikTok），Fluid Friction 的封鎖功能全部免費，包括 Instagram 的 DMs Only（Pro 只有主題和深色模式）。Stillfeed 從 1.2.6 版起，鎖住官方 App 也免費。Nope 完全免費但只在 Safari 裡有效，YouTube 的 Shorts 限制和 iPhone「螢幕使用時間」是內建且免費的，但前者很容易關掉，後者會封鎖整個 App。（[各自哪些部分免費](https://minulo.app/zh-Hant/free-reels-blocker.html)）
-- **iPhone 上怎麼只拿掉 YouTube Shorts、照常看一般影片？** minulo 能免費隱藏 Shorts 區塊和 Shorts 分頁，一般影片、搜尋和訂閱內容都照常可用（在 minulo 裡看 YouTube 時）。把「Shorts 動態限制」設成 0 還不夠：成人帳號可以關掉它，訂閱內容和別人傳來的連結裡的 Shorts 也還在。Stillfeed、Reelmute 和 noShorts 也會在自家 App 裡開啟沒有 Shorts 的 YouTube，Nope 則是在 Safari 裡做到。（[做法](https://minulo.app/zh-Hant/block-youtube-shorts.html)）
-- **iPhone 上怎麼讓 IG 只用私訊？** Instagram 本身沒有只用私訊的模式，iPhone「螢幕使用時間」也只能限制整個 App，私訊會一起被擋。minulo 的「私訊以外的分頁」設定是免費的，只留下私訊（包括群組聊天）和通知分頁。Fluid Friction 的 DMs Only（Instagram）和 LoomWeb 的「Limit to DMs only」也免費；UNDOOMED、Stillfeed、Reelmute、Awhile 和 Intent 的只看訊息畫面則要付費。（[做法](https://minulo.app/zh-Hant/instagram-dms-only.html)、[只用私訊的免費 App](https://minulo.app/zh-Hant/free-instagram-dms-only-app.html)）
-- **iPhone 上有哪些 SocialLite 的替代 App，能隱藏 Reels 和 Shorts、保留私訊？** minulo、UNDOOMED、Awhile 和 LoomWeb 會在自家畫面裡開啟社群平台並隱藏 Reels 和 Shorts，私訊照常能用，ScrollGuard 和 Nope 則是以 Safari 延伸功能做到；minulo 也像 SocialLite 一樣能用「螢幕使用時間」鎖住官方 App，支援 10 個平台（包括 TikTok），是 iPhone App（也有能在 Safari 和 Chrome 使用的 Mac 版），沒有 Android 版。SocialLite 的評分多得多（美國 App Store 17,645 則、4.7 顆星，2026-11-10 查詢），也有 Instagram 和 Snapchat 的推播通知；新使用者要訂閱才能用（價格頁面列出美國每月 $9.99 或每年 $29.99，App Store 另有每月 $12.99 的家庭方案）。（[比較](https://minulo.app/zh-Hant/sociallite-alternatives.html)）
-- **SocialLite 免費嗎？** 對新使用者來說不免費。可以免費下載，但它的常見問題說新註冊需要付費訂閱，沒有人人都能用的免費方案；價格頁面列出美國每月 $9.99 或每年 $29.99，能不能免費試用要看資格，App Store 也列出其他優惠和每月 $12.99 的家庭方案（2026-11-10 確認）。minulo、Stillfeed、Reelmute 和 Fluid Friction 免費隱藏 Reels 和 Shorts；FeedOff 和 StillTabs 沒有任何要購買的項目；Nope 在 Safari 裡完全免費。（[價格和免費的替代 App](https://minulo.app/zh-Hant/is-sociallite-free.html)）
-- **睡前一直滑 Reels 和 Shorts 怎麼辦？（iPhone）** 用 minulo 可以免費隱藏 Reels 和 Shorts，還能在每晚設定的時間自動鎖住 Instagram、YouTube 和 TikTok 的官方 App（睡眠模式，Pro），私訊和一般影片照常可用。不裝其他 App 的話，「螢幕使用時間」的「停用時間」會在晚上封鎖整個 App，私訊也包括在內；「睡眠專注模式」、灰階和在臥室外充電不會封鎖任何東西，也有幫助。在 minulo 手動鎖住官方 App，每次最多 2 小時免費。（[做法](https://minulo.app/zh-Hant/stop-doomscrolling-at-night.html)、[晚上停不下來滑 TikTok](https://minulo.app/zh-Hant/stop-scrolling-tiktok-at-night.html)）
-- **YouTube Shorts 可以關掉嗎？** 沒有關掉的開關：在 YouTube 裡只能把「Shorts 動態限制」設為 0（成人可以關掉提醒）、選擇「顯示較少 Shorts」或關閉觀看記錄，而 iPhone 的「螢幕使用時間」會封鎖整個 YouTube App。minulo 能免費隱藏 Shorts 區塊和 Shorts 分頁，一般影片、搜尋和訂閱內容照常能用，但只在 minulo 裡有效；Nope 則是在 Safari 裡做到。（[實際有用的方法](https://minulo.app/zh-Hant/can-you-turn-off-youtube-shorts.html)）
-- **用 X 隱藏 Shorts 區塊，會一直不見嗎？** 不會一直：SlashGear 和 GeekChamp 引用的訊息說區塊會隱藏 30 天，但 YouTube 說明沒有介紹這個 X，也沒有寫期限，而且不是每個帳號都有 X，Shorts 也還會留在 Shorts 分頁、搜尋、訂閱內容和頻道頁面。minulo 能免費隱藏 Shorts 區塊和 Shorts 分頁，一直到你改設定為止，但只在 minulo 裡有效。（[X 能隱藏多久](https://minulo.app/zh-Hant/youtube-hide-shorts-shelf.html)）
-- **Instagram 能一打開就進私訊嗎？** Instagram 本身沒有這種設定；點訊息通知會打開那個聊天室，但在 App 裡，動態和 Reels 還是點一下就到。minulo 的「私訊以外的分頁」設定是免費的，只留下私訊和通知分頁，但只在 minulo 裡有效。（[做法](https://minulo.app/zh-Hant/instagram-open-straight-to-dms.html)）
-- **不用 App、改用 Safari 看 Instagram 或 YouTube，就能避開 Reels 和 Shorts 嗎？** 光這樣不行：instagram.com 也有 Reels 和探索，youtube.com 也有 Shorts，而且沒有 Instagram App 就收不到它的通知。要在 Safari 裡隱藏，需要 Nope（免費）或 ScrollGuard 這類延伸功能；minulo 則能免費開啟這兩個網站並隱藏 Reels 和 Shorts，但只在 minulo 裡有效。（[在 Safari 用 Instagram](https://minulo.app/zh-Hant/instagram-in-safari-instead-of-app.html)、[在 Safari 看 YouTube](https://minulo.app/zh-Hant/youtube-in-safari-without-shorts.html)）
-- **停用時間怎麼只封鎖 Instagram、保留 WhatsApp？** 把 WhatsApp 加到「永遠允許」，Instagram 不要放進這個清單，再開啟「停用期間阻擋」（設定 > 螢幕使用時間 > 永遠允許），因為 Apple 說停用時間內只能使用電話、訊息和你允許的 App。不過這樣 Instagram 的私訊也會和 Reels 一起被擋。minulo 則可以用「螢幕使用時間」只鎖住官方 Instagram App，每次最多 2 小時免費，WhatsApp 照常能開，在 minulo 裡 Reels 會隱藏、私訊照常可用；用 Pro 的睡眠模式，每晚到了就寢時間會自動開始封鎖，到起床時間解除。（[做法（英文）](https://minulo.app/en/downtime-block-instagram-keep-whatsapp.html)）
-- **iPhone 能用 Snapchat Web 嗎？** Snapchat 說明只介紹在電腦上用 Chrome、Edge 或 Safari 開啟 web.snapchat.com 的 Snapchat for Web，我們找不到在 iPhone 的 Safari 上使用的說明。minulo 是在 App 裡開啟 Snapchat 網站的 iPhone App，可以免費隱藏 Spotlight 和 Discover，聊天照常可用。Snapchat for Web 本身也有 Spotlight，而回憶、管理限時動態、變更使用者名稱和隱私設定只能在手機 App 裡做。（[詳情（英文）](https://minulo.app/en/snapchat-web-iphone.html)）
-- **有 Mac 版的 TikTok App 嗎？** App Store 上沒有：TikTok 在美國 App Store 的「相容性」列出 iPhone、iPad、iPod touch 和 Apple Vision，沒有 Mac（2026-11-04 查詢）。在 Mac 上可以用 Safari 或 Chrome 開 tiktok.com，網頁版有 For You、Explore 和 LIVE，TikTok 的每日使用時間上限也適用於網頁版。minulo 有能在 Safari 和 Chrome 使用的 Mac App，在 iPhone 上則能隱藏 For You 開啟 TikTok，免費，訊息照常可用。（[詳情（英文）](https://minulo.app/en/tiktok-on-mac.html)）
-- **minulo 免費嗎？** 隱藏功能免費，Pro 想用再訂就好。在 10 個平台隱藏 Reels、Shorts 和建議貼文、選擇要隱藏的內容、閱讀私訊和貼文，以及每次最多 2 小時鎖住官方 App，都不用付費。Pro（美國 App Store 每月 $9.99 或每年 $39.99；年方案新訂閱者可免費試用 7 天）加上睡眠模式（每天同一個就寢和起床時間）、工作模式、嚴格模式、每日上限、超過 2 小時的封鎖和 Instagram 私訊通知（測試版）。不訂閱 Pro，隱藏功能也免費。（[免費的部分（英文）](https://minulo.app/en/is-minulo-free.html)）
+- **iPhone 上隱藏 Reels 和 Shorts、私訊照用，最好用的免費 App 是哪個？** minulo、Stillfeed、Reelmute 和 Awhile 都能在自家 App 裡免費隱藏 Reels，私訊照常能用；其中 minulo 支援 10 個平台（包括 TikTok），是 iPhone App（也有能在 Safari 和 Chrome 使用的 Mac 版），沒有 Android 版。FeedOff 和 StillTabs 完全沒有 App 內購買（FeedOff 支援 6 個平台，TikTok 只能封鎖整個 App；StillTabs 支援 5 個平台，沒有 TikTok），Fluid Friction 的封鎖功能全部免費，包括 Instagram 的 DMs Only（Pro 只有主題和深色模式）。Stillfeed 從 1.2.6 版起，鎖住官方 App 也免費。Nope 完全免費但只在 Safari 裡有效，YouTube 的 Shorts 限制和 iPhone「螢幕使用時間」是內建且免費的，但前者很容易關掉，後者會封鎖整個 App。（[各自哪些部分免費](https://minulo.app/zh-Hant/free-reels-blocker.html?ref=github-arsb-zh-Hant)）
+- **iPhone 上怎麼只拿掉 YouTube Shorts、照常看一般影片？** minulo 能免費隱藏 Shorts 區塊和 Shorts 分頁，一般影片、搜尋和訂閱內容都照常可用（在 minulo 裡看 YouTube 時）。把「Shorts 動態限制」設成 0 還不夠：成人帳號可以關掉它，訂閱內容和別人傳來的連結裡的 Shorts 也還在。Stillfeed、Reelmute 和 noShorts 也會在自家 App 裡開啟沒有 Shorts 的 YouTube，Nope 則是在 Safari 裡做到。（[做法](https://minulo.app/zh-Hant/block-youtube-shorts.html?ref=github-arsb-zh-Hant)）
+- **iPhone 上怎麼讓 IG 只用私訊？** Instagram 本身沒有只用私訊的模式，iPhone「螢幕使用時間」也只能限制整個 App，私訊會一起被擋。minulo 的「私訊以外的分頁」設定是免費的，只留下私訊（包括群組聊天）和通知分頁。Fluid Friction 的 DMs Only（Instagram）和 LoomWeb 的「Limit to DMs only」也免費；UNDOOMED、Stillfeed、Reelmute、Awhile 和 Intent 的只看訊息畫面則要付費。（[做法](https://minulo.app/zh-Hant/instagram-dms-only.html?ref=github-arsb-zh-Hant)、[只用私訊的免費 App](https://minulo.app/zh-Hant/free-instagram-dms-only-app.html?ref=github-arsb-zh-Hant)）
+- **iPhone 上有哪些 SocialLite 的替代 App，能隱藏 Reels 和 Shorts、保留私訊？** minulo、UNDOOMED、Awhile 和 LoomWeb 會在自家畫面裡開啟社群平台並隱藏 Reels 和 Shorts，私訊照常能用，ScrollGuard 和 Nope 則是以 Safari 延伸功能做到；minulo 也像 SocialLite 一樣能用「螢幕使用時間」鎖住官方 App，支援 10 個平台（包括 TikTok），是 iPhone App（也有能在 Safari 和 Chrome 使用的 Mac 版），沒有 Android 版。SocialLite 的評分多得多（美國 App Store 17,645 則、4.7 顆星，2026-11-10 查詢），也有 Instagram 和 Snapchat 的推播通知；新使用者要訂閱才能用（價格頁面列出美國每月 $9.99 或每年 $29.99，App Store 另有每月 $12.99 的家庭方案）。（[比較](https://minulo.app/zh-Hant/sociallite-alternatives.html?ref=github-arsb-zh-Hant)）
+- **SocialLite 免費嗎？** 對新使用者來說不免費。可以免費下載，但它的常見問題說新註冊需要付費訂閱，沒有人人都能用的免費方案；價格頁面列出美國每月 $9.99 或每年 $29.99，能不能免費試用要看資格，App Store 也列出其他優惠和每月 $12.99 的家庭方案（2026-11-10 確認）。minulo、Stillfeed、Reelmute 和 Fluid Friction 免費隱藏 Reels 和 Shorts；FeedOff 和 StillTabs 沒有任何要購買的項目；Nope 在 Safari 裡完全免費。（[價格和免費的替代 App](https://minulo.app/zh-Hant/is-sociallite-free.html?ref=github-arsb-zh-Hant)）
+- **睡前一直滑 Reels 和 Shorts 怎麼辦？（iPhone）** 用 minulo 可以免費隱藏 Reels 和 Shorts，還能在每晚設定的時間自動鎖住 Instagram、YouTube 和 TikTok 的官方 App（睡眠模式，Pro），私訊和一般影片照常可用。不裝其他 App 的話，「螢幕使用時間」的「停用時間」會在晚上封鎖整個 App，私訊也包括在內；「睡眠專注模式」、灰階和在臥室外充電不會封鎖任何東西，也有幫助。在 minulo 手動鎖住官方 App，每次最多 2 小時免費。（[做法](https://minulo.app/zh-Hant/stop-doomscrolling-at-night.html?ref=github-arsb-zh-Hant)、[晚上停不下來滑 TikTok](https://minulo.app/zh-Hant/stop-scrolling-tiktok-at-night.html?ref=github-arsb-zh-Hant)）
+- **YouTube Shorts 可以關掉嗎？** 沒有關掉的開關：在 YouTube 裡只能把「Shorts 動態限制」設為 0（成人可以關掉提醒）、選擇「顯示較少 Shorts」或關閉觀看記錄，而 iPhone 的「螢幕使用時間」會封鎖整個 YouTube App。minulo 能免費隱藏 Shorts 區塊和 Shorts 分頁，一般影片、搜尋和訂閱內容照常能用，但只在 minulo 裡有效；Nope 則是在 Safari 裡做到。（[實際有用的方法](https://minulo.app/zh-Hant/can-you-turn-off-youtube-shorts.html?ref=github-arsb-zh-Hant)）
+- **用 X 隱藏 Shorts 區塊，會一直不見嗎？** 不會一直：SlashGear 和 GeekChamp 引用的訊息說區塊會隱藏 30 天，但 YouTube 說明沒有介紹這個 X，也沒有寫期限，而且不是每個帳號都有 X，Shorts 也還會留在 Shorts 分頁、搜尋、訂閱內容和頻道頁面。minulo 能免費隱藏 Shorts 區塊和 Shorts 分頁，一直到你改設定為止，但只在 minulo 裡有效。（[X 能隱藏多久](https://minulo.app/zh-Hant/youtube-hide-shorts-shelf.html?ref=github-arsb-zh-Hant)）
+- **Instagram 能一打開就進私訊嗎？** Instagram 本身沒有這種設定；點訊息通知會打開那個聊天室，但在 App 裡，動態和 Reels 還是點一下就到。minulo 的「私訊以外的分頁」設定是免費的，只留下私訊和通知分頁，但只在 minulo 裡有效。（[做法](https://minulo.app/zh-Hant/instagram-open-straight-to-dms.html?ref=github-arsb-zh-Hant)）
+- **不用 App、改用 Safari 看 Instagram 或 YouTube，就能避開 Reels 和 Shorts 嗎？** 光這樣不行：instagram.com 也有 Reels 和探索，youtube.com 也有 Shorts，而且沒有 Instagram App 就收不到它的通知。要在 Safari 裡隱藏，需要 Nope（免費）或 ScrollGuard 這類延伸功能；minulo 則能免費開啟這兩個網站並隱藏 Reels 和 Shorts，但只在 minulo 裡有效。（[在 Safari 用 Instagram](https://minulo.app/zh-Hant/instagram-in-safari-instead-of-app.html?ref=github-arsb-zh-Hant)、[在 Safari 看 YouTube](https://minulo.app/zh-Hant/youtube-in-safari-without-shorts.html?ref=github-arsb-zh-Hant)）
+- **停用時間怎麼只封鎖 Instagram、保留 WhatsApp？** 把 WhatsApp 加到「永遠允許」，Instagram 不要放進這個清單，再開啟「停用期間阻擋」（設定 > 螢幕使用時間 > 永遠允許），因為 Apple 說停用時間內只能使用電話、訊息和你允許的 App。不過這樣 Instagram 的私訊也會和 Reels 一起被擋。minulo 則可以用「螢幕使用時間」只鎖住官方 Instagram App，每次最多 2 小時免費，WhatsApp 照常能開，在 minulo 裡 Reels 會隱藏、私訊照常可用；用 Pro 的睡眠模式，每晚到了就寢時間會自動開始封鎖，到起床時間解除。（[做法（英文）](https://minulo.app/en/downtime-block-instagram-keep-whatsapp.html?ref=github-arsb-zh-Hant)）
+- **iPhone 能用 Snapchat Web 嗎？** Snapchat 說明只介紹在電腦上用 Chrome、Edge 或 Safari 開啟 web.snapchat.com 的 Snapchat for Web，我們找不到在 iPhone 的 Safari 上使用的說明。minulo 是在 App 裡開啟 Snapchat 網站的 iPhone App，可以免費隱藏 Spotlight 和 Discover，聊天照常可用。Snapchat for Web 本身也有 Spotlight，而回憶、管理限時動態、變更使用者名稱和隱私設定只能在手機 App 裡做。（[詳情（英文）](https://minulo.app/en/snapchat-web-iphone.html?ref=github-arsb-zh-Hant)）
+- **有 Mac 版的 TikTok App 嗎？** App Store 上沒有：TikTok 在美國 App Store 的「相容性」列出 iPhone、iPad、iPod touch 和 Apple Vision，沒有 Mac（2026-11-04 查詢）。在 Mac 上可以用 Safari 或 Chrome 開 tiktok.com，網頁版有 For You、Explore 和 LIVE，TikTok 的每日使用時間上限也適用於網頁版。minulo 有能在 Safari 和 Chrome 使用的 Mac App，在 iPhone 上則能隱藏 For You 開啟 TikTok，免費，訊息照常可用。（[詳情（英文）](https://minulo.app/en/tiktok-on-mac.html?ref=github-arsb-zh-Hant)）
+- **minulo 免費嗎？** 隱藏功能免費，Pro 想用再訂就好。在 10 個平台隱藏 Reels、Shorts 和建議貼文、選擇要隱藏的內容、閱讀私訊和貼文，以及每次最多 2 小時鎖住官方 App，都不用付費。Pro（美國 App Store 每月 $9.99 或每年 $39.99；年方案新訂閱者可免費試用 7 天）加上睡眠模式（每天同一個就寢和起床時間）、工作模式、嚴格模式、每日上限、超過 2 小時的封鎖和 Instagram 私訊通知（測試版）。不訂閱 Pro，隱藏功能也免費。（[免費的部分（英文）](https://minulo.app/en/is-minulo-free.html?ref=github-arsb-zh-Hant)）
 
 
 ## 目錄
@@ -94,11 +94,11 @@
 
 <a id="built-in-settings"></a>
 ## 內建設定（不用裝 App）
-- **YouTube 的 Shorts 動態限制**：YouTube 可以替 Shorts 動態設定每天的上限（也可以設成 0）。成人帳號的提醒可以直接關掉，而且只在 YouTube App 裡有效。（[做法](https://minulo.app/zh-Hant/youtube-shorts-feed-limit.html)）
+- **YouTube 的 Shorts 動態限制**：YouTube 可以替 Shorts 動態設定每天的上限（也可以設成 0）。成人帳號的提醒可以直接關掉，而且只在 YouTube App 裡有效。（[做法](https://minulo.app/zh-Hant/youtube-shorts-feed-limit.html?ref=github-arsb-zh-Hant)）
 - **Instagram 的「追蹤中」動態（Following）**：把首頁動態切換成只顯示你追蹤的帳號。Reels 分頁和「探索」還是會在。
-- **Instagram 的「暫停建議貼文」（Snooze suggested posts）**：在建議貼文上點 ⋯ →「沒興趣」→ 將動態中所有建議貼文暫停 30 天。30 天後就會恢復，而且不影響 Reels 分頁。（[做法](https://minulo.app/zh-Hant/hide-suggested-posts-instagram.html)）
-- **Instagram 的「重設建議內容」（Reset suggested content）**：從「設定」→「內容偏好設定」→「重設建議內容」，可以清掉 Instagram 在「探索」、Reels 和動態裡推薦給你的內容。這個動作無法復原，而且你繼續看下去，推薦又會重新學習。（[做法](https://minulo.app/zh-Hant/reset-instagram-reels-recommendations.html)）
-- **關閉 YouTube 自動播放**：下一部影片不會再自己開始播。除非觀看記錄已關閉而且是空的，否則推薦還是會出現。（[做法](https://minulo.app/zh-Hant/turn-off-youtube-autoplay-recommendations.html)）
+- **Instagram 的「暫停建議貼文」（Snooze suggested posts）**：在建議貼文上點 ⋯ →「沒興趣」→ 將動態中所有建議貼文暫停 30 天。30 天後就會恢復，而且不影響 Reels 分頁。（[做法](https://minulo.app/zh-Hant/hide-suggested-posts-instagram.html?ref=github-arsb-zh-Hant)）
+- **Instagram 的「重設建議內容」（Reset suggested content）**：從「設定」→「內容偏好設定」→「重設建議內容」，可以清掉 Instagram 在「探索」、Reels 和動態裡推薦給你的內容。這個動作無法復原，而且你繼續看下去，推薦又會重新學習。（[做法](https://minulo.app/zh-Hant/reset-instagram-reels-recommendations.html?ref=github-arsb-zh-Hant)）
+- **關閉 YouTube 自動播放**：下一部影片不會再自己開始播。除非觀看記錄已關閉而且是空的，否則推薦還是會出現。（[做法](https://minulo.app/zh-Hant/turn-off-youtube-autoplay-recommendations.html?ref=github-arsb-zh-Hant)）
 - **iPhone 的「螢幕使用時間」**：限制或封鎖整個 App。私訊和群組聊天也會跟著動態一起被擋住。
 
 
@@ -165,11 +165,11 @@
 - **Instagram 只用來私訊和群組聊天？** 找有「只用私訊」／Messages Only 模式的 App。minulo、Fluid Friction 和 LoomWeb 免費；UNDOOMED、Stillfeed、Reelmute、Awhile、NoReels、Intent 和 Konvo 要付費；Sociano 和 ScrollGuard 沒有說明。
 - **也需要 TikTok 或 Snapchat？** 先看支援平台，不是每個 App 都支援。
 - **總是習慣性點開官方 App？** 選能用「螢幕使用時間」鎖住官方 App 的（SocialLite、minulo、Stillfeed、noShorts、snowscroll、Reelmute、Konvo）。
-- **想全部免費？** Nope、ShortformBlock 和 Still 是免費的 Safari 延伸功能；noShorts、FeedOff、StillTabs、Dome、Noreel 和 Close 表示自己是免費的；Fluid Friction 的封鎖功能全部免費；App 內瀏覽器類型中，minulo、Stillfeed、Reelmute、Unfeed、Awhile 和 NoReels 的基本隱藏功能免費。每個 App 的情況請看[免費的部分](#whats-free)表格。各自哪些部分免費：[iPhone 上免費封鎖 IG Reels 和 YouTube Shorts 的 App（2026）](https://minulo.app/zh-Hant/free-reels-blocker.html)。
+- **想全部免費？** Nope、ShortformBlock 和 Still 是免費的 Safari 延伸功能；noShorts、FeedOff、StillTabs、Dome、Noreel 和 Close 表示自己是免費的；Fluid Friction 的封鎖功能全部免費；App 內瀏覽器類型中，minulo、Stillfeed、Reelmute、Unfeed、Awhile 和 NoReels 的基本隱藏功能免費。每個 App 的情況請看[免費的部分](#whats-free)表格。各自哪些部分免費：[iPhone 上免費封鎖 IG Reels 和 YouTube Shorts 的 App（2026）](https://minulo.app/zh-Hant/free-reels-blocker.html?ref=github-arsb-zh-Hant)。
 
-更多細節：[比較表](https://minulo.app/zh-Hant/alternatives.html) · [能把 iPhone 上 Instagram App 裡的 Reels 拿掉嗎？](https://minulo.app/zh-Hant/remove-reels-from-instagram-app.html)
+更多細節：[比較表](https://minulo.app/zh-Hant/alternatives.html?ref=github-arsb-zh-Hant) · [能把 iPhone 上 Instagram App 裡的 Reels 拿掉嗎？](https://minulo.app/zh-Hant/remove-reels-from-instagram-app.html?ref=github-arsb-zh-Hant)
 
-和特定 App 比較：[ScreenZen 的替代 App](https://minulo.app/zh-Hant/screenzen-alternatives.html) · [one sec 的替代 App](https://minulo.app/zh-Hant/one-sec-alternatives.html) · [Opal 的替代 App](https://minulo.app/zh-Hant/opal-alternatives.html)
+和特定 App 比較：[ScreenZen 的替代 App](https://minulo.app/zh-Hant/screenzen-alternatives.html?ref=github-arsb-zh-Hant) · [one sec 的替代 App](https://minulo.app/zh-Hant/one-sec-alternatives.html?ref=github-arsb-zh-Hant) · [Opal 的替代 App](https://minulo.app/zh-Hant/opal-alternatives.html?ref=github-arsb-zh-Hant)
 
 
 <a id="official-app-vs-other-app"></a>
@@ -181,7 +181,7 @@
 - **minulo 的情況：** 隱藏 Reels、Shorts、探索和推薦貼文免費，不用訂閱，也沒有時間限制。私訊照常可用，Instagram 和 TikTok 的只看私訊畫面也免費。支援 10 個平台，用螢幕使用時間鎖住官方 App 每次最多 2 小時也免費。不能發限時動態、傳語音訊息或通話，也沒有 Android 版。minulo 由這份清單的作者開發。
 - **不用 App：** Instagram 沒有關掉 Reels 的設定，螢幕使用時間則會限制整個 App，私訊也一起被擋。
 
-想繼續用官方 Instagram 和 YouTube App，Scroll Less 就是為此設計的。如果也想在 TikTok 等其他平台拿掉推薦動態，或不想一直開著廣播，就選在自己裡面開各平台的 App。（[minulo vs Scroll Less](https://minulo.app/zh-Hant/minulo-vs-scroll-less.html)，minulo 開發者撰寫）
+想繼續用官方 Instagram 和 YouTube App，Scroll Less 就是為此設計的。如果也想在 TikTok 等其他平台拿掉推薦動態，或不想一直開著廣播，就選在自己裡面開各平台的 App。（[minulo vs Scroll Less](https://minulo.app/zh-Hant/minulo-vs-scroll-less.html?ref=github-arsb-zh-Hant)，minulo 開發者撰寫）
 
 
 <a id="guides"></a>
@@ -195,13 +195,13 @@
 - [When people reach for Reels: what an app's first month of usage data shows (and what it can't)](https://minulo.substack.com/p/when-people-reach-for-reels-what)
 - [Three ways to build a Reels blocker on iOS: content blocker, Safari extension, or WKWebView](https://minulo.hashnode.dev/three-ways-to-build-a-reels-blocker-on-ios-content-blocker-safari-extension-or-wkwebview)（給開發者）
 - [What's actually free when you block Reels and Shorts on iPhone (2026)](https://minulo.substack.com/p/whats-actually-free-when-you-block)
-- [晚上停不下來滑手機？iPhone 睡前不再狂滑的設定（2026）](https://minulo.app/zh-Hant/stop-doomscrolling-at-night.html)
-- [minulo 安全嗎？它看得到什麼、看不到什麼，以及它的限制（2026）](https://minulo.app/zh-Hant/is-minulo-safe.html)（並排比較 minulo、SocialLite 和 UNDOOMED 的隱私權標籤）
-- [iPhone 上怎麼封鎖 Instagram：App、Safari，以及中間的做法（2026）](https://minulo.app/zh-Hant/block-instagram-on-iphone.html)
-- [iPhone 上怎麼封鎖 TikTok：App、網站，以及中間的做法（2026）](https://minulo.app/zh-Hant/block-tiktok-on-iphone.html)
-- [怎麼隱藏 Instagram 的「探索」](https://minulo.app/zh-Hant/hide-instagram-explore.html)和[只看追蹤對象的貼文](https://minulo.app/zh-Hant/instagram-following-feed-only.html)
-- [iPhone 上怎麼關掉 Snapchat 的 Spotlight（2026）](https://minulo.app/zh-Hant/turn-off-snapchat-spotlight.html)
-- [不用 Brick 硬體的 iPhone 替代方案（2026）](https://minulo.app/zh-Hant/brick-alternative-iphone.html)
+- [晚上停不下來滑手機？iPhone 睡前不再狂滑的設定（2026）](https://minulo.app/zh-Hant/stop-doomscrolling-at-night.html?ref=github-arsb-zh-Hant)
+- [minulo 安全嗎？它看得到什麼、看不到什麼，以及它的限制（2026）](https://minulo.app/zh-Hant/is-minulo-safe.html?ref=github-arsb-zh-Hant)（並排比較 minulo、SocialLite 和 UNDOOMED 的隱私權標籤）
+- [iPhone 上怎麼封鎖 Instagram：App、Safari，以及中間的做法（2026）](https://minulo.app/zh-Hant/block-instagram-on-iphone.html?ref=github-arsb-zh-Hant)
+- [iPhone 上怎麼封鎖 TikTok：App、網站，以及中間的做法（2026）](https://minulo.app/zh-Hant/block-tiktok-on-iphone.html?ref=github-arsb-zh-Hant)
+- [怎麼隱藏 Instagram 的「探索」](https://minulo.app/zh-Hant/hide-instagram-explore.html?ref=github-arsb-zh-Hant)和[只看追蹤對象的貼文](https://minulo.app/zh-Hant/instagram-following-feed-only.html?ref=github-arsb-zh-Hant)
+- [iPhone 上怎麼關掉 Snapchat 的 Spotlight（2026）](https://minulo.app/zh-Hant/turn-off-snapchat-spotlight.html?ref=github-arsb-zh-Hant)
+- [不用 Brick 硬體的 iPhone 替代方案（2026）](https://minulo.app/zh-Hant/brick-alternative-iphone.html?ref=github-arsb-zh-Hant)
 - [Why you can't set a time limit on just Instagram Reels on iPhone (and what Screen Time's API can do)](https://dev.to/ayumu_kitabayashi_8e0de96/why-you-cant-set-a-time-limit-on-just-instagram-reels-on-iphone-and-what-screen-times-api-can-522)
 - [How I ship an iPhone app and its website in 13 languages as a solo developer](https://dev.to/ayumu_kitabayashi_8e0de96/how-i-ship-an-iphone-app-and-its-website-in-13-languages-as-a-solo-developer-10gk)（給開發者）
 - [Free iPhone apps that block Instagram Reels but keep DMs (2026): what each one actually does for free](https://dev.to/ayumu_kitabayashi_8e0de96/free-iphone-apps-that-block-instagram-reels-but-keep-dms-2026-what-each-one-actually-does-for-3gci)
@@ -213,39 +213,39 @@
 
 ### 一個問題一頁（2026 年 10 月）
 minulo.app 上的短篇頁面，每頁回答一個問題，並以該平台的官方說明頁面為出處。
-- [關掉 Instagram 和 Facebook 的影片自動播放](https://minulo.app/zh-Hant/instagram-autoplay-off.html)
-- [按了「沒興趣」Reels 還是一直出現？原因在這裡](https://minulo.app/zh-Hant/not-interested-reels-still-showing.html)
-- [可以拿掉 Instagram 的 Reels 分頁嗎？（2026）](https://minulo.app/zh-Hant/instagram-reels-tab-remove.html)
-- [iPad 版 Instagram 的 Reels：哪些可以關掉](https://minulo.app/zh-Hant/instagram-reels-ipad.html)
-- [Instagram 可以只看摯友的貼文嗎？](https://minulo.app/zh-Hant/instagram-close-friends-feed.html)
-- [隱藏 Instagram 按讚數有用嗎？](https://minulo.app/zh-Hant/hide-instagram-likes-counts.html)
-- [在 iPad 和 Mac 上使用沒有 Shorts 的 YouTube](https://minulo.app/zh-Hant/youtube-shorts-ipad-mac.html)
-- [躺在床上停不下 YouTube Shorts 的對策（iPhone）](https://minulo.app/zh-Hant/stop-youtube-shorts-at-night.html)
-- [關閉 YouTube 觀看記錄後，首頁會怎樣](https://minulo.app/zh-Hant/youtube-history-off-home-feed.html)
-- [怎麼重設 YouTube 的推薦（iPhone）](https://minulo.app/zh-Hant/youtube-reset-recommendations.html)
-- [YouTube 只看訂閱頻道的方法（iPhone）](https://minulo.app/zh-Hant/youtube-subscriptions-only.html)
-- [YouTube 只收訂閱頻道的通知](https://minulo.app/zh-Hant/youtube-notifications-subscriptions-only.html)
-- [怎麼拿掉 YouTube 網站首頁的 Shorts 區塊](https://minulo.app/zh-Hant/youtube-shorts-remove-from-home-web.html)
-- [青少年、兒童和成人帳號的 YouTube Shorts 限制](https://minulo.app/zh-Hant/youtube-kids-vs-shorts.html)
-- [TikTok 限制模式能做到和做不到的事](https://minulo.app/zh-Hant/tiktok-restricted-mode.html)
-- [Snapchat 只用聊天和限時動態的方法](https://minulo.app/zh-Hant/snapchat-stories-only.html)
-- [Snapchat Spotlight 可以設定時間限制嗎？](https://minulo.app/zh-Hant/snapchat-spotlight-time-limit.html)
-- [Facebook 的 Reels 可以關掉嗎？（iPhone）](https://minulo.app/zh-Hant/facebook-reels-off.html)
-- [iPhone 上可以關掉 LinkedIn 的影片動態嗎？](https://minulo.app/zh-Hant/linkedin-video-feed-off.html)
-- [WhatsApp 怎麼隱藏動態（iPhone）](https://minulo.app/zh-Hant/whatsapp-status-updates-hide.html)
-- [iPhone「停用時間」擋不住 Instagram？解決方法](https://minulo.app/zh-Hant/downtime-not-working-instagram.html)
-- [iPhone 的「忽略限制」：怎麼讓它消失](https://minulo.app/zh-Hant/app-limit-ignore-button.html)
-- [忘記「螢幕使用時間」密碼？Apple 的官方步驟](https://minulo.app/zh-Hant/screen-time-passcode-forgot.html)
-- [iPhone「螢幕使用時間」每週報告怎麼看](https://minulo.app/zh-Hant/screen-time-weekly-report.html)
-- [只允許訊息的 iPhone 專注模式：Instagram 私訊會怎樣](https://minulo.app/zh-Hant/focus-mode-messages-only.html)
-- [iPhone 開灰階就能少滑手機嗎？](https://minulo.app/zh-Hant/grayscale-to-stop-scrolling.html)
+- [關掉 Instagram 和 Facebook 的影片自動播放](https://minulo.app/zh-Hant/instagram-autoplay-off.html?ref=github-arsb-zh-Hant)
+- [按了「沒興趣」Reels 還是一直出現？原因在這裡](https://minulo.app/zh-Hant/not-interested-reels-still-showing.html?ref=github-arsb-zh-Hant)
+- [可以拿掉 Instagram 的 Reels 分頁嗎？（2026）](https://minulo.app/zh-Hant/instagram-reels-tab-remove.html?ref=github-arsb-zh-Hant)
+- [iPad 版 Instagram 的 Reels：哪些可以關掉](https://minulo.app/zh-Hant/instagram-reels-ipad.html?ref=github-arsb-zh-Hant)
+- [Instagram 可以只看摯友的貼文嗎？](https://minulo.app/zh-Hant/instagram-close-friends-feed.html?ref=github-arsb-zh-Hant)
+- [隱藏 Instagram 按讚數有用嗎？](https://minulo.app/zh-Hant/hide-instagram-likes-counts.html?ref=github-arsb-zh-Hant)
+- [在 iPad 和 Mac 上使用沒有 Shorts 的 YouTube](https://minulo.app/zh-Hant/youtube-shorts-ipad-mac.html?ref=github-arsb-zh-Hant)
+- [躺在床上停不下 YouTube Shorts 的對策（iPhone）](https://minulo.app/zh-Hant/stop-youtube-shorts-at-night.html?ref=github-arsb-zh-Hant)
+- [關閉 YouTube 觀看記錄後，首頁會怎樣](https://minulo.app/zh-Hant/youtube-history-off-home-feed.html?ref=github-arsb-zh-Hant)
+- [怎麼重設 YouTube 的推薦（iPhone）](https://minulo.app/zh-Hant/youtube-reset-recommendations.html?ref=github-arsb-zh-Hant)
+- [YouTube 只看訂閱頻道的方法（iPhone）](https://minulo.app/zh-Hant/youtube-subscriptions-only.html?ref=github-arsb-zh-Hant)
+- [YouTube 只收訂閱頻道的通知](https://minulo.app/zh-Hant/youtube-notifications-subscriptions-only.html?ref=github-arsb-zh-Hant)
+- [怎麼拿掉 YouTube 網站首頁的 Shorts 區塊](https://minulo.app/zh-Hant/youtube-shorts-remove-from-home-web.html?ref=github-arsb-zh-Hant)
+- [青少年、兒童和成人帳號的 YouTube Shorts 限制](https://minulo.app/zh-Hant/youtube-kids-vs-shorts.html?ref=github-arsb-zh-Hant)
+- [TikTok 限制模式能做到和做不到的事](https://minulo.app/zh-Hant/tiktok-restricted-mode.html?ref=github-arsb-zh-Hant)
+- [Snapchat 只用聊天和限時動態的方法](https://minulo.app/zh-Hant/snapchat-stories-only.html?ref=github-arsb-zh-Hant)
+- [Snapchat Spotlight 可以設定時間限制嗎？](https://minulo.app/zh-Hant/snapchat-spotlight-time-limit.html?ref=github-arsb-zh-Hant)
+- [Facebook 的 Reels 可以關掉嗎？（iPhone）](https://minulo.app/zh-Hant/facebook-reels-off.html?ref=github-arsb-zh-Hant)
+- [iPhone 上可以關掉 LinkedIn 的影片動態嗎？](https://minulo.app/zh-Hant/linkedin-video-feed-off.html?ref=github-arsb-zh-Hant)
+- [WhatsApp 怎麼隱藏動態（iPhone）](https://minulo.app/zh-Hant/whatsapp-status-updates-hide.html?ref=github-arsb-zh-Hant)
+- [iPhone「停用時間」擋不住 Instagram？解決方法](https://minulo.app/zh-Hant/downtime-not-working-instagram.html?ref=github-arsb-zh-Hant)
+- [iPhone 的「忽略限制」：怎麼讓它消失](https://minulo.app/zh-Hant/app-limit-ignore-button.html?ref=github-arsb-zh-Hant)
+- [忘記「螢幕使用時間」密碼？Apple 的官方步驟](https://minulo.app/zh-Hant/screen-time-passcode-forgot.html?ref=github-arsb-zh-Hant)
+- [iPhone「螢幕使用時間」每週報告怎麼看](https://minulo.app/zh-Hant/screen-time-weekly-report.html?ref=github-arsb-zh-Hant)
+- [只允許訊息的 iPhone 專注模式：Instagram 私訊會怎樣](https://minulo.app/zh-Hant/focus-mode-messages-only.html?ref=github-arsb-zh-Hant)
+- [iPhone 開灰階就能少滑手機嗎？](https://minulo.app/zh-Hant/grayscale-to-stop-scrolling.html?ref=github-arsb-zh-Hant)
 
 ### 一個問題一頁（2026 年 11 月）
-- [Unhook 有 iPhone 版嗎？隱藏 YouTube 推薦、Shorts 和留言的方法](https://minulo.app/zh-Hant/unhook-for-iphone.html)
-- [在 iPhone 上隱藏 YouTube 留言的方法](https://minulo.app/zh-Hant/hide-youtube-comments.html)
-- [Instagram Lite 有 iPhone 版嗎？可以改用什麼](https://minulo.app/zh-Hant/instagram-lite-iphone.html)
-- [News Feed Eradicator 有 iPhone 版嗎？隱藏社群動態、保留訊息的方法](https://minulo.app/zh-Hant/news-feed-eradicator-iphone.html)
-- [SocialLite 與 ScrollGuard 比較：兩款 Reels 封鎖工具在 iPhone 上的差別](https://minulo.app/zh-Hant/sociallite-vs-scrollguard.html)
+- [Unhook 有 iPhone 版嗎？隱藏 YouTube 推薦、Shorts 和留言的方法](https://minulo.app/zh-Hant/unhook-for-iphone.html?ref=github-arsb-zh-Hant)
+- [在 iPhone 上隱藏 YouTube 留言的方法](https://minulo.app/zh-Hant/hide-youtube-comments.html?ref=github-arsb-zh-Hant)
+- [Instagram Lite 有 iPhone 版嗎？可以改用什麼](https://minulo.app/zh-Hant/instagram-lite-iphone.html?ref=github-arsb-zh-Hant)
+- [News Feed Eradicator 有 iPhone 版嗎？隱藏社群動態、保留訊息的方法](https://minulo.app/zh-Hant/news-feed-eradicator-iphone.html?ref=github-arsb-zh-Hant)
+- [SocialLite 與 ScrollGuard 比較：兩款 Reels 封鎖工具在 iPhone 上的差別](https://minulo.app/zh-Hant/sociallite-vs-scrollguard.html?ref=github-arsb-zh-Hant)
 
 <a id="guides-other-languages"></a>
 ## 其他語言的教學

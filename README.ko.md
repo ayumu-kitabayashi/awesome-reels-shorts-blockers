@@ -4,27 +4,27 @@
 
 아이폰에서 **인스타그램 릴스, 유튜브 쇼츠, 틱톡 추천(For You) 피드**만 숨기고, DM이나 단톡방, 검색, 팔로우한 계정은 평소처럼 쓸 수 있는 앱과 설정을 모았습니다.
 
-> **밝혀 둘 점:** 이 목록은 아래 앱 중 하나인 [minulo](https://minulo.app/en/)의 개발자가 관리합니다. 내용은 각 앱의 미국 App Store 페이지나 공식 웹사이트에 적힌 것만 옮겼습니다(2026년 10월 확인, 평가 수는 2026-10-27 기준). 평가 수는 매일 바뀝니다. 틀린 곳이나 빠진 앱은 이슈나 풀 리퀘스트로 알려 주세요. minulo도 이 목록에 들어 있기 때문에, [무료로 되는 것](#whats-free) 표에는 minulo를 포함한 모든 앱에 대해 돈을 내지 않고 쓸 수 있는 범위를 각 앱의 스토어 페이지나 웹사이트에 적힌 그대로 정리했습니다.
+> **밝혀 둘 점:** 이 목록은 아래 앱 중 하나인 [minulo](https://minulo.app/en/?ref=github-arsb-ko)의 개발자가 관리합니다. 내용은 각 앱의 미국 App Store 페이지나 공식 웹사이트에 적힌 것만 옮겼습니다(2026년 10월 확인, 평가 수는 2026-10-27 기준). 평가 수는 매일 바뀝니다. 틀린 곳이나 빠진 앱은 이슈나 풀 리퀘스트로 알려 주세요. minulo도 이 목록에 들어 있기 때문에, [무료로 되는 것](#whats-free) 표에는 minulo를 포함한 모든 앱에 대해 돈을 내지 않고 쓸 수 있는 범위를 각 앱의 스토어 페이지나 웹사이트에 적힌 그대로 정리했습니다.
 
 
 <a id="quick-answers"></a>
 ## 자주 묻는 질문
-- **인스타 릴스만 차단하고 DM은 쓸 수 있는 무료 아이폰 앱은? (유튜브 쇼츠도)** minulo, Stillfeed, Reelmute, Awhile은 자체 앱 안에서 릴스를 무료로 숨기고 DM은 평소처럼 쓸 수 있으며, 그중 가장 많은 10개 SNS(TikTok 포함)를 지원하는 minulo는 아이폰 앱이고(Safari와 Chrome에서 쓸 수 있는 Mac 버전도 있음) 안드로이드 버전은 없습니다. FeedOff와 StillTabs는 인앱 구입이 아예 없고(FeedOff는 6개 SNS, TikTok은 앱 전체 차단만 가능. StillTabs는 5개 SNS, TikTok 없음), Fluid Friction은 인스타그램 DMs Only까지 포함해 차단 기능이 모두 무료입니다(Pro는 테마와 다크 모드). Stillfeed는 1.2.6 버전부터 공식 앱 잠금도 무료입니다. Nope은 완전 무료지만 Safari에서만 작동하고, 유튜브의 쇼츠 제한과 아이폰 스크린 타임은 기본 기능이라 무료지만 앞의 것은 쉽게 끌 수 있고 뒤의 것은 앱 전체를 막습니다. ([앱마다 무엇이 무료인지](https://minulo.app/ko/free-reels-blocker.html))
-- **아이폰 유튜브 쇼츠만 없애고 일반 영상은 평소처럼 보는 방법은?** minulo를 쓰면 쇼츠 섹션과 쇼츠 탭을 무료로 숨길 수 있고, 일반 영상이나 검색, 구독은 평소처럼 쓸 수 있어요(minulo 안에서 유튜브를 볼 때). 쇼츠 피드 제한을 0으로 정해도 성인 계정은 닫을 수 있고, 구독 채널과 받은 링크의 쇼츠는 남아요. Stillfeed, Reelmute, noShorts도 자체 앱 안에서 쇼츠 없는 유튜브를 열어 주고, Nope은 Safari에서 같은 일을 해요. ([방법](https://minulo.app/ko/block-youtube-shorts.html))
-- **아이폰에서 인스타 DM만 쓰는 방법은?** 인스타그램 자체에는 메시지만 보는 모드가 없고, 아이폰 스크린 타임은 DM까지 포함해 앱 전체만 제한할 수 있습니다. minulo의 DM 외의 모든 탭 설정은 무료이며 DM(단톡 포함)과 알림 탭만 남깁니다. Fluid Friction의 DMs Only(인스타그램)와 LoomWeb의 "Limit to DMs only"도 무료이고, UNDOOMED, Stillfeed, Reelmute, Awhile, Intent에서는 메시지만 보는 화면이 유료입니다. ([방법](https://minulo.app/ko/instagram-dms-only.html), [DM만 쓰게 해 주는 무료 앱이 있을까?](https://minulo.app/ko/free-instagram-dms-only-app.html))
-- **SocialLite 대체 앱: 릴스·쇼츠는 숨기고 DM은 쓰는 아이폰 앱은?** minulo, UNDOOMED, Awhile, LoomWeb은 자체 화면에서 릴스와 쇼츠를 숨긴 채 SNS를 열고 DM은 평소처럼 쓸 수 있으며(ScrollGuard와 Nope은 Safari 확장 프로그램), minulo는 SocialLite처럼 스크린 타임으로 공식 앱도 잠그고 10개 SNS(TikTok 포함)를 지원하는 아이폰 앱이며(Safari와 Chrome에서 쓸 수 있는 Mac 버전도 있음) 안드로이드 버전은 없습니다. SocialLite는 평가가 훨씬 많고(미국 App Store 17,645개(2026-11-10 확인), 별점 4.7) 인스타그램과 Snapchat 푸시 알림이 오지만, 새로 쓰는 사람은 구독해야 합니다(요금 페이지 기준 미국에서 월 $9.99 또는 연 $29.99, App Store에는 월 $12.99 패밀리 요금제도 있음). ([비교](https://minulo.app/ko/sociallite-alternatives.html))
-- **SocialLite는 무료인가요?** 새로 쓰는 사람에게는 무료가 아닙니다. 내려받기는 무료지만, FAQ에 따르면 새로 가입하려면 유료 구독이 필요하고 누구나 쓸 수 있는 무료 요금제는 없습니다. 요금 페이지에는 미국 기준 월 $9.99 또는 연 $29.99로 나와 있고, 무료 체험은 조건에 따라 다르며, App Store에는 다른 할인과 월 $12.99 패밀리 요금제도 있습니다(2026-11-10 확인). minulo, Stillfeed, Reelmute, Fluid Friction은 릴스와 쇼츠를 무료로 숨겨 주고, FeedOff와 StillTabs는 결제할 것이 없으며, Nope은 Safari 안에서 완전 무료입니다. ([가격과 무료 대안](https://minulo.app/ko/is-sociallite-free.html))
-- **자기 전에 릴스·쇼츠 그만 보는 방법은? (아이폰)** minulo를 쓰면 릴스와 쇼츠를 무료로 숨기고, 공식 인스타그램·유튜브·틱톡 앱을 매일 밤 같은 시간에 자동으로 잠글 수 있어요(수면 모드, Pro). DM이나 일반 영상은 평소처럼 볼 수 있어요. 앱 없이 하려면 스크린 타임의 다운타임이 있지만, 밤에 앱 전체를 막아서 DM도 함께 막혀요. 수면 집중 모드, 그레이스케일, 침실 밖에서 충전하기는 아무것도 막지 않으면서 도움이 돼요. minulo에서 공식 앱을 직접 잠그는 건 한 번에 2시간까지 무료예요. ([방법](https://minulo.app/ko/stop-doomscrolling-at-night.html), [밤에 틱톡 막기](https://minulo.app/ko/stop-scrolling-tiktok-at-night.html))
-- **유튜브 쇼츠를 끌 수 있나요?** 끄는 스위치는 없습니다. 유튜브 안에서는 Shorts 피드 제한을 0분으로 정하기(성인은 닫을 수 있습니다), Shorts 동영상 적게 표시, 시청 기록 끄기 정도만 할 수 있고, 아이폰 스크린 타임은 유튜브 앱 전체를 막습니다. minulo는 쇼츠 섹션과 쇼츠 탭을 무료로 숨기고 일반 영상이나 검색, 구독은 평소처럼 쓸 수 있게 하며(minulo 안에서만), Nope는 Safari에서 같은 일을 합니다. ([되는 방법](https://minulo.app/ko/can-you-turn-off-youtube-shorts.html))
-- **쇼츠 섹션을 X로 숨기면 계속 숨겨지나요?** 계속은 아닙니다. SlashGear와 GeekChamp는 '30일 동안 숨긴다'는 안내가 뜬다고 전하지만, YouTube 고객센터에는 X도 기간도 나와 있지 않고 X가 안 보이는 계정도 있으며, 쇼츠는 쇼츠 탭, 검색, 구독, 채널 페이지에 남습니다. minulo는 쇼츠 섹션과 쇼츠 탭을 무료로 숨기고 설정을 바꿀 때까지 계속 숨겨 둡니다(minulo 안에서만). ([며칠 가는지](https://minulo.app/ko/youtube-hide-shorts-shelf.html))
-- **인스타를 열자마자 DM으로 갈 수 있나요?** 인스타그램 자체에는 그런 설정이 없습니다. 메시지 알림을 누르면 그 채팅이 열리지만 앱 안이라서 피드와 릴스는 한 번만 누르면 나옵니다. minulo의 DM 외의 모든 탭 설정은 무료이고, DM과 알림 탭만 남깁니다(minulo 안에서만). ([방법](https://minulo.app/ko/instagram-open-straight-to-dms.html))
-- **앱 대신 Safari로 인스타나 유튜브를 쓰면 릴스와 쇼츠를 피할 수 있나요?** 그것만으로는 안 됩니다. instagram.com에도 릴스와 탐색이 있고 youtube.com에도 쇼츠가 나오며, 인스타그램 앱이 없으면 알림도 오지 않습니다. Safari에서 숨기려면 Nope(무료)나 ScrollGuard 같은 확장 프로그램이 필요하고, minulo는 두 웹을 릴스와 쇼츠를 숨긴 채 무료로 열어 줍니다(minulo 안에서만). ([인스타를 Safari로](https://minulo.app/ko/instagram-in-safari-instead-of-app.html), [유튜브를 Safari로](https://minulo.app/ko/youtube-in-safari-without-shorts.html))
-- **Unhook이나 News Feed Eradicator의 아이폰 버전이 있나요?** 찾지 못했습니다. Unhook(Chrome, Firefox, Edge)과 News Feed Eradicator(Chrome)는 브라우저 확장 프로그램이고, 스토어 설명에 아이폰이나 Safari 이야기는 없습니다. 아이폰에서는 tubetidy나 SocialFocus 같은 Safari 확장 프로그램이 Safari에서 유튜브 추천, 쇼츠, 댓글을 숨기고, minulo 같은 앱 내 브라우저는 자체 화면 안에서 피드를 숨깁니다. ([Unhook](https://minulo.app/ko/unhook-for-iphone.html), [News Feed Eradicator](https://minulo.app/ko/news-feed-eradicator-iphone.html))
-- **SocialLite와 ScrollGuard는 뭐가 다른가요?** SocialLite는 SNS를 자체 화면으로 여는 독립 앱이고, 스크린 타임으로 공식 앱을 막을 수 있습니다. ScrollGuard는 Safari에서 볼 때 작동하는 Safari 확장 프로그램이고, 안드로이드 버전도 있습니다. ([비교](https://minulo.app/ko/sociallite-vs-scrollguard.html))
-- **다운타임에 인스타그램만 막고 WhatsApp은 쓰려면? (아이폰)** WhatsApp을 '항상 허용'에 넣고 인스타그램은 빼 둔 다음 '다운타임에 차단'을 켜세요(설정 > 스크린 타임 > 항상 허용). Apple에 따르면 다운타임 동안에는 전화, 메시지, 허용한 앱만 쓸 수 있기 때문이에요. 다만 이 방법으로는 인스타그램 DM도 릴스와 함께 막혀요. minulo는 공식 인스타그램 앱만 스크린 타임으로 잠글 수 있고(한 번에 2시간까지 무료) WhatsApp은 평소처럼 쓸 수 있어요. minulo 안에서는 릴스가 숨겨지고 DM은 쓸 수 있어요. Pro의 수면 모드를 쓰면 매일 밤 취침 시간에 차단이 켜지고 기상 시간에 꺼져요. ([방법(영어)](https://minulo.app/en/downtime-block-instagram-keep-whatsapp.html))
-- **아이폰에서 Snapchat 웹을 쓸 수 있나요?** Snapchat 고객센터는 Snapchat for Web을 컴퓨터에서 쓰는 방법만 설명하고(Chrome, Edge, Safari에서 web.snapchat.com 접속), 아이폰 Safari에서 쓰는 방법은 찾지 못했어요. minulo는 Snapchat 웹사이트를 앱 안에서 열어 스포트라이트와 디스커버를 무료로 숨기고 채팅은 평소처럼 쓰게 해 주는 아이폰 앱이에요. 웹 버전에도 스포트라이트가 있고, 추억, 스토리 관리, 사용자 이름 변경, 개인정보 설정은 모바일 앱에서만 할 수 있어요. ([자세히(영어)](https://minulo.app/en/snapchat-web-iphone.html))
-- **Mac용 틱톡 앱이 있나요?** App Store에는 없어요. 미국 App Store의 틱톡 호환성에는 iPhone, iPad, iPod touch, Apple Vision만 있고 Mac은 없어요(2026-11-04 확인). Mac에서는 Safari나 Chrome으로 tiktok.com에 접속하면 되고, 웹에도 추천 피드, 탐색, LIVE가 있으며 틱톡의 하루 사용 시간 제한도 웹에 적용돼요. minulo에는 Safari와 Chrome에서 쓰는 Mac 앱이 있고, 아이폰에서는 틱톡의 추천 피드를 무료로 숨기고 메시지는 평소처럼 쓸 수 있어요. ([자세히(영어)](https://minulo.app/en/tiktok-on-mac.html))
-- **minulo는 무료인가요?** 숨기기는 무료이고, Pro는 원하는 사람만 쓰면 됩니다. 10개 SNS에서 릴스, 쇼츠, 추천 게시물 숨기기, 숨길 항목 고르기, DM과 게시물 읽기, 공식 앱을 한 번에 2시간까지 잠그기는 무료이고 결제할 것이 없어요. Pro(미국 App Store 기준 월 $9.99 또는 연 $39.99)는 수면 모드(매일 같은 취침·기상 시간), 업무 모드, 하드 모드, 하루 한도, 2시간보다 긴 차단, 인스타그램 DM 알림(베타)을 더해요. 연간 플랜은 처음 구독하는 분이라면 7일 동안 무료로 써 볼 수 있어요. Pro를 구독하지 않아도 숨기기는 무료예요. ([무료로 되는 것](https://minulo.app/ko/is-minulo-free.html))
+- **인스타 릴스만 차단하고 DM은 쓸 수 있는 무료 아이폰 앱은? (유튜브 쇼츠도)** minulo, Stillfeed, Reelmute, Awhile은 자체 앱 안에서 릴스를 무료로 숨기고 DM은 평소처럼 쓸 수 있으며, 그중 가장 많은 10개 SNS(TikTok 포함)를 지원하는 minulo는 아이폰 앱이고(Safari와 Chrome에서 쓸 수 있는 Mac 버전도 있음) 안드로이드 버전은 없습니다. FeedOff와 StillTabs는 인앱 구입이 아예 없고(FeedOff는 6개 SNS, TikTok은 앱 전체 차단만 가능. StillTabs는 5개 SNS, TikTok 없음), Fluid Friction은 인스타그램 DMs Only까지 포함해 차단 기능이 모두 무료입니다(Pro는 테마와 다크 모드). Stillfeed는 1.2.6 버전부터 공식 앱 잠금도 무료입니다. Nope은 완전 무료지만 Safari에서만 작동하고, 유튜브의 쇼츠 제한과 아이폰 스크린 타임은 기본 기능이라 무료지만 앞의 것은 쉽게 끌 수 있고 뒤의 것은 앱 전체를 막습니다. ([앱마다 무엇이 무료인지](https://minulo.app/ko/free-reels-blocker.html?ref=github-arsb-ko))
+- **아이폰 유튜브 쇼츠만 없애고 일반 영상은 평소처럼 보는 방법은?** minulo를 쓰면 쇼츠 섹션과 쇼츠 탭을 무료로 숨길 수 있고, 일반 영상이나 검색, 구독은 평소처럼 쓸 수 있어요(minulo 안에서 유튜브를 볼 때). 쇼츠 피드 제한을 0으로 정해도 성인 계정은 닫을 수 있고, 구독 채널과 받은 링크의 쇼츠는 남아요. Stillfeed, Reelmute, noShorts도 자체 앱 안에서 쇼츠 없는 유튜브를 열어 주고, Nope은 Safari에서 같은 일을 해요. ([방법](https://minulo.app/ko/block-youtube-shorts.html?ref=github-arsb-ko))
+- **아이폰에서 인스타 DM만 쓰는 방법은?** 인스타그램 자체에는 메시지만 보는 모드가 없고, 아이폰 스크린 타임은 DM까지 포함해 앱 전체만 제한할 수 있습니다. minulo의 DM 외의 모든 탭 설정은 무료이며 DM(단톡 포함)과 알림 탭만 남깁니다. Fluid Friction의 DMs Only(인스타그램)와 LoomWeb의 "Limit to DMs only"도 무료이고, UNDOOMED, Stillfeed, Reelmute, Awhile, Intent에서는 메시지만 보는 화면이 유료입니다. ([방법](https://minulo.app/ko/instagram-dms-only.html?ref=github-arsb-ko), [DM만 쓰게 해 주는 무료 앱이 있을까?](https://minulo.app/ko/free-instagram-dms-only-app.html?ref=github-arsb-ko))
+- **SocialLite 대체 앱: 릴스·쇼츠는 숨기고 DM은 쓰는 아이폰 앱은?** minulo, UNDOOMED, Awhile, LoomWeb은 자체 화면에서 릴스와 쇼츠를 숨긴 채 SNS를 열고 DM은 평소처럼 쓸 수 있으며(ScrollGuard와 Nope은 Safari 확장 프로그램), minulo는 SocialLite처럼 스크린 타임으로 공식 앱도 잠그고 10개 SNS(TikTok 포함)를 지원하는 아이폰 앱이며(Safari와 Chrome에서 쓸 수 있는 Mac 버전도 있음) 안드로이드 버전은 없습니다. SocialLite는 평가가 훨씬 많고(미국 App Store 17,645개(2026-11-10 확인), 별점 4.7) 인스타그램과 Snapchat 푸시 알림이 오지만, 새로 쓰는 사람은 구독해야 합니다(요금 페이지 기준 미국에서 월 $9.99 또는 연 $29.99, App Store에는 월 $12.99 패밀리 요금제도 있음). ([비교](https://minulo.app/ko/sociallite-alternatives.html?ref=github-arsb-ko))
+- **SocialLite는 무료인가요?** 새로 쓰는 사람에게는 무료가 아닙니다. 내려받기는 무료지만, FAQ에 따르면 새로 가입하려면 유료 구독이 필요하고 누구나 쓸 수 있는 무료 요금제는 없습니다. 요금 페이지에는 미국 기준 월 $9.99 또는 연 $29.99로 나와 있고, 무료 체험은 조건에 따라 다르며, App Store에는 다른 할인과 월 $12.99 패밀리 요금제도 있습니다(2026-11-10 확인). minulo, Stillfeed, Reelmute, Fluid Friction은 릴스와 쇼츠를 무료로 숨겨 주고, FeedOff와 StillTabs는 결제할 것이 없으며, Nope은 Safari 안에서 완전 무료입니다. ([가격과 무료 대안](https://minulo.app/ko/is-sociallite-free.html?ref=github-arsb-ko))
+- **자기 전에 릴스·쇼츠 그만 보는 방법은? (아이폰)** minulo를 쓰면 릴스와 쇼츠를 무료로 숨기고, 공식 인스타그램·유튜브·틱톡 앱을 매일 밤 같은 시간에 자동으로 잠글 수 있어요(수면 모드, Pro). DM이나 일반 영상은 평소처럼 볼 수 있어요. 앱 없이 하려면 스크린 타임의 다운타임이 있지만, 밤에 앱 전체를 막아서 DM도 함께 막혀요. 수면 집중 모드, 그레이스케일, 침실 밖에서 충전하기는 아무것도 막지 않으면서 도움이 돼요. minulo에서 공식 앱을 직접 잠그는 건 한 번에 2시간까지 무료예요. ([방법](https://minulo.app/ko/stop-doomscrolling-at-night.html?ref=github-arsb-ko), [밤에 틱톡 막기](https://minulo.app/ko/stop-scrolling-tiktok-at-night.html?ref=github-arsb-ko))
+- **유튜브 쇼츠를 끌 수 있나요?** 끄는 스위치는 없습니다. 유튜브 안에서는 Shorts 피드 제한을 0분으로 정하기(성인은 닫을 수 있습니다), Shorts 동영상 적게 표시, 시청 기록 끄기 정도만 할 수 있고, 아이폰 스크린 타임은 유튜브 앱 전체를 막습니다. minulo는 쇼츠 섹션과 쇼츠 탭을 무료로 숨기고 일반 영상이나 검색, 구독은 평소처럼 쓸 수 있게 하며(minulo 안에서만), Nope는 Safari에서 같은 일을 합니다. ([되는 방법](https://minulo.app/ko/can-you-turn-off-youtube-shorts.html?ref=github-arsb-ko))
+- **쇼츠 섹션을 X로 숨기면 계속 숨겨지나요?** 계속은 아닙니다. SlashGear와 GeekChamp는 '30일 동안 숨긴다'는 안내가 뜬다고 전하지만, YouTube 고객센터에는 X도 기간도 나와 있지 않고 X가 안 보이는 계정도 있으며, 쇼츠는 쇼츠 탭, 검색, 구독, 채널 페이지에 남습니다. minulo는 쇼츠 섹션과 쇼츠 탭을 무료로 숨기고 설정을 바꿀 때까지 계속 숨겨 둡니다(minulo 안에서만). ([며칠 가는지](https://minulo.app/ko/youtube-hide-shorts-shelf.html?ref=github-arsb-ko))
+- **인스타를 열자마자 DM으로 갈 수 있나요?** 인스타그램 자체에는 그런 설정이 없습니다. 메시지 알림을 누르면 그 채팅이 열리지만 앱 안이라서 피드와 릴스는 한 번만 누르면 나옵니다. minulo의 DM 외의 모든 탭 설정은 무료이고, DM과 알림 탭만 남깁니다(minulo 안에서만). ([방법](https://minulo.app/ko/instagram-open-straight-to-dms.html?ref=github-arsb-ko))
+- **앱 대신 Safari로 인스타나 유튜브를 쓰면 릴스와 쇼츠를 피할 수 있나요?** 그것만으로는 안 됩니다. instagram.com에도 릴스와 탐색이 있고 youtube.com에도 쇼츠가 나오며, 인스타그램 앱이 없으면 알림도 오지 않습니다. Safari에서 숨기려면 Nope(무료)나 ScrollGuard 같은 확장 프로그램이 필요하고, minulo는 두 웹을 릴스와 쇼츠를 숨긴 채 무료로 열어 줍니다(minulo 안에서만). ([인스타를 Safari로](https://minulo.app/ko/instagram-in-safari-instead-of-app.html?ref=github-arsb-ko), [유튜브를 Safari로](https://minulo.app/ko/youtube-in-safari-without-shorts.html?ref=github-arsb-ko))
+- **Unhook이나 News Feed Eradicator의 아이폰 버전이 있나요?** 찾지 못했습니다. Unhook(Chrome, Firefox, Edge)과 News Feed Eradicator(Chrome)는 브라우저 확장 프로그램이고, 스토어 설명에 아이폰이나 Safari 이야기는 없습니다. 아이폰에서는 tubetidy나 SocialFocus 같은 Safari 확장 프로그램이 Safari에서 유튜브 추천, 쇼츠, 댓글을 숨기고, minulo 같은 앱 내 브라우저는 자체 화면 안에서 피드를 숨깁니다. ([Unhook](https://minulo.app/ko/unhook-for-iphone.html?ref=github-arsb-ko), [News Feed Eradicator](https://minulo.app/ko/news-feed-eradicator-iphone.html?ref=github-arsb-ko))
+- **SocialLite와 ScrollGuard는 뭐가 다른가요?** SocialLite는 SNS를 자체 화면으로 여는 독립 앱이고, 스크린 타임으로 공식 앱을 막을 수 있습니다. ScrollGuard는 Safari에서 볼 때 작동하는 Safari 확장 프로그램이고, 안드로이드 버전도 있습니다. ([비교](https://minulo.app/ko/sociallite-vs-scrollguard.html?ref=github-arsb-ko))
+- **다운타임에 인스타그램만 막고 WhatsApp은 쓰려면? (아이폰)** WhatsApp을 '항상 허용'에 넣고 인스타그램은 빼 둔 다음 '다운타임에 차단'을 켜세요(설정 > 스크린 타임 > 항상 허용). Apple에 따르면 다운타임 동안에는 전화, 메시지, 허용한 앱만 쓸 수 있기 때문이에요. 다만 이 방법으로는 인스타그램 DM도 릴스와 함께 막혀요. minulo는 공식 인스타그램 앱만 스크린 타임으로 잠글 수 있고(한 번에 2시간까지 무료) WhatsApp은 평소처럼 쓸 수 있어요. minulo 안에서는 릴스가 숨겨지고 DM은 쓸 수 있어요. Pro의 수면 모드를 쓰면 매일 밤 취침 시간에 차단이 켜지고 기상 시간에 꺼져요. ([방법(영어)](https://minulo.app/en/downtime-block-instagram-keep-whatsapp.html?ref=github-arsb-ko))
+- **아이폰에서 Snapchat 웹을 쓸 수 있나요?** Snapchat 고객센터는 Snapchat for Web을 컴퓨터에서 쓰는 방법만 설명하고(Chrome, Edge, Safari에서 web.snapchat.com 접속), 아이폰 Safari에서 쓰는 방법은 찾지 못했어요. minulo는 Snapchat 웹사이트를 앱 안에서 열어 스포트라이트와 디스커버를 무료로 숨기고 채팅은 평소처럼 쓰게 해 주는 아이폰 앱이에요. 웹 버전에도 스포트라이트가 있고, 추억, 스토리 관리, 사용자 이름 변경, 개인정보 설정은 모바일 앱에서만 할 수 있어요. ([자세히(영어)](https://minulo.app/en/snapchat-web-iphone.html?ref=github-arsb-ko))
+- **Mac용 틱톡 앱이 있나요?** App Store에는 없어요. 미국 App Store의 틱톡 호환성에는 iPhone, iPad, iPod touch, Apple Vision만 있고 Mac은 없어요(2026-11-04 확인). Mac에서는 Safari나 Chrome으로 tiktok.com에 접속하면 되고, 웹에도 추천 피드, 탐색, LIVE가 있으며 틱톡의 하루 사용 시간 제한도 웹에 적용돼요. minulo에는 Safari와 Chrome에서 쓰는 Mac 앱이 있고, 아이폰에서는 틱톡의 추천 피드를 무료로 숨기고 메시지는 평소처럼 쓸 수 있어요. ([자세히(영어)](https://minulo.app/en/tiktok-on-mac.html?ref=github-arsb-ko))
+- **minulo는 무료인가요?** 숨기기는 무료이고, Pro는 원하는 사람만 쓰면 됩니다. 10개 SNS에서 릴스, 쇼츠, 추천 게시물 숨기기, 숨길 항목 고르기, DM과 게시물 읽기, 공식 앱을 한 번에 2시간까지 잠그기는 무료이고 결제할 것이 없어요. Pro(미국 App Store 기준 월 $9.99 또는 연 $39.99)는 수면 모드(매일 같은 취침·기상 시간), 업무 모드, 하드 모드, 하루 한도, 2시간보다 긴 차단, 인스타그램 DM 알림(베타)을 더해요. 연간 플랜은 처음 구독하는 분이라면 7일 동안 무료로 써 볼 수 있어요. Pro를 구독하지 않아도 숨기기는 무료예요. ([무료로 되는 것](https://minulo.app/ko/is-minulo-free.html?ref=github-arsb-ko))
 
 
 ## 목차
@@ -99,11 +99,11 @@
 
 <a id="built-in-settings"></a>
 ## 기본 설정 (앱 없이)
-- **유튜브 쇼츠 피드 시간 제한**: 유튜브에서 쇼츠 피드를 하루에 볼 수 있는 시간을 정할 수 있습니다(0도 가능). 성인 계정은 알림을 닫으면 계속 볼 수 있고, 유튜브 앱 안에서만 적용됩니다. ([방법](https://minulo.app/en/youtube-shorts-feed-limit.html), 영어)
+- **유튜브 쇼츠 피드 시간 제한**: 유튜브에서 쇼츠 피드를 하루에 볼 수 있는 시간을 정할 수 있습니다(0도 가능). 성인 계정은 알림을 닫으면 계속 볼 수 있고, 유튜브 앱 안에서만 적용됩니다. ([방법](https://minulo.app/en/youtube-shorts-feed-limit.html?ref=github-arsb-ko), 영어)
 - **인스타그램 "팔로잉" 피드**: 홈 피드를 팔로우한 계정만 보이게 바꿉니다. 릴스 탭과 탐색 탭은 계속 남아 있습니다.
-- **인스타그램 추천 게시물 일시 중지 (Snooze suggested posts)**: 추천 게시물에서 ⋯ → 관심 없음 → 피드의 추천 게시물을 30일 동안 일시 중지를 누릅니다. 30일이 지나면 풀리고, 릴스 탭에는 영향이 없습니다. ([방법](https://minulo.app/en/hide-suggested-posts-instagram.html), 영어)
-- **인스타그램 추천 콘텐츠 재설정 (Reset suggested content)**: 설정 → 콘텐츠 기본 설정 → 추천 콘텐츠 재설정을 누르면 탐색, 릴스, 피드의 추천이 초기화됩니다. 되돌릴 수 없고, 다시 보기 시작하면 추천도 다시 학습됩니다. ([방법](https://minulo.app/en/reset-instagram-reels-recommendations.html), 영어)
-- **유튜브 자동재생 끄기**: 다음 영상이 저절로 재생되지 않게 합니다. 시청 기록을 끄고 비워 두지 않으면 추천은 계속 나옵니다. ([방법](https://minulo.app/en/turn-off-youtube-autoplay-recommendations.html), 영어)
+- **인스타그램 추천 게시물 일시 중지 (Snooze suggested posts)**: 추천 게시물에서 ⋯ → 관심 없음 → 피드의 추천 게시물을 30일 동안 일시 중지를 누릅니다. 30일이 지나면 풀리고, 릴스 탭에는 영향이 없습니다. ([방법](https://minulo.app/en/hide-suggested-posts-instagram.html?ref=github-arsb-ko), 영어)
+- **인스타그램 추천 콘텐츠 재설정 (Reset suggested content)**: 설정 → 콘텐츠 기본 설정 → 추천 콘텐츠 재설정을 누르면 탐색, 릴스, 피드의 추천이 초기화됩니다. 되돌릴 수 없고, 다시 보기 시작하면 추천도 다시 학습됩니다. ([방법](https://minulo.app/en/reset-instagram-reels-recommendations.html?ref=github-arsb-ko), 영어)
+- **유튜브 자동재생 끄기**: 다음 영상이 저절로 재생되지 않게 합니다. 시청 기록을 끄고 비워 두지 않으면 추천은 계속 나옵니다. ([방법](https://minulo.app/en/turn-off-youtube-autoplay-recommendations.html?ref=github-arsb-ko), 영어)
 - **아이폰 스크린 타임**: 앱 전체를 제한하거나 막습니다. 피드와 함께 DM과 단톡방도 막힙니다.
 
 
@@ -170,11 +170,11 @@ Safari에서 instagram.com이나 youtube.com을 볼 때 피드를 숨겨 줍니�
 - **인스타그램은 DM과 단톡방 때문에만 쓰나요?** DM만 보기 / Messages Only 모드가 있는 앱을 고르세요. minulo, Fluid Friction, LoomWeb에서는 무료이고, UNDOOMED, Stillfeed, Reelmute, Awhile, NoReels, Intent, Konvo에서는 유료이며, Sociano와 ScrollGuard는 나와 있지 않습니다.
 - **틱톡이나 스냅챗도 필요한가요?** 지원 SNS를 확인하세요. 모든 앱이 지원하지는 않습니다.
 - **습관처럼 공식 앱을 다시 열게 되나요?** 스크린 타임으로 공식 앱을 잠그는 앱을 고르세요 (SocialLite, minulo, Stillfeed, noShorts, snowscroll, Reelmute, Konvo).
-- **전부 무료였으면 하나요?** Nope, ShortformBlock, Still은 무료 Safari 확장 프로그램이고, noShorts, FeedOff, StillTabs, Dome, Noreel, Close는 무료라고 밝히고 있습니다. Fluid Friction은 차단 기능이 모두 무료입니다. minulo, Stillfeed, Reelmute, Unfeed, Awhile, NoReels 같은 앱 안 브라우저도 기본 숨기기는 무료입니다. 앱별 내용은 [무료로 되는 것](#whats-free) 표를 보세요. 앱마다 무엇이 무료인지: [Free apps to block Reels and Shorts on iPhone](https://minulo.app/en/free-reels-blocker.html) (영어).
+- **전부 무료였으면 하나요?** Nope, ShortformBlock, Still은 무료 Safari 확장 프로그램이고, noShorts, FeedOff, StillTabs, Dome, Noreel, Close는 무료라고 밝히고 있습니다. Fluid Friction은 차단 기능이 모두 무료입니다. minulo, Stillfeed, Reelmute, Unfeed, Awhile, NoReels 같은 앱 안 브라우저도 기본 숨기기는 무료입니다. 앱별 내용은 [무료로 되는 것](#whats-free) 표를 보세요. 앱마다 무엇이 무료인지: [Free apps to block Reels and Shorts on iPhone](https://minulo.app/en/free-reels-blocker.html?ref=github-arsb-ko) (영어).
 
-더 자세히: [비교표](https://minulo.app/en/alternatives.html) (영어) · [Can you remove Reels from the Instagram app?](https://minulo.app/en/remove-reels-from-instagram-app.html) (영어)
+더 자세히: [비교표](https://minulo.app/en/alternatives.html?ref=github-arsb-ko) (영어) · [Can you remove Reels from the Instagram app?](https://minulo.app/en/remove-reels-from-instagram-app.html?ref=github-arsb-ko) (영어)
 
-특정 앱과 비교: [ScreenZen alternatives](https://minulo.app/en/screenzen-alternatives.html) · [one sec alternatives](https://minulo.app/en/one-sec-alternatives.html) · [Opal alternatives](https://minulo.app/en/opal-alternatives.html) (영어)
+특정 앱과 비교: [ScreenZen alternatives](https://minulo.app/en/screenzen-alternatives.html?ref=github-arsb-ko) · [one sec alternatives](https://minulo.app/en/one-sec-alternatives.html?ref=github-arsb-ko) · [Opal alternatives](https://minulo.app/en/opal-alternatives.html?ref=github-arsb-ko) (영어)
 
 
 <a id="official-app-vs-other-app"></a>
@@ -186,7 +186,7 @@ Safari에서 instagram.com이나 youtube.com을 볼 때 피드를 숨겨 줍니�
 - **minulo의 경우:** 릴스, 쇼츠, 탐색, 추천 게시물 숨기기는 무료이고, 구독도 시간 제한도 없습니다. DM은 평소처럼 쓸 수 있고, DM만 남기는 화면('DM 외의 모든 탭' 설정)은 인스타와 틱톡에서 무료입니다. 10개 SNS를 지원하고, 스크린 타임으로 공식 앱을 잠그는 것도 한 번에 2시간까지 무료입니다. 스토리 올리기, 음성 메시지, 통화는 쓸 수 없고, 안드로이드 버전은 없습니다. minulo는 이 목록을 만든 사람이 개발합니다.
 - **앱 없이:** 인스타에는 릴스를 끄는 설정이 없고, 스크린 타임은 앱 전체를 막기 때문에 DM도 함께 막힙니다.
 
-공식 Instagram, YouTube 앱을 계속 쓰고 싶다면 Scroll Less가 맞습니다. 틱톡 같은 다른 SNS도 피드 없이 쓰고 싶거나 방송을 켜 두고 싶지 않다면, SNS를 앱 안에서 여는 방식을 고르세요. ([minulo vs Scroll Less](https://minulo.app/ko/minulo-vs-scroll-less.html), minulo 개발자가 쓴 글)
+공식 Instagram, YouTube 앱을 계속 쓰고 싶다면 Scroll Less가 맞습니다. 틱톡 같은 다른 SNS도 피드 없이 쓰고 싶거나 방송을 켜 두고 싶지 않다면, SNS를 앱 안에서 여는 방식을 고르세요. ([minulo vs Scroll Less](https://minulo.app/ko/minulo-vs-scroll-less.html?ref=github-arsb-ko), minulo 개발자가 쓴 글)
 
 
 <a id="answers"></a>
@@ -227,13 +227,13 @@ Safari에서 instagram.com이나 youtube.com을 볼 때 피드를 숨겨 줍니�
 - [When people reach for Reels: what an app's first month of usage data shows (and what it can't)](https://minulo.substack.com/p/when-people-reach-for-reels-what)
 - [Three ways to build a Reels blocker on iOS: content blocker, Safari extension, or WKWebView](https://minulo.hashnode.dev/three-ways-to-build-a-reels-blocker-on-ios-content-blocker-safari-extension-or-wkwebview) (개발자용)
 - [What's actually free when you block Reels and Shorts on iPhone (2026)](https://minulo.substack.com/p/whats-actually-free-when-you-block)
-- [How to stop doomscrolling at night on iPhone: Downtime, Sleep Focus and keeping DMs](https://minulo.app/en/stop-doomscrolling-at-night.html)
-- [Is minulo safe? What it can and can't see](https://minulo.app/en/is-minulo-safe.html) (minulo, SocialLite, UNDOOMED의 개인정보 보호 라벨을 나란히 비교)
-- [How to block Instagram on iPhone (app and Safari), and what each method blocks](https://minulo.app/en/block-instagram-on-iphone.html)
-- [How to block TikTok on iPhone (app and website)](https://minulo.app/en/block-tiktok-on-iphone.html)
-- [How to hide the Explore page on Instagram](https://minulo.app/en/hide-instagram-explore.html), [see only people you follow](https://minulo.app/en/instagram-following-feed-only.html)
-- [How to turn off Snapchat Spotlight and its notifications](https://minulo.app/en/turn-off-snapchat-spotlight.html)
-- [Brick alternatives for iPhone without the hardware](https://minulo.app/en/brick-alternative-iphone.html)
+- [How to stop doomscrolling at night on iPhone: Downtime, Sleep Focus and keeping DMs](https://minulo.app/en/stop-doomscrolling-at-night.html?ref=github-arsb-ko)
+- [Is minulo safe? What it can and can't see](https://minulo.app/en/is-minulo-safe.html?ref=github-arsb-ko) (minulo, SocialLite, UNDOOMED의 개인정보 보호 라벨을 나란히 비교)
+- [How to block Instagram on iPhone (app and Safari), and what each method blocks](https://minulo.app/en/block-instagram-on-iphone.html?ref=github-arsb-ko)
+- [How to block TikTok on iPhone (app and website)](https://minulo.app/en/block-tiktok-on-iphone.html?ref=github-arsb-ko)
+- [How to hide the Explore page on Instagram](https://minulo.app/en/hide-instagram-explore.html?ref=github-arsb-ko), [see only people you follow](https://minulo.app/en/instagram-following-feed-only.html?ref=github-arsb-ko)
+- [How to turn off Snapchat Spotlight and its notifications](https://minulo.app/en/turn-off-snapchat-spotlight.html?ref=github-arsb-ko)
+- [Brick alternatives for iPhone without the hardware](https://minulo.app/en/brick-alternative-iphone.html?ref=github-arsb-ko)
 - [Why you can't set a time limit on just Instagram Reels on iPhone (and what Screen Time's API can do)](https://dev.to/ayumu_kitabayashi_8e0de96/why-you-cant-set-a-time-limit-on-just-instagram-reels-on-iphone-and-what-screen-times-api-can-522)
 - [How I ship an iPhone app and its website in 13 languages as a solo developer](https://dev.to/ayumu_kitabayashi_8e0de96/how-i-ship-an-iphone-app-and-its-website-in-13-languages-as-a-solo-developer-10gk) (개발자용)
 - [Free iPhone apps that block Instagram Reels but keep DMs (2026): what each one actually does for free](https://dev.to/ayumu_kitabayashi_8e0de96/free-iphone-apps-that-block-instagram-reels-but-keep-dms-2026-what-each-one-actually-does-for-3gci)
@@ -483,44 +483,44 @@ minulo 개발자가 썼고, 모두 기본 설정부터 다룹니다.
 <a id="data"></a>
 ### 질문 하나에 페이지 하나 (2026년 10월)
 minulo.app의 짧은 페이지입니다. 각 플랫폼의 공식 도움말을 출처로, 질문 하나에 답합니다.
-- [인스타·페이스북 동영상 자동 재생 끄는 방법](https://minulo.app/ko/instagram-autoplay-off.html)
-- [인스타 관심 없음 눌러도 릴스가 계속 나오는 이유](https://minulo.app/ko/not-interested-reels-still-showing.html)
-- [인스타 하단 릴스 탭 없앨 수 있을까? (2026)](https://minulo.app/ko/instagram-reels-tab-remove.html)
-- [아이패드 인스타 릴스, 어디서 나오고 뭘 끌 수 있나](https://minulo.app/ko/instagram-reels-ipad.html)
-- [인스타 친한 친구·즐겨찾기 게시물만 보는 방법](https://minulo.app/ko/instagram-close-friends-feed.html)
-- [인스타 좋아요 수 숨기기 방법과 효과](https://minulo.app/ko/hide-instagram-likes-counts.html)
-- [아이패드·맥에서 유튜브 쇼츠 안 보는 법](https://minulo.app/ko/youtube-shorts-ipad-mac.html)
-- [침대에서 유튜브 쇼츠 그만 보는 법: 밤에만 켜지는 설정](https://minulo.app/ko/stop-youtube-shorts-at-night.html)
-- [유튜브 시청 기록을 끄면 홈은 어떻게 될까](https://minulo.app/ko/youtube-history-off-home-feed.html)
-- [유튜브 추천 초기화하는 방법 (아이폰)](https://minulo.app/ko/youtube-reset-recommendations.html)
-- [유튜브를 구독 채널만 보는 방법 (아이폰)](https://minulo.app/ko/youtube-subscriptions-only.html)
-- [유튜브 알림 구독 채널만 받는 방법 (아이폰)](https://minulo.app/ko/youtube-notifications-subscriptions-only.html)
-- [유튜브 웹에서 쇼츠 섹션 없애는 법](https://minulo.app/ko/youtube-shorts-remove-from-home-web.html)
-- [유튜브 쇼츠 제한, 어린이·청소년·성인 계정 차이](https://minulo.app/ko/youtube-kids-vs-shorts.html)
-- [틱톡 제한 모드로 되는 것과 안 되는 것](https://minulo.app/ko/tiktok-restricted-mode.html)
-- [스냅챗을 채팅과 친구 스토리만 쓰는 방법](https://minulo.app/ko/snapchat-stories-only.html)
-- [스냅챗 스포트라이트 시간 제한 걸 수 있나요?](https://minulo.app/ko/snapchat-spotlight-time-limit.html)
-- [페이스북 릴스 끌 수 있나요? (아이폰)](https://minulo.app/ko/facebook-reels-off.html)
-- [링크드인 동영상 피드와 자동 재생 끄기 (아이폰)](https://minulo.app/ko/linkedin-video-feed-off.html)
-- [왓츠앱 상태 업데이트 숨기는 법 (아이폰)](https://minulo.app/ko/whatsapp-status-updates-hide.html)
-- [스크린 타임 다운타임으로 인스타가 안 막힐 때](https://minulo.app/ko/downtime-not-working-instagram.html)
-- [스크린 타임 제한 무시 버튼 없애는 방법](https://minulo.app/ko/app-limit-ignore-button.html)
-- [스크린 타임 암호를 잊어버렸을 때 (Apple 공식 방법)](https://minulo.app/ko/screen-time-passcode-forgot.html)
-- [아이폰 스크린 타임 주간 리포트 보는 법](https://minulo.app/ko/screen-time-weekly-report.html)
-- [아이폰 집중 모드를 메시지 앱만 허용하기 (인스타 DM)](https://minulo.app/ko/focus-mode-messages-only.html)
-- [아이폰 흑백(그레이스케일)으로 폰 시간이 줄까?](https://minulo.app/ko/grayscale-to-stop-scrolling.html)
+- [인스타·페이스북 동영상 자동 재생 끄는 방법](https://minulo.app/ko/instagram-autoplay-off.html?ref=github-arsb-ko)
+- [인스타 관심 없음 눌러도 릴스가 계속 나오는 이유](https://minulo.app/ko/not-interested-reels-still-showing.html?ref=github-arsb-ko)
+- [인스타 하단 릴스 탭 없앨 수 있을까? (2026)](https://minulo.app/ko/instagram-reels-tab-remove.html?ref=github-arsb-ko)
+- [아이패드 인스타 릴스, 어디서 나오고 뭘 끌 수 있나](https://minulo.app/ko/instagram-reels-ipad.html?ref=github-arsb-ko)
+- [인스타 친한 친구·즐겨찾기 게시물만 보는 방법](https://minulo.app/ko/instagram-close-friends-feed.html?ref=github-arsb-ko)
+- [인스타 좋아요 수 숨기기 방법과 효과](https://minulo.app/ko/hide-instagram-likes-counts.html?ref=github-arsb-ko)
+- [아이패드·맥에서 유튜브 쇼츠 안 보는 법](https://minulo.app/ko/youtube-shorts-ipad-mac.html?ref=github-arsb-ko)
+- [침대에서 유튜브 쇼츠 그만 보는 법: 밤에만 켜지는 설정](https://minulo.app/ko/stop-youtube-shorts-at-night.html?ref=github-arsb-ko)
+- [유튜브 시청 기록을 끄면 홈은 어떻게 될까](https://minulo.app/ko/youtube-history-off-home-feed.html?ref=github-arsb-ko)
+- [유튜브 추천 초기화하는 방법 (아이폰)](https://minulo.app/ko/youtube-reset-recommendations.html?ref=github-arsb-ko)
+- [유튜브를 구독 채널만 보는 방법 (아이폰)](https://minulo.app/ko/youtube-subscriptions-only.html?ref=github-arsb-ko)
+- [유튜브 알림 구독 채널만 받는 방법 (아이폰)](https://minulo.app/ko/youtube-notifications-subscriptions-only.html?ref=github-arsb-ko)
+- [유튜브 웹에서 쇼츠 섹션 없애는 법](https://minulo.app/ko/youtube-shorts-remove-from-home-web.html?ref=github-arsb-ko)
+- [유튜브 쇼츠 제한, 어린이·청소년·성인 계정 차이](https://minulo.app/ko/youtube-kids-vs-shorts.html?ref=github-arsb-ko)
+- [틱톡 제한 모드로 되는 것과 안 되는 것](https://minulo.app/ko/tiktok-restricted-mode.html?ref=github-arsb-ko)
+- [스냅챗을 채팅과 친구 스토리만 쓰는 방법](https://minulo.app/ko/snapchat-stories-only.html?ref=github-arsb-ko)
+- [스냅챗 스포트라이트 시간 제한 걸 수 있나요?](https://minulo.app/ko/snapchat-spotlight-time-limit.html?ref=github-arsb-ko)
+- [페이스북 릴스 끌 수 있나요? (아이폰)](https://minulo.app/ko/facebook-reels-off.html?ref=github-arsb-ko)
+- [링크드인 동영상 피드와 자동 재생 끄기 (아이폰)](https://minulo.app/ko/linkedin-video-feed-off.html?ref=github-arsb-ko)
+- [왓츠앱 상태 업데이트 숨기는 법 (아이폰)](https://minulo.app/ko/whatsapp-status-updates-hide.html?ref=github-arsb-ko)
+- [스크린 타임 다운타임으로 인스타가 안 막힐 때](https://minulo.app/ko/downtime-not-working-instagram.html?ref=github-arsb-ko)
+- [스크린 타임 제한 무시 버튼 없애는 방법](https://minulo.app/ko/app-limit-ignore-button.html?ref=github-arsb-ko)
+- [스크린 타임 암호를 잊어버렸을 때 (Apple 공식 방법)](https://minulo.app/ko/screen-time-passcode-forgot.html?ref=github-arsb-ko)
+- [아이폰 스크린 타임 주간 리포트 보는 법](https://minulo.app/ko/screen-time-weekly-report.html?ref=github-arsb-ko)
+- [아이폰 집중 모드를 메시지 앱만 허용하기 (인스타 DM)](https://minulo.app/ko/focus-mode-messages-only.html?ref=github-arsb-ko)
+- [아이폰 흑백(그레이스케일)으로 폰 시간이 줄까?](https://minulo.app/ko/grayscale-to-stop-scrolling.html?ref=github-arsb-ko)
 
 ### 질문 하나에 페이지 하나 (2026년 11월)
-- [Unhook 아이폰 버전 있나요? 유튜브 추천, 쇼츠, 댓글 숨기는 법](https://minulo.app/ko/unhook-for-iphone.html)
-- [아이폰에서 유튜브 댓글 숨기는 법](https://minulo.app/ko/hide-youtube-comments.html)
-- [인스타그램 라이트(Instagram Lite) 아이폰에 있나요? 대신 쓸 수 있는 것](https://minulo.app/ko/instagram-lite-iphone.html)
-- [News Feed Eradicator 아이폰 버전 있나요? SNS 피드만 숨기고 메시지는 남기는 법](https://minulo.app/ko/news-feed-eradicator-iphone.html)
-- [SocialLite vs ScrollGuard: 아이폰에서 릴스 숨기는 두 앱 비교](https://minulo.app/ko/sociallite-vs-scrollguard.html)
-- [포레스트(Forest) 앱 대안: 나무 대신 릴스·쇼츠만 없애고 카톡·DM은 쓰기](https://minulo.app/ko/forest-app-alternative.html)
-- [열품타 켜고 공부해도 쉬는 시간에 릴스를 보게 될 때: 릴스만 없애는 방법](https://minulo.app/ko/yeolpumta-reels.html)
-- [공부할 때 폰 잠그는 앱 비교: 열품타, 포레스트, 스크린 타임, minulo](https://minulo.app/ko/study-lock-apps-compared.html)
-- [수능 끝나고 인스타 다시 깔 때: 릴스에 다시 빠지지 않고 돌아오는 방법](https://minulo.app/ko/after-suneung-instagram.html)
-- [카카오톡 숏폼 안 보는 방법: 자동 재생 끄기와 인스타 릴스·유튜브 쇼츠까지 줄이기](https://minulo.app/ko/kakaotalk-shortform.html)
+- [Unhook 아이폰 버전 있나요? 유튜브 추천, 쇼츠, 댓글 숨기는 법](https://minulo.app/ko/unhook-for-iphone.html?ref=github-arsb-ko)
+- [아이폰에서 유튜브 댓글 숨기는 법](https://minulo.app/ko/hide-youtube-comments.html?ref=github-arsb-ko)
+- [인스타그램 라이트(Instagram Lite) 아이폰에 있나요? 대신 쓸 수 있는 것](https://minulo.app/ko/instagram-lite-iphone.html?ref=github-arsb-ko)
+- [News Feed Eradicator 아이폰 버전 있나요? SNS 피드만 숨기고 메시지는 남기는 법](https://minulo.app/ko/news-feed-eradicator-iphone.html?ref=github-arsb-ko)
+- [SocialLite vs ScrollGuard: 아이폰에서 릴스 숨기는 두 앱 비교](https://minulo.app/ko/sociallite-vs-scrollguard.html?ref=github-arsb-ko)
+- [포레스트(Forest) 앱 대안: 나무 대신 릴스·쇼츠만 없애고 카톡·DM은 쓰기](https://minulo.app/ko/forest-app-alternative.html?ref=github-arsb-ko)
+- [열품타 켜고 공부해도 쉬는 시간에 릴스를 보게 될 때: 릴스만 없애는 방법](https://minulo.app/ko/yeolpumta-reels.html?ref=github-arsb-ko)
+- [공부할 때 폰 잠그는 앱 비교: 열품타, 포레스트, 스크린 타임, minulo](https://minulo.app/ko/study-lock-apps-compared.html?ref=github-arsb-ko)
+- [수능 끝나고 인스타 다시 깔 때: 릴스에 다시 빠지지 않고 돌아오는 방법](https://minulo.app/ko/after-suneung-instagram.html?ref=github-arsb-ko)
+- [카카오톡 숏폼 안 보는 방법: 자동 재생 끄기와 인스타 릴스·유튜브 쇼츠까지 줄이기](https://minulo.app/ko/kakaotalk-shortform.html?ref=github-arsb-ko)
 
 <a id="common-questions"></a>
 ## 자주 받는 질문 15가지

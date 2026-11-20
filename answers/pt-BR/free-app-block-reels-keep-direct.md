@@ -21,7 +21,7 @@ No minulo, o que é grátis: esconder Reels, Shorts, Explorar e posts sugeridos 
 Não. O minulo abre o site do Instagram dentro dele, e os Reels só ficam escondidos ali. Se você abrir o app oficial direto, a aba Reels continua lá. Por isso existe a opção de bloquear o app oficial.
 
 ### Continuo recebendo as mensagens?
-Se o app oficial não estiver bloqueado, as notificações chegam normalmente e você responde pelo minulo. Enquanto ele está bloqueado, as notificações dele não chegam. Desde a versão 1.0.19, quem tem o Pro pode ativar as notificações de DM (beta), e aí as notificações do Direct continuam chegando com o Instagram bloqueado, exceto no Modo sono, no Horário de trabalho ou depois do Limite diário.
+Se o app oficial não estiver bloqueado, as notificações chegam normalmente e você responde pelo minulo. Enquanto ele está bloqueado, as notificações dele não chegam. Quem tem o Pro pode ativar as notificações de DM (beta), e aí as notificações do Direct continuam chegando com o Instagram bloqueado, exceto no Modo sono, no Foco do Horário de trabalho ou depois do Limite diário.
 
 ### Tem versão para Android?
 Não. O minulo é para iPhone e Mac.
