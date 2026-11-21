@@ -292,6 +292,10 @@ Step-by-step write-ups (by the minulo developer; each covers the built-in option
 - [A Reels blocker that doesn't ask for money in setup? What you can hide on iPhone before paying anything (2026)](https://dev.to/ayumu_kitabayashi_8e0de96/a-reels-blocker-that-doesnt-ask-for-money-in-setup-what-you-can-hide-on-iphone-before-paying-35jh)
 - [Do I have to start a block every night? Sleep mode, a 2-hour block or Sleep Focus for Instagram and TikTok (iPhone, 2026)](https://dev.to/ayumu_kitabayashi_8e0de96/do-i-have-to-start-a-block-every-night-sleep-mode-a-2-hour-block-or-sleep-focus-for-instagram-and-3eca)
 - [How do I only get notified about new videos from my YouTube subscriptions, and only watch those? (iPhone, 2026)](https://note.com/minulo/n/n9e32eebd82a1)
+- [How do I turn off only Reels on Instagram but keep my feed and DMs? Still message friends without the scrolling (iPhone, 2026)](https://dev.to/ayumu_kitabayashi_8e0de96/how-do-i-turn-off-only-reels-on-instagram-but-keep-my-feed-and-dms-still-message-friends-without-cc5)
+- [How do I get only message notifications from Instagram? Focus, Instagram's settings and a Pro beta (iPhone, 2026)](https://dev.to/ayumu_kitabayashi_8e0de96/how-do-i-get-only-message-notifications-from-instagram-focus-instagrams-settings-and-a-pro-beta-36eo)
+- [Block short form content for studying, keep YouTube for school: an iPhone setup without Shorts (2026)](https://dev.to/ayumu_kitabayashi_8e0de96/block-short-form-content-for-studying-keep-youtube-for-school-an-iphone-setup-without-shorts-1o0g)
+- [My group chat sends Reels all day. How do I watch the ones friends send without falling into the Reels feed? (iPhone, 2026)](https://note.com/minulo/n/n94addf2a378c)
 
 
 ### One question, one page (October 2026)

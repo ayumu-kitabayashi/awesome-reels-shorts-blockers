@@ -250,6 +250,8 @@ Passo a passo em inglês (escritos pelo desenvolvedor do minulo; cada um começa
 - [Como bloquear Reels e Shorts sem pagar? O que o minulo deixa usar sem assinatura, sem cadastro e sem cartão (iPhone, 2026)](https://note.com/minulo/n/n430c01316e6f)
 - [Se eu esconder o Explorar do Instagram, ainda dá para pesquisar pessoas pela lupa? (iPhone, 2026)](https://dev.to/ayumu_kitabayashi_8e0de96/se-eu-esconder-o-explorar-do-instagram-ainda-da-para-pesquisar-pessoas-pela-lupa-iphone-2026-2him)
 - [Como tirar os Shorts do YouTube no iPhone mas continuar vendo vídeos normais? Os três lugares onde os Shorts aparecem (iPhone, 2026)](https://note.com/minulo/n/n5221603c7802)
+- [Tem como ver só quem eu sigo no Instagram, sem posts sugeridos nem Reels? (iPhone, 2026)](https://dev.to/ayumu_kitabayashi_8e0de96/tem-como-ver-so-quem-eu-sigo-no-instagram-sem-posts-sugeridos-nem-reels-iphone-2026-2f6g)
+- [Sou viciado em vídeo curto: como parar de ver Reels e Shorts sem apagar o Instagram e o YouTube (iPhone, 2026)](https://note.com/minulo/n/nfe25494a77e9)
 
 
 <a id="guides-other-languages"></a>
