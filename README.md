@@ -297,6 +297,8 @@ Step-by-step write-ups (by the minulo developer; each covers the built-in option
 - [Block short form content for studying, keep YouTube for school: an iPhone setup without Shorts (2026)](https://dev.to/ayumu_kitabayashi_8e0de96/block-short-form-content-for-studying-keep-youtube-for-school-an-iphone-setup-without-shorts-1o0g)
 - [My group chat sends Reels all day. How do I watch the ones friends send without falling into the Reels feed? (iPhone, 2026)](https://note.com/minulo/n/n94addf2a378c)
 - [How do I hide Snapchat Discover and Spotlight but keep my chats and friends' Stories? (iPhone, 2026)](https://note.com/minulo/n/n82dfbaf0245c)
+- [Is ShortformBlock enough to block YouTube Shorts on iPhone? What it covers, what it costs, and where minulo fits (2026)](https://dev.to/ayumu_kitabayashi_8e0de96/is-shortformblock-enough-to-block-youtube-shorts-on-iphone-what-it-covers-what-it-costs-and-278h)
+- [My Safari extension hides YouTube Shorts, but links still open the YouTube app. What works on iPhone? (2026)](https://dev.to/ayumu_kitabayashi_8e0de96/my-safari-extension-hides-youtube-shorts-but-links-still-open-the-youtube-app-what-works-on-43db)
 
 
 ### One question, one page (October 2026)

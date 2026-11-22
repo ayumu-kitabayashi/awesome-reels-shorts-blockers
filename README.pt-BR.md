@@ -253,6 +253,7 @@ Passo a passo em inglês (escritos pelo desenvolvedor do minulo; cada um começa
 - [Tem como ver só quem eu sigo no Instagram, sem posts sugeridos nem Reels? (iPhone, 2026)](https://dev.to/ayumu_kitabayashi_8e0de96/tem-como-ver-so-quem-eu-sigo-no-instagram-sem-posts-sugeridos-nem-reels-iphone-2026-2f6g)
 - [Sou viciado em vídeo curto: como parar de ver Reels e Shorts sem apagar o Instagram e o YouTube (iPhone, 2026)](https://note.com/minulo/n/nfe25494a77e9)
 - [Um amigo me mandou um Reel no Direct: como assistir sem cair no feed de Reels? (iPhone, 2026)](https://note.com/minulo/n/nf520c56f7bc1)
+- [Como parar de rolar os Reels no iPhone sem apagar o Instagram? (2026)](https://dev.to/ayumu_kitabayashi_8e0de96/como-parar-de-rolar-os-reels-no-iphone-sem-apagar-o-instagram-2026-2jga)
 
 
 <a id="guides-other-languages"></a>
