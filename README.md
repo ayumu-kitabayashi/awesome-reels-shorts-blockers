@@ -296,6 +296,7 @@ Step-by-step write-ups (by the minulo developer; each covers the built-in option
 - [How do I get only message notifications from Instagram? Focus, Instagram's settings and a Pro beta (iPhone, 2026)](https://dev.to/ayumu_kitabayashi_8e0de96/how-do-i-get-only-message-notifications-from-instagram-focus-instagrams-settings-and-a-pro-beta-36eo)
 - [Block short form content for studying, keep YouTube for school: an iPhone setup without Shorts (2026)](https://dev.to/ayumu_kitabayashi_8e0de96/block-short-form-content-for-studying-keep-youtube-for-school-an-iphone-setup-without-shorts-1o0g)
 - [My group chat sends Reels all day. How do I watch the ones friends send without falling into the Reels feed? (iPhone, 2026)](https://note.com/minulo/n/n94addf2a378c)
+- [How do I hide Snapchat Discover and Spotlight but keep my chats and friends' Stories? (iPhone, 2026)](https://note.com/minulo/n/n82dfbaf0245c)
 
 
 ### One question, one page (October 2026)
