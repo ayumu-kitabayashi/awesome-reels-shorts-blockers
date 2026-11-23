@@ -304,6 +304,8 @@ Step-by-step write-ups (by the minulo developer; each covers the built-in option
 - [How to remove the Reels tab on Instagram on iPhone: what Instagram, Screen Time and minulo can actually do](https://minulo.substack.com/p/how-to-remove-the-reels-tab-on-instagram)
 - [I keep tapping Not interested, but Instagram still shows me Reels. How do I get rid of them without deleting it? (iPhone, 2026)](https://dev.to/ayumu_kitabayashi_8e0de96/i-keep-tapping-not-interested-but-instagram-still-shows-me-reels-how-do-i-get-rid-of-them-without-2ohg)
 - [My phone is my alarm and family might call at night. How do I keep it by the bed and skip Reels and Shorts? (iPhone, 2026)](https://dev.to/ayumu_kitabayashi_8e0de96/my-phone-is-my-alarm-and-family-might-call-at-night-how-do-i-keep-it-by-the-bed-and-skip-reels-and-3hgm)
+- [Is there a Reels blocker without a subscription? (iPhone, 2026)](https://note.com/minulo/n/n297ee0357b4b)
+- [How do I get rid of the Reels tab on Instagram? I keep tapping it by accident (iPhone, 2026)](https://note.com/minulo/n/nbce6b5cd5302)
 
 
 ### One question, one page (October 2026)
