@@ -273,6 +273,7 @@ minulo 개발자가 썼고, 모두 기본 설정부터 다룹니다.
 - [인스타에서 팔로우한 사람 게시물만 보는 법, 추천 게시물이랑 릴스 없이 (아이폰, 2026)](https://note.com/minulo/n/nca153bc74acf)
 - [인스타 릴스는 끄고 탐색은 남기고 싶어요: 1.0.19부터 릴스 탭과 탐색 탭을 따로 켜요 (아이폰, 2026)](https://disquiet.io/posts/zqC6Rj)
 - [유튜브 홈 쇼츠 섹션을 X로 숨기면 며칠 가? 한 달 뒤 다시 나올 때 계속 숨겨 두는 방법 (아이폰, 2026)](https://note.com/minulo/n/n6a3134d45a19)
+- [인스타 앱을 지우고 Safari로 쓰면 릴스는 사라질까? 웹에도 남는 것과 숨기는 방법 (아이폰, 2026)](https://dev.to/ayumu_kitabayashi_8e0de96/inseuta-aebeul-jiugo-safariro-sseumyeon-rilseuneun-sarajilgga-webedo-namneun-geosgwa-sumgineun-bangbeob-aipon-2026-3pj0)
 
 **日本語**
 - [インスタの DM は残してリールだけ消す：iPhone でできる5つの方法を比べた（2026）](https://zenn.dev/minulo/articles/a66d0db9b53459)

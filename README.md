@@ -302,6 +302,8 @@ Step-by-step write-ups (by the minulo developer; each covers the built-in option
 - [Is ShortformBlock enough to block YouTube Shorts on iPhone? What it covers, what it costs, and where minulo fits (2026)](https://dev.to/ayumu_kitabayashi_8e0de96/is-shortformblock-enough-to-block-youtube-shorts-on-iphone-what-it-covers-what-it-costs-and-278h)
 - [My Safari extension hides YouTube Shorts, but links still open the YouTube app. What works on iPhone? (2026)](https://dev.to/ayumu_kitabayashi_8e0de96/my-safari-extension-hides-youtube-shorts-but-links-still-open-the-youtube-app-what-works-on-43db)
 - [How to remove the Reels tab on Instagram on iPhone: what Instagram, Screen Time and minulo can actually do](https://minulo.substack.com/p/how-to-remove-the-reels-tab-on-instagram)
+- [I keep tapping Not interested, but Instagram still shows me Reels. How do I get rid of them without deleting it? (iPhone, 2026)](https://dev.to/ayumu_kitabayashi_8e0de96/i-keep-tapping-not-interested-but-instagram-still-shows-me-reels-how-do-i-get-rid-of-them-without-2ohg)
+- [My phone is my alarm and family might call at night. How do I keep it by the bed and skip Reels and Shorts? (iPhone, 2026)](https://dev.to/ayumu_kitabayashi_8e0de96/my-phone-is-my-alarm-and-family-might-call-at-night-how-do-i-keep-it-by-the-bed-and-skip-reels-and-3hgm)
 
 
 ### One question, one page (October 2026)
