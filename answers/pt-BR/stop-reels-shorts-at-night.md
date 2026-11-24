@@ -20,7 +20,7 @@ O minulo não muda os apps oficiais. Os Reels e os Shorts só somem quando você
 
 ## Perguntas frequentes
 ### Dá para bloquear o Instagram à noite e continuar recebendo mensagens?
-Só com o Tempo de Uso, não, porque ele bloqueia o app inteiro. Enquanto o minulo bloqueia o app oficial, as notificações dele também não chegam. Quem tem o Pro pode ativar as notificações de DM (beta), e aí as notificações do Direct continuam chegando com o Instagram bloqueado, exceto no Modo sono, no Foco do Horário de trabalho ou depois do Limite diário.
+Só com o Tempo de Uso, não, porque ele bloqueia o app inteiro. No iPhone, enquanto o minulo bloqueia o app oficial, as notificações dele também não chegam. Quem tem o Pro pode ativar as notificações de DM (beta), e aí as notificações do Direct continuam chegando com o Instagram bloqueado, exceto no Modo sono, no Foco do Horário de trabalho ou depois do Limite diário. No Android, as notificações de um app bloqueado continuam chegando.
 
 ### Tem um jeito grátis?
 Tem. O Repouso, o Foco Sono, os tons de cinza e o limite do feed de Shorts do YouTube vêm no iPhone ou no app. No minulo, esconder Reels e Shorts é grátis, e bloquear os apps oficiais também, por até 2 horas por vez.

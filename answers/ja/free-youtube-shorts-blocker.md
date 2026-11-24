@@ -15,7 +15,7 @@ YouTube にはショートをオフにするスイッチがないので、ショ
 
 ## 限界
 - ショートが消えるのは minulo の中だけで、公式アプリそのものは変わりません。
-- iPhone では、minulo が公式アプリを止めている間は、その通知は届かず、minulo が代わりに届けることもありません。ただし Pro の方は、ベータ機能の DM の通知をオンにすると、Instagram の DM の通知だけは届きます（スリープモードの間と、ワークモードの集中の時間、1日の上限に達した後は届きません）。Android では、止めたアプリを開いたときに minulo の画面が上に出るだけなので、そのアプリの通知は届きます。
+- iPhone では、minulo が公式アプリを止めている間は、その通知は届かず、minulo が代わりに届けることもありません。Android では、止めたアプリを開いたときに minulo の画面が上に出るだけなので、そのアプリの通知は届きます。
 - minulo は iPhone と Android で使え、Mac 版（Safari と Chrome）もあります。iPad 版はありません。
 
 出典：https://minulo.app/free-youtube-shorts-blocker.html（2026-11-04 確認）
