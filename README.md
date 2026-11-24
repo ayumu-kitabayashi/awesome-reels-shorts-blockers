@@ -308,6 +308,9 @@ Step-by-step write-ups (by the minulo developer; each covers the built-in option
 - [How do I get rid of the Reels tab on Instagram? I keep tapping it by accident (iPhone, 2026)](https://note.com/minulo/n/nbce6b5cd5302)
 - [Looking for a SocialLite alternative that also locks the Instagram app? StillTabs vs minulo on iPhone (2026)](https://dev.to/ayumu_kitabayashi_8e0de96/looking-for-a-sociallite-alternative-that-also-locks-the-instagram-app-stilltabs-vs-minulo-on-24l1)
 - [Can Screen Time block only part of a website, like instagram.com/reels, on iPhone? (2026)](https://dev.to/ayumu_kitabayashi_8e0de96/can-screen-time-block-only-part-of-a-website-like-instagramcomreels-on-iphone-2026-3cpm)
+- [How do I stop watching Reels and Shorts during class or shift hours on weekdays? (iPhone, 2026)](https://note.com/minulo/n/n750a5dd8cdb1)
+- [Why do YouTube Shorts still show up in my Subscriptions and search, and can I stop it? (iPhone, 2026)](https://note.com/minulo/n/n19347f77b59c)
+- [If I hide the Shorts shelf on YouTube Home, how long does it stay hidden?](https://minulo.substack.com/p/if-i-hide-the-shorts-shelf-on-youtube)
 
 
 ### One question, one page (October 2026)
