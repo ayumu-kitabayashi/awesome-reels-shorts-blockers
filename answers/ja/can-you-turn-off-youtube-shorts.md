@@ -17,7 +17,7 @@ YouTube のアプリには、大人のアカウントでショートをオフに
 
 ## 限界
 - ショートが消えるのは minulo の中だけです。公式の YouTube アプリの中からショートを消せるアプリはありません。
-- minulo が公式アプリを止めている間は、YouTube の通知は届かず、minulo が代わりに通知を送ることもありません。Android では、止めたアプリの通知も届きます。
+- iPhone では、minulo が公式アプリを止めている間は、YouTube の通知は届かず、minulo が代わりに届けることもありません。ただし Pro の方は、ベータ機能の DM の通知をオンにすると、Instagram の DM の通知だけは届きます（スリープモードの間と、ワークモードの集中の時間、1日の上限に達した後は届きません）。Android では、止めたアプリの通知も届きます。
 - minulo は iPhone と Android で使え、Mac 版（Safari と Chrome）もあります。iPad 版はありません。
 
 出典：https://minulo.app/can-you-turn-off-youtube-shorts.html（2026-11-04 確認）
