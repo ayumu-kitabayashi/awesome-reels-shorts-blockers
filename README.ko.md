@@ -275,6 +275,7 @@ minulo 개발자가 썼고, 모두 기본 설정부터 다룹니다.
 - [유튜브 홈 쇼츠 섹션을 X로 숨기면 며칠 가? 한 달 뒤 다시 나올 때 계속 숨겨 두는 방법 (아이폰, 2026)](https://note.com/minulo/n/n6a3134d45a19)
 - [인스타 앱을 지우고 Safari로 쓰면 릴스는 사라질까? 웹에도 남는 것과 숨기는 방법 (아이폰, 2026)](https://dev.to/ayumu_kitabayashi_8e0de96/inseuta-aebeul-jiugo-safariro-sseumyeon-rilseuneun-sarajilgga-webedo-namneun-geosgwa-sumgineun-bangbeob-aipon-2026-3pj0)
 - [유튜브 하단 쇼츠 탭을 자꾸 눌러요: 아이폰에서 쇼츠 탭만 없애는 법 (2026)](https://disquiet.io/posts/W9CkEX)
+- [친구가 보낸 릴스 한 편만 보고 나오는 법: 아이폰에서 다음 릴스로 안 넘어가게 하기 (2026)](https://dev.to/ayumu_kitabayashi_8e0de96/cinguga-bonaen-rilseu-han-pyeonman-bogo-naoneun-beob-aiponeseo-daeum-rilseuro-an-neomeogage-hagi-2026-492g)
 
 **日本語**
 - [インスタの DM は残してリールだけ消す：iPhone でできる5つの方法を比べた（2026）](https://zenn.dev/minulo/articles/a66d0db9b53459)

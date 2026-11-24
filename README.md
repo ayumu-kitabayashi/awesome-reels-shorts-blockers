@@ -306,6 +306,8 @@ Step-by-step write-ups (by the minulo developer; each covers the built-in option
 - [My phone is my alarm and family might call at night. How do I keep it by the bed and skip Reels and Shorts? (iPhone, 2026)](https://dev.to/ayumu_kitabayashi_8e0de96/my-phone-is-my-alarm-and-family-might-call-at-night-how-do-i-keep-it-by-the-bed-and-skip-reels-and-3hgm)
 - [Is there a Reels blocker without a subscription? (iPhone, 2026)](https://note.com/minulo/n/n297ee0357b4b)
 - [How do I get rid of the Reels tab on Instagram? I keep tapping it by accident (iPhone, 2026)](https://note.com/minulo/n/nbce6b5cd5302)
+- [Looking for a SocialLite alternative that also locks the Instagram app? StillTabs vs minulo on iPhone (2026)](https://dev.to/ayumu_kitabayashi_8e0de96/looking-for-a-sociallite-alternative-that-also-locks-the-instagram-app-stilltabs-vs-minulo-on-24l1)
+- [Can Screen Time block only part of a website, like instagram.com/reels, on iPhone? (2026)](https://dev.to/ayumu_kitabayashi_8e0de96/can-screen-time-block-only-part-of-a-website-like-instagramcomreels-on-iphone-2026-3cpm)
 
 
 ### One question, one page (October 2026)
