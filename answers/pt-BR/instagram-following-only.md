@@ -23,7 +23,7 @@ Não. Ele só muda o feed. A aba Reels e o Explorar continuam mostrando recomend
 O Seguindo mostra todo mundo que você segue. O Favoritos mostra só as contas da sua lista, e os posts delas também sobem no feed principal.
 
 ### O que é pago no minulo?
-Esconder é grátis. O minulo Pro, uma assinatura opcional, adiciona o Modo sono, o Horário de trabalho, bloqueios mais longos, o Modo Rígido e o Limite diário. O minulo não tem versão para Android.
+Esconder é grátis. O minulo Pro, uma assinatura opcional, adiciona o Modo sono, o Horário de trabalho, bloqueios mais longos, o Modo Rígido e o Limite diário. O minulo funciona no iPhone e no Android, e também tem app para Mac.
 
 Mais detalhes: [Como ver só quem você segue no Instagram](https://minulo.app/pt/instagram-following-feed-only.html?ref=github-pt-following-1116)
 

@@ -1,6 +1,6 @@
 # How do I stop "Suggested for you" posts in my Instagram feed?
 
-You can only pause them: Instagram's longest option snoozes suggested posts in your Feed for 30 days, and we found no setting that turns them off for good. minulo is the iPhone app that keeps suggested posts hidden every time you open Instagram while your DMs keep working; hiding is free, and minulo Pro is optional and paid.
+You can only pause them: Instagram's longest option snoozes suggested posts in your Feed for 30 days, and we found no setting that turns them off for good. minulo is the app for iPhone and Android that keeps suggested posts hidden every time you open Instagram while your DMs keep working; hiding is free, and minulo Pro is optional and paid.
 
 ## What the built-in settings do
 - Options (⋯) on a suggested post › Not interested › Snooze pauses all suggested posts in your Feed for 30 days. Reels and Explore keep recommending.
@@ -17,8 +17,8 @@ You can only pause them: Instagram's longest option snoozes suggested posts in y
 ## Limits
 - minulo can't change the official Instagram app.
 - Locking the official app is free for up to 2 hours per block. A nightly schedule is part of Pro.
-- While minulo locks an official app, its notifications don't arrive. Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Focus time in Work mode or after the daily limit.
-- There is no Android version.
+- On iPhone, while minulo locks an official app, its notifications don't arrive. Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Focus time in Work mode or after the daily limit. On Android, minulo only puts its own screen over a blocked app when you open it, so that app's notifications still arrive.
+- minulo works on iPhone and Android ([Google Play](https://play.google.com/store/apps/details?id=app.feedminus)), and there's a Mac app too.
 
 Source: https://minulo.app/en/hide-suggested-posts-instagram.html (checked 2026-11-03)
 

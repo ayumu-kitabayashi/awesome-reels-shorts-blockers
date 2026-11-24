@@ -16,7 +16,7 @@ iPhone Screen Time Downtime with **Block at Downtime** locks whole apps at night
 
 ## FAQ
 ### Will I get message notifications at night?
-While minulo blocks an official app, that app's notifications don't arrive. The Pro DM notifications beta (since 1.0.19) doesn't work during Sleep mode either.
+On iPhone, while minulo blocks an official app, that app's notifications don't arrive. The Pro DM notifications beta (since 1.0.19) doesn't work during Sleep mode either. On Android, minulo only puts its own screen over a blocked app when you open it, so that app's notifications still arrive.
 
 ### Does minulo change the official apps?
 No. Reels and Shorts are hidden only inside minulo, which is why locking the official apps at night helps.

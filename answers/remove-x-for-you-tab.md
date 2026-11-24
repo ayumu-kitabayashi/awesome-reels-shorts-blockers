@@ -1,6 +1,6 @@
 # How do I get rid of the For You tab on X?
 
-You can't remove it: we could not find a setting in X's help that does, and Home always has both tabs. minulo is the iPhone app that opens X on Following with the For you tab hidden while your messages keep working; hiding is free, and minulo Pro is optional and paid.
+You can't remove it: we could not find a setting in X's help that does, and Home always has both tabs. minulo is the app for iPhone and Android that opens X on Following with the For you tab hidden while your messages keep working; hiding is free, and minulo Pro is optional and paid.
 
 ## What the built-in settings do
 - Tap Following at the top of Home. X reopens on whichever timeline you had open when you closed it, so close it on Following.
@@ -17,8 +17,8 @@ You can't remove it: we could not find a setting in X's help that does, and Home
 ## Limits
 - minulo can't change the official X app.
 - Locking the official app is free for up to 2 hours per block. A nightly schedule is part of Pro.
-- While minulo locks an official app, its notifications don't arrive. Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Focus time in Work mode or after the daily limit.
-- There is no Android version.
+- On iPhone, while minulo locks an official app, its notifications don't arrive. Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Focus time in Work mode or after the daily limit. On Android, minulo only puts its own screen over a blocked app when you open it, so that app's notifications still arrive.
+- minulo works on iPhone and Android ([Google Play](https://play.google.com/store/apps/details?id=app.feedminus)), and there's a Mac app too.
 
 Source: https://minulo.app/en/turn-off-x-for-you.html (checked 2026-11-03)
 

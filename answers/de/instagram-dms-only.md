@@ -13,8 +13,8 @@ Instagram hat keinen Modus „nur Nachrichten“, und ein Limit in der Bildschir
 
 ## Grenzen
 - Nur das Instagram in minulo ändert sich, die offizielle App bleibt, wie sie ist.
-- Mitteilungen kommen von der offiziellen Instagram-App. Solange du sie nicht sperrst, kommen sie wie gewohnt an, und du antwortest in minulo. Solange sie gesperrt ist, kommen auch ihre Mitteilungen nicht an (so funktioniert iOS). Pro-Nutzer können DM-Benachrichtigungen (Beta) einschalten, dann kommen Benachrichtigungen zu Instagram-DMs auch an, während Instagram gesperrt ist, außer im Schlafmodus, während der Fokuszeit in der „Arbeitszeit“ oder nach Erreichen des Tageslimits.
-- Eine Android-Version von minulo gibt es nicht.
+- Mitteilungen kommen von der offiziellen Instagram-App. Solange du sie nicht sperrst, kommen sie wie gewohnt an, und du antwortest in minulo. Solange sie gesperrt ist, kommen auch ihre Mitteilungen nicht an (so funktioniert iOS). Pro-Nutzer können DM-Benachrichtigungen (Beta) einschalten, dann kommen Benachrichtigungen zu Instagram-DMs auch an, während Instagram gesperrt ist, außer im Schlafmodus, während der Fokuszeit in der „Arbeitszeit“ oder nach Erreichen des Tageslimits. Unter Android kommen die Mitteilungen einer gesperrten App weiterhin an.
+- minulo gibt es für iPhone und Android, dazu eine Mac-App.
 
 Quelle: https://minulo.app/de/instagram-dms-only.html (geprüft am 2026-11-04)
 

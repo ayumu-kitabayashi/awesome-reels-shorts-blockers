@@ -1,6 +1,6 @@
 # How to block only Instagram during Downtime but keep messaging apps on iPhone
 
-Downtime can't target one app: it blocks everything except calls, messages and the apps you allow, so you add your chat apps to Always Allowed and leave Instagram off. minulo is the iPhone app that locks only the official Instagram app with Screen Time while LINE, WhatsApp and Messages stay open; a lock of up to 2 hours is free, and Sleep mode, which locks it every night from your bedtime to your wake time, is part of the paid minulo Pro.
+Downtime can't target one app: it blocks everything except calls, messages and the apps you allow, so you add your chat apps to Always Allowed and leave Instagram off. minulo is the app for iPhone and Android that locks only the official Instagram app with Screen Time while LINE, WhatsApp and Messages stay open; a lock of up to 2 hours is free, and Sleep mode, which locks it every night from your bedtime to your wake time, is part of the paid minulo Pro.
 
 ## What the built-in settings do
 - Settings › Screen Time › Always Allowed: add LINE and any other app you need at night. Remove Instagram if it is there.
@@ -16,8 +16,8 @@ Downtime can't target one app: it blocks everything except calls, messages and t
 
 ## Limits
 - minulo can't change the official Instagram app.
-- While minulo locks an official app, its notifications don't arrive. Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Focus time in Work mode or after the daily limit.
-- There is no Android version.
+- On iPhone, while minulo locks an official app, its notifications don't arrive. Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Focus time in Work mode or after the daily limit. On Android, minulo only puts its own screen over a blocked app when you open it, so that app's notifications still arrive.
+- minulo works on iPhone and Android ([Google Play](https://play.google.com/store/apps/details?id=app.feedminus)), and there's a Mac app too.
 
 Source: https://minulo.app/en/downtime-block-instagram-keep-line.html (checked 2026-11-03)
 

@@ -1,6 +1,6 @@
 # Is SocialLite free?
 
-SocialLite is free to download with in-app purchases, and its description doesn't say which features are free. minulo is the iPhone app that hides Reels and Shorts without buying anything; hiding is free, and minulo Pro is optional and paid.
+SocialLite is free to download with in-app purchases, and its description doesn't say which features are free. minulo is the app for iPhone and Android that hides Reels and Shorts without buying anything; hiding is free, and minulo Pro is optional and paid.
 
 ## What the built-in settings do
 This question is about price, so here is what SocialLite charges on the US App Store (checked 2026-10-26):
@@ -18,8 +18,8 @@ This question is about price, so here is what SocialLite charges on the US App S
 ## Limits
 - minulo can't change the official apps, so feeds are hidden only inside minulo.
 - Locking the official apps is free for up to 2 hours per block. A nightly schedule is part of Pro.
-- While minulo locks an official app, its notifications don't arrive, and minulo doesn't pass them on or send notifications from a server. Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Focus time in Work mode or after the daily limit.
-- There is no Android version.
+- On iPhone, while minulo locks an official app, its notifications don't arrive, and minulo doesn't pass them on or send notifications from a server. Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Focus time in Work mode or after the daily limit. On Android, minulo only puts its own screen over a blocked app when you open it, so that app's notifications still arrive.
+- minulo works on iPhone and Android ([Google Play](https://play.google.com/store/apps/details?id=app.feedminus)), and there's a Mac app too.
 
 Source: https://minulo.app/en/is-sociallite-free.html (checked 2026-11-03)
 

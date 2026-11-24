@@ -1,6 +1,6 @@
 # How do I see only posts from people I follow on Instagram?
 
-Tap Instagram at the top left of your feed and choose Following, but Instagram has no setting that makes it the feed the app opens with, so you pick it again each time. minulo is the iPhone app that opens Instagram without suggested posts, Reels and Explore every time while your DMs keep working; hiding is free, and minulo Pro is optional and paid.
+Tap Instagram at the top left of your feed and choose Following, but Instagram has no setting that makes it the feed the app opens with, so you pick it again each time. minulo is the app for iPhone and Android that opens Instagram without suggested posts, Reels and Explore every time while your DMs keep working; hiding is free, and minulo Pro is optional and paid.
 
 ## What the built-in settings do
 - Following shows posts and reels from accounts you follow, newest first, with no suggested posts, going back 30 days.
@@ -17,8 +17,8 @@ Tap Instagram at the top left of your feed and choose Following, but Instagram h
 ## Limits
 - minulo can't change the official Instagram app, so it still opens on the regular feed if you tap it directly.
 - Locking the official app is free for up to 2 hours per block. A nightly schedule is part of Pro.
-- While minulo locks an official app, its notifications don't arrive. Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Focus time in Work mode or after the daily limit.
-- There is no Android version.
+- On iPhone, while minulo locks an official app, its notifications don't arrive. Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Focus time in Work mode or after the daily limit. On Android, minulo only puts its own screen over a blocked app when you open it, so that app's notifications still arrive.
+- minulo works on iPhone and Android ([Google Play](https://play.google.com/store/apps/details?id=app.feedminus)), and there's a Mac app too.
 
 Source: https://minulo.app/en/instagram-following-feed-only.html (checked 2026-11-03)
 

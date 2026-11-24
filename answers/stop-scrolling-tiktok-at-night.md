@@ -1,6 +1,6 @@
 # How to stop scrolling TikTok at night on iPhone
 
-TikTok's own night setting only mutes notifications, so the real stop is a lock: Screen Time Downtime, which also blocks messages, or an app. minulo is the iPhone app that opens TikTok with For You hidden so messages keep working at night, and it locks the official TikTok app; hiding is free, and Sleep mode, which locks it every night from your bedtime to your wake time, is part of the paid minulo Pro.
+TikTok's own night setting only mutes notifications, so the real stop is a lock: Screen Time Downtime, which also blocks messages, or an app. minulo is the app for iPhone and Android that opens TikTok with For You hidden so messages keep working at night, and it locks the official TikTok app; hiding is free, and Sleep mode, which locks it every night from your bedtime to your wake time, is part of the paid minulo Pro.
 
 ## What the built-in settings do
 - Sleep hours (TikTok › Settings and privacy › Time and well-being › Screen time) mutes push notifications and shows a reminder. TikTok stays open.
@@ -15,8 +15,8 @@ TikTok's own night setting only mutes notifications, so the real stop is a lock:
 
 ## Limits
 - minulo can't change the official TikTok app.
-- While minulo locks an official app, its notifications don't arrive, and minulo doesn't pass them on. Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Focus time in Work mode or after the daily limit.
-- There is no Android version.
+- On iPhone, while minulo locks an official app, its notifications don't arrive, and minulo doesn't pass them on. Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Focus time in Work mode or after the daily limit. On Android, minulo only puts its own screen over a blocked app when you open it, so that app's notifications still arrive.
+- minulo works on iPhone and Android ([Google Play](https://play.google.com/store/apps/details?id=app.feedminus)), and there's a Mac app too.
 
 Source: https://minulo.app/en/stop-scrolling-tiktok-at-night.html (checked 2026-11-03)
 

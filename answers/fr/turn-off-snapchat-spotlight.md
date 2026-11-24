@@ -16,8 +16,8 @@ Nous n'avons trouvé dans l'aide de Snapchat aucun réglage qui retire l'onglet 
 
 ## Limites
 - Spotlight n'est masqué que dans minulo : l'app Snapchat officielle ne change pas.
-- Tant que minulo verrouille l'app officielle, ses notifications n'arrivent pas. Verrouillez-la seulement quand vous pouvez vous en passer, par exemple pendant vos révisions ou la nuit.
-- minulo n'existe pas sur Android.
+- Sur iPhone, tant que minulo verrouille l'app officielle, ses notifications n'arrivent pas. Verrouillez-la seulement quand vous pouvez vous en passer, par exemple pendant vos révisions ou la nuit. Sur Android, minulo affiche seulement son propre écran par-dessus l'app bloquée quand vous l'ouvrez, donc ses notifications continuent d'arriver.
+- minulo fonctionne sur iPhone et Android, et il existe aussi une app Mac.
 
 Source : https://minulo.app/fr/turn-off-snapchat-spotlight.html (vérifié le 2026-11-04)
 

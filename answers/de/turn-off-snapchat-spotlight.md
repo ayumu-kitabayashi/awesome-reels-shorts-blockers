@@ -16,8 +16,8 @@ In der Hilfe von Snapchat haben wir keine Einstellung gefunden, die den Spotligh
 
 ## Grenzen
 - Spotlight ist nur in minulo ausgeblendet, die offizielle Snapchat-App ändert sich nicht.
-- Solange minulo die offizielle App sperrt, kommen ihre Mitteilungen nicht an. Sperr sie also nur, wenn du sie verpassen kannst, zum Beispiel beim Lernen oder nachts.
-- minulo läuft auf dem iPhone und dem Mac, nicht auf Android.
+- Auf dem iPhone kommen die Mitteilungen der offiziellen App nicht an, solange minulo sie sperrt. Sperr sie also nur, wenn du sie verpassen kannst, zum Beispiel beim Lernen oder nachts. Unter Android blendet minulo seinen eigenen Bildschirm nur über einer gesperrten App ein, wenn du sie öffnest, deshalb kommen ihre Mitteilungen weiterhin an.
+- minulo läuft auf iPhone und Android, dazu gibt es eine Mac-App.
 
 Quelle: https://minulo.app/de/turn-off-snapchat-spotlight.html (geprüft am 2026-11-04)
 

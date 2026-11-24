@@ -1,6 +1,6 @@
 # How can I use TikTok only for messages?
 
-TikTok has no messages-only setting; the app opens straight onto For You. minulo is the iPhone app that opens TikTok with For You and the other tabs hidden while your messages keep working; hiding is free, and minulo Pro is optional and paid.
+TikTok has no messages-only setting; the app opens straight onto For You. minulo is the app for iPhone and Android that opens TikTok with For You and the other tabs hidden while your messages keep working; hiding is free, and minulo Pro is optional and paid.
 
 ## What the built-in settings do
 - TikTok has a Following tab, but the app still opens on For You.
@@ -15,8 +15,8 @@ TikTok has no messages-only setting; the app opens straight onto For You. minulo
 ## Limits
 - minulo can't change the official TikTok app, so For You is hidden only inside minulo.
 - Locking the official app is free for up to 2 hours per block. A nightly schedule is part of Pro.
-- While minulo locks an official app, its notifications don't arrive, and minulo doesn't pass them on. Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Focus time in Work mode or after the daily limit.
-- There is no Android version.
+- On iPhone, while minulo locks an official app, its notifications don't arrive, and minulo doesn't pass them on. Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Focus time in Work mode or after the daily limit. On Android, minulo only puts its own screen over a blocked app when you open it, so that app's notifications still arrive.
+- minulo works on iPhone and Android ([Google Play](https://play.google.com/store/apps/details?id=app.feedminus)), and there's a Mac app too.
 
 Source: https://minulo.app/en/tiktok-dms-only.html (checked 2026-11-03)
 

@@ -12,8 +12,8 @@ En la ayuda de Instagram no hemos encontrado un modo de solo historias, y las pe
 
 ## Límites
 - En minulo puedes ver historias, pero no publicarlas. Tampoco se pueden enviar mensajes de voz ni hacer llamadas, porque la web de Instagram no tiene esas funciones.
-- Mientras minulo bloquea la app oficial, sus notificaciones no llegan, y minulo no envía ninguna. Los usuarios de Pro pueden activar las notificaciones de DM (beta) para que las notificaciones de los DM de Instagram sigan llegando mientras Instagram está bloqueado, salvo en Modo sueño, durante el Enfoque del Horario de trabajo o tras llegar al Límite diario.
-- La app oficial de Instagram no cambia. minulo es para iPhone y Mac (Safari y Chrome), no para Android.
+- En el iPhone, mientras minulo bloquea la app oficial, sus notificaciones no llegan. Los usuarios de Pro pueden activar las notificaciones de DM (beta) para que las notificaciones de los DM de Instagram sigan llegando mientras Instagram está bloqueado, salvo en Modo sueño, durante el Enfoque del Horario de trabajo o tras llegar al Límite diario. En Android, minulo solo muestra su propia pantalla encima de la app bloqueada cuando la abres, así que sus notificaciones siguen llegando.
+- La app oficial de Instagram no cambia. minulo funciona en iPhone y Android, y también tiene app para Mac (Safari y Chrome).
 
 Fuente: https://minulo.app/es/instagram-stories-only.html (comprobado el 2026-11-04)
 

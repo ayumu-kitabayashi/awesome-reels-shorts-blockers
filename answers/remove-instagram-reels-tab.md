@@ -1,6 +1,6 @@
 # Can you remove the Reels tab from Instagram on iPhone?
 
-Not in the Instagram app: we found no setting that removes, hides or moves the Reels tab. minulo is the iPhone app that opens Instagram with the Reels tab hidden while your DMs keep working; hiding is free, and minulo Pro is optional and paid.
+Not in the Instagram app: we found no setting that removes, hides or moves the Reels tab. minulo is the app for iPhone and Android that opens Instagram with the Reels tab hidden while your DMs keep working; hiding is free, and minulo Pro is optional and paid.
 
 ## What the built-in settings do
 - Tapping Instagram at the top of Home and choosing Following shows posts from people you follow in time order. The Reels tab stays in the bottom bar.
@@ -16,8 +16,8 @@ Not in the Instagram app: we found no setting that removes, hides or moves the R
 ## Limits
 - minulo can't change the official Instagram app, so the Reels tab is still there if you open it directly.
 - Locking the official app is free for up to 2 hours per block. A nightly schedule is part of Pro.
-- While minulo locks an official app, its notifications don't arrive. Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Focus time in Work mode or after the daily limit.
-- There is no Android or iPad version.
+- On iPhone, while minulo locks an official app, its notifications don't arrive. Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Focus time in Work mode or after the daily limit. On Android, minulo only puts its own screen over a blocked app when you open it, so that app's notifications still arrive.
+- minulo works on iPhone and Android, and there's a Mac app too. There's no iPad version.
 
 Source: https://minulo.app/en/instagram-reels-tab-remove.html (checked 2026-11-03)
 

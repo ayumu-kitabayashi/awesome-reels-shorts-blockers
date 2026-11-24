@@ -15,8 +15,8 @@ Nicht mit einer Snapchat-Einstellung: Laut der Snapchat-Hilfe lässt sich die En
 
 ## Grenzen
 - Die offizielle Snapchat-App ändert sich nicht, und Snapchat ist in minulo als BETA markiert.
-- Solange minulo die offizielle App sperrt, kommen ihre Mitteilungen nicht an, und minulo sendet selbst keine.
-- minulo gibt es für das iPhone und den Mac (Safari und Chrome), nicht für Android.
+- Auf dem iPhone kommen die Mitteilungen der offiziellen App nicht an, solange minulo sie sperrt. Unter Android blendet minulo seinen eigenen Bildschirm nur über einer gesperrten App ein, wenn du sie öffnest, deshalb kommen ihre Mitteilungen weiterhin an.
+- minulo gibt es für iPhone und Android, dazu eine Mac-App für Safari und Chrome.
 
 Quelle: https://minulo.app/de/snapchat-stories-only.html (geprüft am 2026-11-04)
 

@@ -1,6 +1,6 @@
 # How to open Instagram straight to DMs on iPhone without the feed
 
-Instagram has no setting that makes the app open on your messages. minulo is the iPhone app that opens Instagram with only your DMs and the notifications tab left; its Every tab but DMs setting is free, and minulo Pro is optional and paid.
+Instagram has no setting that makes the app open on your messages. minulo is the app for iPhone and Android that opens Instagram with only your DMs and the notifications tab left; its Every tab but DMs setting is free, and minulo Pro is optional and paid.
 
 ## What the built-in settings do
 - Tapping a message notification opens that chat, but the feed and Reels are one tap away after it.
@@ -16,9 +16,9 @@ Instagram has no setting that makes the app open on your messages. minulo is the
 ## Limits
 - minulo can't change the official Instagram app.
 - Locking the official app is free for up to 2 hours per block. A nightly schedule is part of Pro.
-- While minulo locks an official app, its notifications don't arrive. Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Focus time in Work mode or after the daily limit.
+- On iPhone, while minulo locks an official app, its notifications don't arrive. Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Focus time in Work mode or after the daily limit. On Android, minulo only puts its own screen over a blocked app when you open it, so that app's notifications still arrive.
 - Posting Stories, voice messages and calls aren't available.
-- There is no Android version.
+- minulo works on iPhone and Android ([Google Play](https://play.google.com/store/apps/details?id=app.feedminus)), and there's a Mac app too.
 
 Source: https://minulo.app/en/instagram-open-straight-to-dms.html (checked 2026-11-03)
 

@@ -15,13 +15,13 @@ iPhone Screen Time can block apps during set hours with an App Limit or a Downti
 
 ## FAQ
 ### Will I get Instagram DM notifications during work hours?
-While minulo locks an official app, its notifications don't arrive. The Pro DM notifications beta (since 1.0.19) doesn't work during Work mode, so if you rely on Instagram notifications for work, leave the official app unlocked and use minulo for browsing.
+While minulo locks an official app, its notifications don't arrive. The Pro DM notifications beta (since 1.0.19) doesn't work during Work mode, so if you rely on Instagram notifications for work, leave the official app unlocked and use minulo for browsing. On Android, notifications from a blocked app still arrive.
 
 ### Can I still post for work?
 Yes. Inside minulo, posting, comments and DMs work. Stories, voice messages and calls need the official app.
 
 ### Does minulo change the official apps?
-No. Reels and For You are hidden only inside minulo. There is no Android version.
+No. Reels and For You are hidden only inside minulo. minulo works on iPhone and Android, and there's a Mac app too.
 
 More detail: [How to stop scrolling your phone at work](https://minulo.app/en/stop-scrolling-at-work.html?ref=github-en-work-1116)
 

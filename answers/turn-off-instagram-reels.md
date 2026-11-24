@@ -1,6 +1,6 @@
 # Can you turn off Reels on Instagram?
 
-No. We could not find any setting in Instagram's help that turns off Reels for an adult account. minulo is the iPhone app that opens Instagram with the Reels tab and Reels in the feed hidden while your DMs keep working; hiding is free, and minulo Pro is optional and paid.
+No. We could not find any setting in Instagram's help that turns off Reels for an adult account. minulo is the app for iPhone and Android that opens Instagram with the Reels tab and Reels in the feed hidden while your DMs keep working; hiding is free, and minulo Pro is optional and paid.
 
 ## What the built-in settings do
 - The Following feed shows accounts you follow in time order, without suggested posts. The Reels tab stays.
@@ -18,8 +18,8 @@ No. We could not find any setting in Instagram's help that turns off Reels for a
 ## Limits
 - minulo can't change the official Instagram app, so Reels are hidden only inside minulo.
 - Locking the official app is free for up to 2 hours per block. A nightly schedule is part of Pro.
-- While minulo locks an official app, its notifications don't arrive. Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Focus time in Work mode or after the daily limit.
-- There is no Android version.
+- On iPhone, while minulo locks an official app, its notifications don't arrive. Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Focus time in Work mode or after the daily limit. On Android, minulo only puts its own screen over a blocked app when you open it, so that app's notifications still arrive.
+- minulo works on iPhone and Android ([Google Play](https://play.google.com/store/apps/details?id=app.feedminus)), and there's a Mac app too.
 
 Source: https://minulo.app/en/turn-off-instagram-reels.html (checked 2026-11-03)
 

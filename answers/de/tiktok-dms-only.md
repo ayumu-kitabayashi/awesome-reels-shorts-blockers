@@ -12,8 +12,8 @@ TikTok hat keine Einstellung nur für Nachrichten und startet direkt mit „Für
 
 ## Grenzen
 - Der Feed ist nur in minulo ausgeblendet, die offizielle TikTok-App ändert sich nicht.
-- Solange minulo die offizielle App sperrt, kommen ihre Mitteilungen nicht an, und minulo schickt keine. Die kostenlose Sperre hält jeweils bis zu 2 Stunden und lässt sich jederzeit neu starten.
-- minulo gibt es für das iPhone und den Mac (Safari und Chrome), nicht für Android.
+- Auf dem iPhone kommen die Mitteilungen der offiziellen App nicht an, solange minulo sie sperrt. Die kostenlose Sperre hält jeweils bis zu 2 Stunden und lässt sich jederzeit neu starten. Unter Android blendet minulo seinen eigenen Bildschirm nur über einer gesperrten App ein, wenn du sie öffnest, deshalb kommen ihre Mitteilungen weiterhin an.
+- minulo gibt es für iPhone und Android, dazu eine Mac-App für Safari und Chrome.
 
 Quelle: https://minulo.app/de/tiktok-dms-only.html (geprüft am 2026-11-04)
 

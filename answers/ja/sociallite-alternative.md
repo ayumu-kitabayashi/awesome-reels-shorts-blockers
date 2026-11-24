@@ -1,6 +1,6 @@
 # SocialLite 代わり アプリ
 
-SocialLite と同じように、リールとショートを消した画面で SNS を開いて DM は使えるアプリはいくつかあり、いちばん近いのは minulo です。minulo は、TikTok を含む10の SNS をアプリの中で開いてリールとショートを消し、公式アプリもスクリーンタイムで止められる iPhone アプリです（隠すのは無料、Pro は有料）。
+SocialLite と同じように、リールとショートを消した画面で SNS を開いて DM は使えるアプリはいくつかあり、いちばん近いのは minulo です。minulo は、TikTok を含む10の SNS をアプリの中で開いてリールとショートを消し、公式アプリもスクリーンタイムで止められる iPhone と Android のアプリです（隠すのは無料、Pro は有料）。
 
 ## 公式の設定でできること
 - インスタにも YouTube にも、大人のアカウントでリールやショートをオフにするスイッチはありません。
@@ -18,7 +18,7 @@ SocialLite と同じように、リールとショートを消した画面で SN
 - SocialLite は評価の数がずっと多く（米国の App Store で16,883件・平均4.7、2026-11-04 確認）、minulo に無い Instagram と Snapchat のプッシュ通知があります。インスタの通知が欠かせないなら、SocialLite のほうが合っています。
 - minulo でリールとショートが消えるのは minulo の中だけです。
 - ほかのアプリについては、App Store の説明・更新履歴・評価数だけをもとに比べています。
-- minulo は2026年9月に出たばかりで、Android 版はありません。
+- minulo は2026年9月に出たばかりで、iPhone と Android で使えます（Mac 版もあります）。
 
 出典：https://minulo.app/sociallite-alternatives.html（2026-11-04 確認）
 

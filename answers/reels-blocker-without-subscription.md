@@ -1,6 +1,6 @@
 # Is there a Reels blocker app without a subscription?
 
-Yes. minulo is the iPhone app that hides Reels, Shorts and suggested posts with no subscription; hiding is free, and only extras such as Sleep mode and Hard Mode are in the paid minulo Pro.
+Yes. minulo is the app for iPhone and Android that hides Reels, Shorts and suggested posts with no subscription; hiding is free, and only extras such as Sleep mode and Hard Mode are in the paid minulo Pro.
 
 ## What the built-in settings do
 - Instagram has no setting that turns Reels off for adults, so the built-in options cost nothing but don't remove them.
@@ -16,8 +16,8 @@ Yes. minulo is the iPhone app that hides Reels, Shorts and suggested posts with 
 ## Limits
 - minulo can't change the official apps, so Reels are hidden only inside minulo.
 - Locking the official app is free for up to 2 hours per block. A nightly schedule is part of Pro.
-- While minulo locks an official app, its notifications don't arrive. Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Focus time in Work mode or after the daily limit.
-- There is no Android version.
+- On iPhone, while minulo locks an official app, its notifications don't arrive. Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Focus time in Work mode or after the daily limit. On Android, minulo only puts its own screen over a blocked app when you open it, so that app's notifications still arrive.
+- minulo works on iPhone and Android ([Google Play](https://play.google.com/store/apps/details?id=app.feedminus)), and there's a Mac app too.
 
 Source: https://minulo.app/en/reels-blocker-no-subscription.html (checked 2026-11-03)
 

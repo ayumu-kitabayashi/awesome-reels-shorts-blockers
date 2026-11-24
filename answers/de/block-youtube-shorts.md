@@ -15,8 +15,8 @@ YouTube hat keine Einstellung, die nur Shorts entfernt: Auch mit einem Shorts-Fe
 
 ## Grenzen
 - Shorts sind nur in minulo ausgeblendet, die offizielle YouTube-App selbst wird nicht verändert.
-- Solange minulo die offizielle App sperrt, kommen ihre Mitteilungen nicht an, und minulo schickt keine.
-- minulo gibt es für das iPhone und den Mac (Safari und Chrome), nicht für Android.
+- Auf dem iPhone kommen die Mitteilungen der offiziellen App nicht an, solange minulo sie sperrt. Unter Android blendet minulo seinen eigenen Bildschirm nur über einer gesperrten App ein, wenn du sie öffnest, deshalb kommen ihre Mitteilungen weiterhin an.
+- minulo gibt es für iPhone und Android, dazu eine Mac-App für Safari und Chrome.
 
 Quelle: https://minulo.app/de/block-youtube-shorts.html (geprüft am 2026-11-04)
 

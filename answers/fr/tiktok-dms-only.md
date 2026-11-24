@@ -12,8 +12,8 @@ Aucun réglage de TikTok n'en fait une app de messages : l'app s'ouvre directeme
 
 ## Limites
 - Le fil n'est masqué que dans minulo : l'app TikTok officielle ne change pas.
-- Tant que minulo bloque l'app officielle, ses notifications n'arrivent pas, et minulo n'en envoie aucune. Le blocage gratuit dure jusqu'à 2 heures et peut être relancé à tout moment.
-- minulo existe sur iPhone et sur Mac (Safari et Chrome), pas sur Android.
+- Sur iPhone, tant que minulo bloque l'app officielle, ses notifications n'arrivent pas. Le blocage gratuit dure jusqu'à 2 heures et peut être relancé à tout moment. Sur Android, minulo affiche seulement son propre écran par-dessus l'app bloquée quand vous l'ouvrez, donc ses notifications continuent d'arriver.
+- minulo fonctionne sur iPhone et Android, et il existe aussi une app Mac (Safari et Chrome).
 
 Source : https://minulo.app/fr/tiktok-dms-only.html (vérifié le 2026-11-04)
 

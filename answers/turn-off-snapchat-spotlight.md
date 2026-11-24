@@ -1,6 +1,6 @@
 # How do I turn off Snapchat Spotlight?
 
-We could not find a setting in Snapchat's help that removes Spotlight; it stays in the tab bar. minulo is the iPhone app that opens Snapchat with Spotlight and Discover hidden while your chats keep working; hiding is free, and minulo Pro is optional and paid.
+We could not find a setting in Snapchat's help that removes Spotlight; it stays in the tab bar. minulo is the app for iPhone and Android that opens Snapchat with Spotlight and Discover hidden while your chats keep working; hiding is free, and minulo Pro is optional and paid.
 
 ## What the built-in settings do
 - Profile › ⚙️ › Notifications turns off the notification types you choose. Spotlight itself stays.
@@ -16,8 +16,8 @@ We could not find a setting in Snapchat's help that removes Spotlight; it stays 
 ## Limits
 - minulo can't change the official Snapchat app.
 - Locking the official app is free for up to 2 hours per block. A nightly schedule is part of Pro.
-- While minulo locks an official app, its notifications don't arrive, so lock it only when you can miss them. Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Focus time in Work mode or after the daily limit.
-- There is no Android version.
+- On iPhone, while minulo locks an official app, its notifications don't arrive, so lock it only when you can miss them. Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Focus time in Work mode or after the daily limit. On Android, minulo only puts its own screen over a blocked app when you open it, so that app's notifications still arrive.
+- minulo works on iPhone and Android ([Google Play](https://play.google.com/store/apps/details?id=app.feedminus)), and there's a Mac app too.
 
 Source: https://minulo.app/en/turn-off-snapchat-spotlight.html (checked 2026-11-03)
 

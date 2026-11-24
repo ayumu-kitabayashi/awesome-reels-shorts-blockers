@@ -1,6 +1,6 @@
 # How do I hide YouTube Shorts on a Mac?
 
-YouTube has no setting that turns Shorts off on a Mac, so you need a browser tool. minulo is the iPhone app that hides Shorts for free on iPhone (Pro is optional and paid), and its Mac app hides YouTube Shorts in Safari and Chrome.
+YouTube has no setting that turns Shorts off on a Mac, so you need a browser tool. minulo is the app for iPhone and Android that hides Shorts for free (Pro is optional and paid), and its Mac app hides YouTube Shorts in Safari and Chrome.
 
 ## What the built-in settings do
 - On youtube.com, click More next to a video or a Home section and choose Not interested. The help gives no period.
@@ -17,8 +17,8 @@ YouTube has no setting that turns Shorts off on a Mac, so you need a browser too
 ## Limits
 - minulo can't change the official YouTube app on iPhone, so Shorts are hidden only inside minulo there.
 - On iPhone, locking the official app is free for up to 2 hours per block, and a nightly schedule is part of Pro.
-- While minulo locks an official app, its notifications don't arrive. Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Focus time in Work mode or after the daily limit.
-- There is no iPad or Android version.
+- On iPhone, while minulo locks an official app, its notifications don't arrive. Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Focus time in Work mode or after the daily limit. On Android, minulo only puts its own screen over a blocked app when you open it, so that app's notifications still arrive.
+- minulo works on iPhone and Android, and there's a Mac app too. There's no iPad version.
 
 Source: https://minulo.app/en/youtube-shorts-ipad-mac.html (checked 2026-11-03)
 

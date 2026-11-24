@@ -27,7 +27,7 @@ Eles continuam no app oficial. Abra o Instagram pelo minulo, ou bloqueie o app o
 Não, porque a versão web do Instagram não tem esse recurso. Fotos, comentários e o Direct funcionam. Para Stories ou áudio, o botão Fazer uma pausa abre o app oficial pelos minutos que você escolher.
 
 ### Tem versão para Android?
-Não. O minulo é para iPhone e Mac.
+Sim. O minulo está no [Google Play](https://play.google.com/store/apps/details?id=app.feedminus) para Android e também tem app para Mac.
 
 Mais detalhes: [Como desativar os Reels do Instagram no iPhone](https://minulo.app/pt/turn-off-instagram-reels.html?ref=github-pt-reelsoff-1116)
 

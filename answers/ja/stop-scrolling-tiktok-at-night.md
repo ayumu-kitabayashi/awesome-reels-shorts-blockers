@@ -1,6 +1,6 @@
 # 夜に TikTok を見続けてしまうのを止める方法（iPhone）
 
-夜に本当に止めるなら、iPhone の休止時間で TikTok を開けなくするのが確実ですが、TikTok のメッセージも一緒に止まります。minulo は、TikTok を「おすすめ」を消した状態で開き、布団に入るときは公式の TikTok アプリも止められる iPhone アプリです（隠すのは無料、Pro は有料）。
+夜に本当に止めるなら、iPhone の休止時間で TikTok を開けなくするのが確実ですが、TikTok のメッセージも一緒に止まります。minulo は、TikTok を「おすすめ」を消した状態で開き、布団に入るときは公式の TikTok アプリも止められる iPhone と Android のアプリです（隠すのは無料、Pro は有料）。
 
 ## 公式の設定でできること
 - TikTok の［Sleep hours］：［プロフィール］→［メニュー］→［Settings and privacy］→［Time and well-being］→［Screen time］にあります。寝る時間になるとプッシュ通知を止めて休憩をすすめますが、TikTok は開いたまま見られます。
@@ -13,9 +13,9 @@
 
 ## 限界
 - 「おすすめ」が消えるのは minulo の中だけです。
-- minulo が公式アプリを止めている間は、その通知は届かず、minulo が代わりに通知を送ることもありません。
+- iPhone では、minulo が公式アプリを止めている間は、その通知は届かず、minulo が代わりに届けることもありません。Android では、止めたアプリを開いたときに minulo の画面が上に出るだけなので、そのアプリの通知は届きます。
 - 自分で決めたパスコードは、眠いときでも自分で外せてしまいます。ほかの人に決めてもらうほうが続きます。
-- 医療的な助言ではありません。minulo の Android 版はまだありません。
+- 医療的な助言ではありません。minulo は iPhone と Android で使え、Mac 版もあります。
 
 出典：https://minulo.app/stop-scrolling-tiktok-at-night.html（2026-11-04 確認）
 

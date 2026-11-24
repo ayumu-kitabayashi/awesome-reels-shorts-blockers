@@ -24,7 +24,7 @@ No. Reels and Shorts are hidden only while you use Instagram and YouTube inside 
 You can set the Shorts feed limit to 0 minutes for free, but an adult account can turn it off again.
 
 ### Is there an Android version?
-No. minulo is iPhone only, with a Mac version for Safari and Chrome.
+Yes. minulo is on [Google Play](https://play.google.com/store/apps/details?id=app.feedminus) for Android, and there's also a Mac version for Safari and Chrome.
 
 More detail: [Best free iPhone app to hide Reels and Shorts but keep DMs](https://minulo.app/en/free-reels-blocker.html?ref=github-en-freeapp-1116)
 

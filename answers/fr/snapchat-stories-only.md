@@ -15,8 +15,8 @@ Pas avec un réglage Snapchat : l'aide de Snapchat indique qu'on ne peut pas dé
 
 ## Limites
 - L'app officielle Snapchat ne change pas, et Snapchat est marqué BETA dans minulo.
-- Tant que minulo verrouille l'app officielle, ses notifications n'arrivent pas, et minulo n'en envoie aucune.
-- minulo existe sur iPhone et sur Mac (Safari et Chrome), pas sur Android.
+- Sur iPhone, tant que minulo verrouille l'app officielle, ses notifications n'arrivent pas. Sur Android, minulo affiche seulement son propre écran par-dessus l'app bloquée quand vous l'ouvrez, donc ses notifications continuent d'arriver.
+- minulo fonctionne sur iPhone et Android, et il existe aussi une app Mac (Safari et Chrome).
 
 Source : https://minulo.app/fr/snapchat-stories-only.html (vérifié le 2026-11-04)
 

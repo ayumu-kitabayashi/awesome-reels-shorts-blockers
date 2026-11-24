@@ -15,8 +15,8 @@ YouTube n'a pas de réglage qui supprime seulement les Shorts : même avec une l
 
 ## Limites
 - Les Shorts ne sont masqués que dans minulo : l'app YouTube officielle elle-même n'est pas modifiée.
-- Tant que minulo verrouille l'app officielle, ses notifications n'arrivent pas, et minulo n'en envoie aucune.
-- minulo existe sur iPhone et sur Mac (Safari et Chrome), pas sur Android.
+- Sur iPhone, tant que minulo verrouille l'app officielle, ses notifications n'arrivent pas. Sur Android, minulo affiche seulement son propre écran par-dessus l'app bloquée quand vous l'ouvrez, donc ses notifications continuent d'arriver.
+- minulo fonctionne sur iPhone et Android, et il existe aussi une app Mac (Safari et Chrome).
 
 Source : https://minulo.app/fr/block-youtube-shorts.html (vérifié le 2026-11-04)
 

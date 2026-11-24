@@ -1,6 +1,6 @@
 # How do I turn off Reels on Facebook?
 
-You can't with a setting: we found none in Facebook's help, and since September 2025 every video on Facebook is a reel. minulo is the iPhone app that opens Facebook with Reels and Watch hidden while messages keep working; hiding is free, and minulo Pro is optional and paid.
+You can't with a setting: we found none in Facebook's help, and since September 2025 every video on Facebook is a reel. minulo is the app for iPhone and Android that opens Facebook with Reels and Watch hidden while messages keep working; hiding is free, and minulo Pro is optional and paid.
 
 ## What the built-in settings do
 - On a reel, More › Not Interested shows fewer similar reels. Facebook says the effect builds slowly and fades.
@@ -17,8 +17,8 @@ You can't with a setting: we found none in Facebook's help, and since September 
 ## Limits
 - minulo can't change the official Facebook app, so Reels are hidden only inside minulo.
 - Locking the official app is free for up to 2 hours per block. A nightly schedule is part of Pro.
-- While minulo locks an official app, its notifications don't arrive. Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Focus time in Work mode or after the daily limit.
-- There is no Android or iPad version.
+- On iPhone, while minulo locks an official app, its notifications don't arrive. Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Focus time in Work mode or after the daily limit. On Android, minulo only puts its own screen over a blocked app when you open it, so that app's notifications still arrive.
+- minulo works on iPhone and Android, and there's a Mac app too. There's no iPad version.
 
 Source: https://minulo.app/en/facebook-reels-off.html (checked 2026-11-03)
 

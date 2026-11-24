@@ -22,7 +22,7 @@ SocialLite has far more ratings, and it sends push notifications for Instagram a
 Ten: Instagram, YouTube, TikTok, X, Threads, Facebook, Pinterest, Reddit, LinkedIn and Snapchat.
 
 ### Are there limits?
-minulo can't change the official apps, so the hiding happens only inside minulo. It is iPhone only (plus a Mac version for Safari and Chrome), with no Android version.
+minulo can't change the official apps, so the hiding happens only inside minulo. It works on iPhone and Android, plus a Mac version for Safari and Chrome.
 
 More detail: [SocialLite alternatives for iPhone](https://minulo.app/en/sociallite-alternatives.html?ref=github-en-sociallite-1116)
 

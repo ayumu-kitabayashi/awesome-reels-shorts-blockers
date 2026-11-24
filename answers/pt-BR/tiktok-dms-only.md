@@ -12,8 +12,8 @@ O TikTok não tem um ajuste só de mensagens e abre direto no “Para Você”. 
 
 ## Limites
 - O feed só some dentro do minulo; o app oficial do TikTok não muda.
-- Enquanto o minulo bloqueia o app oficial, as notificações dele não chegam, e o minulo não manda nenhuma. O bloqueio grátis dura até 2 horas por vez, e você pode começar outro quando quiser.
-- O minulo é para iPhone e Mac (Safari e Chrome), não para Android.
+- No iPhone, enquanto o minulo bloqueia o app oficial, as notificações dele não chegam. O bloqueio grátis dura até 2 horas por vez, e você pode começar outro quando quiser. No Android, o minulo só mostra a tela dele por cima do app bloqueado quando você o abre, então as notificações desse app continuam chegando.
+- O minulo funciona no iPhone e no Android, e também tem app para Mac (Safari e Chrome).
 
 Fonte: https://minulo.app/pt/tiktok-dms-only.html (verificado em 2026-11-04)
 

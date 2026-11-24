@@ -21,7 +21,7 @@
 集めません。名前、メールアドレス、位置情報、広告識別子は取らず、広告 SDK も入っていません。他社のアプリやサイトをまたいだ追跡もしません。
 
 ### 公式のインスタアプリに何か変更が入りますか？
-入りません。iPhone ではほかのアプリの表示を変えられないので、リールやショートが消えるのは minulo の中で SNS を開いたときだけです。minulo は iPhone と Mac（Safari と Chrome）で使え、Android 版はありません。
+入りません。iPhone ではほかのアプリの表示を変えられないので、リールやショートが消えるのは minulo の中で SNS を開いたときだけです。minulo は iPhone と Android で使え、Mac 版（Safari と Chrome）もあります。
 
 くわしく：[minulo は安全？見えるもの・見えないもの・できないこと](https://minulo.app/is-minulo-safe.html?ref=github-ja-safe-1116)
 

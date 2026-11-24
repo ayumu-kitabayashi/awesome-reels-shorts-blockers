@@ -26,7 +26,7 @@ Só com o Tempo de Uso, não, porque ele bloqueia o app inteiro. Enquanto o minu
 Tem. O Repouso, o Foco Sono, os tons de cinza e o limite do feed de Shorts do YouTube vêm no iPhone ou no app. No minulo, esconder Reels e Shorts é grátis, e bloquear os apps oficiais também, por até 2 horas por vez.
 
 ### O minulo funciona no Android?
-Não. O minulo é para iPhone e Mac.
+Sim. O minulo está no [Google Play](https://play.google.com/store/apps/details?id=app.feedminus) para Android e também tem app para Mac.
 
 Mais detalhes: [Como parar de ver Reels e Shorts à noite no iPhone](https://minulo.app/pt/stop-doomscrolling-at-night.html?ref=github-pt-night-1116)
 

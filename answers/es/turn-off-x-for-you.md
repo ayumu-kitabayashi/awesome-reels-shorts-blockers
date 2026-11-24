@@ -13,8 +13,8 @@ En la ayuda de X no hemos encontrado ningún ajuste que quite Para ti (octubre d
 
 ## Límites
 - Para ti solo se oculta dentro de minulo; la app oficial de X no cambia.
-- Mientras minulo bloquea la app oficial, no llegan sus notificaciones.
-- minulo es para iPhone y Mac (Safari y Chrome), no para Android.
+- En el iPhone, mientras minulo bloquea la app oficial, sus notificaciones no llegan. En Android, minulo solo muestra su propia pantalla encima de la app bloqueada cuando la abres, así que sus notificaciones siguen llegando.
+- minulo funciona en iPhone y Android, y también tiene app para Mac (Safari y Chrome).
 
 Fuente: https://minulo.app/es/turn-off-x-for-you.html (comprobado el 2026-11-04)
 

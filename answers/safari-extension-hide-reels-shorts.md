@@ -1,6 +1,6 @@
 # Is there a Safari extension that hides Instagram Reels and YouTube Shorts on iPhone?
 
-Yes, several, and they work only on websites you open in Safari, not in the Instagram or YouTube apps. minulo is the iPhone app (not a Safari extension) that hides Reels and Shorts inside its own app and can lock the official apps; hiding is free, and minulo Pro is optional and paid.
+Yes, several, and they work only on websites you open in Safari, not in the Instagram or YouTube apps. minulo is the app for iPhone and Android (not a Safari extension) that hides Reels and Shorts inside its own app and can lock the official apps; hiding is free, and minulo Pro is optional and paid.
 
 ## What the built-in settings do
 - Safari: page menu › Manage Extensions to find one, then Settings › Apps › Safari › Extensions › Allow Extension.
@@ -18,8 +18,8 @@ Yes, several, and they work only on websites you open in Safari, not in the Inst
 ## Limits
 - minulo can't change the official apps either; it hides feeds only inside minulo.
 - Locking the official app is free for up to 2 hours per block. A nightly schedule is part of Pro.
-- While minulo locks an official app, its notifications don't arrive. Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Focus time in Work mode or after the daily limit.
-- There is no Android version.
+- On iPhone, while minulo locks an official app, its notifications don't arrive. Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Focus time in Work mode or after the daily limit. On Android, minulo only puts its own screen over a blocked app when you open it, so that app's notifications still arrive.
+- minulo works on iPhone and Android ([Google Play](https://play.google.com/store/apps/details?id=app.feedminus)), and there's a Mac app too.
 
 Source: https://minulo.app/en/safari-extensions-hide-reels-shorts.html (checked 2026-11-03)
 

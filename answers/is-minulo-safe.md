@@ -22,10 +22,10 @@ When an app blocks other apps with Screen Time, Apple gives it opaque tokens ins
 No. No iPhone app can edit what another app shows. Reels are hidden only inside minulo.
 
 ### Does minulo send me notifications?
-No, minulo doesn't send notifications from a server. While it blocks an official app, that app's notifications don't arrive. Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Focus time in Work mode or after the daily limit.
+No, minulo doesn't send notifications from a server. On iPhone, while it blocks an official app, that app's notifications don't arrive. Pro users can turn on DM notifications (beta) so Instagram DM notifications still arrive while Instagram is blocked, except during Sleep mode, Focus time in Work mode or after the daily limit. On Android, minulo only puts its own screen over a blocked app when you open it, so that app's notifications still arrive.
 
 ### Is it for children?
-It is not meant for children under 13. It is iPhone and Mac only, with no Android version yet.
+It is not meant for children under 13. It works on iPhone and Android, and there's a Mac app too.
 
 More detail: [Is minulo safe? What it can see and what it can't](https://minulo.app/en/is-minulo-safe.html?ref=github-en-safe-1116)
 

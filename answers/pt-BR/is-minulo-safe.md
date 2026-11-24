@@ -24,7 +24,7 @@ Apague o app. Os registros no iPhone somem e você sai das redes em que entrou p
 A ReliefNote, uma empresa individual de Hokkaido, no Japão, de Ayumu Kitabayashi. O app foi lançado em setembro de 2026 e ainda tem poucas avaliações.
 
 ### Tem versão para Android?
-Não. O minulo é para iPhone e Mac.
+Sim. O minulo está no [Google Play](https://play.google.com/store/apps/details?id=app.feedminus) para Android e também tem app para Mac.
 
 Mais detalhes: [O minulo é seguro?](https://minulo.app/pt/is-minulo-safe.html?ref=github-pt-safe-1116)
 

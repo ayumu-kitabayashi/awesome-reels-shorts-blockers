@@ -16,8 +16,8 @@ Não encontramos na ajuda do Snapchat um ajuste que remova a aba Spotlight ou de
 
 ## Limites
 - O Spotlight só fica escondido dentro do minulo; o app oficial do Snapchat não muda.
-- Enquanto o minulo bloqueia o app oficial, as notificações dele não chegam. Bloqueie só quando puder ficar sem elas, por exemplo na hora de estudar ou à noite.
-- O minulo não tem versão para Android.
+- No iPhone, enquanto o minulo bloqueia o app oficial, as notificações dele não chegam. Bloqueie só quando puder ficar sem elas, por exemplo na hora de estudar ou à noite. No Android, o minulo só mostra a tela dele por cima do app bloqueado quando você o abre, então as notificações desse app continuam chegando.
+- O minulo funciona no iPhone e no Android, e também tem app para Mac.
 
 Fonte: https://minulo.app/pt/turn-off-snapchat-spotlight.html (verificado em 2026-11-04)
 
